@@ -112,13 +112,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Build Your Vision",
-    "url": "https://build-your-vision.devpost.com/",
-    "start_date": "May 07 - 20, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "BuildSmthHackathon",
     "url": "https://buildsmthhackathon.devpost.com/",
     "start_date": "May 09, 2026",
@@ -158,6 +151,13 @@
     "url": "https://codecon-universe-26.devpost.com/",
     "start_date": "May 29 - 31, 2026",
     "location": "Discord",
+    "source": "Devpost"
+  },
+  {
+    "title": "CodeSprint with Gemini",
+    "url": "https://codesprint-with-gemini.devpost.com/",
+    "start_date": "May 23 - 25, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -280,6 +280,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Global Tech Innovation 2026",
+    "url": "https://global-tech-innovation-2026.devpost.com/",
+    "start_date": "Jun 10 - 30, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "GreenCode Hackathon",
     "url": "https://greencode-hackathon.devpost.com/",
     "start_date": "May 30, 2026",
@@ -291,6 +298,20 @@
     "url": "https://hack-days-ankara.devpost.com/",
     "start_date": "May 20, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hack Days Guwahati",
+    "url": "https://hack-days-guwahati.devpost.com/",
+    "start_date": "May 08 - 09, 2026",
+    "location": "Assam Don Bosco University",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hack Days in Bhopal",
+    "url": "https://hack-days-in-bhopal-29987.devpost.com/",
+    "start_date": "May 31, 2026",
+    "location": "Main Auditorium - Oriental College",
     "source": "Devpost"
   },
   {
@@ -375,6 +396,13 @@
     "url": "https://hackmhs-xi.devpost.com/",
     "start_date": "May 29 - 30, 2026",
     "location": "Millburn High School",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hacknight Bengaluru: Build AI Agents",
+    "url": "https://hacknight-elk-aws.devpost.com/",
+    "start_date": "May 09, 2026",
+    "location": "Elastic Technologies Private Limited",
     "source": "Devpost"
   },
   {
@@ -483,16 +511,16 @@
     "source": "Devpost"
   },
   {
-    "title": "OneAquaHealth IEEE Global Hackathon",
-    "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
-    "start_date": "Sep 14 - Oct 01, 2026",
-    "location": "Online",
+    "title": "NJx Hackathon Summer 2026",
+    "url": "https://njx-hackathon-summer-2026.devpost.com/",
+    "start_date": "Jun 20 - 21, 2026",
+    "location": "Montgomery Innovation Hub",
     "source": "Devpost"
   },
   {
-    "title": "Pacific Portal XR",
-    "url": "https://pacific-portal-xr-hack.devpost.com/",
-    "start_date": "May 07 - 09, 2026",
+    "title": "OneAquaHealth IEEE Global Hackathon",
+    "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
+    "start_date": "Sep 14 - Oct 01, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -518,10 +546,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Real World AI Agents",
-    "url": "https://real-world-ai-agents.devpost.com/",
-    "start_date": "May 07 - 09, 2026",
-    "location": "BINUS University @Alam Sutera",
+    "title": "Quick with Gemini",
+    "url": "https://quick-with-gemini.devpost.com/",
+    "start_date": "May 15 - 17, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -543,13 +571,6 @@
     "url": "https://southwest-mn-hacks.devpost.com/",
     "start_date": "Sep 12 - 13, 2026",
     "location": "Upper conference center",
-    "source": "Devpost"
-  },
-  {
-    "title": "Spiti-AI Hackathon",
-    "url": "https://spitiaihackathon.devpost.com/",
-    "start_date": "May 07 - 14, 2026",
-    "location": "Spiti",
     "source": "Devpost"
   },
   {
