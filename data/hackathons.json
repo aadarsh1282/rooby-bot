@@ -56,13 +56,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Build for the Border - Immigrant Hackathon NYC",
-    "url": "https://immigrant-hack-nyc.devpost.com/",
-    "start_date": "May 09, 2026",
-    "location": "Soma Capital",
-    "source": "Devpost"
-  },
-  {
     "title": "Build It Break It 2026",
     "url": "https://bibi-2026.devpost.com/",
     "start_date": "May 10 - 11, 2026",
@@ -98,24 +91,10 @@
     "source": "Devpost"
   },
   {
-    "title": "BuildSmthHackathon",
-    "url": "https://buildsmthhackathon.devpost.com/",
-    "start_date": "May 09, 2026",
-    "location": "Soda",
-    "source": "Devpost"
-  },
-  {
     "title": "Caltech Longevity Hackathon 2026",
     "url": "https://caltechlongevity.devpost.com/",
     "start_date": "May 23 - 24, 2026",
     "location": "Caltech Longevity Club",
-    "source": "Devpost"
-  },
-  {
-    "title": "Claude Builders Club @ UC San Diego Hackathon",
-    "url": "https://cbc-ucsd-hackathon.devpost.com/",
-    "start_date": "May 09, 2026",
-    "location": "The Lodge in Sixth College",
     "source": "Devpost"
   },
   {
@@ -259,13 +238,6 @@
     "source": "Devpost"
   },
   {
-    "title": "GDG Hacks 3",
-    "url": "https://gdg-hacks-3.devpost.com/",
-    "start_date": "May 09 - 10, 2026",
-    "location": "University of Guelph",
-    "source": "Devpost"
-  },
-  {
     "title": "Give It a Face - Design × Dev Hackathon",
     "url": "https://future-of-nyc-design-hackathon.devpost.com/",
     "start_date": "May 16, 2026",
@@ -322,13 +294,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hack2Dawn",
-    "url": "https://hack2dawn.devpost.com/",
-    "start_date": "May 09, 2026",
-    "location": "Tecnológico de Monterrey",
-    "source": "Devpost"
-  },
-  {
     "title": "Hack4Her 2026",
     "url": "https://hack4her-mty.devpost.com/",
     "start_date": "Jun 06 - 07, 2026",
@@ -340,13 +305,6 @@
     "url": "https://hackabury-2026.devpost.com/",
     "start_date": "Jun 01 - 02, 2026",
     "location": "Verena Holmes Building",
-    "source": "Devpost"
-  },
-  {
-    "title": "HackDavis 2026",
-    "url": "https://hackdavis-2026.devpost.com/",
-    "start_date": "May 09 - 10, 2026",
-    "location": "University Credit Union Center",
     "source": "Devpost"
   },
   {
@@ -427,13 +385,6 @@
     "source": "Devpost"
   },
   {
-    "title": "KentHackIt",
-    "url": "https://kenthackit.devpost.com/",
-    "start_date": "May 09 - 10, 2026",
-    "location": "University of Kent - Kennedy Building",
-    "source": "Devpost"
-  },
-  {
     "title": "Knight Hacks IX: Into the Enchanted Forest!",
     "url": "https://knight-hacks-ix.devpost.com/",
     "start_date": "Oct 09 - 11, 2026",
@@ -459,13 +410,6 @@
     "url": "https://marinhacks.devpost.com/",
     "start_date": "Aug 02, 2026",
     "location": "Marin Catholic High School",
-    "source": "Devpost"
-  },
-  {
-    "title": "MasseyHacks XII",
-    "url": "https://masseyhacks12.devpost.com/",
-    "start_date": "May 09 - 10, 2026",
-    "location": "Vincent Massey Secondary School",
     "source": "Devpost"
   },
   {
@@ -536,13 +480,6 @@
     "url": "https://project-stellar.devpost.com/",
     "start_date": "Jun 05 - 06, 2026",
     "location": "Moscrop Secondary School",
-    "source": "Devpost"
-  },
-  {
-    "title": "Quick with Gemini",
-    "url": "https://quick-with-gemini.devpost.com/",
-    "start_date": "May 15 - 17, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -655,6 +592,13 @@
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "May 24, 2026",
     "location": "South Plainfield Library",
+    "source": "Devpost"
+  },
+  {
+    "title": "Virtual Dreams 2026",
+    "url": "https://virtual-dreams-2026.devpost.com/",
+    "start_date": "May 16 - 30, 2026",
+    "location": "Seattle Immersive Media Lab",
     "source": "Devpost"
   },
   {
