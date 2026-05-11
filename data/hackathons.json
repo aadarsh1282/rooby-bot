@@ -21,13 +21,6 @@
     "source": "Devpost"
   },
   {
-    "title": "ALI Builds Hackathon",
-    "url": "https://ali-hackathon.devpost.com/",
-    "start_date": "May 10 - 11, 2026",
-    "location": "Chicago Booth Harper Center - Room 104",
-    "source": "Devpost"
-  },
-  {
     "title": "BeanHacks",
     "url": "https://beanhacks.devpost.com/",
     "start_date": "Jun 30 - Jul 01, 2026",
@@ -53,13 +46,6 @@
     "url": "https://brewing-codes-4-0.devpost.com/",
     "start_date": "Mar 12 - 27, 2028",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Build It Break It 2026",
-    "url": "https://bibi-2026.devpost.com/",
-    "start_date": "May 10 - 11, 2026",
-    "location": "Google Playa Vista Campus",
     "source": "Devpost"
   },
   {
@@ -151,13 +137,6 @@
     "url": "https://cursor-hackathon-ttw.devpost.com/",
     "start_date": "May 27, 2026",
     "location": "BrainStation",
-    "source": "Devpost"
-  },
-  {
-    "title": "Cursor Hackathon Vancouver",
-    "url": "https://cursor-hackathon-vancouver.devpost.com/",
-    "start_date": "May 10, 2026",
-    "location": "Tech Collider BCIT",
     "source": "Devpost"
   },
   {
@@ -448,13 +427,6 @@
     "source": "Devpost"
   },
   {
-    "title": "North Carolina FidHacks 2026",
-    "url": "https://north-carolina-fidhacks-2026.devpost.com/",
-    "start_date": "May 11 - 12, 2026",
-    "location": "Fidelity Investments",
-    "source": "Devpost"
-  },
-  {
     "title": "OneAquaHealth IEEE Global Hackathon",
     "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
     "start_date": "Sep 14 - Oct 01, 2026",
@@ -500,20 +472,6 @@
     "title": "Splunk Agentic Ops Hackathon",
     "url": "https://splunk.devpost.com/",
     "start_date": "May 18 - Jun 15, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "SS Hacker Team Cybersecurity GLOBAL Challenge 2026",
-    "url": "https://sshackerteamglobal.devpost.com/",
-    "start_date": "May 10 - 25, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Stanford & The Ivy X Andover & Exeter Hackathon",
-    "url": "https://stanford-ivy-x-andover-exeter.devpost.com/",
-    "start_date": "May 11 - 18, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -670,34 +628,6 @@
     "description": "Hackeroos Mental Health Buildathon in early 2026 with notable mental health orgs. Dates coming soon. Sponsors can reach out at hello@hackeroos.com.au."
   },
   {
-    "title": "Barcelona , Barcelona INTERHACK BCN",
-    "url": "https://www.interhackbcn.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=INTERHACK+BCN",
-    "start_date": "MAY 09 - 10",
-    "location": "Barcelona, Barcelona, ES In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Bengaluru , Karnataka NMIT Hacks",
-    "url": "https://nmithacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=NMIT+Hacks+",
-    "start_date": "MAY 08 - 10",
-    "location": "Bengaluru, Karnataka, IN In-Person DIVERSITY",
-    "source": "MLH"
-  },
-  {
-    "title": "Canterbury , Kent KentHackIt",
-    "url": "https://www.kenthackit.co.uk/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=KentHackIt",
-    "start_date": "MAY 09 - 10",
-    "location": "Canterbury, Kent, GB In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Davis , California",
-    "url": "https://hackdavis.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackDavis+2026+Hackathon",
-    "start_date": "HackDavis 20",
-    "location": "26 Hackathon MAY 09 - 10 Davis, California, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Eugene , Oregon Q",
     "url": "https://www.quackhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Quackhacks+3",
     "start_date": "uackhacks 3",
@@ -751,13 +681,6 @@
     "url": "https://jamhacks.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=JAMHacks+10",
     "start_date": "JAMHacks 10",
     "location": "JUN 12 - 14 Waterloo, Ontario, CA In-Person HIGH SCHOOL",
-    "source": "MLH"
-  },
-  {
-    "title": "Windsor , Ontario MasseyHacks",
-    "url": "https://masseyhacks.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=MasseyHacks",
-    "start_date": "MAY 09 - 10",
-    "location": "Windsor, Ontario, CA In-Person HIGH SCHOOL",
     "source": "MLH"
   }
 ]
