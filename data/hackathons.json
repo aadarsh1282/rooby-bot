@@ -14,6 +14,13 @@
     "source": "Devpost"
   },
   {
+    "title": "AI For Good Hackathon",
+    "url": "https://ai-osu-hackathon.devpost.com/",
+    "start_date": "May 16 - 22, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "AI for Learning & Development Build Challenge — AI Collective HR + Regent",
     "url": "https://ai-challenge-regent-aichr.devpost.com/",
     "start_date": "Jun 04 - 18, 2026",
@@ -30,7 +37,7 @@
   {
     "title": "AlchemiHack",
     "url": "https://alchemihack.devpost.com/",
-    "start_date": "May 15 - 22, 2026",
+    "start_date": "May 17 - 20, 2026",
     "location": "Piazza",
     "source": "Devpost"
   },
@@ -53,6 +60,13 @@
     "url": "https://8-blairhacks.devpost.com/",
     "start_date": "May 23 - 25, 2026",
     "location": "Location Pending",
+    "source": "Devpost"
+  },
+  {
+    "title": "Blockstream Turin Simplicity Hackathon",
+    "url": "https://simplicity-turin.devpost.com/",
+    "start_date": "May 17, 2026",
+    "location": "Blox Space",
     "source": "Devpost"
   },
   {
@@ -385,6 +399,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Kane CLI Hack Day",
+    "url": "https://kane-cli-hack-day.devpost.com/",
+    "start_date": "May 30, 2026",
+    "location": "TestMu AI (formerly LambdaTest) Office",
+    "source": "Devpost"
+  },
+  {
     "title": "Knight Hacks IX",
     "url": "https://knight-hacks-ix.devpost.com/",
     "start_date": "Oct 09 - 11, 2026",
@@ -416,6 +437,13 @@
     "title": "Mega Agent-A-Thon",
     "url": "https://mega-agent-a-thon.devpost.com/",
     "start_date": "Jun 04 - 14, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Midnight Hackathon",
+    "url": "https://midnight-hackathon-2026.devpost.com/",
+    "start_date": "May 15 - 17, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -539,6 +567,20 @@
     "source": "Devpost"
   },
   {
+    "title": "TritonHacks 26",
+    "url": "https://tritonhacks-26.devpost.com/",
+    "start_date": "May 16 - 17, 2026",
+    "location": "UC San Diego",
+    "source": "Devpost"
+  },
+  {
+    "title": "Uncommon Hacks 2026",
+    "url": "https://uncommon-hacks-2026.devpost.com/",
+    "start_date": "May 16 - 17, 2026",
+    "location": "Polsky Exchange North",
+    "source": "Devpost"
+  },
+  {
     "title": "United Hacks V7",
     "url": "https://unitedhacksv7.devpost.com/",
     "start_date": "Jul 10 - 12, 2026",
@@ -585,13 +627,6 @@
     "url": "https://vshacks-2026.devpost.com/",
     "start_date": "Jul 11 - 12, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Web Summit Vancouver Hackathon",
-    "url": "https://van26-hack.devpost.com/",
-    "start_date": "May 14, 2026",
-    "location": "Vancouver Convention Centre",
     "source": "Devpost"
   },
   {
@@ -653,13 +688,6 @@
     "url": "https://www.quackhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Quackhacks+3",
     "start_date": "uackhacks 3",
     "location": "MAY 30 - 31 Eugene, Oregon, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Global Hack Week: GenAI",
-    "url": "https://events.mlh.io/events/13816-global-hack-week-genai?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+GenAI",
-    "start_date": "MAY 08 - 14",
-    "location": "Everywhere, Worldwide Digital",
     "source": "MLH"
   },
   {
