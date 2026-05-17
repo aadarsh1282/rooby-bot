@@ -21,13 +21,6 @@
     "source": "Devpost"
   },
   {
-    "title": "AI For Good Hackathon",
-    "url": "https://ai-osu-hackathon.devpost.com/",
-    "start_date": "May 16 - 22, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "AI for Learning & Development Build Challenge — AI Collective HR + Regent",
     "url": "https://ai-challenge-regent-aichr.devpost.com/",
     "start_date": "Jun 04 - 18, 2026",
@@ -35,24 +28,10 @@
     "source": "Devpost"
   },
   {
-    "title": "AI Forecasting Hackathon",
-    "url": "https://prophethacks.devpost.com/",
-    "start_date": "May 16 - 17, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "AI Product Strategy Hackathon + Masterclass",
     "url": "https://mixpanel-london-may26.devpost.com/",
     "start_date": "May 19, 2026",
     "location": "The Dock @ Tide Bankside",
-    "source": "Devpost"
-  },
-  {
-    "title": "AlchemiHack",
-    "url": "https://alchemihack.devpost.com/",
-    "start_date": "May 17 - 20, 2026",
-    "location": "Piazza",
     "source": "Devpost"
   },
   {
@@ -67,13 +46,6 @@
     "url": "https://8-blairhacks.devpost.com/",
     "start_date": "May 23 - 25, 2026",
     "location": "Location Pending",
-    "source": "Devpost"
-  },
-  {
-    "title": "Blockstream Turin Simplicity Hackathon",
-    "url": "https://simplicity-turin.devpost.com/",
-    "start_date": "May 17, 2026",
-    "location": "Blox Space",
     "source": "Devpost"
   },
   {
@@ -196,13 +168,6 @@
     "source": "Devpost"
   },
   {
-    "title": "DesignVerse 2026",
-    "url": "https://designverse-2026.devpost.com/",
-    "start_date": "May 16 - 17, 2026",
-    "location": "Winston Chung Hall",
-    "source": "Devpost"
-  },
-  {
     "title": "DeveloperWeek New York 2026 Hackathon",
     "url": "https://dwny-2026-hackathon.devpost.com/",
     "start_date": "May 25 - Jun 10, 2026",
@@ -297,7 +262,14 @@
     "title": "Hack Days Unnao",
     "url": "https://hack-days-unnao.devpost.com/",
     "start_date": "Jun 12 - 13, 2026",
-    "location": "Kanpur-Lucknow Highway,Gadan Khera",
+    "location": "Kanpur-Lucknow Highway, Nawabganj",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hack Days Varanasi",
+    "url": "https://hack-days-varanasi.devpost.com/",
+    "start_date": "Jun 10, 2026",
+    "location": "BHU",
     "source": "Devpost"
   },
   {
@@ -396,13 +368,6 @@
     "url": "https://hoya-hacks-2027.devpost.com/",
     "start_date": "Jan 22 - 24, 2027",
     "location": "Healey Family Student Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "Imagine_BGKY",
-    "url": "https://imaginebgky.devpost.com/",
-    "start_date": "May 16, 2026",
-    "location": "WKU Innovation Campus",
     "source": "Devpost"
   },
   {
@@ -518,20 +483,6 @@
     "source": "Devpost"
   },
   {
-    "title": "SCU Hack-a-Stack - Endurance Track",
-    "url": "https://scu-hack-a-stack-endurance.devpost.com/",
-    "start_date": "May 16 - 17, 2026",
-    "location": "Heafey Hall Atrium",
-    "source": "Devpost"
-  },
-  {
-    "title": "SCU Hack-a-Stack - Sprint Track",
-    "url": "https://scu-hack-a-stack-sprint.devpost.com/",
-    "start_date": "May 16, 2026",
-    "location": "Heafey Hall - Atrium",
-    "source": "Devpost"
-  },
-  {
     "title": "Shower Hacks",
     "url": "https://showerhacks.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
@@ -602,17 +553,10 @@
     "source": "Devpost"
   },
   {
-    "title": "TritonHacks 26",
-    "url": "https://tritonhacks-26.devpost.com/",
-    "start_date": "May 16 - 17, 2026",
-    "location": "UC San Diego",
-    "source": "Devpost"
-  },
-  {
-    "title": "Uncommon Hacks 2026",
-    "url": "https://uncommon-hacks-2026.devpost.com/",
-    "start_date": "May 16 - 17, 2026",
-    "location": "Polsky Exchange North",
+    "title": "Unihack x Innovation Fest Hackathon",
+    "url": "https://unihack-x-innovation-fest.devpost.com/",
+    "start_date": "May 18 - 19, 2026",
+    "location": "Birmingham City University - Curzon",
     "source": "Devpost"
   },
   {
@@ -644,24 +588,10 @@
     "source": "Devpost"
   },
   {
-    "title": "VenusHacks 2026",
-    "url": "https://venushacks-2026.devpost.com/",
-    "start_date": "May 16 - 17, 2026",
-    "location": "Irvine, CA, USA",
-    "source": "Devpost"
-  },
-  {
     "title": "Vibe Code Animated Maps",
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "May 24, 2026",
     "location": "South Plainfield Library",
-    "source": "Devpost"
-  },
-  {
-    "title": "Virtual Dreams 2026",
-    "url": "https://virtual-dreams-2026.devpost.com/",
-    "start_date": "May 16 - 30, 2026",
-    "location": "Seattle Immersive Media Lab",
     "source": "Devpost"
   },
   {
