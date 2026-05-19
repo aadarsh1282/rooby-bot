@@ -1,5 +1,12 @@
 [
   {
+    "title": "2026 ERHS Hackathon",
+    "url": "https://erhs-hackathon.devpost.com/",
+    "start_date": "May 19, 2026",
+    "location": "Eleanor Roosevelt High School",
+    "source": "Devpost"
+  },
+  {
     "title": "757 BLD WKND 2026 2.0",
     "url": "https://757-bld-wknd-2026-2-0.devpost.com/",
     "start_date": "Jul 17 - 19, 2026",
@@ -28,13 +35,6 @@
     "source": "Devpost"
   },
   {
-    "title": "AI Product Strategy Hackathon + Masterclass",
-    "url": "https://mixpanel-london-may26.devpost.com/",
-    "start_date": "May 19, 2026",
-    "location": "The Dock @ Tide Bankside",
-    "source": "Devpost"
-  },
-  {
     "title": "BeanHacks",
     "url": "https://beanhacks.devpost.com/",
     "start_date": "Jun 30 - Jul 01, 2026",
@@ -46,20 +46,6 @@
     "url": "https://8-blairhacks.devpost.com/",
     "start_date": "May 23 - 25, 2026",
     "location": "Location Pending",
-    "source": "Devpost"
-  },
-  {
-    "title": "Box Box",
-    "url": "https://box-box.devpost.com/",
-    "start_date": "May 22 - 24, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "BrailleVision Hackathon",
-    "url": "https://braillevision-hackathon.devpost.com/",
-    "start_date": "May 31 - Jun 01, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -81,13 +67,6 @@
     "url": "https://build-with-ai-mlh-ahlen.devpost.com/",
     "start_date": "May 23, 2026",
     "location": "Initiative Bürgerzentrum Schuhfabrik e.V",
-    "source": "Devpost"
-  },
-  {
-    "title": "Build With AI Hack Days @DIU",
-    "url": "https://build-with-ai-hack-days-diu.devpost.com/",
-    "start_date": "May 19, 2026",
-    "location": "Daffodil International University",
     "source": "Devpost"
   },
   {
@@ -193,13 +172,6 @@
     "url": "https://easygo-mini-hackathon.devpost.com/",
     "start_date": "Jul 31 - Aug 01, 2026",
     "location": "Fortress Melbourne",
-    "source": "Devpost"
-  },
-  {
-    "title": "Eazo.ai Hackathon. Win $300K in CASH.",
-    "url": "https://eazo-ai-hackathon.devpost.com/",
-    "start_date": "May 23, 2026",
-    "location": "487 E Middlefield Rd",
     "source": "Devpost"
   },
   {
@@ -511,13 +483,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Splunk Agentic Ops Hackathon",
-    "url": "https://splunk.devpost.com/",
-    "start_date": "May 18 - Jun 15, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "STEMINATE HACKS 2026",
     "url": "https://steminate-hacks-2026.devpost.com/",
     "start_date": "Jun 07 - 13, 2026",
@@ -584,6 +549,13 @@
     "title": "USAII® Global AI Hackathon 2026",
     "url": "https://usaii-global-ai-hackathon-2026.devpost.com/",
     "start_date": "Jun 14 - 21, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "V1TROUS Hackathon",
+    "url": "https://v1trous-hackathon-30125.devpost.com/",
+    "start_date": "Jun 03 - 16, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -661,40 +633,5 @@
       "2026"
     ],
     "description": "Hackeroos Mental Health Buildathon in early 2026 with notable mental health orgs. Dates coming soon. Sponsors can reach out at hello@hackeroos.com.au."
-  },
-  {
-    "title": "Eugene , Oregon Q",
-    "url": "https://www.quackhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Quackhacks+3",
-    "start_date": "uackhacks 3",
-    "location": "MAY 30 - 31 Eugene, Oregon, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Houston , TX HackHCC",
-    "url": "https://hackhcc.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackHCC",
-    "start_date": "MAY 22 - 23",
-    "location": "Houston, TX, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Hyderabad , Telangana HackPrix",
-    "url": "https://s3.hackprix.tech/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackPrix+Season+3",
-    "start_date": "Season 3",
-    "location": "JUN 13 - 14 Hyderabad, Telangana, IN In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Montreal , Quebec MPC Hacks",
-    "url": "https://mpchacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=MPC+Hacks",
-    "start_date": "MAY 30 - 31",
-    "location": "Montreal, Quebec, CA In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Waterloo , Ontario",
-    "url": "https://jamhacks.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=JAMHacks+10",
-    "start_date": "JAMHacks 10",
-    "location": "JUN 12 - 14 Waterloo, Ontario, CA In-Person HIGH SCHOOL",
-    "source": "MLH"
   }
 ]
