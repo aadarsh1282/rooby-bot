@@ -1,12 +1,5 @@
 [
   {
-    "title": "2026 ERHS Hackathon",
-    "url": "https://erhs-hackathon.devpost.com/",
-    "start_date": "May 19, 2026",
-    "location": "Eleanor Roosevelt High School",
-    "source": "Devpost"
-  },
-  {
     "title": "757 BLD WKND 2026 2.0",
     "url": "https://757-bld-wknd-2026-2-0.devpost.com/",
     "start_date": "Jul 17 - 19, 2026",
@@ -87,13 +80,6 @@
     "title": "Code Crush 2026",
     "url": "https://code-crush-2026.devpost.com/",
     "start_date": "May 23 - 24, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "CodeBlue",
-    "url": "https://codeblue2026.devpost.com/",
-    "start_date": "Jun 04 - 06, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -221,13 +207,6 @@
     "url": "https://greencode-hackathon.devpost.com/",
     "start_date": "May 30, 2026",
     "location": "OpenWorks Coworking - Greenville",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack Days Ankara: Build with Gemini",
-    "url": "https://hack-days-ankara.devpost.com/",
-    "start_date": "May 20, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -441,6 +420,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Optimization Grand Challenge 2026",
+    "url": "https://ogc2026.devpost.com/",
+    "start_date": "May 24 - Jun 07, 2026",
+    "location": "LG CNS",
+    "source": "Devpost"
+  },
+  {
     "title": "Pixel Forge Jam #2 [Haunted Edition]",
     "url": "https://pixel-forge-jam-2.devpost.com/",
     "start_date": "Jun 27 - Jul 04, 2026",
@@ -529,6 +515,13 @@
     "url": "https://the-final-of-chapter-of-gdg.devpost.com/",
     "start_date": "May 25, 2026",
     "location": "Koni ,Bilaspur ,Chhattisgarh",
+    "source": "Devpost"
+  },
+  {
+    "title": "TillyHacks",
+    "url": "https://tillyhacks.devpost.com/",
+    "start_date": "May 30, 2026",
+    "location": "Chantilly High School",
     "source": "Devpost"
   },
   {
@@ -633,5 +626,40 @@
       "2026"
     ],
     "description": "Hackeroos Mental Health Buildathon in early 2026 with notable mental health orgs. Dates coming soon. Sponsors can reach out at hello@hackeroos.com.au."
+  },
+  {
+    "title": "Eugene , Oregon Q",
+    "url": "https://www.quackhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Quackhacks+3",
+    "start_date": "uackhacks 3",
+    "location": "MAY 30 - 31 Eugene, Oregon, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Houston , TX HackHCC",
+    "url": "https://hackhcc.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackHCC",
+    "start_date": "MAY 22 - 23",
+    "location": "Houston, TX, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Hyderabad , Telangana HackPrix",
+    "url": "https://s3.hackprix.tech/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackPrix+Season+3",
+    "start_date": "Season 3",
+    "location": "JUN 13 - 14 Hyderabad, Telangana, IN In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Montreal , Quebec MPC Hacks",
+    "url": "https://mpchacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=MPC+Hacks",
+    "start_date": "MAY 30 - 31",
+    "location": "Montreal, Quebec, CA In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Waterloo , Ontario",
+    "url": "https://jamhacks.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=JAMHacks+10",
+    "start_date": "JAMHacks 10",
+    "location": "JUN 12 - 14 Waterloo, Ontario, CA In-Person HIGH SCHOOL",
+    "source": "MLH"
   }
 ]
