@@ -14,6 +14,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Agentic Engineering Hack",
+    "url": "https://agentic-engineering-hack.devpost.com/",
+    "start_date": "May 23, 2026",
+    "location": "Datadog",
+    "source": "Devpost"
+  },
+  {
     "title": "AI for Campus: Build with MLH",
     "url": "https://ai-for-campus-build-with-mlh.devpost.com/",
     "start_date": "Jun 06, 2026",
@@ -67,6 +74,13 @@
     "url": "https://caltechlongevity.devpost.com/",
     "start_date": "May 23 - 24, 2026",
     "location": "Caltech Longevity Club",
+    "source": "Devpost"
+  },
+  {
+    "title": "Claude Builders Club Hackathon",
+    "url": "https://cbc-alu-spring-hackathon.devpost.com/",
+    "start_date": "May 28 - 29, 2026",
+    "location": "Kenya-Burundi, ALU Campus",
     "source": "Devpost"
   },
   {
@@ -175,10 +189,24 @@
     "source": "Devpost"
   },
   {
+    "title": "Evorozen Innovators Hackathon",
+    "url": "https://evorozen-innovators-hackathon.devpost.com/",
+    "start_date": "Jun 06, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Far Away",
     "url": "https://faraway.devpost.com/",
     "start_date": "Jun 01 - 25, 2026",
     "location": "Online&gt;Delhi India&gt;Japan",
+    "source": "Devpost"
+  },
+  {
+    "title": "FSF Case Conclave",
+    "url": "https://fsf-case-conclave.devpost.com/",
+    "start_date": "May 26 - 28, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -200,6 +228,13 @@
     "url": "https://global-tech-innovation-2026.devpost.com/",
     "start_date": "Jun 10 - 30, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Google Gemini at Acropolis",
+    "url": "https://google-gemini-at-acropolis.devpost.com/",
+    "start_date": "May 27 - 28, 2026",
+    "location": "AITR",
     "source": "Devpost"
   },
   {
@@ -562,7 +597,7 @@
   {
     "title": "Vibe Code Animated Maps",
     "url": "https://vibecode-animated-maps.devpost.com/",
-    "start_date": "May 24, 2026",
+    "start_date": "Jun 20, 2026",
     "location": "South Plainfield Library",
     "source": "Devpost"
   },
@@ -646,6 +681,13 @@
     "url": "https://s3.hackprix.tech/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackPrix+Season+3",
     "start_date": "Season 3",
     "location": "JUN 13 - 14 Hyderabad, Telangana, IN In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Monterrey , Nuevo Leon Hack4Her",
+    "url": "https://www.hack4her.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack4Her",
+    "start_date": "JUN 06 - 07",
+    "location": "Monterrey, Nuevo Leon, MX In-Person DIVERSITY",
     "source": "MLH"
   },
   {
