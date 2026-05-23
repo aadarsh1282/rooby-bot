@@ -1,16 +1,16 @@
 [
   {
+    "title": "1st Nature's Blueprint Ideathon 2026 !!",
+    "url": "https://naturesblueprint.devpost.com/",
+    "start_date": "May 27 - Jun 18, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "757 BLD WKND 2026 2.0",
     "url": "https://757-bld-wknd-2026-2-0.devpost.com/",
     "start_date": "Jul 17 - 19, 2026",
     "location": "Assembly Building",
-    "source": "Devpost"
-  },
-  {
-    "title": "[case]Hacks 2026",
-    "url": "https://casehacks-2026.devpost.com/",
-    "start_date": "May 22 - 24, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -44,7 +44,7 @@
   {
     "title": "BlairHacks 8",
     "url": "https://8-blairhacks.devpost.com/",
-    "start_date": "May 23 - 25, 2026",
+    "start_date": "Jun 26 - 27, 2026",
     "location": "Location Pending",
     "source": "Devpost"
   },
@@ -105,13 +105,6 @@
     "source": "Devpost"
   },
   {
-    "title": "CodeSprint with Gemini",
-    "url": "https://codesprint-with-gemini.devpost.com/",
-    "start_date": "May 23 - 25, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Cove Hacks",
     "url": "https://cove.devpost.com/",
     "start_date": "Jun 26 - 28, 2026",
@@ -140,13 +133,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Design-A-Thon",
-    "url": "https://design-a-thon-2026.devpost.com/",
-    "start_date": "May 22, 2026",
-    "location": "UWB UW2-141",
-    "source": "Devpost"
-  },
-  {
     "title": "DeveloperWeek New York 2026 Hackathon",
     "url": "https://dwny-2026-hackathon.devpost.com/",
     "start_date": "May 25 - Jun 10, 2026",
@@ -163,7 +149,7 @@
   {
     "title": "DevonomicsV1",
     "url": "https://devonomicsv1.devpost.com/",
-    "start_date": "Jun 04 - 12, 2026",
+    "start_date": "Sep 16 - 23, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -219,7 +205,7 @@
   {
     "title": "GITSYNC",
     "url": "https://gitsync.devpost.com/",
-    "start_date": "May 29 - 30, 2026",
+    "start_date": "Jun 05 - 06, 2026",
     "location": "Zetech University, Mang'u Campus,",
     "source": "Devpost"
   },
@@ -242,6 +228,13 @@
     "url": "https://greencode-hackathon.devpost.com/",
     "start_date": "May 30, 2026",
     "location": "OpenWorks Coworking - Greenville",
+    "source": "Devpost"
+  },
+  {
+    "title": "H.A.R.D. Hack 2027",
+    "url": "https://h-a-r-d-hack-2027.devpost.com/",
+    "start_date": "Jan 30 - 31, 2027",
+    "location": "University of California - Jacobs Hall",
     "source": "Devpost"
   },
   {
@@ -350,13 +343,6 @@
     "source": "Devpost"
   },
   {
-    "title": "HACKSTORM 2.0: Vibe Coding to Physical AI",
-    "url": "https://hackstorm2.devpost.com/",
-    "start_date": "May 22 - 24, 2026",
-    "location": "Silicon Valley",
-    "source": "Devpost"
-  },
-  {
     "title": "Hoya Hacks 2027",
     "url": "https://hoya-hacks-2027.devpost.com/",
     "start_date": "Jan 22 - 24, 2027",
@@ -394,7 +380,7 @@
   {
     "title": "LaunchHacks V",
     "url": "https://launchhacks-v.devpost.com/",
-    "start_date": "Jun 06 - 07, 2026",
+    "start_date": "Jun 20 - 22, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -555,7 +541,7 @@
   {
     "title": "The Final of Chapter of GDG",
     "url": "https://the-final-of-chapter-of-gdg.devpost.com/",
-    "start_date": "May 25, 2026",
+    "start_date": "May 31, 2026",
     "location": "Koni ,Bilaspur ,Chhattisgarh",
     "source": "Devpost"
   },
@@ -567,10 +553,10 @@
     "source": "Devpost"
   },
   {
-    "title": "UCDSOM MedXEngineering",
-    "url": "https://ucdsom-medxengineering.devpost.com/",
-    "start_date": "May 22, 2026",
-    "location": "Online",
+    "title": "UCSB.network Hackathon",
+    "url": "https://ucsb-network-hackathon.devpost.com/",
+    "start_date": "May 23 - 24, 2026",
+    "location": "UCSB",
     "source": "Devpost"
   },
   {
@@ -613,6 +599,13 @@
     "url": "https://vshacks-2026.devpost.com/",
     "start_date": "Jul 11 - 12, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "WaveHack",
+    "url": "https://wavehack.devpost.com/",
+    "start_date": "May 23, 2026",
+    "location": "MOTW Coffee &amp; Pastries",
     "source": "Devpost"
   },
   {
