@@ -14,13 +14,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Agentic Engineering Hack",
-    "url": "https://agentic-engineering-hack.devpost.com/",
-    "start_date": "May 23, 2026",
-    "location": "Datadog",
-    "source": "Devpost"
-  },
-  {
     "title": "AI for Campus: Build with MLH",
     "url": "https://ai-for-campus-build-with-mlh.devpost.com/",
     "start_date": "Jun 06, 2026",
@@ -63,37 +56,9 @@
     "source": "Devpost"
   },
   {
-    "title": "Build with AI 2026 x MLH Hackathon in Ahlen",
-    "url": "https://build-with-ai-mlh-ahlen.devpost.com/",
-    "start_date": "May 23, 2026",
-    "location": "Initiative Bürgerzentrum Schuhfabrik e.V",
-    "source": "Devpost"
-  },
-  {
-    "title": "Caltech Longevity Hackathon 2026",
-    "url": "https://caltechlongevity.devpost.com/",
-    "start_date": "May 23 - 24, 2026",
-    "location": "Caltech Longevity Club",
-    "source": "Devpost"
-  },
-  {
-    "title": "Claude Builders Club Hackathon",
-    "url": "https://cbc-alu-spring-hackathon.devpost.com/",
-    "start_date": "May 28 - 29, 2026",
-    "location": "Kenya-Burundi, ALU Campus",
-    "source": "Devpost"
-  },
-  {
     "title": "Code Crest",
     "url": "https://codecrest.devpost.com/",
     "start_date": "May 31 - Jun 01, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Code Crush 2026",
-    "url": "https://code-crush-2026.devpost.com/",
-    "start_date": "May 23 - 24, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -242,6 +207,13 @@
     "url": "https://hack-days-in-bhopal-29987.devpost.com/",
     "start_date": "May 31, 2026",
     "location": "Main Auditorium - Oriental College",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hack Days Patna",
+    "url": "https://hack-days-patna-30176.devpost.com/",
+    "start_date": "Jun 06, 2026",
+    "location": "Indian Institute of Technology Patna",
     "source": "Devpost"
   },
   {
@@ -518,13 +490,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Synthesis Hacks",
-    "url": "https://synthesishacks.devpost.com/",
-    "start_date": "May 23, 2026",
-    "location": "Google Humboldt",
-    "source": "Devpost"
-  },
-  {
     "title": "Tech to Treasure Hackathon",
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Jun 01, 2026",
@@ -550,13 +515,6 @@
     "url": "https://tillyhacks.devpost.com/",
     "start_date": "May 30, 2026",
     "location": "Chantilly High School",
-    "source": "Devpost"
-  },
-  {
-    "title": "UCSB.network Hackathon",
-    "url": "https://ucsb-network-hackathon.devpost.com/",
-    "start_date": "May 23 - 24, 2026",
-    "location": "UCSB",
     "source": "Devpost"
   },
   {
@@ -599,13 +557,6 @@
     "url": "https://vshacks-2026.devpost.com/",
     "start_date": "Jul 11 - 12, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "WaveHack",
-    "url": "https://wavehack.devpost.com/",
-    "start_date": "May 23, 2026",
-    "location": "MOTW Coffee &amp; Pastries",
     "source": "Devpost"
   },
   {
@@ -667,13 +618,6 @@
     "url": "https://www.quackhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Quackhacks+3",
     "start_date": "uackhacks 3",
     "location": "MAY 30 - 31 Eugene, Oregon, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Houston , TX HackHCC",
-    "url": "https://hackhcc.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackHCC",
-    "start_date": "MAY 22 - 23",
-    "location": "Houston, TX, US In-Person",
     "source": "MLH"
   },
   {
