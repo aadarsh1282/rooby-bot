@@ -28,6 +28,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Applied Intelligence Hackathon",
+    "url": "https://applied-intelligence-hackathon.devpost.com/",
+    "start_date": "May 31, 2026",
+    "location": "Frontier Tower",
+    "source": "Devpost"
+  },
+  {
     "title": "BeanHacks",
     "url": "https://beanhacks.devpost.com/",
     "start_date": "Jun 30 - Jul 01, 2026",
@@ -91,13 +98,6 @@
     "source": "Devpost"
   },
   {
-    "title": "CTC x Google Gemini Prompt-a-thon 2026",
-    "url": "https://ctc-gemini-prompt-a-thon-2026.devpost.com/",
-    "start_date": "May 26, 2026",
-    "location": "MSTB",
-    "source": "Devpost"
-  },
-  {
     "title": "Cursor Hackathon Toronto Tech Week",
     "url": "https://cursor-hackathon-ttw.devpost.com/",
     "start_date": "May 27, 2026",
@@ -157,6 +157,13 @@
     "title": "Galuxium Nexus V2",
     "url": "https://galuxium-nexus-v2-29411.devpost.com/",
     "start_date": "Jul 01 - Aug 01, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Girls Got Game Jam",
+    "url": "https://girls-got-game-jam-3.devpost.com/",
+    "start_date": "Jun 15 - 23, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -298,6 +305,13 @@
     "url": "https://hackonomics27.devpost.com/",
     "start_date": "Jul 01, 2026 - Jun 01, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "HackPSU Fall 2026",
+    "url": "https://hackpsu-fall-2026.devpost.com/",
+    "start_date": "Oct 24 - 25, 2026",
+    "location": "ECoRE Building",
     "source": "Devpost"
   },
   {
@@ -604,6 +618,27 @@
     "url": "https://www.quackhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Quackhacks+3",
     "start_date": "uackhacks 3",
     "location": "MAY 30 - 31 Eugene, Oregon, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "GH Global Hack Week: Agents",
+    "url": "https://events.mlh.io/events/14312-global-hack-week-agents?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Agents",
+    "start_date": "AUG 07 - 13",
+    "location": "Everywhere, Worldwide Digital",
+    "source": "MLH"
+  },
+  {
+    "title": "GH Global Hack Week: Hacking for Good",
+    "url": "https://events.mlh.io/events/14302-global-hack-week-hacking-for-good?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Hacking+for+Good",
+    "start_date": "JUN 12 - 18",
+    "location": "Everywhere, Worldwide Digital",
+    "source": "MLH"
+  },
+  {
+    "title": "GH Global Hack Week: Season Launch",
+    "url": "https://events.mlh.io/events/14284-global-hack-week-season-launch?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Season+Launch",
+    "start_date": "JUL 10 - 16",
+    "location": "Everywhere, Worldwide Digital",
     "source": "MLH"
   },
   {
