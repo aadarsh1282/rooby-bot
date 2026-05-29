@@ -35,13 +35,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Batam - Singapore Hackathon 2026",
-    "url": "https://batam-singapore-hackathon-2026.devpost.com/",
-    "start_date": "Aug 15, 2026",
-    "location": "Batam State Polytechnic",
-    "source": "Devpost"
-  },
-  {
     "title": "BeanHacks",
     "url": "https://beanhacks.devpost.com/",
     "start_date": "Jun 30 - Jul 01, 2026",
@@ -53,6 +46,13 @@
     "url": "https://8-blairhacks.devpost.com/",
     "start_date": "Jun 26 - 27, 2026",
     "location": "Location Pending",
+    "source": "Devpost"
+  },
+  {
+    "title": "BrailleVision Hackathon",
+    "url": "https://braillevision-hackathon.devpost.com/",
+    "start_date": "May 31 - Jun 01, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -84,13 +84,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Codecon Universe 26",
-    "url": "https://codecon-universe-26.devpost.com/",
-    "start_date": "May 29 - 31, 2026",
-    "location": "Discord",
-    "source": "Devpost"
-  },
-  {
     "title": "Cove Hacks",
     "url": "https://cove.devpost.com/",
     "start_date": "Jun 26 - 28, 2026",
@@ -116,6 +109,13 @@
     "url": "https://devonomicsv1.devpost.com/",
     "start_date": "Sep 16 - 23, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "DS3 x SIC x Bow Capital Hackathon",
+    "url": "https://ds3-bow-capital-hackathon.devpost.com/",
+    "start_date": "May 29 - 31, 2026",
+    "location": "UC San Diego",
     "source": "Devpost"
   },
   {
@@ -203,6 +203,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Hack Atlantic",
+    "url": "https://hack-atlantic-2026.devpost.com/",
+    "start_date": "Sep 27, 2026",
+    "location": "Fredericton, New Brunswick",
+    "source": "Devpost"
+  },
+  {
     "title": "Hack Days in Bhopal",
     "url": "https://hack-days-in-bhopal-29987.devpost.com/",
     "start_date": "May 31, 2026",
@@ -259,17 +266,17 @@
     "source": "Devpost"
   },
   {
+    "title": "hack::peel",
+    "url": "https://hack-peel.devpost.com/",
+    "start_date": "Dec 12 - 13, 2026",
+    "location": "The Woodlands Secondary School",
+    "source": "Devpost"
+  },
+  {
     "title": "Hackabury 2026",
     "url": "https://hackabury-2026.devpost.com/",
     "start_date": "Jun 01 - 02, 2026",
     "location": "Verena Holmes Building",
-    "source": "Devpost"
-  },
-  {
-    "title": "HackCafe : May Edition",
-    "url": "https://hackcafe-may-edition.devpost.com/",
-    "start_date": "May 29, 2026",
-    "location": "Coffie Moffie",
     "source": "Devpost"
   },
   {
