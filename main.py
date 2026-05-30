@@ -11,7 +11,6 @@ Production-ready:
 - Bot-only unpin (won't unpin human pins)
 - Raid detection safe bot member lookup
 - /poll channel guard (no None crash)
-- Better moderation normalization for blocked words
 
 Deploy notes:
 - Works best with discord.py 2.x
@@ -27,7 +26,6 @@ import time
 import asyncio
 import signal
 import logging
-import unicodedata
 from dataclasses import dataclass, field
 from collections import defaultdict, deque
 from typing import Dict, List, Tuple
@@ -96,8 +94,6 @@ QUARANTINE_ROLE_NAME = "Quarantined"
 # Data files stored next to the bot
 WINNERS_FILE = "winners.json"
 STRIKES_FILE = "strikes.json"
-BLOCKED_WORDS_FILE = os.getenv("BLOCKED_WORDS_FILE", "blocked_words.json")
-
 # Hackathons backend
 HACKATHONS_API_BASE = os.getenv(
     "HACKATHONS_API_BASE",
@@ -109,33 +105,7 @@ HACKATHONS_JSON_URL = os.getenv(
 )
 
 # -------------------------------------------------
-# 3) DEFAULT BLOCKED WORDS (fallback if no JSON file)
-# -------------------------------------------------
-DEFAULT_BLOCKED_WORDS = [
-    "shit", "fuck", "bitch", "bastard", "cunt", "slut", "whore",
-    "dick", "pussy", "fag", "faggot", "nigga", "nigger",
-    "bloody hell", "asshole", "retard", "moron", "idiot",
-    "porn", "nsfw", "sex", "cum", "jerk off", "jerking", "rape",
-]
-
-
-def load_blocked_words() -> List[str]:
-    """Load blocked words from JSON file or use defaults."""
-    if os.path.exists(BLOCKED_WORDS_FILE):
-        try:
-            with open(BLOCKED_WORDS_FILE, "r", encoding="utf-8") as f:
-                words = json.load(f)
-                if isinstance(words, list):
-                    return [w.lower() for w in words if isinstance(w, str)]
-        except Exception as e:
-            logging.warning("Could not load blocked words file: %s", e)
-    return DEFAULT_BLOCKED_WORDS
-
-
-BLOCKED_WORDS = load_blocked_words()
-
-# -------------------------------------------------
-# 4) MONTH MAP FOR DATE PARSING
+# 3) MONTH MAP FOR DATE PARSING
 # -------------------------------------------------
 MONTH_MAP = {
     "jan": 1, "january": 1,
@@ -196,34 +166,6 @@ log = logging.getLogger("pika-bot")
 def strip_emojis(text: str) -> str:
     """Remove emoji characters from text."""
     return EMOJI_PATTERN.sub("", text)
-
-
-def normalize_text(text: str) -> str:
-    """
-    Normalize text for word filtering:
-    - Remove accents
-    - Handle l33t speak
-    - Remove spacing tricks
-    """
-    normalized = unicodedata.normalize("NFKD", text)
-    ascii_text = normalized.encode("ascii", "ignore").decode("ascii")
-
-    # Remove spaces between single characters (l e e t)
-    cleaned = re.sub(r"(?<=\b\w)\s+(?=\w\b)", "", ascii_text)
-
-    substitutions = {
-        "0": "o", "1": "i", "3": "e", "4": "a",
-        "5": "s", "@": "a", "$": "s", "!": "i"
-    }
-    for old, new in substitutions.items():
-        cleaned = cleaned.replace(old, new)
-
-    return cleaned.lower()
-
-
-def contains_blocked_word(text: str) -> bool:
-    normalized = normalize_text(text)
-    return any(bad in normalized for bad in BLOCKED_WORDS)
 
 
 def is_online_event(event: dict) -> bool:
@@ -1010,22 +952,6 @@ async def on_message(message: discord.Message):
     guild = message.guild
     author = message.author
     is_admin = author.guild_permissions.administrator or author.guild_permissions.manage_guild
-
-    if contains_blocked_word(message.content or ""):
-        try:
-            await message.delete()
-        except discord.Forbidden:
-            pass
-
-        await message.channel.send(f"{author.mention}, let's keep it clean, mate! 🧹")
-        await send_mod_log(
-            guild,
-            "Message Deleted (Bad Word Filter)",
-            user=author,
-            channel=message.channel,
-            extra={"Content": (message.content or "")[:512]},
-        )
-        return
 
     if not is_admin:
         mention_count = len(message.mentions)
