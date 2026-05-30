@@ -9,11 +9,11 @@
 [![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)]()
-[![Discord](https://img.shields.io/badge/Try%20it%20Live-Join%20Hackeroos-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/tjNtgWBw)
+[![Discord](https://img.shields.io/badge/Try%20it%20Live-Join%20Hackeroos-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/saDzS4g8YN)
 
 *Aggregates 250+ hackathons across 5 platforms · AI-driven Q&A · Real-time community moderation · Fully automated*
 
-> **⚡ PikaBot is live.** [Join the Hackeroos Discord](https://discord.gg/tjNtgWBw) to see it in action — run `/hackathons`, `/ask`, or `/poll` in the server.
+> **⚡ PikaBot is live.** [Join the Hackeroos Discord](https://discord.gg/saDzS4g8YN) to see it in action — run `/hackathons`, `/ask`, or `/poll` in the server.
 
 </div>
 
@@ -36,7 +36,7 @@ PikaBot is running 24/7 in the **Hackeroos** Discord server. Join and interact w
 
 <div align="center">
 
-[![Join Hackeroos Discord](https://img.shields.io/badge/Join%20Hackeroos-Try%20PikaBot%20Live-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tjNtgWBw)
+[![Join Hackeroos Discord](https://img.shields.io/badge/Join%20Hackeroos-Try%20PikaBot%20Live-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/saDzS4g8YN)
 
 </div>
 
