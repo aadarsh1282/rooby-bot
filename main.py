@@ -168,6 +168,17 @@ def strip_emojis(text: str) -> str:
     return EMOJI_PATTERN.sub("", text)
 
 
+def is_future_event(event: dict) -> bool:
+    now = datetime.now(timezone.utc)
+    end_date = parse_iso_date(event.get("end_date"))
+    if end_date:
+        return end_date >= now
+    start_date = parse_iso_date(event.get("start_date"))
+    if start_date:
+        return start_date >= now
+    return True  # no dates — can't determine, keep it
+
+
 def is_online_event(event: dict) -> bool:
     loc = (event.get("location") or "").lower()
     mode = (event.get("mode") or "").lower()
@@ -569,7 +580,8 @@ def filter_events_for_question(
             if not (now <= dt <= end):
                 continue
 
-        filtered.append((e, dt))
+        if is_future_event(e):
+            filtered.append((e, dt))
 
     filtered.sort(
         key=lambda pair: (
@@ -1239,7 +1251,7 @@ async def hackathons_cmd(interaction: discord.Interaction):
         ))
         return
 
-    cleaned_events = filter_events_with_dates(online_events)
+    cleaned_events = [e for e in filter_events_with_dates(online_events) if is_future_event(e)]
     if not cleaned_events:
         embed = discord.Embed(
             title="Online Hackathons (Dates Coming Soon)",
