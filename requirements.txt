@@ -1,5 +1,5 @@
 # --- Discord Bot Core ---
-discord.py==2.3.2
+discord.py==2.7.1
 python-dotenv
 
 # --- Async HTTP / Utilities ---
