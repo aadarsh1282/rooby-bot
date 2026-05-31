@@ -49,6 +49,13 @@
     "source": "Devpost"
   },
   {
+    "title": "BeatHacks",
+    "url": "https://beathacks.devpost.com/",
+    "start_date": "Jun 19 - 21, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "BlairHacks 8",
     "url": "https://8-blairhacks.devpost.com/",
     "start_date": "Jun 26 - 27, 2026",
@@ -81,13 +88,6 @@
     "url": "https://bwai-makerere-hackathon.devpost.com/",
     "start_date": "Jun 27, 2026",
     "location": "Makerere University",
-    "source": "Devpost"
-  },
-  {
-    "title": "Code Crest",
-    "url": "https://codecrest.devpost.com/",
-    "start_date": "May 31 - Jun 01, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -203,13 +203,6 @@
     "source": "Devpost"
   },
   {
-    "title": "GreenCode Hackathon",
-    "url": "https://greencode-hackathon.devpost.com/",
-    "start_date": "May 30, 2026",
-    "location": "OpenWorks Coworking - Greenville",
-    "source": "Devpost"
-  },
-  {
     "title": "H.A.R.D. Hack 2027",
     "url": "https://h-a-r-d-hack-2027.devpost.com/",
     "start_date": "Jan 30 - 31, 2027",
@@ -228,13 +221,6 @@
     "url": "https://hack-days-cuet.devpost.com/",
     "start_date": "Jun 27, 2026",
     "location": "Chittagong, Bangladesh",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack Days in Bhopal",
-    "url": "https://hack-days-in-bhopal-29987.devpost.com/",
-    "start_date": "May 31, 2026",
-    "location": "Main Auditorium - Oriental College",
     "source": "Devpost"
   },
   {
@@ -273,13 +259,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hack Your Life",
-    "url": "https://hack-your-life.devpost.com/",
-    "start_date": "May 30 - 31, 2026",
-    "location": "BCIT Burnaby",
-    "source": "Devpost"
-  },
-  {
     "title": "Hack4Her 2026",
     "url": "https://hack4her-mty.devpost.com/",
     "start_date": "Jun 06 - 07, 2026",
@@ -301,13 +280,6 @@
     "source": "Devpost"
   },
   {
-    "title": "HackDay Agra",
-    "url": "https://hackday-agra-29891.devpost.com/",
-    "start_date": "May 30 - 31, 2026",
-    "location": "Agra",
-    "source": "Devpost"
-  },
-  {
     "title": "HackDays Delhi",
     "url": "https://hackdays-delhi.devpost.com/",
     "start_date": "Jun 30, 2026",
@@ -319,6 +291,13 @@
     "url": "https://hackonomics27.devpost.com/",
     "start_date": "Jul 01, 2026 - Jun 01, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "HackPHHS 2026",
+    "url": "https://hackphhs-2026.devpost.com/",
+    "start_date": "Jun 03, 2026",
+    "location": "Parsippany Hills High School",
     "source": "Devpost"
   },
   {
@@ -350,10 +329,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Kane CLI Hack Day",
-    "url": "https://kane-cli-hack-day.devpost.com/",
-    "start_date": "May 30, 2026",
-    "location": "TestMu AI (formerly LambdaTest) Office",
+    "title": "Kent Hack Enough 2027",
+    "url": "https://khe-2027.devpost.com/",
+    "start_date": "Mar 06 - 07, 2027",
+    "location": "Kent State University - DI Hub",
     "source": "Devpost"
   },
   {
@@ -399,17 +378,10 @@
     "source": "Devpost"
   },
   {
-    "title": "MontyHacks IX",
-    "url": "https://montyhacks-ix.devpost.com/",
-    "start_date": "May 30, 2026",
-    "location": "Montgomery High School",
-    "source": "Devpost"
-  },
-  {
-    "title": "MPC Hacks",
-    "url": "https://mpchacks.devpost.com/",
-    "start_date": "May 30 - 31, 2026",
-    "location": "Polytechnique Lassonde Pavilion",
+    "title": "Moonshot Hackathon",
+    "url": "https://moonshot-aethra.devpost.com/",
+    "start_date": "Jun 17 - 21, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -417,6 +389,13 @@
     "url": "https://munichtech-expo.devpost.com/",
     "start_date": "Sep 01 - 20, 2026",
     "location": "Munich, Germany",
+    "source": "Devpost"
+  },
+  {
+    "title": "My Dream Superhero Challenge",
+    "url": "https://my-dream-superhero-challenge.devpost.com/",
+    "start_date": "Jun 01 - 15, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -452,13 +431,6 @@
     "url": "https://project-stellar.devpost.com/",
     "start_date": "Jun 05 - 06, 2026",
     "location": "Moscrop Secondary School",
-    "source": "Devpost"
-  },
-  {
-    "title": "Quantumhack",
-    "url": "https://quantumhack.devpost.com/",
-    "start_date": "May 31 - Jun 10, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -525,31 +497,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Techspire",
-    "url": "https://techspire.devpost.com/",
-    "start_date": "Jun 01, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "The Final of Chapter of GDG",
-    "url": "https://the-final-of-chapter-of-gdg.devpost.com/",
-    "start_date": "May 31, 2026",
-    "location": "Koni ,Bilaspur ,Chhattisgarh",
-    "source": "Devpost"
-  },
-  {
     "title": "The Vakathon",
     "url": "https://the-vakathon.devpost.com/",
     "start_date": "Jul 11, 2026",
     "location": "San Ramon Community Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "TillyHacks",
-    "url": "https://tillyhacks.devpost.com/",
-    "start_date": "May 30, 2026",
-    "location": "Chantilly High School",
     "source": "Devpost"
   },
   {
@@ -616,37 +567,41 @@
     "source": "Devpost"
   },
   {
-    "title": "Agent.AI Challenge",
-    "url": "https://www.hackerearth.com/agent-ai",
-    "start_date": "2025-09-16T00:00:00Z",
-    "location": "Online",
-    "source": "Hackeroos",
-    "end_date": "2025-12-14T23:59:00Z",
-    "mode": "online",
-    "tags": [
-      "ai",
-      "agents",
-      "no-code",
-      "hackerearth",
-      "global"
-    ],
-    "description": "We're supporting HackerEarth to promote Agent.AI, founded by Dharmesh Shah, co-founder of HubSpot. Now anyone can build AI agents with no code!"
+    "title": "Cyberdeck Competition 2026",
+    "url": "https://forms.gle/mQR3HeudAtPSYj1W9",
+    "start_date": "deck Competition 2026",
+    "location": "Online / TBA",
+    "source": "Hackeroos"
   },
   {
-    "title": "Hackeroos Mental Health Buildathon",
+    "title": "Forge The Future",
+    "url": "https://hackdays.com.au/",
+    "start_date": "March 2nd, 2026",
+    "location": "Sydney, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Hackeroos & MLAI AUS present:",
+    "url": "https://www.mlai.au/",
+    "start_date": "Sept 8th - 28th, 2026",
+    "location": "Online",
+    "source": "Hackeroos",
+    "mode": "Online"
+  },
+  {
+    "title": "Hackeroos Spooky",
+    "url": "https://developers.reddit.com/docs/",
+    "start_date": "Oct 8th - 28th, 2026",
+    "location": "Online / TBA",
+    "source": "Hackeroos"
+  },
+  {
+    "title": "Join an Event",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "",
-    "location": "Australia / Online",
-    "source": "Hackeroos",
-    "end_date": null,
-    "mode": "hybrid",
-    "tags": [
-      "mental health",
-      "buildathon",
-      "australia",
-      "2026"
-    ],
-    "description": "Hackeroos Mental Health Buildathon in early 2026 with notable mental health orgs. Dates coming soon. Sponsors can reach out at hello@hackeroos.com.au."
+    "location": "Online / TBA",
+    "source": "Hackeroos"
   },
   {
     "title": "Eugene , Oregon Q",

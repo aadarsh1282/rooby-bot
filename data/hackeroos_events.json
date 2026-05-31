@@ -1,32 +1,62 @@
 [
   {
+    "title": "Join an Event",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "",
+    "location": "Online / TBA",
+    "source": "Hackeroos"
+  },
+  {
     "title": "Cyberdeck Competition 2026",
     "url": "https://forms.gle/mQR3HeudAtPSYj1W9",
-    "start_date": "",
-    "end_date": "2026-12-31T23:59:00Z",
-    "location": "Online",
-    "mode": "Online",
+    "start_date": "deck Competition 2026",
+    "location": "Online / TBA",
+    "source": "Hackeroos"
+  },
+  {
+    "title": "Forge The Future",
+    "url": "https://hackdays.com.au/",
+    "start_date": "March 2nd, 2026",
+    "location": "Sydney, Australia",
     "source": "Hackeroos",
-    "description": "Open & Rolling All Year"
+    "mode": "In-Person"
+  },
+  {
+    "title": "In-Person Hackathon in Sydney",
+    "url": "https://hackdays.com.au/",
+    "start_date": "March 2nd, 2026",
+    "location": "Sydney, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Hackeroos Spooky",
+    "url": "https://developers.reddit.com/docs/",
+    "start_date": "Oct 8th - 28th, 2026",
+    "location": "Online / TBA",
+    "source": "Hackeroos"
+  },
+  {
+    "title": "Reddit Game Jam",
+    "url": "https://developers.reddit.com/docs/",
+    "start_date": "Oct 8th - 28th, 2026",
+    "location": "Online / TBA",
+    "source": "Hackeroos"
+  },
+  {
+    "title": "Hackeroos & MLAI AUS present:",
+    "url": "https://www.mlai.au/",
+    "start_date": "Sept 8th - 28th, 2026",
+    "location": "Online",
+    "source": "Hackeroos",
+    "mode": "Online"
   },
   {
     "title": "AI in the Outback",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "2026-09-08T00:00:00Z",
-    "end_date": "2026-09-28T23:59:00Z",
+    "url": "https://www.mlai.au/",
+    "start_date": "Sept 8th - 28th, 2026",
     "location": "Online",
-    "mode": "Online",
     "source": "Hackeroos",
-    "description": "Remote hackathon with MLAI AUS focused on real-world challenges in rural Australia"
-  },
-  {
-    "title": "Hackeroos Spooky Reddit Game Jam",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "2026-10-08T00:00:00Z",
-    "end_date": "2026-10-28T23:59:00Z",
-    "location": "Online",
-    "mode": "Online",
-    "source": "Hackeroos",
-    "description": "Game jam on Reddit's Devvit platform, prizes include developer funds and ElevenLabs products"
+    "mode": "Online"
   }
 ]
