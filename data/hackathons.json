@@ -49,6 +49,13 @@
     "source": "Devpost"
   },
   {
+    "title": "BioHacks",
+    "url": "https://biohacksmcmaster.devpost.com/",
+    "start_date": "Sep 26 - 27, 2026",
+    "location": "McMaster University - PGCLL",
+    "source": "Devpost"
+  },
+  {
     "title": "BlairHacks 8",
     "url": "https://8-blairhacks.devpost.com/",
     "start_date": "Jun 26 - 27, 2026",
@@ -81,6 +88,20 @@
     "url": "https://built-with-python-hackathon.devpost.com/",
     "start_date": "Jun 06 - 20, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Byte2Beat",
+    "url": "https://byte2beats.devpost.com/",
+    "start_date": "Jun 03 - 17, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "CloudHacks  2026",
+    "url": "https://cloudhacks-2026.devpost.com/",
+    "start_date": "Aug 24, 2026",
+    "location": "Lahore",
     "source": "Devpost"
   },
   {
@@ -266,6 +287,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HackGT13",
+    "url": "https://hackgt13.devpost.com/",
+    "start_date": "Sep 25 - 27, 2026",
+    "location": "Klaus Advanced Computing Building",
+    "source": "Devpost"
+  },
+  {
     "title": "Hackonomics 2027",
     "url": "https://hackonomics27.devpost.com/",
     "start_date": "Jul 01, 2026 - Jun 01, 2027",
@@ -364,13 +392,6 @@
     "source": "Devpost"
   },
   {
-    "title": "LovHack x BrandOye Growathon",
-    "url": "https://lovhack-x-brandoye-growathon.devpost.com/",
-    "start_date": "Jun 01 - 15, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "MarinHacks",
     "url": "https://marinhacks.devpost.com/",
     "start_date": "Aug 02, 2026",
@@ -455,6 +476,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Reverie Hacks 2026",
+    "url": "https://reverie-hacks-2026.devpost.com/",
+    "start_date": "Aug 02 - 17, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Shower Hacks",
     "url": "https://showerhacks.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
@@ -490,13 +518,6 @@
     "source": "Devpost"
   },
   {
-    "title": "SunnyHacks June 2026",
-    "url": "https://sunnyhacks-june-2026.devpost.com/",
-    "start_date": "Jun 01 - Jul 01, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Tech to Treasure Hackathon",
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Jul 31, 2026",
@@ -508,6 +529,13 @@
     "url": "https://the-vakathon.devpost.com/",
     "start_date": "Jul 11, 2026",
     "location": "San Ramon Community Center",
+    "source": "Devpost"
+  },
+  {
+    "title": "TryToHack Thüringen",
+    "url": "https://trytohack.devpost.com/",
+    "start_date": "Jun 20, 2026",
+    "location": "Friedrich Schiller University Jena",
     "source": "Devpost"
   },
   {
