@@ -28,10 +28,10 @@
     "source": "Devpost"
   },
   {
-    "title": "AI for Learning & Development Build Challenge — AI Collective HR + Regent",
-    "url": "https://ai-challenge-regent-aichr.devpost.com/",
-    "start_date": "Jun 04 - 18, 2026",
-    "location": "Regent University",
+    "title": "AI Hackathon 2026 by LA Hacks",
+    "url": "https://la-ai-hackathon-2026.devpost.com/",
+    "start_date": "Oct 17 - 18, 2026",
+    "location": "James West Alumni Center",
     "source": "Devpost"
   },
   {
@@ -119,6 +119,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Cyber Hawk Hack Days",
+    "url": "https://cyber-hawk-hackathon.devpost.com/",
+    "start_date": "Sep 26, 2026",
+    "location": "Monmouth University",
+    "source": "Devpost"
+  },
+  {
     "title": "Databricks Apps & Agents for Good Hackathon 2026",
     "url": "https://dais-for-good-2026.devpost.com/",
     "start_date": "Jun 16, 2026",
@@ -200,13 +207,6 @@
     "url": "https://girls-got-game-jam-3.devpost.com/",
     "start_date": "Jun 15 - 23, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "GITSYNC",
-    "url": "https://gitsync.devpost.com/",
-    "start_date": "Jun 05 - 06, 2026",
-    "location": "Zetech University, Mang'u Campus,",
     "source": "Devpost"
   },
   {
@@ -315,13 +315,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Health and Fitness Technology",
-    "url": "https://high-school-tech-for-health.devpost.com/",
-    "start_date": "Jun 05 - 08, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Hoya Hacks 2027",
     "url": "https://hoya-hacks-2027.devpost.com/",
     "start_date": "Jan 22 - 24, 2027",
@@ -392,6 +385,13 @@
     "source": "Devpost"
   },
   {
+    "title": "LingHacks VII",
+    "url": "https://linghacks-vii.devpost.com/",
+    "start_date": "Jun 13 - 14, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "MarinHacks",
     "url": "https://marinhacks.devpost.com/",
     "start_date": "Aug 02, 2026",
@@ -417,13 +417,6 @@
     "url": "https://njx-hackathon-summer-2026.devpost.com/",
     "start_date": "Jun 20 - 21, 2026",
     "location": "Montgomery Innovation Hub",
-    "source": "Devpost"
-  },
-  {
-    "title": "NYTW - Fashion Forward X Pulse Foundry",
-    "url": "https://nytw-ff-x-pf.devpost.com/",
-    "start_date": "Jun 04, 2026",
-    "location": "SAINT RESTAURANT BAR &amp; SPEAKEASY",
     "source": "Devpost"
   },
   {
@@ -616,47 +609,5 @@
     "start_date": "",
     "location": "Online / TBA",
     "source": "Hackeroos"
-  },
-  {
-    "title": "Global Hack Week: Agents",
-    "url": "https://events.mlh.io/events/14312-global-hack-week-agents?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Agents",
-    "start_date": "AUG 07 - 13",
-    "location": "Everywhere, Worldwide Digital",
-    "source": "MLH"
-  },
-  {
-    "title": "Global Hack Week: Hacking for Good",
-    "url": "https://events.mlh.io/events/14302-global-hack-week-hacking-for-good?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Hacking+for+Good",
-    "start_date": "JUN 12 - 18",
-    "location": "Everywhere, Worldwide Digital",
-    "source": "MLH"
-  },
-  {
-    "title": "Global Hack Week: Season Launch",
-    "url": "https://events.mlh.io/events/14284-global-hack-week-season-launch?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Season+Launch",
-    "start_date": "JUL 10 - 16",
-    "location": "Everywhere, Worldwide Digital",
-    "source": "MLH"
-  },
-  {
-    "title": "Hyderabad , Telangana HackPrix",
-    "url": "https://s3.hackprix.tech/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackPrix+Season+3",
-    "start_date": "Season 3",
-    "location": "JUN 13 - 14 Hyderabad, Telangana, IN In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Monterrey , Nuevo Leon Hack4Her",
-    "url": "https://www.hack4her.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack4Her",
-    "start_date": "JUN 06 - 07",
-    "location": "Monterrey, Nuevo Leon, MX In-Person DIVERSITY",
-    "source": "MLH"
-  },
-  {
-    "title": "Waterloo , Ontario",
-    "url": "https://jamhacks.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=JAMHacks+10",
-    "start_date": "JAMHacks 10",
-    "location": "JUN 12 - 14 Waterloo, Ontario, CA In-Person HIGH SCHOOL",
-    "source": "MLH"
   }
 ]
