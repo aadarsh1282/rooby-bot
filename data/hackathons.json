@@ -7,6 +7,13 @@
     "source": "Devpost"
   },
   {
+    "title": "8-Bit Jam",
+    "url": "https://8-bit-jam.devpost.com/",
+    "start_date": "Aug 08 - 09, 2026",
+    "location": "Herndon, Virginia",
+    "source": "Devpost"
+  },
+  {
     "title": "ACS Hacks",
     "url": "https://acshacks.devpost.com/",
     "start_date": "Jun 10, 2026",
@@ -32,13 +39,6 @@
     "url": "https://la-ai-hackathon-2026.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
     "location": "James West Alumni Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "AQX Sports Analytics Hackathon",
-    "url": "https://aqxanalytics.devpost.com/",
-    "start_date": "Jun 10 - 26, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -98,6 +98,13 @@
     "source": "Devpost"
   },
   {
+    "title": "CANCELED - GenAI AI Hackathon — Automotive & Manufacturing Use Cases",
+    "url": "https://auto-ai-hackathon-munich-2026.devpost.com/",
+    "start_date": "Jun 19, 2026",
+    "location": "AWS Office Munich",
+    "source": "Devpost"
+  },
+  {
     "title": "Case Closed: An Agent Hackathon",
     "url": "https://railtracks-case-closed.devpost.com/",
     "start_date": "Jun 14 - 22, 2026",
@@ -109,6 +116,13 @@
     "url": "https://cloudhacks-2026.devpost.com/",
     "start_date": "Aug 24, 2026",
     "location": "Lahore",
+    "source": "Devpost"
+  },
+  {
+    "title": "codeLinc 11 with Lincoln Financial & AWS",
+    "url": "https://codelinc11.devpost.com/",
+    "start_date": "Oct 03 - 04, 2026",
+    "location": "Lincoln Financial Group",
     "source": "Devpost"
   },
   {
@@ -203,13 +217,6 @@
     "source": "Devpost"
   },
   {
-    "title": "GenAI AI Hackathon — Automotive & Manufacturing Use Cases",
-    "url": "https://auto-ai-hackathon-munich-2026.devpost.com/",
-    "start_date": "Jun 19, 2026",
-    "location": "AWS Office Munich",
-    "source": "Devpost"
-  },
-  {
     "title": "Girls Got Game Jam",
     "url": "https://girls-got-game-jam-3.devpost.com/",
     "start_date": "Jun 15 - 23, 2026",
@@ -217,16 +224,16 @@
     "source": "Devpost"
   },
   {
-    "title": "Global Tech Innovation 2026",
-    "url": "https://global-tech-innovation-2026.devpost.com/",
-    "start_date": "Jun 10 - 30, 2026",
+    "title": "GitLab Transcend Hackathon",
+    "url": "https://gitlab-transcend.devpost.com/",
+    "start_date": "Jun 10 - 24, 2026",
     "location": "Online",
     "source": "Devpost"
   },
   {
     "title": "GoatHacks 2027",
     "url": "https://goathacks-2027.devpost.com/",
-    "start_date": "Jan 23 - 25, 2027",
+    "start_date": "Jan 22 - 24, 2027",
     "location": "WPI - Campus Center",
     "source": "Devpost"
   },
@@ -252,10 +259,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Hack Days Varanasi",
-    "url": "https://hack-days-varanasi.devpost.com/",
-    "start_date": "Jun 10, 2026",
-    "location": "BHU",
+    "title": "HACK DAYS JABALPUR",
+    "url": "https://hack-dev-day-jabalpur.devpost.com/",
+    "start_date": "Jun 11, 2026",
+    "location": "Shri Ram Group Jabalpur Campus",
     "source": "Devpost"
   },
   {
@@ -350,13 +357,6 @@
     "source": "Devpost"
   },
   {
-    "title": "IntelliShift Hackathon",
-    "url": "https://intellishift-hackathon.devpost.com/",
-    "start_date": "Jun 09 - 21, 2026",
-    "location": "Faculty of Computing and AI - CU",
-    "source": "Devpost"
-  },
-  {
     "title": "JecHacks",
     "url": "https://jechacks.devpost.com/",
     "start_date": "Jul 11, 2026",
@@ -393,13 +393,6 @@
   },
   {
     "title": "LingHacks VII",
-    "url": "https://linghacks7.devpost.com/",
-    "start_date": "Jun 13 - 14, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "LingHacks VII",
     "url": "https://linghacks-vii.devpost.com/",
     "start_date": "Jun 13 - 14, 2026",
     "location": "Online",
@@ -417,6 +410,13 @@
     "url": "https://munichtech-expo.devpost.com/",
     "start_date": "Sep 01 - 20, 2026",
     "location": "Munich, Germany",
+    "source": "Devpost"
+  },
+  {
+    "title": "Next Byte Hacks V3",
+    "url": "https://next-byte-hacks-v3.devpost.com/",
+    "start_date": "Jun 15 - Jul 15, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
