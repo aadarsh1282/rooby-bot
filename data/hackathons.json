@@ -1,5 +1,12 @@
 [
   {
+    "title": "$1,000 Industrial AI Hackathon",
+    "url": "https://1-000-industrial-ai-hackathon.devpost.com/",
+    "start_date": "Jun 19 - 20, 2026",
+    "location": "Antler VC corporate office",
+    "source": "Devpost"
+  },
+  {
     "title": "757 BLD WKND 2026 2.0",
     "url": "https://757-bld-wknd-2026-2-0.devpost.com/",
     "start_date": "Jul 17 - 19, 2026",
@@ -14,9 +21,9 @@
     "source": "Devpost"
   },
   {
-    "title": "ACS Hacks",
-    "url": "https://acshacks.devpost.com/",
-    "start_date": "Jun 10, 2026",
+    "title": "AceSAT Education AI-Agent",
+    "url": "https://acesat-ai-agent.devpost.com/",
+    "start_date": "Jun 12 - Aug 15, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -224,13 +231,6 @@
     "source": "Devpost"
   },
   {
-    "title": "GitLab Transcend Hackathon",
-    "url": "https://gitlab-transcend.devpost.com/",
-    "start_date": "Jun 10 - 24, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "GoatHacks 2027",
     "url": "https://goathacks-2027.devpost.com/",
     "start_date": "Jan 22 - 24, 2027",
@@ -259,16 +259,9 @@
     "source": "Devpost"
   },
   {
-    "title": "HACK DAYS JABALPUR",
-    "url": "https://hack-dev-day-jabalpur.devpost.com/",
-    "start_date": "Jun 11, 2026",
-    "location": "Shri Ram Group Jabalpur Campus",
-    "source": "Devpost"
-  },
-  {
     "title": "Hack for Humanity | Summer 2026",
     "url": "https://hack-for-humanity-summer-26.devpost.com/",
-    "start_date": "Jul 03 - Aug 02, 2026",
+    "start_date": "Aug 07 - Sep 04, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -336,6 +329,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Horizon STEM Hackthon",
+    "url": "https://horizon-stem-hackthon.devpost.com/",
+    "start_date": "Jul 25, 2026",
+    "location": "Code Ninjas",
+    "source": "Devpost"
+  },
+  {
     "title": "Hoya Hacks 2027",
     "url": "https://hoya-hacks-2027.devpost.com/",
     "start_date": "Jan 22 - 24, 2027",
@@ -354,6 +354,13 @@
     "url": "https://innovators-hub-hackathon.devpost.com/",
     "start_date": "Jun 29, 2026",
     "location": "NRI Group of Institutions Bhopal",
+    "source": "Devpost"
+  },
+  {
+    "title": "JAMHacks 10",
+    "url": "https://jamhacks-10.devpost.com/",
+    "start_date": "Jun 12 - 14, 2026",
+    "location": "University of Waterloo - PSE",
     "source": "Devpost"
   },
   {
@@ -508,6 +515,20 @@
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Jul 31, 2026",
     "location": "Tully Community Branch Library",
+    "source": "Devpost"
+  },
+  {
+    "title": "The Mastery Mentors Hackathon",
+    "url": "https://themasterymentorshackathon.devpost.com/",
+    "start_date": "Jun 26 - 28, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "The Rice University Urban Sustainability Hackathon",
+    "url": "https://rice-urban-sustainability.devpost.com/",
+    "start_date": "Jun 23 - Sep 18, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
