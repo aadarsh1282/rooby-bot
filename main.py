@@ -533,6 +533,7 @@ async def fetch_hackeroos_api_events() -> List[dict]:
                 "title": item.get("name", "Hackeroos Event"),
                 "url": item.get("url", "https://www.hackeroos.com.au/"),
                 "tagline": item.get("tagline", ""),
+                "location": item.get("location") or "Online",
                 "source": "hackeroos",
             }
             for item in items
@@ -1245,8 +1246,8 @@ def create_fallback_hackathons_embed(title: str, description: str) -> discord.Em
     )
     embed.add_field(name="Devpost", value="[devpost.com/hackathons](https://devpost.com/hackathons)", inline=False)
     embed.add_field(name="MLH", value="[mlh.io/events](https://mlh.io/events)", inline=False)
-    embed.add_field(name="Lu.ma", value="[lu.ma/tag/hackathon](https://lu.ma/)", inline=False)
-    embed.add_field(name="Hack Club", value="[events.hackclub.com](https://events.hackclub.com/)", inline=False)
+    embed.add_field(name="Luma", value="[lu.ma/tag/hackathon](https://luma.com/tech)", inline=False)
+    embed.add_field(name="Hack Club", value="[events.hackclub.com](https://hackclub.com/programs)", inline=False)
     embed.add_field(
         name="Hackeroos What's On",
         value="[hackeroos.com.au/#whats-on](https://www.hackeroos.com.au/)",
@@ -1270,7 +1271,7 @@ async def hackathons_cmd(interaction: discord.Interaction):
         title="Live Online Global Hackathons",
         description=(
             "Here are the latest upcoming **online** hackathons.\n"
-            "Sources include Hackeroos, Devpost, MLH, Lu.ma, and Hack Club."
+            "Sources include Hackeroos, Devpost, MLH, Luma, and Hack Club."
         ),
         color=0x00bcd4,
         timestamp=datetime.now(timezone.utc),
@@ -1280,8 +1281,9 @@ async def hackathons_cmd(interaction: discord.Interaction):
     for e in hackeroos_events:
         title = (e.get("title") or "Hackeroos Event")[:100]
         tagline = e.get("tagline", "")
+        location = e.get("location") or "Online"
         url = e.get("url", "https://www.hackeroos.com.au/")
-        value = f"🦘 Hackeroos • Online"
+        value = f"🦘 Hackeroos • {location}"
         if tagline:
             value += f"\n_{tagline}_"
         value += f"\n[Details]({url})"
@@ -1318,8 +1320,8 @@ async def hackathons_cmd(interaction: discord.Interaction):
         value=(
             "• Devpost – https://devpost.com/hackathons\n"
             "• MLH – https://mlh.io/events\n"
-            "• Lu.ma – https://lu.ma/\n"
-            "• Hack Club – https://events.hackclub.com/\n"
+            "• Luma – https://luma.com/tech\n"
+            "• Hack Club – https://hackclub.com/programs\n"
             "• Hackeroos – https://www.hackeroos.com.au/"
         ),
         inline=False
