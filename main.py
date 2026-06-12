@@ -83,7 +83,7 @@ HF_MODEL = os.getenv("HUGGINGFACE_MODEL", "Qwen/Qwen2.5-72B-Instruct")
 WELCOME_CHANNEL_NAME = "welcome-verify"
 HACKATHON_CHANNEL_NAME = "all-hackathons"
 ANNOUNCEMENTS_CHANNEL_NAME = "announcements"
-MOD_LOG_CHANNEL_NAME = "mod-logs"
+MOD_LOG_CHANNEL_ID = 1514335538029658224
 
 # Roles used by the bot
 ROLE_VERIFY = "Verified Hackeroos"
@@ -616,7 +616,7 @@ async def pin_and_unpin(message: discord.Message, bot_user: discord.User) -> Non
 async def get_mod_log_channel(guild: discord.Guild) -> discord.TextChannel | None:
     if guild is None:
         return None
-    return discord.utils.get(guild.text_channels, name=MOD_LOG_CHANNEL_NAME)
+    return bot.get_channel(MOD_LOG_CHANNEL_ID)
 
 
 async def send_mod_log(
