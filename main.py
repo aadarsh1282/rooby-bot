@@ -1,6 +1,8 @@
 """
-Pika-Bot — Hackeroos Discord Bot (Refactored v2.1)
-Built by Pika-Bots (AIHE Group 19)
+Rooby — Hackeroos Discord Bot
+
+Built by Hackeroos (https://hackeroos.com.au)
+Built for Discord • Powered by Hugging Face
 
 Production-ready:
 - Async main + graceful shutdown (SIGTERM/SIGINT supported)
@@ -103,6 +105,7 @@ HACKATHONS_JSON_URL = os.getenv(
     "HACKATHONS_JSON_URL",
     "https://raw.githubusercontent.com/aadarsh1282/pika-bot/main/data/hackathons.json",
 )
+HACKEROOS_EVENTS_API = "https://api.hackeroos.com.au/events"
 
 # -------------------------------------------------
 # 3) MONTH MAP FOR DATE PARSING
@@ -158,7 +161,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(levelname)s | %(name)s | %(message)s",
 )
-log = logging.getLogger("pika-bot")
+log = logging.getLogger("rooby")
 
 # -------------------------------------------------
 # 7) UTILITY FUNCTIONS
@@ -518,6 +521,28 @@ async def fetch_hackathons() -> List[dict]:
     return []
 
 
+async def fetch_hackeroos_api_events() -> List[dict]:
+    try:
+        client = await http_manager.get_client()
+        r = await client.get(HACKEROOS_EVENTS_API, timeout=10)
+        r.raise_for_status()
+        data = r.json()
+        items = data.get("items", []) if isinstance(data, dict) else []
+        return [
+            {
+                "title": item.get("name", "Hackeroos Event"),
+                "url": item.get("url", "https://www.hackeroos.com.au/"),
+                "tagline": item.get("tagline", ""),
+                "source": "hackeroos",
+            }
+            for item in items
+            if item.get("active") is True
+        ]
+    except Exception as e:
+        log.warning("Could not fetch Hackeroos events API: %s", e)
+        return []
+
+
 def filter_online_events(events: List[dict]) -> List[dict]:
     return [e for e in events if is_online_event(e)]
 
@@ -647,7 +672,7 @@ async def send_mod_log(
         for k, v in extra.items():
             embed.add_field(name=k, value=str(v)[:1024], inline=False)
 
-    embed.set_footer(text="Pika-Bot • Moderation Log")
+    embed.set_footer(text="Rooby • Moderation Log")
 
     try:
         await chan.send(embed=embed)
@@ -811,7 +836,7 @@ async def auto_alerts_loop() -> None:
                             inline=False,
                         )
 
-                    embed.set_footer(text="Pika-Bot • Auto-updated (online-only) from Insights/GitHub")
+                    embed.set_footer(text="Rooby • Auto-updated (online-only) from Insights/GitHub")
                     await channel.send(embed=embed)
             else:
                 log.info("No new online hackathons this cycle")
@@ -858,11 +883,11 @@ async def on_ready():
     except Exception as e:
         log.warning("Error syncing slash commands: %s", e)
 
-    log.info("Pika-Bot online | Guilds: %d | Hackathons cached: %d",
+    log.info("Rooby online | Guilds: %d | Hackathons cached: %d",
              len(bot.guilds), len(state.last_hackathons))
 
     await bot.change_presence(
-        activity=discord.Game(name="Helping Hackeroos innovate ⚡🦘"),
+        activity=discord.Game(name="Helping Hackeroos innovate 💡🦘"),
         status=discord.Status.online,
     )
 
@@ -877,7 +902,7 @@ async def on_member_join(member: discord.Member):
     try:
         await member.send(
             f"Welcome to Hackeroos, {member.name}! 🦘💛\n"
-            f"I'm **Pika-Bot**. Use `/pika-help` in the server to see what I can do.\n"
+            f"I'm **Rooby**. Use `/rooby-help` in the server to see what I can do.\n"
             f"To unlock channels, run `/verify` in #{WELCOME_CHANNEL_NAME}."
         )
     except discord.Forbidden:
@@ -886,7 +911,7 @@ async def on_member_join(member: discord.Member):
     channel = discord.utils.get(member.guild.text_channels, name=WELCOME_CHANNEL_NAME)
     if channel:
         await channel.send(
-            f"⚡ G'day {member.mention}! Welcome to **{member.guild.name}** — run `/verify` to get access!"
+            f"💡 G'day {member.mention}! Welcome to **{member.guild.name}** — run `/verify` to get access!"
         )
 
     await send_mod_log(
@@ -1115,35 +1140,35 @@ async def handle_winner_announcement(message: discord.Message) -> None:
 # -------------------------------------------------
 # 18) SLASH COMMANDS
 # -------------------------------------------------
-@bot.tree.command(name="pika-help", description="Show all Pika-Bot slash commands 🦘")
+@bot.tree.command(name="rooby-help", description="Show all Rooby slash commands 🦘")
 async def pika_help(interaction: discord.Interaction):
     embed = discord.Embed(
-        title="Pika-Bot — Hackeroos Helper",
+        title="Rooby — Hackeroos Helper",
         description="Slash commands currently available:",
         color=0xffc300
     )
     for cmd in bot.tree.get_commands():
         embed.add_field(name=f"/{cmd.name}", value=(cmd.description or "No description"), inline=False)
-    embed.set_footer(text="Built by Pika-Bots (AIHE Group 19)")
+    embed.set_footer(text="Built by Hackeroos")
     await interaction.response.send_message(embed=embed, ephemeral=True)
 
 
-@bot.tree.command(name="hello", description="Say g'day to Pika-Bot")
+@bot.tree.command(name="hello", description="Say g'day to Rooby")
 async def hello(interaction: discord.Interaction):
     await interaction.response.send_message(
-        f"G'day {interaction.user.mention}! Pika-Bot here — ready to hack and hop! ⚡🦘"
+        f"G'day {interaction.user.mention}! Rooby here — ready to hack and hop! 💡🦘"
     )
 
 
 @bot.tree.command(name="about", description="What is Hackeroos / who made this bot?")
 async def about(interaction: discord.Interaction):
     embed = discord.Embed(
-        title="Hackeroos 🦘⚡",
+        title="Hackeroos 🦘💡",
         description="Aussie-flavoured, student-friendly tech + hackathon community.",
         color=0x00bcd4
     )
     embed.add_field(
-        name="What Pika-Bot does",
+        name="What Rooby does",
         value=(
             "• Welcome members (DM + public)\n"
             "• Verify users with `/verify`\n"
@@ -1159,7 +1184,7 @@ async def about(interaction: discord.Interaction):
         value="X: https://x.com/hackeroos_au\nWeb: https://www.hackeroos.com.au/",
         inline=False
     )
-    embed.add_field(name="Team", value="Pika-Bots — AIHE Group 19", inline=False)
+    embed.add_field(name="Team", value="Hackeroos", inline=False)
     await interaction.response.send_message(embed=embed)
 
 
@@ -1220,14 +1245,14 @@ def create_fallback_hackathons_embed(title: str, description: str) -> discord.Em
     )
     embed.add_field(name="Devpost", value="[devpost.com/hackathons](https://devpost.com/hackathons)", inline=False)
     embed.add_field(name="MLH", value="[mlh.io/events](https://mlh.io/events)", inline=False)
-    embed.add_field(name="Lu.ma", value="[lu.ma/tag/hackathon](https://lu.ma/tag/hackathon)", inline=False)
+    embed.add_field(name="Lu.ma", value="[lu.ma/tag/hackathon](https://lu.ma/)", inline=False)
     embed.add_field(name="Hack Club", value="[events.hackclub.com](https://events.hackclub.com/)", inline=False)
     embed.add_field(
         name="Hackeroos What's On",
-        value="[hackeroos.com.au/#whats-on](https://www.hackeroos.com.au/#whats-on)",
+        value="[hackeroos.com.au/#whats-on](https://www.hackeroos.com.au/)",
         inline=False
     )
-    embed.set_footer(text="Pika-Bot • /hackathons uses a feed built from these sites.")
+    embed.set_footer(text="Rooby • /hackathons uses a feed built from these sites.")
     return embed
 
 
@@ -1235,48 +1260,38 @@ def create_fallback_hackathons_embed(title: str, description: str) -> discord.Em
 async def hackathons_cmd(interaction: discord.Interaction):
     await interaction.response.defer(ephemeral=False)
 
-    events = await fetch_hackathons()
-    if not events:
-        await interaction.followup.send(embed=create_fallback_hackathons_embed(
-            "No Live Hackathons Found (Right Now)",
-            "I couldn't read any upcoming hackathons from the feed."
-        ))
-        return
-
-    online_events = filter_online_events(events)
-    if not online_events:
-        await interaction.followup.send(embed=create_fallback_hackathons_embed(
-            "No Online Hackathons Found (Right Now)",
-            "I couldn't find online-only hackathons in the merged feed."
-        ))
-        return
-
-    cleaned_events = [e for e in filter_events_with_dates(online_events) if is_future_event(e)]
-    if not cleaned_events:
-        embed = discord.Embed(
-            title="Online Hackathons (Dates Coming Soon)",
-            description=(
-                "The feed has online events but without clear dates.\n"
-                "Please check Devpost / MLH / Lu.ma / Hack Club / Hackeroos directly."
-            ),
-            color=0xffc300
-        )
-        await interaction.followup.send(embed=embed)
-        return
-
-    sorted_events = sort_events_by_date(cleaned_events)
-    top_events = [e for (e, _) in sorted_events[:MAX_EVENTS_IN_HACKATHONS_CMD]]
+    # Fetch Hackeroos API events and global events in parallel
+    hackeroos_events, events = await asyncio.gather(
+        fetch_hackeroos_api_events(),
+        fetch_hackathons(),
+    )
 
     embed = discord.Embed(
         title="Live Online Global Hackathons",
         description=(
-            f"Here are the next ~{MAX_EVENTS_IN_HACKATHONS_CMD} upcoming **online** hackathons "
-            "from the merged feed.\n"
-            "Sources include Devpost, MLH, Lu.ma, Hack Club, and Hackeroos."
+            "Here are the latest upcoming **online** hackathons.\n"
+            "Sources include Hackeroos, Devpost, MLH, Lu.ma, and Hack Club."
         ),
         color=0x00bcd4,
         timestamp=datetime.now(timezone.utc),
     )
+
+    # Hackeroos events always appear first — active=true means live, active=false means done
+    for e in hackeroos_events:
+        title = (e.get("title") or "Hackeroos Event")[:100]
+        tagline = e.get("tagline", "")
+        url = e.get("url", "https://www.hackeroos.com.au/")
+        value = f"🦘 Hackeroos • Online"
+        if tagline:
+            value += f"\n_{tagline}_"
+        value += f"\n[Details]({url})"
+        embed.add_field(name=title, value=value, inline=False)
+
+    # Global events — filter to future online events with known dates
+    online_events = filter_online_events(events)
+    cleaned_events = [e for e in filter_events_with_dates(online_events) if is_future_event(e)]
+    sorted_events = sort_events_by_date(cleaned_events)
+    top_events = [e for (e, _) in sorted_events[:MAX_EVENTS_IN_HACKATHONS_CMD]]
 
     for e in top_events:
         title = (e.get("title") or "Untitled")[:100]
@@ -1285,33 +1300,35 @@ async def hackathons_cmd(interaction: discord.Interaction):
         dt = parse_iso_date(e.get("start_date") or "")
         start = dt.strftime("%Y-%m-%d") if dt else "Date coming soon"
         url = e.get("url", "#")
-
-        label = f"[{source}]"
-        if (source or "").strip().lower() == "hackeroos":
-            label = "🦘 Hackeroos"
-
         embed.add_field(
             name=title,
-            value=f"{label} • {location} • {start} • [Details]({url})",
+            value=f"[{source}] • {location} • {start} • [Details]({url})",
             inline=False
         )
+
+    if not hackeroos_events and not top_events:
+        await interaction.followup.send(embed=create_fallback_hackathons_embed(
+            "No Live Hackathons Found (Right Now)",
+            "I couldn't find any upcoming hackathons right now."
+        ))
+        return
 
     embed.add_field(
         name="Prefer browsing manually?",
         value=(
             "• Devpost – https://devpost.com/hackathons\n"
             "• MLH – https://mlh.io/events\n"
-            "• Lu.ma – https://lu.ma/tag/hackathon\n"
+            "• Lu.ma – https://lu.ma/\n"
             "• Hack Club – https://events.hackclub.com/\n"
-            "• Hackeroos – https://www.hackeroos.com.au/#whats-on"
+            "• Hackeroos – https://www.hackeroos.com.au/"
         ),
         inline=False
     )
-    embed.set_footer(text="Pika-Bot • Online-only feed from GitHub Actions + Insights API.")
+    embed.set_footer(text="Rooby • Online-only feed from GitHub Actions + Insights API.")
     await interaction.followup.send(embed=embed)
 
 
-@bot.tree.command(name="faq", description="Common questions about Hackeroos / Pika-Bot")
+@bot.tree.command(name="faq", description="Common questions about Hackeroos / Rooby")
 async def faq(interaction: discord.Interaction):
     embed = discord.Embed(title="Hackeroos FAQ", description="Quick answers for new members:", color=0x3b82f6)
     embed.add_field(name="1. I just joined, what now?",
@@ -1320,7 +1337,7 @@ async def faq(interaction: discord.Interaction):
     embed.add_field(name="2. How do I see global hackathons?", value="Use `/hackathons` (online-only).", inline=False)
     embed.add_field(name="3. Can I ask AI-style questions?", value="Yes, use `/ask <your question>`.", inline=False)
     embed.add_field(name="4. How do I see past winners?", value="Use `/winners`.", inline=False)
-    embed.add_field(name="5. Who built this?", value="Pika-Bots — AIHE Group 19.", inline=False)
+    embed.add_field(name="5. Who built this?", value="Hackeroos.", inline=False)
     embed.add_field(name="6. Where can I follow Hackeroos?",
                     value="X: https://x.com/hackeroos_au\nWeb: https://www.hackeroos.com.au/",
                     inline=False)
@@ -1335,7 +1352,7 @@ async def status_cmd(interaction: discord.Interaction):
     )
 
 
-@bot.tree.command(name="ask", description="Ask Pika-Bot in natural language 🤖")
+@bot.tree.command(name="ask", description="Ask Rooby in natural language 🤖")
 async def ask(interaction: discord.Interaction, question: str):
     await interaction.response.defer(ephemeral=True)
 
@@ -1483,7 +1500,7 @@ async def handle_llm_question(interaction: discord.Interaction, question: str) -
                 {
                     "role": "system",
                     "content": (
-                        "You are Pika-Bot, a friendly Australian hackathon assistant for the "
+                        "You are Rooby, a friendly Australian hackathon assistant for the "
                         "Hackeroos Discord community. Be concise, encouraging, and clear. "
                         "If the user asks about specific Hackeroos winners or upcoming events, "
                         "ask them to use the bot's commands instead: /winners and /hackathons."
@@ -1493,7 +1510,7 @@ async def handle_llm_question(interaction: discord.Interaction, question: str) -
             ],
         )
         reply = completion.choices[0].message.content
-        await interaction.followup.send(f"🦘 **Pika-Bot AI:** {reply}", ephemeral=True)
+        await interaction.followup.send(f"🦘 **Rooby AI:** {reply}", ephemeral=True)
     except Exception as e:
         await interaction.followup.send(
             f"⚠️ I couldn't talk to Hugging Face Inference Providers:\n```{e}```",
@@ -1560,7 +1577,7 @@ async def winners_cmd(interaction: discord.Interaction):
                 inline=False,
             )
 
-    embed.set_footer(text="Configured via /set-winner or announcements • Pika-Bot")
+    embed.set_footer(text="Configured via /set-winner or announcements • Rooby")
     await interaction.response.send_message(embed=embed, ephemeral=False)
 
 
