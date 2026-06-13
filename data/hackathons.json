@@ -154,13 +154,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Cyber_Coders",
-    "url": "https://cybercoders2026.devpost.com/",
-    "start_date": "Jun 13 - 22, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Databricks Apps & Agents for Good Hackathon 2026",
     "url": "https://dais-for-good-2026.devpost.com/",
     "start_date": "Jun 16, 2026",
@@ -266,13 +259,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hack Days in Delhi",
-    "url": "https://hack-days-in-delhi-2026.devpost.com/",
-    "start_date": "Jun 13, 2026",
-    "location": "Masters' Union",
-    "source": "Devpost"
-  },
-  {
     "title": "Hack for Humanity | Summer 2026",
     "url": "https://hack-for-humanity-summer-26.devpost.com/",
     "start_date": "Aug 07 - Sep 04, 2026",
@@ -336,10 +322,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Hacks day Bhopal",
-    "url": "https://hacks-day-bhopal-30348.devpost.com/",
+    "title": "HackRome",
+    "url": "https://hackrome-2026.devpost.com/",
     "start_date": "Jun 13, 2026",
-    "location": "Online",
+    "location": "The Social Hub Rome",
     "source": "Devpost"
   },
   {
@@ -347,13 +333,6 @@
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Harness Engineering Hack",
-    "url": "https://harness-hack.devpost.com/",
-    "start_date": "Jun 12, 2026",
-    "location": "AWS Builder Loft",
     "source": "Devpost"
   },
   {
@@ -382,13 +361,6 @@
     "url": "https://innovators-hub-hackathon.devpost.com/",
     "start_date": "Jun 29, 2026",
     "location": "NRI Group of Institutions Bhopal",
-    "source": "Devpost"
-  },
-  {
-    "title": "JAMHacks 10",
-    "url": "https://jamhacks-10.devpost.com/",
-    "start_date": "Jun 12 - 14, 2026",
-    "location": "University of Waterloo - PSE",
     "source": "Devpost"
   },
   {
@@ -441,6 +413,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Milpitas Hacks 3",
+    "url": "https://mh3.devpost.com/",
+    "start_date": "Jun 13, 2026",
+    "location": "Milpitas High School",
+    "source": "Devpost"
+  },
+  {
     "title": "MunichTech EXPO",
     "url": "https://munichtech-expo.devpost.com/",
     "start_date": "Sep 01 - 20, 2026",
@@ -473,6 +452,13 @@
     "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
     "start_date": "Sep 14 - Oct 01, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Open Atlas - AI for Social Good Hackathon 2026",
+    "url": "https://oa-ai-for-social-good.devpost.com/",
+    "start_date": "Jun 20 - Aug 20, 2026",
+    "location": "India Community Centre, Milpitas, CA",
     "source": "Devpost"
   },
   {
@@ -574,10 +560,24 @@
     "source": "Devpost"
   },
   {
+    "title": "TillyHacks",
+    "url": "https://tillyhacks.devpost.com/",
+    "start_date": "Jun 13, 2026",
+    "location": "Keller Williams Fairfax Gateway",
+    "source": "Devpost"
+  },
+  {
     "title": "TryToHack Thüringen",
     "url": "https://trytohack.devpost.com/",
     "start_date": "Jun 20, 2026",
     "location": "Friedrich Schiller University Jena",
+    "source": "Devpost"
+  },
+  {
+    "title": "UC Berkeley AI Hackathon 2026",
+    "url": "https://ai-hackathon-2026.devpost.com/",
+    "start_date": "Jun 20 - 21, 2026",
+    "location": "Martin Luther King, Jr. Student Union",
     "source": "Devpost"
   },
   {
