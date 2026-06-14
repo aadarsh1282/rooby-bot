@@ -105,13 +105,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Case Closed: An Agentic Hackathon",
-    "url": "https://railtracks-case-closed.devpost.com/",
-    "start_date": "Jun 14 - 22, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "CloudHacks  2026",
     "url": "https://cloudhacks-2026.devpost.com/",
     "start_date": "Aug 24, 2026",
@@ -144,6 +137,13 @@
     "url": "https://csihacks.devpost.com/",
     "start_date": "Jun 27, 2026",
     "location": "Zoho Corporation, Pleasanton CA",
+    "source": "Devpost"
+  },
+  {
+    "title": "Ctrl+V Hackathon",
+    "url": "https://ctrl-v-hackathon.devpost.com/",
+    "start_date": "Jul 01 - 05, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -221,6 +221,13 @@
     "url": "https://galuxium-nexus-v2-29411.devpost.com/",
     "start_date": "Jul 01 - Aug 01, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Gemini.exe 2.0",
+    "url": "https://gemini-exe-2-0.devpost.com/",
+    "start_date": "Jun 21, 2026",
+    "location": "Avadi, India",
     "source": "Devpost"
   },
   {
@@ -322,13 +329,6 @@
     "source": "Devpost"
   },
   {
-    "title": "HackRome",
-    "url": "https://hackrome-2026.devpost.com/",
-    "start_date": "Jun 13, 2026",
-    "location": "The Social Hub Rome",
-    "source": "Devpost"
-  },
-  {
     "title": "HackTitan",
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
@@ -399,13 +399,6 @@
     "source": "Devpost"
   },
   {
-    "title": "LingHacks VII",
-    "url": "https://linghacks-vii.devpost.com/",
-    "start_date": "Jun 13 - 14, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "MarinHacks",
     "url": "https://marinhacks.devpost.com/",
     "start_date": "Aug 02, 2026",
@@ -413,10 +406,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Milpitas Hacks 3",
-    "url": "https://mh3.devpost.com/",
-    "start_date": "Jun 13, 2026",
-    "location": "Milpitas High School",
+    "title": "MelonJam 7",
+    "url": "https://melonjam-7.devpost.com/",
+    "start_date": "Jul 17 - 20, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -497,6 +490,13 @@
     "source": "Devpost"
   },
   {
+    "title": "SC Quantathon v3",
+    "url": "https://sc-quantathon-v3.devpost.com/",
+    "start_date": "Sep 26 - 27, 2026",
+    "location": "Clemson University",
+    "source": "Devpost"
+  },
+  {
     "title": "Shower Hacks",
     "url": "https://showerhacks.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
@@ -532,13 +532,6 @@
     "source": "Devpost"
   },
   {
-    "title": "The London Rork Game Hackathon",
-    "url": "https://the-london-rork-game-hackathon.devpost.com/",
-    "start_date": "Jun 13, 2026",
-    "location": "Makerversity",
-    "source": "Devpost"
-  },
-  {
     "title": "The Mastery Mentors Hackathon",
     "url": "https://themasterymentorshackathon.devpost.com/",
     "start_date": "Jun 26 - Jul 03, 2026",
@@ -557,13 +550,6 @@
     "url": "https://the-vakathon.devpost.com/",
     "start_date": "Jul 11, 2026",
     "location": "San Ramon Community Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "TillyHacks",
-    "url": "https://tillyhacks.devpost.com/",
-    "start_date": "Jun 13, 2026",
-    "location": "Keller Williams Fairfax Gateway",
     "source": "Devpost"
   },
   {
@@ -613,13 +599,6 @@
     "url": "https://wwu-sj-hack.devpost.com/",
     "start_date": "Oct 16 - 18, 2026",
     "location": "WWU - Kaiser Borsari Building",
-    "source": "Devpost"
-  },
-  {
-    "title": "Your idea vs 1,000 other marketers. Let’s see where you actually stand.",
-    "url": "https://idea-vs-1000-marketers.devpost.com/",
-    "start_date": "Jun 14 - 29, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
