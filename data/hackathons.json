@@ -30,8 +30,8 @@
   {
     "title": "AI COMMUNICATION BRIDGE HACKATHON",
     "url": "https://ai-communication-bridge.devpost.com/",
-    "start_date": "Jun 19, 2026",
-    "location": "Juja, Kenya",
+    "start_date": "Jun 27, 2026",
+    "location": "Moringa School 1st Floor",
     "source": "Devpost"
   },
   {
@@ -70,6 +70,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Bitcoin++ Open Source Edition",
+    "url": "https://foss.devpost.com/",
+    "start_date": "Jun 17 - 18, 2026",
+    "location": "Pride Inn Azure Towers",
+    "source": "Devpost"
+  },
+  {
     "title": "BlairHacks 8",
     "url": "https://8-blairhacks.devpost.com/",
     "start_date": "Jun 26 - 27, 2026",
@@ -102,6 +109,13 @@
     "url": "https://auto-ai-hackathon-munich-2026.devpost.com/",
     "start_date": "Jun 19, 2026",
     "location": "AWS Office Munich",
+    "source": "Devpost"
+  },
+  {
+    "title": "Case Closed: An Agentic Hackathon",
+    "url": "https://railtracks-case-closed.devpost.com/",
+    "start_date": "Jun 19 - 22, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -151,6 +165,13 @@
     "url": "https://cyber-hawk-hackathon.devpost.com/",
     "start_date": "Sep 26, 2026",
     "location": "Monmouth University",
+    "source": "Devpost"
+  },
+  {
+    "title": "Cyber Sages Hackathon",
+    "url": "https://cybersageshackathon.devpost.com/",
+    "start_date": "Jul 06, 2026",
+    "location": "Brambleton Public Library",
     "source": "Devpost"
   },
   {
@@ -228,13 +249,6 @@
     "url": "https://gemini-exe-2-0.devpost.com/",
     "start_date": "Jun 21, 2026",
     "location": "Avadi, India",
-    "source": "Devpost"
-  },
-  {
-    "title": "Girls Got Game Jam",
-    "url": "https://girls-got-game-jam-3.devpost.com/",
-    "start_date": "Jun 15 - 23, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -350,13 +364,6 @@
     "source": "Devpost"
   },
   {
-    "title": "India High School Exoplanet Data Challenge",
-    "url": "https://celesta-exoplanet-challenge.devpost.com/",
-    "start_date": "Jun 15 - Jul 31, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Innovators Hub Hackathon",
     "url": "https://innovators-hub-hackathon.devpost.com/",
     "start_date": "Jun 29, 2026",
@@ -417,13 +424,6 @@
     "url": "https://munichtech-expo.devpost.com/",
     "start_date": "Sep 01 - 20, 2026",
     "location": "Munich, Germany",
-    "source": "Devpost"
-  },
-  {
-    "title": "Next Byte Hacks V3",
-    "url": "https://next-byte-hacks-v3.devpost.com/",
-    "start_date": "Jun 15 - Jul 15, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -525,6 +525,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Stupid Ideas Hackathon (Ottawa F26)",
+    "url": "https://stupideas-ottawa-f26.devpost.com/",
+    "start_date": "Sep 12, 2026",
+    "location": "Ottawa, Canada",
+    "source": "Devpost"
+  },
+  {
     "title": "Tech to Treasure Hackathon",
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Jul 31, 2026",
@@ -574,13 +581,6 @@
     "source": "Devpost"
   },
   {
-    "title": "USAII® Global AI Hackathon 2026",
-    "url": "https://usaii-global-ai-hackathon-2026.devpost.com/",
-    "start_date": "Jun 14 - 21, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Vibe Code Animated Maps",
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "Jun 20, 2026",
@@ -605,6 +605,13 @@
     "title": "Youth Code x AI",
     "url": "https://youth-code-x-ai-29376.devpost.com/",
     "start_date": "Jun 20 - 27, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Zero to Live: Website Challenge",
+    "url": "https://zero-to-live-website-challenge.devpost.com/",
+    "start_date": "Jun 21 - 30, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -674,17 +681,10 @@
     "source": "MLH"
   },
   {
-    "title": "Hyderabad , Telangana HackPrix",
-    "url": "https://s3.hackprix.tech/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackPrix+Season+3",
-    "start_date": "Season 3",
-    "location": "JUN 13 - 14 Hyderabad, Telangana, IN In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Waterloo , Ontario",
-    "url": "https://jamhacks.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=JAMHacks+10",
-    "start_date": "JAMHacks 10",
-    "location": "JUN 12 - 14 Waterloo, Ontario, CA In-Person HIGH SCHOOL",
+    "title": "W2",
+    "url": "https://events.mlh.io/events/14391-wehack-2027?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=WEHack+2027",
+    "start_date": "WEHack 20",
+    "location": "27 APR 10 - 11 Everywhere, Worldwide Digital",
     "source": "MLH"
   }
 ]
