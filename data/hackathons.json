@@ -30,7 +30,7 @@
   {
     "title": "AI Builders Hackathon",
     "url": "https://ai-builders-hackathon-2026.devpost.com/",
-    "start_date": "Aug 21 - 25, 2026",
+    "start_date": "Aug 01 - 25, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -65,7 +65,7 @@
   {
     "title": "BeatHacks",
     "url": "https://beathacks.devpost.com/",
-    "start_date": "Jun 19 - 21, 2026",
+    "start_date": "Jun 26 - 28, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -74,13 +74,6 @@
     "url": "https://biohacksmcmaster.devpost.com/",
     "start_date": "Sep 26 - 27, 2026",
     "location": "McMaster University - PGCLL",
-    "source": "Devpost"
-  },
-  {
-    "title": "Bitcoin++ Open Source Edition",
-    "url": "https://foss.devpost.com/",
-    "start_date": "Jun 17 - 18, 2026",
-    "location": "Pride Inn Azure Towers",
     "source": "Devpost"
   },
   {
@@ -133,10 +126,10 @@
     "source": "Devpost"
   },
   {
-    "title": "CipherHacks 2026",
-    "url": "https://cipherhacks2026.devpost.com/",
-    "start_date": "Jun 18, 2026",
-    "location": "SD Central Library - Shiley Events Suite",
+    "title": "Changbal Innovation Hack 2026",
+    "url": "https://changbal-innovation-hack-2026.devpost.com/",
+    "start_date": "Jun 19 - 20, 2026",
+    "location": "University of Washington - HSEB101",
     "source": "Devpost"
   },
   {
@@ -196,17 +189,17 @@
     "source": "Devpost"
   },
   {
-    "title": "Department Battle: Hack Days",
-    "url": "https://department-battle-hack-days.devpost.com/",
-    "start_date": "Jun 18, 2026",
-    "location": "AITR Indore",
-    "source": "Devpost"
-  },
-  {
     "title": "Dev Clash",
     "url": "https://dev-clash.devpost.com/",
     "start_date": "Jun 25, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "DeveloperWeek 2027 Hackathon",
+    "url": "https://developerweek-2027-hackathon.devpost.com/",
+    "start_date": "Jan 25 - Feb 11, 2027",
+    "location": "Santa Clara Convention Center + Online",
     "source": "Devpost"
   },
   {
@@ -270,6 +263,13 @@
     "url": "https://gemini-exe-2-0.devpost.com/",
     "start_date": "Jun 21, 2026",
     "location": "Avadi, India",
+    "source": "Devpost"
+  },
+  {
+    "title": "Global Innovation Build Challenge V2",
+    "url": "https://gibc-v2.devpost.com/",
+    "start_date": "Jul 11 - Sep 21, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -556,7 +556,7 @@
     "title": "Southwest MN Hacks",
     "url": "https://southwest-mn-hacks.devpost.com/",
     "start_date": "Sep 12 - 13, 2026",
-    "location": "Upper conference center",
+    "location": "Upper conference center, SMSU",
     "source": "Devpost"
   },
   {
