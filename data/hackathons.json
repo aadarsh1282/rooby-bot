@@ -21,6 +21,13 @@
     "source": "Devpost"
   },
   {
+    "title": "ACC Workshop June 26th",
+    "url": "https://accjune26.devpost.com/",
+    "start_date": "Jun 26 - Jul 03, 2026",
+    "location": "ACC Round Rock Campus",
+    "source": "Devpost"
+  },
+  {
     "title": "Agentic AI Innovation Challenge 2026",
     "url": "https://agentic-ai-innovation-2026.devpost.com/",
     "start_date": "Jul 15 - 31, 2026",
@@ -109,13 +116,6 @@
     "url": "https://bwai-makerere-hackathon.devpost.com/",
     "start_date": "Jun 27, 2026",
     "location": "Makerere University",
-    "source": "Devpost"
-  },
-  {
-    "title": "CANCELED - GenAI AI Hackathon — Automotive & Manufacturing Use Cases",
-    "url": "https://auto-ai-hackathon-munich-2026.devpost.com/",
-    "start_date": "Jun 19, 2026",
-    "location": "AWS Office Munich",
     "source": "Devpost"
   },
   {
@@ -266,6 +266,20 @@
     "source": "Devpost"
   },
   {
+    "title": "Global AI Filmmaking Hackathon (EAST2046 × TapNow × Bionic Awards)",
+    "url": "https://global-ai-film-hackathon.devpost.com/",
+    "start_date": "Jul 03 - 10, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Global Builders Hackathon: Code for Impact",
+    "url": "https://global-builders.devpost.com/",
+    "start_date": "Aug 08 - 10, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Global Innovation Build Challenge V2",
     "url": "https://gibc-v2.devpost.com/",
     "start_date": "Jul 11 - Sep 21, 2026",
@@ -371,6 +385,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Healthcare x AI Hackathon | HAIG Media",
+    "url": "https://haignyc1.devpost.com/",
+    "start_date": "Jun 26 - 27, 2026",
+    "location": "Baseten NYC HQ",
+    "source": "Devpost"
+  },
+  {
     "title": "Horizon STEM Hackthon",
     "url": "https://horizon-stem-hackthon.devpost.com/",
     "start_date": "Jul 25, 2026",
@@ -382,6 +403,13 @@
     "url": "https://hoya-hacks-2027.devpost.com/",
     "start_date": "Jan 22 - 24, 2027",
     "location": "Healey Family Student Center",
+    "source": "Devpost"
+  },
+  {
+    "title": "ImagineHack 2026",
+    "url": "https://imaginehack2026.devpost.com/",
+    "start_date": "Jun 19 - 20, 2026",
+    "location": "Taylor's University Lakeside Campus",
     "source": "Devpost"
   },
   {
@@ -630,6 +658,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Vitalitics 2026",
+    "url": "https://vitalitics26.devpost.com/",
+    "start_date": "Jun 20 - Jul 31, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "vsHacks 2026",
     "url": "https://vshacks-2026.devpost.com/",
     "start_date": "Jul 11 - 12, 2026",
@@ -709,13 +744,6 @@
     "source": "MLH"
   },
   {
-    "title": "Global Hack Week: Hacking for Good",
-    "url": "https://events.mlh.io/events/14302-global-hack-week-hacking-for-good?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Hacking+for+Good",
-    "start_date": "JUN 12 - 18",
-    "location": "Everywhere, Worldwide Digital",
-    "source": "MLH"
-  },
-  {
     "title": "Global Hack Week: Season Launch",
     "url": "https://events.mlh.io/events/14284-global-hack-week-season-launch?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Season+Launch",
     "start_date": "JUL 10 - 16",
@@ -723,10 +751,10 @@
     "source": "MLH"
   },
   {
-    "title": "W2",
-    "url": "https://events.mlh.io/events/14391-wehack-2027?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=WEHack+2027",
-    "start_date": "WEHack 20",
-    "location": "27 APR 10 - 11 Everywhere, Worldwide Digital",
+    "title": "Toronto , Ontario Hack",
+    "url": "https://hackthe6ix.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+the+6ix",
+    "start_date": "the 6",
+    "location": "ix JUL 17 - 19 Toronto, Ontario, CA In-Person",
     "source": "MLH"
   }
 ]
