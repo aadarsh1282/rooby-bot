@@ -56,6 +56,13 @@
     "source": "Devpost"
   },
   {
+    "title": "AICOO HACKATHON",
+    "url": "https://aicoo-hackathon.devpost.com/",
+    "start_date": "Jun 27 - 28, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "BASK(Business Achievement Spotlight for Kids) Monthly Pitch Competition",
     "url": "https://baskchallenge.devpost.com/",
     "start_date": "Jul 01 - 31, 2026",
@@ -217,13 +224,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Easygo Mini Hackathon - Powered by KICK",
-    "url": "https://easygo-mini-hackathon.devpost.com/",
-    "start_date": "Jul 31 - Aug 01, 2026",
-    "location": "Fortress Melbourne",
-    "source": "Devpost"
-  },
-  {
     "title": "Esri's Weekend of Innovation 2026",
     "url": "https://esri-woi-2026.devpost.com/",
     "start_date": "Jul 24 - 26, 2026",
@@ -247,7 +247,7 @@
   {
     "title": "Galuxium Nexus V2",
     "url": "https://galuxium-nexus-v2-29411.devpost.com/",
-    "start_date": "Jul 01 - Aug 01, 2026",
+    "start_date": "Jul 15 - Aug 01, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -476,6 +476,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Multiagents Hackathon",
+    "url": "https://multiagents-hackathon.devpost.com/",
+    "start_date": "Jun 26, 2026",
+    "location": "Tessl AI Limited",
+    "source": "Devpost"
+  },
+  {
     "title": "MunichTech EXPO",
     "url": "https://munichtech-expo.devpost.com/",
     "start_date": "Sep 01 - 20, 2026",
@@ -616,13 +623,6 @@
     "source": "Devpost"
   },
   {
-    "title": "The Rice University Urban Sustainability Hackathon",
-    "url": "https://rice-urban-sustainability.devpost.com/",
-    "start_date": "Jun 23 - Sep 18, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "The Vakathon",
     "url": "https://the-vakathon.devpost.com/",
     "start_date": "Jul 11, 2026",
@@ -700,6 +700,20 @@
     "start_date": "",
     "location": "Online / TBA",
     "source": "Hackeroos"
+  },
+  {
+    "title": "Agarpara Kolkata , West Bengal",
+    "url": "https://hexafalls.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hexafalls+2",
+    "start_date": "Hexafalls 2",
+    "location": "JUL 24 - 26 Agarpara Kolkata, West Bengal, IN In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "FPH , FPH Midnight Virtual Hackathon",
+    "url": "https://www.google.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Midnight+Virtual+Hackathon",
+    "start_date": "JUL 17 - 19",
+    "location": "Everywhere, Worldwide, US Digital",
+    "source": "MLH"
   },
   {
     "title": "GH Global Hack Week: Data",
