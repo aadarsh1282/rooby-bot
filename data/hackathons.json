@@ -86,7 +86,7 @@
   {
     "title": "BioHacks",
     "url": "https://biohacksmcmaster.devpost.com/",
-    "start_date": "Sep 26 - 27, 2026",
+    "start_date": "Nov 07 - 08, 2026",
     "location": "McMaster University - PGCLL",
     "source": "Devpost"
   },
@@ -114,7 +114,7 @@
   {
     "title": "Build with AI Makerere Hackathon",
     "url": "https://bwai-makerere-hackathon.devpost.com/",
-    "start_date": "Jun 27, 2026",
+    "start_date": "Jun 25 - 27, 2026",
     "location": "Makerere University",
     "source": "Devpost"
   },
@@ -137,6 +137,13 @@
     "url": "https://codelinc11.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
     "location": "Lincoln Financial Group",
+    "source": "Devpost"
+  },
+  {
+    "title": "Codex Community Meetup - Dhaka",
+    "url": "https://codex-community-meetup-dhaka.devpost.com/",
+    "start_date": "Jun 25 - 26, 2026",
+    "location": "BRAC University",
     "source": "Devpost"
   },
   {
@@ -184,7 +191,7 @@
   {
     "title": "Dev Clash",
     "url": "https://dev-clash.devpost.com/",
-    "start_date": "Jun 25, 2026",
+    "start_date": "Jul 10, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -217,13 +224,6 @@
     "source": "Devpost"
   },
   {
-    "title": "DSH Pitch",
-    "url": "https://dsh-pitch-30500.devpost.com/",
-    "start_date": "Jun 24 - Aug 30, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Esri's Weekend of Innovation 2026",
     "url": "https://esri-woi-2026.devpost.com/",
     "start_date": "Jul 24 - 26, 2026",
@@ -234,13 +234,6 @@
     "title": "evensonarisnord",
     "url": "https://evensonarisnord.devpost.com/",
     "start_date": "Dec 31, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "FutureHacks",
-    "url": "https://futurehacks.devpost.com/",
-    "start_date": "Jun 24 - 28, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -319,6 +312,13 @@
     "url": "https://hack-peel.devpost.com/",
     "start_date": "Dec 12 - 13, 2026",
     "location": "The Woodlands Secondary School",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hackathon New Delhi: Build AI Agents",
+    "url": "https://hackathon-elk-gcp.devpost.com/",
+    "start_date": "Jul 18, 2026",
+    "location": "ThoughtWorks Technologies - Gurugram",
     "source": "Devpost"
   },
   {
@@ -448,13 +448,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Lumora Hacks",
-    "url": "https://lumora-hacks-2026.devpost.com/",
-    "start_date": "Jun 25 - Jul 01, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "MarinHacks",
     "url": "https://marinhacks.devpost.com/",
     "start_date": "Aug 02, 2026",
@@ -574,13 +567,6 @@
     "source": "Devpost"
   },
   {
-    "title": "SmartAIthon 2026",
-    "url": "https://smartaithon.devpost.com/",
-    "start_date": "Jun 24 - Jul 15, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Sound for All",
     "url": "https://sound-for-all.devpost.com/",
     "start_date": "Jun 26 - Jul 31, 2026",
@@ -599,6 +585,13 @@
     "url": "https://stem-energy-hackathon-30249.devpost.com/",
     "start_date": "Aug 10, 2026",
     "location": "To be addressed soon",
+    "source": "Devpost"
+  },
+  {
+    "title": "STEMist Hacks IV",
+    "url": "https://stemist-hacks-iv.devpost.com/",
+    "start_date": "Jul 30 - Aug 02, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -662,6 +655,13 @@
     "url": "https://ztq.devpost.com/",
     "start_date": "Jul 08 - 21, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "⚡ Build Fast. Launch Loud. ⚡",
+    "url": "https://build-fast-launch-loud.devpost.com/",
+    "start_date": "Jul 25, 2026",
+    "location": "Palo Alto, CA, USA",
     "source": "Devpost"
   },
   {
