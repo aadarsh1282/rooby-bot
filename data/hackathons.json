@@ -1,12 +1,5 @@
 [
   {
-    "title": "$1,000 Industrial AI Hackathon",
-    "url": "https://1-000-industrial-ai-hackathon.devpost.com/",
-    "start_date": "Jun 26 - 27, 2026",
-    "location": "Antler VC corporate office",
-    "source": "Devpost"
-  },
-  {
     "title": "757 BLD WKND 2026 2.0",
     "url": "https://757-bld-wknd-2026-2-0.devpost.com/",
     "start_date": "Jul 17 - 19, 2026",
@@ -18,13 +11,6 @@
     "url": "https://8-bit-jam.devpost.com/",
     "start_date": "Aug 08 - 09, 2026",
     "location": "Herndon, Virginia",
-    "source": "Devpost"
-  },
-  {
-    "title": "ACC Workshop June 26th",
-    "url": "https://accjune26.devpost.com/",
-    "start_date": "Jun 26 - Jul 03, 2026",
-    "location": "ACC Round Rock Campus",
     "source": "Devpost"
   },
   {
@@ -42,24 +28,10 @@
     "source": "Devpost"
   },
   {
-    "title": "AI COMMUNICATION BRIDGE HACKATHON",
-    "url": "https://ai-communication-bridge.devpost.com/",
-    "start_date": "Jun 27, 2026",
-    "location": "Moringa School 1st Floor",
-    "source": "Devpost"
-  },
-  {
     "title": "AI Hackathon 2026 by LA Hacks",
     "url": "https://la-ai-hackathon-2026.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
     "location": "James West Alumni Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "AICOO HACKATHON",
-    "url": "https://aicoo-hackathon.devpost.com/",
-    "start_date": "Jun 27 - 28, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -81,13 +53,6 @@
     "url": "https://biohacksmcmaster.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "McMaster University - PGCLL",
-    "source": "Devpost"
-  },
-  {
-    "title": "BlairHacks 8",
-    "url": "https://8-blairhacks.devpost.com/",
-    "start_date": "Jun 26 - 27, 2026",
-    "location": "Location Pending",
     "source": "Devpost"
   },
   {
@@ -275,7 +240,7 @@
   {
     "title": "Hack Days CUET",
     "url": "https://hack-days-cuet.devpost.com/",
-    "start_date": "Jun 27, 2026",
+    "start_date": "Jun 27 - 28, 2026",
     "location": "Chittagong, Bangladesh",
     "source": "Devpost"
   },
@@ -317,7 +282,7 @@
   {
     "title": "HackDays Delhi",
     "url": "https://hackdays-delhi.devpost.com/",
-    "start_date": "Jun 30, 2026",
+    "start_date": "Jul 25, 2026",
     "location": "India",
     "source": "Devpost"
   },
@@ -354,13 +319,6 @@
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Healthcare x AI Hackathon | HAIG Media",
-    "url": "https://haignyc1.devpost.com/",
-    "start_date": "Jun 26 - 27, 2026",
-    "location": "Baseten NYC HQ",
     "source": "Devpost"
   },
   {
@@ -410,6 +368,13 @@
     "url": "https://khe-2027.devpost.com/",
     "start_date": "Mar 06 - 07, 2027",
     "location": "Kent State University - DI Hub",
+    "source": "Devpost"
+  },
+  {
+    "title": "Kifiya Inspire Hackathon 2026 R2",
+    "url": "https://kifiya-inspire-hackathon-2026.devpost.com/",
+    "start_date": "Jul 23 - 24, 2026",
+    "location": "Addis Ababa, Ethiopia",
     "source": "Devpost"
   },
   {
@@ -504,6 +469,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Prometheus July AI Challenge",
+    "url": "https://prometheus-july-ai-challenge.devpost.com/",
+    "start_date": "Jul 17 - 30, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Prompt2Product: MLH Hack Day @ AITR",
     "url": "https://prompt2product.devpost.com/",
     "start_date": "Oct 08 - 09, 2026",
@@ -585,13 +557,6 @@
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Jul 31, 2026",
     "location": "Tully Community Branch Library",
-    "source": "Devpost"
-  },
-  {
-    "title": "The Great India Quiz Challenge 2026",
-    "url": "https://uiz-challenge-2026.devpost.com/",
-    "start_date": "Jul 05 - 08, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -713,6 +678,13 @@
     "url": "https://events.mlh.io/events/14284-global-hack-week-season-launch?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Season+Launch",
     "start_date": "JUL 10 - 16",
     "location": "Everywhere, Worldwide Digital",
+    "source": "MLH"
+  },
+  {
+    "title": "Toronto , Ontario Hack",
+    "url": "https://hackthe6ix.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+the+6ix",
+    "start_date": "the 6",
+    "location": "ix JUL 17 - 19 Toronto, Ontario, CA In-Person",
     "source": "MLH"
   }
 ]
