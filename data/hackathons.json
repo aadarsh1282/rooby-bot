@@ -14,9 +14,9 @@
     "source": "Devpost"
   },
   {
-    "title": "Agentic AI Innovation Challenge 2026",
-    "url": "https://agentic-ai-innovation-2026.devpost.com/",
-    "start_date": "Jul 01 - 15, 2026",
+    "title": "Aethera Hacks",
+    "url": "https://aethera-hacks.devpost.com/",
+    "start_date": "Jul 09 - 18, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -32,20 +32,6 @@
     "url": "https://la-ai-hackathon-2026.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
     "location": "James West Alumni Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "BASK(Business Achievement Spotlight for Kids) Monthly Pitch Competition",
-    "url": "https://baskchallenge.devpost.com/",
-    "start_date": "Jul 01 - 31, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "BeanHacks",
-    "url": "https://beanhacks.devpost.com/",
-    "start_date": "Jun 30 - Jul 01, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -105,13 +91,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Ctrl+V Hackathon",
-    "url": "https://ctrl-v-hackathon.devpost.com/",
-    "start_date": "Jul 01 - 05, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Cyber Hawk Hack Days",
     "url": "https://cyber-hawk-hackathon.devpost.com/",
     "start_date": "Sep 26, 2026",
@@ -150,6 +129,13 @@
     "title": "DevonomicsV1",
     "url": "https://devonomicsv1.devpost.com/",
     "start_date": "Sep 16 - 23, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "DevsUnite Hiring Hackathon",
+    "url": "https://devsunite-hiring-hackathon.devpost.com/",
+    "start_date": "Jul 24 - 25, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -259,13 +245,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hack the Arts",
-    "url": "https://hackthearts.devpost.com/",
-    "start_date": "Jul 01 - Aug 01, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Hack with AI",
     "url": "https://hack-with-ai-by-code-crate.devpost.com/",
     "start_date": "Jul 19, 2026",
@@ -315,13 +294,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hackonomics 2027",
-    "url": "https://hackonomics27.devpost.com/",
-    "start_date": "Jul 01, 2026 - Jun 01, 2027",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "HackPSU Fall 2026",
     "url": "https://hackpsu-fall-2026.devpost.com/",
     "start_date": "Oct 24 - 25, 2026",
@@ -350,7 +322,7 @@
     "source": "Devpost"
   },
   {
-    "title": "IncludAI - The Neurodiversity Hackathon",
+    "title": "IncludAI - The Neurodiversity Hackathon, in Partnership with Stanford NNEA",
     "url": "https://includai-2026.devpost.com/",
     "start_date": "Aug 01 - 09, 2026",
     "location": "Online",
@@ -368,6 +340,13 @@
     "url": "https://jechacks.devpost.com/",
     "start_date": "Jul 11, 2026",
     "location": "Mississauga (Location to be decided)",
+    "source": "Devpost"
+  },
+  {
+    "title": "Katy Youth Hacks 2026",
+    "url": "https://katy-youth-hacks-2026.devpost.com/",
+    "start_date": "Aug 01 - 03, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -653,6 +632,13 @@
     "source": "MLH"
   },
   {
+    "title": "FPH , FPH Midnight Virtual Hackathon",
+    "url": "https://www.google.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Midnight+Virtual+Hackathon",
+    "start_date": "JUL 17 - 19",
+    "location": "Everywhere, Worldwide, US Digital",
+    "source": "MLH"
+  },
+  {
     "title": "GH Global Hack Week: Data",
     "url": "https://events.mlh.io/events/14416-global-hack-week-data?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Data",
     "start_date": "SEP 11 - 17",
@@ -671,6 +657,20 @@
     "url": "https://events.mlh.io/events/14284-global-hack-week-season-launch?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Season+Launch",
     "start_date": "JUL 10 - 16",
     "location": "Everywhere, Worldwide Digital",
+    "source": "MLH"
+  },
+  {
+    "title": "S1 S",
+    "url": "https://events.mlh.io/events/14442-spartahack-12?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SpartaHack+12",
+    "start_date": "partaHack 12",
+    "location": "JAN 31 - FEB 01 Everywhere, Worldwide Digital",
+    "source": "MLH"
+  },
+  {
+    "title": "San Francisco , California AI for Social Good: Hack with MLH & DigitalOcean",
+    "url": "https://luma.com/MLHandDO?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=AI+for+Social+Good%3A+Hack+with+MLH+%26+DigitalOcean",
+    "start_date": "JUL 10 - 11",
+    "location": "San Francisco, California, US In-Person",
     "source": "MLH"
   },
   {
