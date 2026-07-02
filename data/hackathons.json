@@ -16,7 +16,7 @@
   {
     "title": "Aethera Hacks",
     "url": "https://aethera-hacks.devpost.com/",
-    "start_date": "Jul 09 - 18, 2026",
+    "start_date": "Jul 05 - 18, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -280,13 +280,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hackdays Prayagraj",
-    "url": "https://hackdays-prayagraj.devpost.com/",
-    "start_date": "Jul 02, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "HackGT13",
     "url": "https://hackgt13.devpost.com/",
     "start_date": "Sep 25 - 27, 2026",
@@ -423,6 +416,13 @@
     "title": "OneAquaHealth IEEE Global Hackathon",
     "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
     "start_date": "Sep 14 - Oct 01, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "OurPlanet.Rocks",
+    "url": "https://ourplanetrocks.devpost.com/",
+    "start_date": "Aug 07 - 09, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -625,20 +625,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Agarpara Kolkata , West Bengal",
-    "url": "https://hexafalls.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hexafalls+2",
-    "start_date": "Hexafalls 2",
-    "location": "JUL 24 - 26 Agarpara Kolkata, West Bengal, IN In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "FPH , FPH Midnight Virtual Hackathon",
-    "url": "https://www.google.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Midnight+Virtual+Hackathon",
-    "start_date": "JUL 17 - 19",
-    "location": "Everywhere, Worldwide, US Digital",
-    "source": "MLH"
-  },
-  {
     "title": "GH Global Hack Week: Data",
     "url": "https://events.mlh.io/events/14416-global-hack-week-data?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Data",
     "start_date": "SEP 11 - 17",
@@ -660,24 +646,10 @@
     "source": "MLH"
   },
   {
-    "title": "S1 S",
-    "url": "https://events.mlh.io/events/14442-spartahack-12?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SpartaHack+12",
-    "start_date": "partaHack 12",
-    "location": "JAN 31 - FEB 01 Everywhere, Worldwide Digital",
-    "source": "MLH"
-  },
-  {
     "title": "San Francisco , California AI for Social Good: Hack with MLH & DigitalOcean",
     "url": "https://luma.com/MLHandDO?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=AI+for+Social+Good%3A+Hack+with+MLH+%26+DigitalOcean",
     "start_date": "JUL 10 - 11",
     "location": "San Francisco, California, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Toronto , Ontario Hack",
-    "url": "https://hackthe6ix.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+the+6ix",
-    "start_date": "the 6",
-    "location": "ix JUL 17 - 19 Toronto, Ontario, CA In-Person",
     "source": "MLH"
   }
 ]
