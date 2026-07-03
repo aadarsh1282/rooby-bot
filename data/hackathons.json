@@ -56,6 +56,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Build with DataHub: The Agent Hackathon",
+    "url": "https://datahub.devpost.com/",
+    "start_date": "Jul 06 - Aug 10, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Build-A-Thon",
     "url": "https://build-a-thon-30568.devpost.com/",
     "start_date": "Oct 16 - 17, 2026",
@@ -238,6 +245,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Hack Days Thane",
+    "url": "https://hack-days-thane.devpost.com/",
+    "start_date": "Jul 10, 2026",
+    "location": "McDonald's Cafe",
+    "source": "Devpost"
+  },
+  {
     "title": "Hack for Humanity | Summer 2026",
     "url": "https://hack-for-humanity-summer-26.devpost.com/",
     "start_date": "Aug 07 - Sep 04, 2026",
@@ -332,7 +346,7 @@
     "title": "JecHacks",
     "url": "https://jechacks.devpost.com/",
     "start_date": "Jul 11, 2026",
-    "location": "Mississauga (Location to be decided)",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -462,6 +476,13 @@
     "source": "Devpost"
   },
   {
+    "title": "RecT Solutions Hackathon: Beyond the CV 2026",
+    "url": "https://rect-hackathon.devpost.com/",
+    "start_date": "Oct 10 - 11, 2026",
+    "location": "IDEA Spaces Saldanha",
+    "source": "Devpost"
+  },
+  {
     "title": "RevenueCat Shipaton 2026",
     "url": "https://revenuecat-shipaton-2026.devpost.com/",
     "start_date": "Aug 01 - Oct 01, 2026",
@@ -574,6 +595,13 @@
     "source": "Devpost"
   },
   {
+    "title": "YouCam API Skin AI & Apparel VTO Hackathon",
+    "url": "https://youcam-api.devpost.com/",
+    "start_date": "Jul 06 - Aug 17, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Zero to Query: LingoQL Hackathon",
     "url": "https://ztq.devpost.com/",
     "start_date": "Jul 08 - 21, 2026",
@@ -625,6 +653,20 @@
     "source": "Hackeroos"
   },
   {
+    "title": "East Lansing , MI S1 S",
+    "url": "https://events.mlh.io/events/14442-spartahack-12?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SpartaHack+12",
+    "start_date": "partaHack 12",
+    "location": "FEB 06 - 07 East Lansing, MI, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "FPH , FPH Midnight Virtual Hackathon",
+    "url": "https://events.mlh.com/events/14413-midnight-hackathon?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Midnight+Virtual+Hackathon",
+    "start_date": "JUL 17 - 19",
+    "location": "Everywhere, Worldwide, US Digital",
+    "source": "MLH"
+  },
+  {
     "title": "GH Global Hack Week: Data",
     "url": "https://events.mlh.io/events/14416-global-hack-week-data?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Data",
     "start_date": "SEP 11 - 17",
@@ -646,10 +688,24 @@
     "source": "MLH"
   },
   {
+    "title": "Ottawa , Ontario cuHacking",
+    "url": "https://www.cuhacking.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=cuHacking",
+    "start_date": "JUL 10 - 12",
+    "location": "Ottawa, Ontario, CA In-Person",
+    "source": "MLH"
+  },
+  {
     "title": "San Francisco , California AI for Social Good: Hack with MLH & DigitalOcean",
     "url": "https://luma.com/MLHandDO?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=AI+for+Social+Good%3A+Hack+with+MLH+%26+DigitalOcean",
     "start_date": "JUL 10 - 11",
     "location": "San Francisco, California, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Toronto , Ontario Hack",
+    "url": "https://hackthe6ix.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+the+6ix",
+    "start_date": "the 6",
+    "location": "ix JUL 17 - 19 Toronto, Ontario, CA In-Person",
     "source": "MLH"
   }
 ]
