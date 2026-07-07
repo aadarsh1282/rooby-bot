@@ -28,6 +28,13 @@
     "source": "Devpost"
   },
   {
+    "title": "AI Healthcare Hack NYC - by Arya Health & Twilio AI Startup Searchlight",
+    "url": "https://ai-healthcare-hack-nyc.devpost.com/",
+    "start_date": "Jul 11, 2026",
+    "location": "Arya Health office",
+    "source": "Devpost"
+  },
+  {
     "title": "BioHacks",
     "url": "https://biohacksmcmaster.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -53,13 +60,6 @@
     "url": "https://build-with-ai-hack-days-ru.devpost.com/",
     "start_date": "Jul 16, 2026",
     "location": "Rajshahi, Bangladesh",
-    "source": "Devpost"
-  },
-  {
-    "title": "Build with DataHub: The Agent Hackathon",
-    "url": "https://datahub.devpost.com/",
-    "start_date": "Jul 06 - Aug 10, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -102,13 +102,6 @@
     "url": "https://cyber-hawk-hackathon.devpost.com/",
     "start_date": "Sep 26, 2026",
     "location": "Monmouth University",
-    "source": "Devpost"
-  },
-  {
-    "title": "Cyber Sages Hackathon",
-    "url": "https://cybersageshackathon.devpost.com/",
-    "start_date": "Jul 06, 2026",
-    "location": "Brambleton Public Library",
     "source": "Devpost"
   },
   {
@@ -158,13 +151,6 @@
     "url": "https://ds6051-hackathon.devpost.com/",
     "start_date": "Jul 08, 2026",
     "location": "School of Data Science Room 205",
-    "source": "Devpost"
-  },
-  {
-    "title": "Dummy",
-    "url": "https://dummy-30549.devpost.com/",
-    "start_date": "Jul 07 - 08, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -270,13 +256,6 @@
     "url": "https://hack-peel.devpost.com/",
     "start_date": "Dec 12 - 13, 2026",
     "location": "The Woodlands Secondary School",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hackathon Big Data & IA Gen / MS-MSc Marketing & Data Analytics - Neoma",
-    "url": "https://neoma-ai-hackathon-2026.devpost.com/",
-    "start_date": "Jul 06 - 07, 2026",
-    "location": "Paris, France",
     "source": "Devpost"
   },
   {
@@ -588,6 +567,13 @@
     "source": "Devpost"
   },
   {
+    "title": "TechCommons Hacks",
+    "url": "https://techcommons-hacks.devpost.com/",
+    "start_date": "Jul 11 - 13, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "The Blueprint Hackathon  (For All Ages, July 17th-31st)",
     "url": "https://the-blueprint-hackathon.devpost.com/",
     "start_date": "Jul 17 - 31, 2026",
@@ -623,24 +609,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Win4AISafety - Open Research Summer Challenge",
-    "url": "https://win4aisafety-sain-utrecht.devpost.com/",
-    "start_date": "Jul 06 - Aug 17, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "WWU Social Justice Hackathon",
     "url": "https://wwu-sj-hack.devpost.com/",
     "start_date": "Oct 16 - 18, 2026",
     "location": "WWU - Kaiser Borsari Building",
-    "source": "Devpost"
-  },
-  {
-    "title": "YouCam API Skin AI & Apparel VTO Hackathon",
-    "url": "https://youcam-api.devpost.com/",
-    "start_date": "Jul 06 - Aug 17, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -695,6 +667,13 @@
     "source": "Hackeroos"
   },
   {
+    "title": "Agarpara Kolkata , West Bengal",
+    "url": "https://hexafalls.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hexafalls+2",
+    "start_date": "Hexafalls 2",
+    "location": "JUL 24 - 26 Agarpara Kolkata, West Bengal, IN In-Person",
+    "source": "MLH"
+  },
+  {
     "title": "East Lansing , MI S1 S",
     "url": "https://events.mlh.io/events/14442-spartahack-12?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SpartaHack+12",
     "start_date": "partaHack 12",
@@ -727,6 +706,13 @@
     "url": "https://events.mlh.io/events/14284-global-hack-week-season-launch?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Season+Launch",
     "start_date": "JUL 10 - 16",
     "location": "Everywhere, Worldwide Digital",
+    "source": "MLH"
+  },
+  {
+    "title": "Ottawa , Ontario cuHacking",
+    "url": "https://www.cuhacking.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=cuHacking",
+    "start_date": "JUL 10 - 12",
+    "location": "Ottawa, Ontario, CA In-Person",
     "source": "MLH"
   },
   {
