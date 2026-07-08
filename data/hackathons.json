@@ -105,6 +105,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Daybot Commerce Hackathon",
+    "url": "https://daybot.devpost.com/",
+    "start_date": "Jul 11 - 12, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Dev Clash",
     "url": "https://dev-clash.devpost.com/",
     "start_date": "Jul 10, 2026",
@@ -322,6 +329,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Infinity Hacks",
+    "url": "https://infinity-hacks.devpost.com/",
+    "start_date": "Aug 14 - 16, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Iris Hacks IV",
     "url": "https://iris-hacks-iv.devpost.com/",
     "start_date": "Aug 08 - 09, 2026",
@@ -403,6 +417,20 @@
     "url": "https://munichtech-expo.devpost.com/",
     "start_date": "Sep 01 - 20, 2026",
     "location": "Munich, Germany",
+    "source": "Devpost"
+  },
+  {
+    "title": "MYHack 2026",
+    "url": "https://myhack-2026.devpost.com/",
+    "start_date": "Jul 25 - 26, 2026",
+    "location": "Gaithersburg, MD, USA",
+    "source": "Devpost"
+  },
+  {
+    "title": "MYHack: ISNA 2026",
+    "url": "https://myhack-isna.devpost.com/",
+    "start_date": "Sep 05 - 06, 2026",
+    "location": "Detroit, MI, USA",
     "source": "Devpost"
   },
   {
@@ -525,6 +553,13 @@
     "source": "Devpost"
   },
   {
+    "title": "SourceHacks V1",
+    "url": "https://sourcehacksv1.devpost.com/",
+    "start_date": "Dec 11 - 12, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Southwest MN Hacks",
     "url": "https://southwest-mn-hacks.devpost.com/",
     "start_date": "Sep 12 - 13, 2026",
@@ -616,13 +651,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Zero to Query: LingoQL Hackathon",
-    "url": "https://ztq.devpost.com/",
-    "start_date": "Jul 08 - 21, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "⚡ Build Fast. Launch Loud. ⚡",
     "url": "https://build-fast-launch-loud.devpost.com/",
     "start_date": "Jul 25, 2026",
@@ -671,6 +699,13 @@
     "url": "https://hexafalls.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hexafalls+2",
     "start_date": "Hexafalls 2",
     "location": "JUL 24 - 26 Agarpara Kolkata, West Bengal, IN In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Chennai , Tamilnadu PEC",
+    "url": "https://pechacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=PEC+HACKS+4.0",
+    "start_date": "HACKS 4",
+    "location": ".0 AUG 29 - 30 Chennai, Tamilnadu, IN In-Person",
     "source": "MLH"
   },
   {
