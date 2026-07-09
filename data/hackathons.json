@@ -29,6 +29,13 @@
   },
   {
     "title": "AI Healthcare Hack NYC - by Arya Health & Twilio AI Startup Searchlight",
+    "url": "https://ai-healthcare-hack.devpost.com/",
+    "start_date": "Jul 11, 2026",
+    "location": "Arya Office",
+    "source": "Devpost"
+  },
+  {
+    "title": "AI Healthcare Hack NYC - by Arya Health & Twilio AI Startup Searchlight",
     "url": "https://ai-healthcare-hack-nyc.devpost.com/",
     "start_date": "Jul 11, 2026",
     "location": "Arya Health office",
@@ -49,6 +56,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Break the Barrier",
+    "url": "https://breakthebarrier-inventacare.devpost.com/",
+    "start_date": "Sep 01 - Nov 02, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Brewing Codes 4.0",
     "url": "https://brewing-codes-4-0.devpost.com/",
     "start_date": "Mar 12 - 27, 2028",
@@ -60,6 +74,13 @@
     "url": "https://build-with-ai-hack-days-ru.devpost.com/",
     "start_date": "Jul 16, 2026",
     "location": "Rajshahi, Bangladesh",
+    "source": "Devpost"
+  },
+  {
+    "title": "Build with Gemma NYC: On-Device AI for Healthcare",
+    "url": "https://gemmanycaihealthcare.devpost.com/",
+    "start_date": "Jul 25, 2026",
+    "location": "New York City / TBD",
     "source": "Devpost"
   },
   {
@@ -114,7 +135,7 @@
   {
     "title": "Dev Clash",
     "url": "https://dev-clash.devpost.com/",
-    "start_date": "Jul 10, 2026",
+    "start_date": "Jul 16, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -154,13 +175,6 @@
     "source": "Devpost"
   },
   {
-    "title": "DS6051 Decoding LLMs Hackathon",
-    "url": "https://ds6051-hackathon.devpost.com/",
-    "start_date": "Jul 08, 2026",
-    "location": "School of Data Science Room 205",
-    "source": "Devpost"
-  },
-  {
     "title": "Esri's Weekend of Innovation 2026",
     "url": "https://esri-woi-2026.devpost.com/",
     "start_date": "Jul 24 - 26, 2026",
@@ -179,6 +193,13 @@
     "url": "https://galuxium-nexus-v2-29411.devpost.com/",
     "start_date": "Jul 15 - Aug 01, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "GDG Windsor - Build with Gemma Hackathon",
+    "url": "https://build-with-gemma-hackathon.devpost.com/",
+    "start_date": "Jul 14 - 24, 2026",
+    "location": "TBD",
     "source": "Devpost"
   },
   {
@@ -228,6 +249,13 @@
     "url": "https://hack-atlantic-2026.devpost.com/",
     "start_date": "Sep 27, 2026",
     "location": "Fredericton, New Brunswick",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hack Days in Bansal",
+    "url": "https://hack-days-in-bansal.devpost.com/",
+    "start_date": "Aug 02, 2026",
+    "location": "Main Auditorium - Bansal Institute",
     "source": "Devpost"
   },
   {
@@ -364,9 +392,9 @@
     "source": "Devpost"
   },
   {
-    "title": "Kifiya Inspire Hackathon 2026 R2",
+    "title": "Kifiya Inspire Hackathon V4 2026",
     "url": "https://kifiya-inspire-hackathon-2026.devpost.com/",
-    "start_date": "Jul 23 - 24, 2026",
+    "start_date": "Jul 24, 2026",
     "location": "Addis Ababa, Ethiopia",
     "source": "Devpost"
   },
@@ -511,6 +539,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Recruit Holdings Hackathon “Innovation Cup”",
+    "url": "https://innovation-cup2026.devpost.com/",
+    "start_date": "Sep 25 - 27, 2026",
+    "location": "CA, USA",
+    "source": "Devpost"
+  },
+  {
     "title": "RecT Solutions Hackathon: Beyond the CV 2026",
     "url": "https://rect-hackathon.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
@@ -520,7 +555,7 @@
   {
     "title": "RevenueCat Shipaton 2026",
     "url": "https://revenuecat-shipaton-2026.devpost.com/",
-    "start_date": "Aug 01 - Oct 01, 2026",
+    "start_date": "Jul 31 - Oct 01, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -583,7 +618,7 @@
   {
     "title": "STEMist Hacks IV",
     "url": "https://stemist-hacks-iv.devpost.com/",
-    "start_date": "Jul 30 - Aug 02, 2026",
+    "start_date": "Jul 31 - Aug 02, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -641,6 +676,13 @@
     "url": "https://vshacks-2026.devpost.com/",
     "start_date": "Jul 11 - 12, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Westlake FidHacks 2026",
+    "url": "https://westlake-fidhacks-2026.devpost.com/",
+    "start_date": "Jul 09 - 10, 2026",
+    "location": "Fidelity Investments",
     "source": "Devpost"
   },
   {
