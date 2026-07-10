@@ -29,16 +29,23 @@
   },
   {
     "title": "AI Healthcare Hack NYC - by Arya Health & Twilio AI Startup Searchlight",
+    "url": "https://ai-healthcare-hack-nyc.devpost.com/",
+    "start_date": "Jul 11, 2026",
+    "location": "Arya Health office",
+    "source": "Devpost"
+  },
+  {
+    "title": "AI Healthcare Hack NYC - by Arya Health & Twilio AI Startup Searchlight",
     "url": "https://ai-healthcare-hack.devpost.com/",
     "start_date": "Jul 11, 2026",
     "location": "Arya Office",
     "source": "Devpost"
   },
   {
-    "title": "AI Healthcare Hack NYC - by Arya Health & Twilio AI Startup Searchlight",
-    "url": "https://ai-healthcare-hack-nyc.devpost.com/",
-    "start_date": "Jul 11, 2026",
-    "location": "Arya Health office",
+    "title": "BearHacks 2027",
+    "url": "https://bearhacks2027.devpost.com/",
+    "start_date": "Apr 23 - 25, 2027",
+    "location": "Sheridan College Hazel McCallion Campus",
     "source": "Devpost"
   },
   {
@@ -53,13 +60,6 @@
     "url": "https://bloomknights.devpost.com/",
     "start_date": "Jul 11, 2026",
     "location": "Business Administration 1",
-    "source": "Devpost"
-  },
-  {
-    "title": "Break the Barrier",
-    "url": "https://breakthebarrier-inventacare.devpost.com/",
-    "start_date": "Sep 01 - Nov 02, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -79,7 +79,7 @@
   {
     "title": "Build with Gemma NYC: On-Device AI for Healthcare",
     "url": "https://gemmanycaihealthcare.devpost.com/",
-    "start_date": "Jul 25, 2026",
+    "start_date": "Aug 01, 2026",
     "location": "New York City / TBD",
     "source": "Devpost"
   },
@@ -88,6 +88,13 @@
     "url": "https://build-a-thon-30568.devpost.com/",
     "start_date": "Oct 16 - 17, 2026",
     "location": "NCC Digital Park, University of Ibadan",
+    "source": "Devpost"
+  },
+  {
+    "title": "Canal Startup Sprint Hackathon",
+    "url": "https://canal-startup-sprint-hackathon.devpost.com/",
+    "start_date": "Jul 26 - Aug 14, 2026",
+    "location": "Creativa Innovation Hub Ismailia",
     "source": "Devpost"
   },
   {
@@ -123,6 +130,13 @@
     "url": "https://cyber-hawk-hackathon.devpost.com/",
     "start_date": "Sep 26, 2026",
     "location": "Monmouth University",
+    "source": "Devpost"
+  },
+  {
+    "title": "DARK ARMY CTF 2026",
+    "url": "https://dark-army-ctf-2026.devpost.com/",
+    "start_date": "Aug 08 - 09, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -172,6 +186,13 @@
     "url": "https://dive2026.devpost.com/",
     "start_date": "Jul 25 - 26, 2026",
     "location": "4F, BEXCO Exhibition Center 2",
+    "source": "Devpost"
+  },
+  {
+    "title": "Dum, Duber and Dumber Hackathon",
+    "url": "https://dum-duber-and-dumber-hackathon.devpost.com/",
+    "start_date": "Jul 11 - 12, 2026",
+    "location": "SUTD",
     "source": "Devpost"
   },
   {
@@ -263,13 +284,6 @@
     "url": "https://hack-days-navi-mumbai.devpost.com/",
     "start_date": "Jul 12, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack Days Thane",
-    "url": "https://hack-days-thane.devpost.com/",
-    "start_date": "Jul 10, 2026",
-    "location": "McDonald's Cafe",
     "source": "Devpost"
   },
   {
@@ -483,6 +497,20 @@
     "source": "Devpost"
   },
   {
+    "title": "OpenAI Build Week",
+    "url": "https://openai.devpost.com/",
+    "start_date": "Jul 13 - 21, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "OpenAI x START Warsaw",
+    "url": "https://openai-x-start-warsaw.devpost.com/",
+    "start_date": "Jul 11, 2026",
+    "location": "Solidgate",
+    "source": "Devpost"
+  },
+  {
     "title": "OregonHacks",
     "url": "https://oregonhacks.devpost.com/",
     "start_date": "Aug 15 - 17, 2026",
@@ -679,13 +707,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Westlake FidHacks 2026",
-    "url": "https://westlake-fidhacks-2026.devpost.com/",
-    "start_date": "Jul 09 - 10, 2026",
-    "location": "Fidelity Investments",
-    "source": "Devpost"
-  },
-  {
     "title": "WWU Social Justice Hackathon",
     "url": "https://wwu-sj-hack.devpost.com/",
     "start_date": "Oct 16 - 18, 2026",
@@ -744,13 +765,6 @@
     "source": "MLH"
   },
   {
-    "title": "Chennai , Tamilnadu PEC",
-    "url": "https://pechacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=PEC+HACKS+4.0",
-    "start_date": "HACKS 4",
-    "location": ".0 AUG 29 - 30 Chennai, Tamilnadu, IN In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "East Lansing , MI S1 S",
     "url": "https://events.mlh.io/events/14442-spartahack-12?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SpartaHack+12",
     "start_date": "partaHack 12",
@@ -786,24 +800,10 @@
     "source": "MLH"
   },
   {
-    "title": "Ottawa , Ontario cuHacking",
-    "url": "https://www.cuhacking.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=cuHacking",
-    "start_date": "JUL 10 - 12",
-    "location": "Ottawa, Ontario, CA In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "San Francisco , California AI for Social Good: Hack with MLH & DigitalOcean",
     "url": "https://luma.com/MLHandDO?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=AI+for+Social+Good%3A+Hack+with+MLH+%26+DigitalOcean",
     "start_date": "JUL 10 - 11",
     "location": "San Francisco, California, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Toronto , Ontario Hack",
-    "url": "https://hackthe6ix.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+the+6ix",
-    "start_date": "the 6",
-    "location": "ix JUL 17 - 19 Toronto, Ontario, CA In-Person",
     "source": "MLH"
   }
 ]
