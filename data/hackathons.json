@@ -28,20 +28,6 @@
     "source": "Devpost"
   },
   {
-    "title": "AI Healthcare Hack NYC - by Arya Health & Twilio AI Startup Searchlight",
-    "url": "https://ai-healthcare-hack-nyc.devpost.com/",
-    "start_date": "Jul 11, 2026",
-    "location": "Arya Health office",
-    "source": "Devpost"
-  },
-  {
-    "title": "AI Healthcare Hack NYC - by Arya Health & Twilio AI Startup Searchlight",
-    "url": "https://ai-healthcare-hack.devpost.com/",
-    "start_date": "Jul 11, 2026",
-    "location": "Arya Office",
-    "source": "Devpost"
-  },
-  {
     "title": "BearHacks 2027",
     "url": "https://bearhacks2027.devpost.com/",
     "start_date": "Apr 23 - 25, 2027",
@@ -53,13 +39,6 @@
     "url": "https://biohacksmcmaster.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "McMaster University - PGCLL",
-    "source": "Devpost"
-  },
-  {
-    "title": "BloomKnights",
-    "url": "https://bloomknights.devpost.com/",
-    "start_date": "Jul 11, 2026",
-    "location": "Business Administration 1",
     "source": "Devpost"
   },
   {
@@ -140,13 +119,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Daybot Commerce Hackathon",
-    "url": "https://daybot.devpost.com/",
-    "start_date": "Jul 11 - 12, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Dev Clash",
     "url": "https://dev-clash.devpost.com/",
     "start_date": "Jul 16, 2026",
@@ -186,13 +158,6 @@
     "url": "https://dive2026.devpost.com/",
     "start_date": "Jul 25 - 26, 2026",
     "location": "4F, BEXCO Exhibition Center 2",
-    "source": "Devpost"
-  },
-  {
-    "title": "Dum, Duber and Dumber Hackathon",
-    "url": "https://dum-duber-and-dumber-hackathon.devpost.com/",
-    "start_date": "Jul 11 - 12, 2026",
-    "location": "SUTD",
     "source": "Devpost"
   },
   {
@@ -270,13 +235,6 @@
     "url": "https://hack-days-in-bansal.devpost.com/",
     "start_date": "Aug 02, 2026",
     "location": "Main Auditorium - Bansal Institute",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack Days Navi Mumbai",
-    "url": "https://hack-days-navi-mumbai.devpost.com/",
-    "start_date": "Jul 12, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -374,13 +332,6 @@
     "title": "Iris Hacks IV",
     "url": "https://iris-hacks-iv.devpost.com/",
     "start_date": "Aug 08 - 09, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "JecHacks",
-    "url": "https://jechacks.devpost.com/",
-    "start_date": "Jul 11, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -483,13 +434,6 @@
     "source": "Devpost"
   },
   {
-    "title": "OpenAI x START Warsaw",
-    "url": "https://openai-x-start-warsaw.devpost.com/",
-    "start_date": "Jul 11, 2026",
-    "location": "Solidgate",
-    "source": "Devpost"
-  },
-  {
     "title": "OregonHacks",
     "url": "https://oregonhacks.devpost.com/",
     "start_date": "Aug 15 - 17, 2026",
@@ -581,6 +525,13 @@
     "source": "Devpost"
   },
   {
+    "title": "RLC Hacks 2026",
+    "url": "https://rlc-hacks-30705.devpost.com/",
+    "start_date": "Jul 26 - Aug 04, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "SC Quantathon v3",
     "url": "https://sc-quantathon-v3.devpost.com/",
     "start_date": "Sep 26 - 27, 2026",
@@ -658,24 +609,10 @@
     "source": "Devpost"
   },
   {
-    "title": "The Vakathon",
-    "url": "https://the-vakathon.devpost.com/",
-    "start_date": "Jul 11, 2026",
-    "location": "San Ramon Community Center",
-    "source": "Devpost"
-  },
-  {
     "title": "Vibe Code Animated Maps",
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "Aug 29, 2026",
     "location": "South Plainfield Library",
-    "source": "Devpost"
-  },
-  {
-    "title": "vsHacks 2026",
-    "url": "https://vshacks-2026.devpost.com/",
-    "start_date": "Jul 11 - 12, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -1091,13 +1028,6 @@
     "url": "https://sfhacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SF+Hacks+",
     "start_date": "FEB 19 - 21",
     "location": "San Francisco, CA, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "San Francisco , California AI for Social Good: Hack with MLH & DigitalOcean",
-    "url": "https://luma.com/MLHandDO?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=AI+for+Social+Good%3A+Hack+with+MLH+%26+DigitalOcean",
-    "start_date": "JUL 10 - 11",
-    "location": "San Francisco, California, US In-Person",
     "source": "MLH"
   },
   {
