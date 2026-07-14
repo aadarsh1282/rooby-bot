@@ -1,5 +1,12 @@
 [
   {
+    "title": "&HACKS XII",
+    "url": "https://hacks-xii.devpost.com/",
+    "start_date": "Sep 26 - 27, 2026",
+    "location": "William &amp; Mary - ISC4",
+    "source": "Devpost"
+  },
+  {
     "title": "757 BLD WKND 2026 2.0",
     "url": "https://757-bld-wknd-2026-2-0.devpost.com/",
     "start_date": "Jul 17 - 19, 2026",
@@ -45,6 +52,13 @@
     "title": "Brewing Codes 4.0",
     "url": "https://brewing-codes-4-0.devpost.com/",
     "start_date": "Mar 12 - 27, 2028",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Bridge The Gap Hacks",
+    "url": "https://sq-hacks.devpost.com/",
+    "start_date": "Nov 15 - 21, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -126,9 +140,16 @@
     "source": "Devpost"
   },
   {
+    "title": "Daytona HackSprint w/ Braintrust - SF, July 2026",
+    "url": "https://daytona-hacksprint-sf-jul-2026.devpost.com/",
+    "start_date": "Jul 24, 2026",
+    "location": "San Francisco, CA, USA",
+    "source": "Devpost"
+  },
+  {
     "title": "Dev Clash",
     "url": "https://dev-clash.devpost.com/",
-    "start_date": "Jul 16, 2026",
+    "start_date": "Jul 23, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -196,13 +217,6 @@
     "source": "Devpost"
   },
   {
-    "title": "GDG Windsor - Build with Gemma Hackathon",
-    "url": "https://build-with-gemma-hackathon.devpost.com/",
-    "start_date": "Jul 14 - 24, 2026",
-    "location": "TBD",
-    "source": "Devpost"
-  },
-  {
     "title": "Global Builders Hackathon: Code for Impact",
     "url": "https://global-builders.devpost.com/",
     "start_date": "Aug 08 - 10, 2026",
@@ -242,6 +256,13 @@
     "url": "https://hack-atlantic-2026.devpost.com/",
     "start_date": "Sep 27, 2026",
     "location": "Fredericton, New Brunswick",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hack day bhopal",
+    "url": "https://hack-day-bhopal.devpost.com/",
+    "start_date": "Jul 15, 2026",
+    "location": "TIT&amp; Ex",
     "source": "Devpost"
   },
   {
@@ -441,13 +462,6 @@
     "source": "Devpost"
   },
   {
-    "title": "OpenAI Build Week",
-    "url": "https://openai.devpost.com/",
-    "start_date": "Jul 13 - 21, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "OregonHacks",
     "url": "https://oregonhacks.devpost.com/",
     "start_date": "Aug 15 - 17, 2026",
@@ -616,6 +630,13 @@
     "source": "Devpost"
   },
   {
+    "title": "TEL: Spatial Intelligence Ideathon",
+    "url": "https://spatial-intelligence-ideathon.devpost.com/",
+    "start_date": "Jul 18, 2026",
+    "location": "Tech Exploration Lab",
+    "source": "Devpost"
+  },
+  {
     "title": "The Blueprint Hackathon  (For All Ages, July 17th-31st)",
     "url": "https://the-blueprint-hackathon.devpost.com/",
     "start_date": "Jul 17 - 31, 2026",
@@ -747,7 +768,7 @@
     "title": "Blacksburg , Virginia",
     "url": "https://vthacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=VTHacks+14",
     "start_date": "VTHacks 14",
-    "location": "SEP 25 - 27 Blacksburg, Virginia, US In-Person DIVERSITY",
+    "location": "SEP 18 - 20 Blacksburg, Virginia, US In-Person DIVERSITY",
     "source": "MLH"
   },
   {
