@@ -14,13 +14,6 @@
     "source": "Devpost"
   },
   {
-    "title": "757 BLD WKND 2026 2.0",
-    "url": "https://757-bld-wknd-2026-2-0.devpost.com/",
-    "start_date": "Jul 17 - 19, 2026",
-    "location": "Assembly Building",
-    "source": "Devpost"
-  },
-  {
     "title": "8-Bit Jam",
     "url": "https://8-bit-jam.devpost.com/",
     "start_date": "Aug 08 - 09, 2026",
@@ -147,17 +140,17 @@
     "source": "Devpost"
   },
   {
+    "title": "Cutie Hack 2026",
+    "url": "https://cutie-hack-2026.devpost.com/",
+    "start_date": "Nov 21, 2026",
+    "location": "UC Riverside - Winston Chung Hall",
+    "source": "Devpost"
+  },
+  {
     "title": "Cyber Hawk Hack Days",
     "url": "https://cyber-hawk-hackathon.devpost.com/",
     "start_date": "Sep 26, 2026",
     "location": "Monmouth University",
-    "source": "Devpost"
-  },
-  {
-    "title": "DARK ARMY CTF 2026",
-    "url": "https://dark-army-ctf-2026.devpost.com/",
-    "start_date": "Aug 08 - 09, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -238,10 +231,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Evorozen Apex: NextGen AI Buildathon",
-    "url": "https://evorozen-apex.devpost.com/",
-    "start_date": "Jul 17 - Sep 20, 2026",
-    "location": "Online",
+    "title": "Flight Zero - Hack Your Way Into the Hacker House",
+    "url": "https://frontier-ai-hacker-house.devpost.com/",
+    "start_date": "Jul 18, 2026",
+    "location": "McNally Amphitheater",
     "source": "Devpost"
   },
   {
@@ -301,24 +294,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Hack Days Nashik",
-    "url": "https://hack-days-nashik.devpost.com/",
-    "start_date": "Jul 18, 2026",
-    "location": "Sandip University, Nashik",
-    "source": "Devpost"
-  },
-  {
     "title": "Hack for Humanity | Summer 2026",
     "url": "https://hack-for-humanity-summer-26.devpost.com/",
     "start_date": "Aug 07 - Sep 04, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack the 6ix 2026",
-    "url": "https://hackthe6ix2026.devpost.com/",
-    "start_date": "Jul 17 - 19, 2026",
-    "location": "University of Toronto Bahen Centre",
     "source": "Devpost"
   },
   {
@@ -333,13 +312,6 @@
     "url": "https://hack-peel.devpost.com/",
     "start_date": "Dec 12 - 13, 2026",
     "location": "The Woodlands Secondary School",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hackathon New Delhi: Build AI Agents",
-    "url": "https://hackathon-elk-gcp.devpost.com/",
-    "start_date": "Jul 18, 2026",
-    "location": "ThoughtWorks Technologies - Gurugram",
     "source": "Devpost"
   },
   {
@@ -382,6 +354,13 @@
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "HackVerse",
+    "url": "https://hackverse-30753.devpost.com/",
+    "start_date": "Jul 22 - 23, 2026",
+    "location": "MEDINIPUR  (ONLINE)",
     "source": "Devpost"
   },
   {
@@ -462,13 +441,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Loop Engineering Hackathon",
-    "url": "https://loop-engineering-hackathon.devpost.com/",
-    "start_date": "Jul 17, 2026",
-    "location": "AWS Builder Loft",
-    "source": "Devpost"
-  },
-  {
     "title": "MarinHacks",
     "url": "https://marinhacks.devpost.com/",
     "start_date": "Aug 02, 2026",
@@ -483,31 +455,10 @@
     "source": "Devpost"
   },
   {
-    "title": "MelonJam 7",
-    "url": "https://melonjam-7.devpost.com/",
-    "start_date": "Jul 17 - 20, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Midnight Hackathon",
-    "url": "https://midnight-hackathon-july-2026.devpost.com/",
-    "start_date": "Jul 17 - 19, 2026",
-    "location": "New York, NY, USA",
-    "source": "Devpost"
-  },
-  {
     "title": "MLH Hack Day @ Kristu Jayanti",
     "url": "https://mlhackday.devpost.com/",
     "start_date": "Aug 01, 2026",
     "location": "Kristu Jayanti (Deemed to be University)",
-    "source": "Devpost"
-  },
-  {
-    "title": "MLH Hack Days by Pydata Indore",
-    "url": "https://mlh-hack-days-by-pydata-indore.devpost.com/",
-    "start_date": "Jul 18, 2026",
-    "location": "SSi Digital Academy",
     "source": "Devpost"
   },
   {
@@ -570,13 +521,6 @@
     "title": "Pixel Forge AI Hackathon",
     "url": "https://pixel-forge-ai-hackathon-08.devpost.com/",
     "start_date": "Aug 15 - 22, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Prometheus July AI Challenge",
-    "url": "https://prometheus-july-ai-challenge.devpost.com/",
-    "start_date": "Jul 17 - 30, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -725,6 +669,13 @@
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "Aug 29, 2026",
     "location": "South Plainfield Library",
+    "source": "Devpost"
+  },
+  {
+    "title": "Worlds in Action Hack [02-LA]",
+    "url": "https://worlds-in-action-hack-02-la.devpost.com/",
+    "start_date": "Jul 18 - 19, 2026",
+    "location": "Los Angeles",
     "source": "Devpost"
   },
   {
