@@ -98,6 +98,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Build with Paritok: The Token-Efficiency Hackathon",
+    "url": "https://build-with-paritok.devpost.com/",
+    "start_date": "Jul 20 - Aug 05, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Build-A-Thon",
     "url": "https://build-a-thon-30568.devpost.com/",
     "start_date": "Oct 16 - 17, 2026",
@@ -116,13 +123,6 @@
     "url": "https://caseclosed.devpost.com/",
     "start_date": "Sep 20, 2026",
     "location": "Location TBA",
-    "source": "Devpost"
-  },
-  {
-    "title": "CloudHacks  2026",
-    "url": "https://cloudhacks-2026.devpost.com/",
-    "start_date": "Aug 24, 2026",
-    "location": "Lahore",
     "source": "Devpost"
   },
   {
@@ -329,6 +329,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Hacking  2026",
+    "url": "https://cloudhacks-2026.devpost.com/",
+    "start_date": "Aug 24, 2026",
+    "location": "Lahore",
+    "source": "Devpost"
+  },
+  {
     "title": "HackPSU Fall 2026",
     "url": "https://hackpsu-fall-2026.devpost.com/",
     "start_date": "Oct 24 - 25, 2026",
@@ -368,13 +375,6 @@
     "url": "https://hoya-hacks-2027.devpost.com/",
     "start_date": "Jan 22 - 24, 2027",
     "location": "Healey Family Student Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "ICON Hackathon",
-    "url": "https://icon-hackathon.devpost.com/",
-    "start_date": "Jul 19 - 22, 2026",
-    "location": "UNSW",
     "source": "Devpost"
   },
   {
@@ -658,6 +658,13 @@
     "source": "Devpost"
   },
   {
+    "title": "VentureFix",
+    "url": "https://venturefix.devpost.com/",
+    "start_date": "Aug 30 - Sep 13, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Vibe Code Animated Maps",
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "Aug 29, 2026",
@@ -846,13 +853,6 @@
     "url": "https://events.mlh.com/events/14442-spartahack-12?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SpartaHack",
     "start_date": "FEB 06 - 07",
     "location": "East Lansing, Michigan, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "FPH , FPH Midnight Virtual Hackathon",
-    "url": "https://events.mlh.com/events/14413-midnight-hackathon?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Midnight+Virtual+Hackathon",
-    "start_date": "JUL 17 - 19",
-    "location": "Everywhere, Worldwide, US Digital",
     "source": "MLH"
   },
   {
@@ -1091,13 +1091,6 @@
     "url": "https://ellehacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=ElleHacks",
     "start_date": "JAN 29 - 31",
     "location": "Toronto, Ontario, CA In-Person DIVERSITY",
-    "source": "MLH"
-  },
-  {
-    "title": "Toronto , Ontario Hack",
-    "url": "https://hackthe6ix.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+the+6ix",
-    "start_date": "the 6",
-    "location": "ix JUL 17 - 19 Toronto, Ontario, CA In-Person",
     "source": "MLH"
   },
   {
