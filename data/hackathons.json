@@ -98,13 +98,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Build with Paritok: The Token-Efficiency Hackathon",
-    "url": "https://build-with-paritok.devpost.com/",
-    "start_date": "Jul 20 - Aug 05, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Build-A-Thon",
     "url": "https://build-a-thon-30568.devpost.com/",
     "start_date": "Oct 16 - 17, 2026",
@@ -234,6 +227,13 @@
     "title": "GatewayGS & The AEI Initiative:  AI 4 Earth Hackathon",
     "url": "https://gatewaygs-ai-4-earth-hackathon.devpost.com/",
     "start_date": "Jul 25 - Aug 15, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "GatewayHacks 2026 | Software & AI For Humanity",
+    "url": "https://gatewayhacks-2026.devpost.com/",
+    "start_date": "Sep 01 - Oct 02, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -399,10 +399,24 @@
     "source": "Devpost"
   },
   {
+    "title": "Infinity Hacks 2026 | HackerRank",
+    "url": "https://infinity-hacks-2026-hackerrank.devpost.com/",
+    "start_date": "Aug 15 - 16, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Iris Hacks IV",
     "url": "https://iris-hacks-iv.devpost.com/",
     "start_date": "Aug 08 - 09, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "JacHacks SF",
+    "url": "https://jachacks-sf.devpost.com/",
+    "start_date": "Jul 26, 2026",
+    "location": "Founders Inc.",
     "source": "Devpost"
   },
   {
@@ -455,6 +469,13 @@
     "source": "Devpost"
   },
   {
+    "title": "MIT BWSI Cyber Hackathon 2026",
+    "url": "https://mit-bwsi-cyber-hackathon-2026.devpost.com/",
+    "start_date": "Jul 24 - 27, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "MLH Hack Day @ Kristu Jayanti",
     "url": "https://mlhackday.devpost.com/",
     "start_date": "Aug 01, 2026",
@@ -480,6 +501,13 @@
     "url": "https://myhack-isna.devpost.com/",
     "start_date": "Sep 05 - 06, 2026",
     "location": "Detroit, MI, USA",
+    "source": "Devpost"
+  },
+  {
+    "title": "NEXORA Global Hackathon",
+    "url": "https://nexora-global-hackathon.devpost.com/",
+    "start_date": "Jul 31 - Aug 15, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -602,6 +630,13 @@
     "source": "Devpost"
   },
   {
+    "title": "SISPIK HACKS",
+    "url": "https://sispik-hacks-1-0.devpost.com/",
+    "start_date": "Aug 08 - 09, 2026",
+    "location": "Singapore School Pantai Indah Kapuk",
+    "source": "Devpost"
+  },
+  {
     "title": "SourceHacks V1",
     "url": "https://sourcehacksv1.devpost.com/",
     "start_date": "Dec 11 - 12, 2026",
@@ -655,6 +690,13 @@
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Jul 31, 2026",
     "location": "Tully Community Branch Library",
+    "source": "Devpost"
+  },
+  {
+    "title": "UnivaBio",
+    "url": "https://univabio.devpost.com/",
+    "start_date": "Aug 07 - Sep 17, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
