@@ -16,8 +16,8 @@
   {
     "title": "8-Bit Jam",
     "url": "https://8-bit-jam.devpost.com/",
-    "start_date": "Aug 08 - 09, 2026",
-    "location": "Herndon, Virginia",
+    "start_date": "Aug 22, 2026",
+    "location": "Great Falls, Virginia",
     "source": "Devpost"
   },
   {
@@ -39,6 +39,13 @@
     "url": "https://la-ai-hackathon-2026.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
     "location": "James West Alumni Center",
+    "source": "Devpost"
+  },
+  {
+    "title": "Arbiter Hacks V1",
+    "url": "https://arbiter-hacks-v1.devpost.com/",
+    "start_date": "Sep 14 - Nov 15, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -130,6 +137,13 @@
     "url": "https://cs-girlies-wellness-hackathon.devpost.com/",
     "start_date": "Aug 14 - 16, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "CSI Hacks",
+    "url": "https://csi-hacks.devpost.com/",
+    "start_date": "Jul 25, 2026",
+    "location": "Zoho Corporation, Pleasanton CA",
     "source": "Devpost"
   },
   {
@@ -357,13 +371,6 @@
     "source": "Devpost"
   },
   {
-    "title": "HackVerse",
-    "url": "https://hackverse-30753.devpost.com/",
-    "start_date": "Jul 22 - 23, 2026",
-    "location": "MEDINIPUR  (ONLINE)",
-    "source": "Devpost"
-  },
-  {
     "title": "Horizon STEM Hackthon",
     "url": "https://horizon-stem-hackthon.devpost.com/",
     "start_date": "Jul 25, 2026",
@@ -381,6 +388,13 @@
     "title": "IEEE ClimateChain Global Hackathon",
     "url": "https://ieee-climatechain-hack.devpost.com/",
     "start_date": "Oct 05 - 25, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Impact Forge: Summer 2026 Hackathon",
+    "url": "https://impactforge26.devpost.com/",
+    "start_date": "Aug 06 - 09, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -448,6 +462,13 @@
     "source": "Devpost"
   },
   {
+    "title": "LarpHacks",
+    "url": "https://larphacks.devpost.com/",
+    "start_date": "Oct 23, 2026",
+    "location": "Toronto",
+    "source": "Devpost"
+  },
+  {
     "title": "LaunchHacks V",
     "url": "https://launchhacks-v.devpost.com/",
     "start_date": "Dec 11 - 15, 2026",
@@ -471,7 +492,7 @@
   {
     "title": "MIT BWSI Cyber Hackathon 2026",
     "url": "https://mit-bwsi-cyber-hackathon-2026.devpost.com/",
-    "start_date": "Jul 24 - 27, 2026",
+    "start_date": "Jul 24, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -560,13 +581,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Rampamble",
-    "url": "https://rampamble.devpost.com/",
-    "start_date": "Jul 22 - Aug 20, 2026",
-    "location": "KIT main building",
-    "source": "Devpost"
-  },
-  {
     "title": "Recruit Holdings Hackathon “Innovation Cup”",
     "url": "https://innovation-cup2026.devpost.com/",
     "start_date": "Sep 25 - 27, 2026",
@@ -630,7 +644,7 @@
     "source": "Devpost"
   },
   {
-    "title": "SISPIK HACKS",
+    "title": "SISPIK HACKS 1.0",
     "url": "https://sispik-hacks-1-0.devpost.com/",
     "start_date": "Aug 08 - 09, 2026",
     "location": "Singapore School Pantai Indah Kapuk",
