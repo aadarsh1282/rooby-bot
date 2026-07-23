@@ -168,13 +168,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Dev Clash",
-    "url": "https://dev-clash.devpost.com/",
-    "start_date": "Jul 23, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "DeveloperWeek 2027 Hackathon",
     "url": "https://developerweek-2027-hackathon.devpost.com/",
     "start_date": "Jan 25 - Feb 11, 2027",
@@ -207,6 +200,13 @@
     "url": "https://dive2026.devpost.com/",
     "start_date": "Jul 25 - 26, 2026",
     "location": "4F, BEXCO Exhibition Center 2",
+    "source": "Devpost"
+  },
+  {
+    "title": "DMV Hackathon",
+    "url": "https://dmv-hackathon.devpost.com/",
+    "start_date": "Jul 25, 2026",
+    "location": "Fuse at Mason Square",
     "source": "Devpost"
   },
   {
@@ -245,7 +245,7 @@
     "source": "Devpost"
   },
   {
-    "title": "GatewayHacks 2026 | Software & AI For Humanity",
+    "title": "GatewayHacks 2026 | Software & AI",
     "url": "https://gatewayhacks-2026.devpost.com/",
     "start_date": "Sep 01 - Oct 02, 2026",
     "location": "Online",
@@ -490,7 +490,7 @@
     "source": "Devpost"
   },
   {
-    "title": "MIT BWSI Cyber Hackathon 2026",
+    "title": "MIT BWSI Cyber Operations Cohort Hackathon 2026",
     "url": "https://mit-bwsi-cyber-hackathon-2026.devpost.com/",
     "start_date": "Jul 24, 2026",
     "location": "Online",
@@ -725,6 +725,13 @@
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "Aug 29, 2026",
     "location": "South Plainfield Library",
+    "source": "Devpost"
+  },
+  {
+    "title": "Vidhyarthi Sewa EduHack Karnataka 2026",
+    "url": "https://vidhyarthi-sewa-eduhack.devpost.com/",
+    "start_date": "Jul 31 - Aug 20, 2026",
+    "location": "Primus B School",
     "source": "Devpost"
   },
   {
