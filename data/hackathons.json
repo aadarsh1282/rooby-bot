@@ -14,6 +14,13 @@
     "source": "Devpost"
   },
   {
+    "title": "305 SummerCodex Edition July 2026",
+    "url": "https://305-summercodex-ed-july-2026.devpost.com/",
+    "start_date": "Jul 24, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "8-Bit Jam",
     "url": "https://8-bit-jam.devpost.com/",
     "start_date": "Aug 22, 2026",
@@ -315,6 +322,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Hack Knowvy - 1",
+    "url": "https://hack-knowvy-1.devpost.com/",
+    "start_date": "Sep 06, 2026",
+    "location": "Indrapuri, Bhopal",
+    "source": "Devpost"
+  },
+  {
     "title": "hack::peel 2026",
     "url": "https://hack-peel.devpost.com/",
     "start_date": "Dec 12 - 13, 2026",
@@ -333,6 +347,13 @@
     "url": "https://hackdays-delhi.devpost.com/",
     "start_date": "Jul 25, 2026",
     "location": "India",
+    "source": "Devpost"
+  },
+  {
+    "title": "HackFW",
+    "url": "https://hackfw.devpost.com/",
+    "start_date": "Oct 01 - 31, 2026",
+    "location": "Fort Worth",
     "source": "Devpost"
   },
   {
@@ -394,7 +415,7 @@
   {
     "title": "Impact Forge: Summer 2026 Hackathon",
     "url": "https://impactforge26.devpost.com/",
-    "start_date": "Aug 06 - 09, 2026",
+    "start_date": "Aug 14 - 16, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -450,7 +471,7 @@
   {
     "title": "Kifiya Inspire Hackathon V4 2026",
     "url": "https://kifiya-inspire-hackathon-2026.devpost.com/",
-    "start_date": "Jul 24, 2026",
+    "start_date": "Aug 14, 2026",
     "location": "Addis Ababa, Ethiopia",
     "source": "Devpost"
   },
@@ -522,13 +543,6 @@
     "url": "https://myhack-isna.devpost.com/",
     "start_date": "Sep 05 - 06, 2026",
     "location": "Detroit, MI, USA",
-    "source": "Devpost"
-  },
-  {
-    "title": "NEXORA Global Hackathon",
-    "url": "https://nexora-global-hackathon.devpost.com/",
-    "start_date": "Jul 31 - Aug 15, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -630,6 +644,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Self-Evolving Agents Hackathon",
+    "url": "https://self-evolving-agents.devpost.com/",
+    "start_date": "Jul 24, 2026",
+    "location": "DG717",
+    "source": "Devpost"
+  },
+  {
     "title": "Shower Hacks",
     "url": "https://showerhacks.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
@@ -702,8 +723,15 @@
   {
     "title": "Tech to Treasure Hackathon",
     "url": "https://techtotreasure.devpost.com/",
-    "start_date": "Jul 31, 2026",
+    "start_date": "Mar 03 - 10, 2027",
     "location": "Tully Community Branch Library",
+    "source": "Devpost"
+  },
+  {
+    "title": "The Atlassian X Mistral X AISoc Hack",
+    "url": "https://aisoc-atlassian-mistral.devpost.com/",
+    "start_date": "Jul 31, 2026",
+    "location": "Kensington, Australia",
     "source": "Devpost"
   },
   {
@@ -1103,7 +1131,7 @@
   {
     "title": "Richardson , Texas HackUTD",
     "url": "https://hackutd.co/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackUTD",
-    "start_date": "NOV 14 - 15",
+    "start_date": "NOV 07 - 08",
     "location": "Richardson, Texas, US In-Person",
     "source": "MLH"
   },
