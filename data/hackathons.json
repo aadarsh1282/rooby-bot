@@ -14,13 +14,6 @@
     "source": "Devpost"
   },
   {
-    "title": "305 SummerCodex Edition July 2026",
-    "url": "https://305-summercodex-ed-july-2026.devpost.com/",
-    "start_date": "Jul 24, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "8-Bit Jam",
     "url": "https://8-bit-jam.devpost.com/",
     "start_date": "Aug 22, 2026",
@@ -105,6 +98,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Build with Gemini - Gen Recruiter",
+    "url": "https://gen-recruiter-google-gemini.devpost.com/",
+    "start_date": "Sep 10, 2026",
+    "location": "Jaipur, India",
+    "source": "Devpost"
+  },
+  {
     "title": "Build with Gemma NYC: On-Device AI for Healthcare",
     "url": "https://gemmanycaihealthcare.devpost.com/",
     "start_date": "Aug 01, 2026",
@@ -130,6 +130,13 @@
     "url": "https://caseclosed.devpost.com/",
     "start_date": "Sep 20, 2026",
     "location": "Location TBA",
+    "source": "Devpost"
+  },
+  {
+    "title": "Checkout - The Travel & Hospitality Hackathon",
+    "url": "https://nyc-travel-hack.devpost.com/",
+    "start_date": "Aug 09, 2026",
+    "location": "McNally Amphitheater",
     "source": "Devpost"
   },
   {
@@ -168,13 +175,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Daytona HackSprint w/ Braintrust - SF, July 2026",
-    "url": "https://daytona-hacksprint-sf-jul-2026.devpost.com/",
-    "start_date": "Jul 24, 2026",
-    "location": "San Francisco, CA, USA",
-    "source": "Devpost"
-  },
-  {
     "title": "DeveloperWeek 2027 Hackathon",
     "url": "https://developerweek-2027-hackathon.devpost.com/",
     "start_date": "Jan 25 - Feb 11, 2027",
@@ -196,20 +196,6 @@
     "source": "Devpost"
   },
   {
-    "title": "DevsUnite Hiring Hackathon",
-    "url": "https://devsunite-hiring-hackathon.devpost.com/",
-    "start_date": "Jul 24 - 25, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "DIVE 2026",
-    "url": "https://dive2026.devpost.com/",
-    "start_date": "Jul 25 - 26, 2026",
-    "location": "4F, BEXCO Exhibition Center 2",
-    "source": "Devpost"
-  },
-  {
     "title": "DMV Hackathon",
     "url": "https://dmv-hackathon.devpost.com/",
     "start_date": "Jul 25, 2026",
@@ -224,13 +210,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Esri's Weekend of Innovation 2026",
-    "url": "https://esri-woi-2026.devpost.com/",
-    "start_date": "Jul 24 - 26, 2026",
-    "location": "Redlands",
-    "source": "Devpost"
-  },
-  {
     "title": "EurekaDev 2026",
     "url": "https://eurekadev.devpost.com/",
     "start_date": "Aug 01 - 31, 2027",
@@ -241,13 +220,6 @@
     "title": "evensonarisnord",
     "url": "https://evensonarisnord.devpost.com/",
     "start_date": "Dec 31, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "GatewayGS & The AEI Initiative:  AI 4 Earth Hackathon",
-    "url": "https://gatewaygs-ai-4-earth-hackathon.devpost.com/",
-    "start_date": "Jul 25 - Aug 15, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -343,14 +315,7 @@
     "source": "Devpost"
   },
   {
-    "title": "HackDays Delhi",
-    "url": "https://hackdays-delhi.devpost.com/",
-    "start_date": "Jul 25, 2026",
-    "location": "India",
-    "source": "Devpost"
-  },
-  {
-    "title": "HackFW",
+    "title": "HackFW: MADE Challenge",
     "url": "https://hackfw.devpost.com/",
     "start_date": "Oct 01 - 31, 2026",
     "location": "Fort Worth",
@@ -511,13 +476,6 @@
     "source": "Devpost"
   },
   {
-    "title": "MIT BWSI Cyber Operations Cohort Hackathon 2026",
-    "url": "https://mit-bwsi-cyber-hackathon-2026.devpost.com/",
-    "start_date": "Jul 24, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "MLH Hack Day @ Kristu Jayanti",
     "url": "https://mlhackday.devpost.com/",
     "start_date": "Aug 01, 2026",
@@ -581,7 +539,7 @@
     "source": "Devpost"
   },
   {
-    "title": "Pixel Forge AI Hackathon",
+    "title": "Pixel Forge AI Hackathon ($3,000+ in Prizes)",
     "url": "https://pixel-forge-ai-hackathon-08.devpost.com/",
     "start_date": "Aug 15 - 22, 2026",
     "location": "Online",
@@ -644,13 +602,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Self-Evolving Agents Hackathon",
-    "url": "https://self-evolving-agents.devpost.com/",
-    "start_date": "Jul 24, 2026",
-    "location": "DG717",
-    "source": "Devpost"
-  },
-  {
     "title": "Shower Hacks",
     "url": "https://showerhacks.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
@@ -662,6 +613,13 @@
     "url": "https://sinceai2026.devpost.com/",
     "start_date": "Nov 06 - 08, 2026",
     "location": "Kupittaa Campus, Turku",
+    "source": "Devpost"
+  },
+  {
+    "title": "SIP Hackathon 2026",
+    "url": "https://sip-hackathon.devpost.com/",
+    "start_date": "Aug 03 - 04, 2026",
+    "location": "UCSC",
     "source": "Devpost"
   },
   {
@@ -732,6 +690,13 @@
     "url": "https://aisoc-atlassian-mistral.devpost.com/",
     "start_date": "Jul 31, 2026",
     "location": "Kensington, Australia",
+    "source": "Devpost"
+  },
+  {
+    "title": "United Hacks V8",
+    "url": "https://unitedhacksv8.devpost.com/",
+    "start_date": "Jan 08 - 10, 2027",
+    "location": "Online",
     "source": "Devpost"
   },
   {
