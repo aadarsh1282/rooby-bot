@@ -30,7 +30,7 @@
   {
     "title": "AI Builders Hackathon",
     "url": "https://ai-builders-hackathon-2026.devpost.com/",
-    "start_date": "Aug 01 - 25, 2026",
+    "start_date": "Aug 10 - 25, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -130,6 +130,13 @@
     "url": "https://codelinc11.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
     "location": "Lincoln Financial Group",
+    "source": "Devpost"
+  },
+  {
+    "title": "CodeNova 2026 – National AI & Innovation Hackathon",
+    "url": "https://codenova-2026.devpost.com/",
+    "start_date": "Aug 01 - 03, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -259,6 +266,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Hack Days in Oriental",
+    "url": "https://hack-days-in-oriental.devpost.com/",
+    "start_date": "Aug 16, 2026",
+    "location": "Main Auditorium - Oriental College",
+    "source": "Devpost"
+  },
+  {
     "title": "Hack for Humanity | Summer 2026",
     "url": "https://hack-for-humanity-summer-26.devpost.com/",
     "start_date": "Aug 07 - Sep 04, 2026",
@@ -270,6 +284,13 @@
     "url": "https://hack-knowvy-1.devpost.com/",
     "start_date": "Sep 06, 2026",
     "location": "Indrapuri, Bhopal",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hack the Change 2026",
+    "url": "https://hack-the-change-2026.devpost.com/",
+    "start_date": "Nov 07 - 08, 2026",
+    "location": "University of Calgary",
     "source": "Devpost"
   },
   {
@@ -336,6 +357,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Hyphen-Hacks",
+    "url": "https://hyphen-hacks26.devpost.com/",
+    "start_date": "Oct 10, 2026",
+    "location": "Lick-Wilmerding High School",
+    "source": "Devpost"
+  },
+  {
     "title": "IEEE ClimateChain Global Hackathon",
     "url": "https://ieee-climatechain-hack.devpost.com/",
     "start_date": "Oct 05 - 25, 2026",
@@ -375,13 +403,6 @@
     "url": "https://iris-hacks-iv.devpost.com/",
     "start_date": "Aug 08 - 09, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "JacHacks SF",
-    "url": "https://jachacks-sf.devpost.com/",
-    "start_date": "Jul 26, 2026",
-    "location": "Founders Inc.",
     "source": "Devpost"
   },
   {
@@ -542,13 +563,6 @@
     "title": "Reverie Hacks 2026",
     "url": "https://reverie-hacks-2026.devpost.com/",
     "start_date": "Aug 02 - 17, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "RLC Hacks 2026",
-    "url": "https://rlc-hacks-30705.devpost.com/",
-    "start_date": "Jul 26 - Aug 04, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -728,13 +742,6 @@
     "start_date": "",
     "location": "Online / TBA",
     "source": "Hackeroos"
-  },
-  {
-    "title": "Agarpara Kolkata , West Bengal",
-    "url": "https://hexafalls.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hexafalls+2",
-    "start_date": "Hexafalls 2",
-    "location": "JUL 24 - 26 Agarpara Kolkata, West Bengal, IN In-Person",
-    "source": "MLH"
   },
   {
     "title": "Amherst , MA HackUMass",
