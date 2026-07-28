@@ -21,13 +21,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Agentic Cinema: The Blockbuster Hackathon",
-    "url": "https://agentic-cinema.devpost.com/",
-    "start_date": "Jul 27 - Sep 07, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "AI Builders Hackathon",
     "url": "https://ai-builders-hackathon-2026.devpost.com/",
     "start_date": "Aug 10 - 25, 2026",
@@ -182,6 +175,13 @@
     "source": "Devpost"
   },
   {
+    "title": "DreamHacks @ Georgia Institute of Technology",
+    "url": "https://dreamhacks-gt.devpost.com/",
+    "start_date": "Aug 29, 2026",
+    "location": "Georgia Institute of Technology",
+    "source": "Devpost"
+  },
+  {
     "title": "Dublin Hacx",
     "url": "https://dublin-hacx.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
@@ -203,9 +203,23 @@
     "source": "Devpost"
   },
   {
+    "title": "GatewayGS Hackathon 2",
+    "url": "https://gatewaygs-hackathon-2.devpost.com/",
+    "start_date": "Sep 01 - 16, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "GatewayHacks 2026 | Software & AI",
     "url": "https://gatewayhacks-2026.devpost.com/",
     "start_date": "Sep 01 - Oct 02, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "GDGoC Summer DevSprint",
+    "url": "https://gdgoc-summer-devsprint.devpost.com/",
+    "start_date": "Aug 12 - 13, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -294,6 +308,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Hack with Series",
+    "url": "https://hack-with-series.devpost.com/",
+    "start_date": "Aug 18, 2026",
+    "location": "Series HQ",
+    "source": "Devpost"
+  },
+  {
     "title": "hack::peel 2026",
     "url": "https://hack-peel.devpost.com/",
     "start_date": "Dec 12 - 13, 2026",
@@ -326,6 +347,13 @@
     "url": "https://cloudhacks-2026.devpost.com/",
     "start_date": "Aug 24, 2026",
     "location": "Lahore",
+    "source": "Devpost"
+  },
+  {
+    "title": "HACKNOVA'26",
+    "url": "https://hacknova-26-30838.devpost.com/",
+    "start_date": "Aug 18 - 19, 2026",
+    "location": "Chembarambakkam in Tamil Nadu, India.",
     "source": "Devpost"
   },
   {
@@ -662,6 +690,13 @@
     "url": "https://aisoc-atlassian-mistral.devpost.com/",
     "start_date": "Jul 31, 2026",
     "location": "Kensington, Australia",
+    "source": "Devpost"
+  },
+  {
+    "title": "Trust in the Hiring Funnel Hackathon",
+    "url": "https://trust-in-the-hiring-funnel.devpost.com/",
+    "start_date": "Sep 12, 2026",
+    "location": "NYU",
     "source": "Devpost"
   },
   {
