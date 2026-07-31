@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ PikaBot
+# ⚡ Rooby-Bot
 
 **AI-Powered Hackathon Intelligence & Community Automation Platform**
 
@@ -13,7 +13,7 @@
 
 *Aggregates 250+ hackathons across 5 platforms · AI-driven Q&A · Real-time community moderation · Fully automated*
 
-> **⚡ PikaBot is live.** [Join the Hackeroos Discord](https://discord.gg/saDzS4g8YN) to see it in action — run `/hackathons`, `/ask`, or `/poll` in the server.
+> **⚡ Rooby-Bot is live.** [Join the Hackeroos Discord](https://discord.gg/saDzS4g8YN) to see it in action — run `/hackathons`, `/ask`, or `/poll` in the server.
 
 </div>
 
@@ -21,9 +21,9 @@
 
 ## 📌 Overview
 
-PikaBot is a production-grade Discord bot and hackathon intelligence system built for the **Hackeroos** community. It continuously scrapes, deduplicates, and serves hackathon data from multiple platforms — providing community members with real-time event discovery, AI-powered Q&A, and automated moderation through a unified Discord interface.
+Rooby-Bot is a production-grade Discord bot and hackathon intelligence system built for the **Hackeroos** community. It continuously scrapes, deduplicates, and serves hackathon data from multiple platforms — providing community members with real-time event discovery, AI-powered Q&A, and automated moderation through a unified Discord interface.
 
-PikaBot solves three real problems:
+Rooby-Bot solves three real problems:
 - **Discovery fragmentation** — hackathon events are scattered across Devpost, MLH, Lu.ma, Hack Club, and more
 - **Community noise** — unmoderated servers suffer from spam, raids, and content violations
 - **Insight gap** — participants and organizers lack structured, queryable data on trends and events
@@ -32,15 +32,15 @@ PikaBot solves three real problems:
 
 ## 🚀 Try it Live
 
-PikaBot is running 24/7 in the **Hackeroos** Discord server. Join and interact with it directly:
+Rooby-Bot is running 24/7 in the **Hackeroos** Discord server. Join and interact with it directly:
 
 <div align="center">
 
-[![Join Hackeroos Discord](https://img.shields.io/badge/Join%20Hackeroos-Try%20PikaBot%20Live-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/saDzS4g8YN)
+[![Join Hackeroos Discord](https://img.shields.io/badge/Join%20Hackeroos-Try%20Rooby--Bot%20Live-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/saDzS4g8YN)
 
 </div>
 
-Once inside, try these commands in `#pika-bots`:
+Once inside, try these commands in `#rooby-bots`:
 
 | Command | What to expect |
 |---------|---------------|
@@ -90,7 +90,7 @@ Once inside, try these commands in `#pika-bots`:
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│                        PikaBot System                         │
+│                        Rooby-Bot System                         │
 ├─────────────────────────┬────────────────────────────────────┤
 │      Data Layer         │          Bot Layer                  │
 │                         │                                     │
@@ -116,7 +116,7 @@ Once inside, try these commands in `#pika-bots`:
 ## 📁 Folder Structure
 
 ```
-pika-bot/
+rooby-bot/
 ├── .github/
 │   └── workflows/
 │       └── hackathons-scraper.yml   # Automated daily scraper (GitHub Actions)
@@ -144,8 +144,8 @@ pika-bot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/aadarsh1282/pika-bot.git
-cd pika-bot
+git clone https://github.com/aadarsh1282/rooby-bot.git
+cd rooby-bot
 ```
 
 ### 2. Create a virtual environment
@@ -258,7 +258,7 @@ print(f"{len(online)} online hackathons found")
 | `/set-winner` | Record a hackathon winner | Admin |
 | `/verify` | Member onboarding & role assignment | Everyone |
 | `/pika-help` | Show all available commands | Everyone |
-| `/about` | About PikaBot | Everyone |
+| `/about` | About Rooby-Bot | Everyone |
 | `/faq` | Frequently asked questions | Everyone |
 
 ---
