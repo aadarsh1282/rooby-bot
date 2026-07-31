@@ -133,10 +133,10 @@
     "source": "Devpost"
   },
   {
-    "title": "CodeNova 2026 – National AI & Innovation Hackathon",
-    "url": "https://codenova-2026.devpost.com/",
-    "start_date": "Aug 01 - 03, 2026",
-    "location": "Online",
+    "title": "CommuniHacks",
+    "url": "https://communihacks.devpost.com/",
+    "start_date": "Nov 07 - 08, 2026",
+    "location": "Builders Club",
     "source": "Devpost"
   },
   {
@@ -179,6 +179,13 @@
     "url": "https://devonomicsv1.devpost.com/",
     "start_date": "Sep 16 - 23, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Disney Streaming NYC Intern Hackathon ‘26",
+    "url": "https://disney-streaming-nyc-26.devpost.com/",
+    "start_date": "Aug 03 - 04, 2026",
+    "location": "Online / TBA",
     "source": "Devpost"
   },
   {
@@ -284,13 +291,6 @@
     "url": "https://hack-days-in-bansal.devpost.com/",
     "start_date": "Aug 02, 2026",
     "location": "Main Auditorium - Bansal Institute",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack Days in Delhi",
-    "url": "https://hack-days-in-delhi-30766.devpost.com/",
-    "start_date": "Jul 31 - Aug 02, 2026",
-    "location": "Thoughtwork Technology, Gurugram",
     "source": "Devpost"
   },
   {
@@ -700,13 +700,6 @@
     "source": "Devpost"
   },
   {
-    "title": "The Atlassian X Mistral X AISoc Hack",
-    "url": "https://aisoc-atlassian-mistral.devpost.com/",
-    "start_date": "Jul 31, 2026",
-    "location": "Kensington, Australia",
-    "source": "Devpost"
-  },
-  {
     "title": "Trust in the Hiring Funnel Hackathon",
     "url": "https://trust-in-the-hiring-funnel.devpost.com/",
     "start_date": "Sep 12, 2026",
@@ -739,13 +732,6 @@
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "Aug 29, 2026",
     "location": "South Plainfield Library",
-    "source": "Devpost"
-  },
-  {
-    "title": "Vidhyarthi Sewa EduHack Karnataka 2026",
-    "url": "https://vidhyarthi-sewa-eduhack.devpost.com/",
-    "start_date": "Jul 31 - Aug 20, 2026",
-    "location": "Primus B School",
     "source": "Devpost"
   },
   {
@@ -804,6 +790,13 @@
     "url": "https://www.mhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=MHacks",
     "start_date": "OCT 03 - 04",
     "location": "Ann Arbor, MI, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "asdf , asdf BF Built for NYC: AI Hackathon at NYPL",
+    "url": "https://www.eventbrite.com/e/built-for-nyc-ai-hackathon-at-nypl-tickets-1994000516221?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Built+for+NYC%3A+AI+Hackathon+at+NYPL",
+    "start_date": "AUG 15 - 16",
+    "location": "asdf, asdf, US In-Person",
     "source": "MLH"
   },
   {
