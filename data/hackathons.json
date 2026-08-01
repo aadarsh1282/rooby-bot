@@ -30,7 +30,7 @@
   {
     "title": "AI Builders Hackathon",
     "url": "https://ai-builders-hackathon-2026.devpost.com/",
-    "start_date": "Aug 10 - 25, 2026",
+    "start_date": "Aug 21 - 25, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -84,13 +84,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Build Nepal",
-    "url": "https://buildnepal.devpost.com/",
-    "start_date": "Aug 01 - 02, 2026",
-    "location": "Mid valley International College",
-    "source": "Devpost"
-  },
-  {
     "title": "Build with Gemini - Gen Recruiter",
     "url": "https://gen-recruiter-google-gemini.devpost.com/",
     "start_date": "Sep 10, 2026",
@@ -116,6 +109,13 @@
     "url": "https://caseclosed.devpost.com/",
     "start_date": "Sep 20, 2026",
     "location": "Location TBA",
+    "source": "Devpost"
+  },
+  {
+    "title": "Central Hacks",
+    "url": "https://central-hacks.devpost.com/",
+    "start_date": "Nov 14 - 15, 2026",
+    "location": "Central Michigan University Pearce Hall",
     "source": "Devpost"
   },
   {
@@ -378,13 +378,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hacksocial 2026",
-    "url": "https://hacksocial2026.devpost.com/",
-    "start_date": "Aug 01 - 31, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "HackTitan",
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
@@ -416,13 +409,6 @@
     "title": "Impact Forge: Summer 2026 Hackathon",
     "url": "https://impactforge26.devpost.com/",
     "start_date": "Aug 14 - 16, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "IncludAI - The Neurodiversity Hackathon, in Partnership with Stanford NNEA",
-    "url": "https://includai-2026.devpost.com/",
-    "start_date": "Aug 01 - 09, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -497,20 +483,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Maverick Hackathon",
-    "url": "https://maverick-hackathon.devpost.com/",
-    "start_date": "Aug 01, 2026",
-    "location": "Alpharetta, GA, USA",
-    "source": "Devpost"
-  },
-  {
-    "title": "MLH Hack Day @ Kristu Jayanti",
-    "url": "https://mlhackday.devpost.com/",
-    "start_date": "Aug 01, 2026",
-    "location": "Kristu Jayanti (Deemed to be University)",
-    "source": "Devpost"
-  },
-  {
     "title": "MunichTech EXPO",
     "url": "https://munichtech-expo.devpost.com/",
     "start_date": "Sep 01 - 20, 2026",
@@ -522,6 +494,13 @@
     "url": "https://myhack-isna.devpost.com/",
     "start_date": "Sep 05 - 06, 2026",
     "location": "Detroit, MI, USA",
+    "source": "Devpost"
+  },
+  {
+    "title": "NextStep Hacks 2026",
+    "url": "https://nextstep2026.devpost.com/",
+    "start_date": "Aug 21 - 23, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -591,13 +570,6 @@
     "title": "RescueHacks",
     "url": "https://rescue-hacks-30680.devpost.com/",
     "start_date": "Aug 22 - 29, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "RevenueCat Shipaton 2026",
-    "url": "https://revenuecat-shipaton-2026.devpost.com/",
-    "start_date": "Jul 31 - Oct 01, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -672,13 +644,6 @@
     "source": "Devpost"
   },
   {
-    "title": "STEMist Hacks IV",
-    "url": "https://stemist-hacks-iv.devpost.com/",
-    "start_date": "Jul 31 - Aug 02, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Stupid Ideas Hackathon (Ottawa F26)",
     "url": "https://stupideas-ottawa-f26.devpost.com/",
     "start_date": "Sep 12, 2026",
@@ -697,6 +662,13 @@
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Mar 03 - 10, 2027",
     "location": "Tully Community Branch Library",
+    "source": "Devpost"
+  },
+  {
+    "title": "TikTok TechJam 2026",
+    "url": "https://tiktoktechjam2026.devpost.com/",
+    "start_date": "Aug 29 - Sep 01, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -790,13 +762,6 @@
     "url": "https://www.mhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=MHacks",
     "start_date": "OCT 03 - 04",
     "location": "Ann Arbor, MI, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "asdf , asdf BF Built for NYC: AI Hackathon at NYPL",
-    "url": "https://www.eventbrite.com/e/built-for-nyc-ai-hackathon-at-nypl-tickets-1994000516221?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Built+for+NYC%3A+AI+Hackathon+at+NYPL",
-    "start_date": "AUG 15 - 16",
-    "location": "asdf, asdf, US In-Person",
     "source": "MLH"
   },
   {
@@ -1028,6 +993,13 @@
     "url": "https://hackcbs.tech/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=hackCBS+9.O",
     "start_date": "hackCBS 9",
     "location": ".O OCT 31 - NOV 01 New delhi, New delhi, IN In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "New York , New York Built for NYC: AI Hackathon at NYPL",
+    "url": "https://www.eventbrite.com/e/built-for-nyc-ai-hackathon-at-nypl-tickets-1994000516221?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Built+for+NYC%3A+AI+Hackathon+at+NYPL",
+    "start_date": "AUG 15 - 16",
+    "location": "New York, New York, US In-Person",
     "source": "MLH"
   },
   {
