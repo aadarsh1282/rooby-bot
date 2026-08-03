@@ -30,7 +30,7 @@
   {
     "title": "AI Builders Hackathon",
     "url": "https://ai-builders-hackathon-2026.devpost.com/",
-    "start_date": "Aug 21 - 25, 2026",
+    "start_date": "Aug 21 - Sep 15, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -53,6 +53,13 @@
     "url": "https://bearhacks2027.devpost.com/",
     "start_date": "Apr 23 - 25, 2027",
     "location": "Sheridan College Hazel McCallion Campus",
+    "source": "Devpost"
+  },
+  {
+    "title": "Beginner's Paradise - FirstCommit",
+    "url": "https://firstcommit.devpost.com/",
+    "start_date": "Aug 21 - Sep 30, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -172,6 +179,13 @@
     "url": "https://devonomicsv1.devpost.com/",
     "start_date": "Sep 16 - 23, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "DIALED IN Builder Challenge",
+    "url": "https://dialedin.devpost.com/",
+    "start_date": "Aug 04 - Sep 08, 2026",
+    "location": "The Hub @ Office Logic",
     "source": "Devpost"
   },
   {
@@ -574,6 +588,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Resource Renewal Initiative",
+    "url": "https://resource-renewal-initiative.devpost.com/",
+    "start_date": "Aug 04 - 05, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "SC Quantathon v3",
     "url": "https://sc-quantathon-v3.devpost.com/",
     "start_date": "Sep 26 - 27, 2026",
@@ -711,6 +732,13 @@
     "url": "https://youtube-automate-hackathon.devpost.com/",
     "start_date": "Aug 03 - 09, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Zoftware Hireathon",
+    "url": "https://zoftware-hireathon.devpost.com/",
+    "start_date": "Aug 09, 2026",
+    "location": "Delhi",
     "source": "Devpost"
   },
   {
@@ -968,10 +996,10 @@
     "source": "MLH"
   },
   {
-    "title": "Monterrey , Nuevo Leon HackMTY",
-    "url": "https://hackmty.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackMTY",
-    "start_date": "SEP 11 - 13",
-    "location": "Monterrey, Nuevo Leon, MX In-Person",
+    "title": "Monterrey , Nuevo Leon",
+    "url": "https://hackmty.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackMTY+2026",
+    "start_date": "HackMTY 20",
+    "location": "26 SEP 11 - 13 Monterrey, Nuevo Leon, MX In-Person",
     "source": "MLH"
   },
   {
