@@ -77,13 +77,6 @@
     "source": "Devpost"
   },
   {
-    "title": "BTT Web Game Jam - Summer 2026",
-    "url": "https://btt-web-game-jam.devpost.com/",
-    "start_date": "Aug 07 - 21, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Build with AI Hack Days @EMK",
     "url": "https://build-with-ai-hack-days-emk.devpost.com/",
     "start_date": "Aug 17, 2026",
@@ -133,6 +126,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Coffee and Code Agent Hackathon",
+    "url": "https://coffee-and-code-agent.devpost.com/",
+    "start_date": "Sep 19 - 20, 2026",
+    "location": "Pennovation center",
+    "source": "Devpost"
+  },
+  {
     "title": "CommuniHacks",
     "url": "https://communihacks.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -179,13 +179,6 @@
     "url": "https://api-cloud-ai-hackathon-2026.devpost.com/",
     "start_date": "Aug 17 - Sep 03, 2026",
     "location": "Santa Clara Convention Center and Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "DevonomicsV1",
-    "url": "https://devonomicsv1.devpost.com/",
-    "start_date": "Sep 16 - 23, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -273,6 +266,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Global Psyops Hackathon",
+    "url": "https://global-psyops-hackathon.devpost.com/",
+    "start_date": "Sep 04 - 07, 2026",
+    "location": "Distribution Hall",
+    "source": "Devpost"
+  },
+  {
     "title": "GoatHacks 2027",
     "url": "https://goathacks-2027.devpost.com/",
     "start_date": "Feb 12 - 14, 2027",
@@ -301,20 +301,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hack Days Nagaland",
-    "url": "https://hack-days-nagaland.devpost.com/",
-    "start_date": "Aug 07 - 08, 2026",
-    "location": "Dimapur, Nagaland",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack for Humanity | Summer 2026",
-    "url": "https://hack-for-humanity-summer-26.devpost.com/",
-    "start_date": "Aug 07 - Sep 04, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Hack Knowvy - 1",
     "url": "https://hack-knowvy-1.devpost.com/",
     "start_date": "Sep 06, 2026",
@@ -326,13 +312,6 @@
     "url": "https://hack-the-change-2026.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "University of Calgary",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack the Habitat",
-    "url": "https://hack-the-habitat-2026.devpost.com/",
-    "start_date": "Aug 07 - 31, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -546,13 +525,6 @@
     "source": "Devpost"
   },
   {
-    "title": "NGN Hacks 2026",
-    "url": "https://ngn-hacks-2026.devpost.com/",
-    "start_date": "Aug 07 - 09, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "OneAquaHealth IEEE Global Hackathon",
     "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
     "start_date": "Sep 14 - Oct 01, 2026",
@@ -620,6 +592,13 @@
     "url": "https://roadstarhackathon.devpost.com/",
     "start_date": "Sep 05 - 13, 2026",
     "location": "Waterloo, ON",
+    "source": "Devpost"
+  },
+  {
+    "title": "SaugaHacks",
+    "url": "https://saugahacks-2026.devpost.com/",
+    "start_date": "Aug 28 - 31, 2026",
+    "location": "Mississauga",
     "source": "Devpost"
   },
   {
@@ -721,6 +700,13 @@
     "source": "Devpost"
   },
   {
+    "title": "United Hackathons V1",
+    "url": "https://devonomicsv1.devpost.com/",
+    "start_date": "Oct 06 - 12, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "United Hacks V8",
     "url": "https://unitedhacksv8.devpost.com/",
     "start_date": "Jan 08 - 10, 2027",
@@ -746,6 +732,13 @@
     "url": "https://wwu-sj-hack.devpost.com/",
     "start_date": "Oct 16 - 18, 2026",
     "location": "WWU - Kaiser Borsari Building",
+    "source": "Devpost"
+  },
+  {
+    "title": "YouthHackKC Summer Hackathon",
+    "url": "https://youthhackkc-summer-hackathon.devpost.com/",
+    "start_date": "Aug 15, 2026",
+    "location": "Olathe Health Education Center",
     "source": "Devpost"
   },
   {
@@ -919,10 +912,24 @@
     "source": "MLH"
   },
   {
+    "title": "Everywhere , Worldwide Midnight Virtual Hackathon [August]",
+    "url": "https://events.mlh.com/events/14510-midnight-hackathon-august?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Midnight+Virtual+Hackathon+%5BAugust%5D",
+    "start_date": "AUG 28 - 30",
+    "location": "Everywhere, Worldwide, US Digital",
+    "source": "MLH"
+  },
+  {
     "title": "Gainesville , Florida SwampHacks XII",
     "url": "https://swamphacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SwampHacks+XII",
     "start_date": "OCT 16 - 18",
     "location": "Gainesville, Florida, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Ghaziabad , Uttar Pradesh",
+    "url": "https://innohacks.live/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Innohacks+4.0",
+    "start_date": "Innohacks 4",
+    "location": ".0 OCT 03 - 04 Ghaziabad, Uttar Pradesh, IN In-Person",
     "source": "MLH"
   },
   {
@@ -1091,6 +1098,13 @@
     "url": "https://2027.uottahack.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=uOttaHack+9",
     "start_date": "uOttaHack 9",
     "location": "JAN 15 - 17 Ottawa, Ontario, CA In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Philadelphia , Pennsylvania OwlHacks",
+    "url": "https://www.owlhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=OwlHacks",
+    "start_date": "SEP 26 - 27",
+    "location": "Philadelphia, Pennsylvania, US In-Person",
     "source": "MLH"
   },
   {
