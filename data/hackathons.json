@@ -147,13 +147,6 @@
     "source": "Devpost"
   },
   {
-    "title": "CUTC: Transform Hackathon",
-    "url": "https://cutc-transform.devpost.com/",
-    "start_date": "Aug 08 - 15, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Cutie Hack 2026",
     "url": "https://cutie-hack-2026.devpost.com/",
     "start_date": "Nov 21, 2026",
@@ -193,6 +186,13 @@
     "url": "https://dublin-hacx.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
     "location": "SAP Office — San Ramon, CA",
+    "source": "Devpost"
+  },
+  {
+    "title": "EmP Hackfest Summer 2026",
+    "url": "https://emp-hackfest-summer-2026.devpost.com/",
+    "start_date": "Sep 05 - 06, 2026",
+    "location": "DigiPen Institute of Technology",
     "source": "Devpost"
   },
   {
@@ -256,13 +256,6 @@
     "url": "https://general-learning-hacks.devpost.com/",
     "start_date": "Sep 18 - 19, 2026",
     "location": "3/F Lee Garden 3, Causeway Bay",
-    "source": "Devpost"
-  },
-  {
-    "title": "Global Builders Hackathon: Code for Impact",
-    "url": "https://global-builders.devpost.com/",
-    "start_date": "Aug 08 - 10, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -437,13 +430,6 @@
     "title": "Infinity Hacks 2026 | HackerRank",
     "url": "https://infinity-hacks-2026-hackerrank.devpost.com/",
     "start_date": "Aug 15 - 16, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Iris Hacks IV",
-    "url": "https://iris-hacks-iv.devpost.com/",
-    "start_date": "Aug 08 - 09, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -623,13 +609,6 @@
     "source": "Devpost"
   },
   {
-    "title": "SISPIK HACKS 1.0",
-    "url": "https://sispik-hacks-1-0.devpost.com/",
-    "start_date": "Aug 08 - 09, 2026",
-    "location": "Singapore School Pantai Indah Kapuk",
-    "source": "Devpost"
-  },
-  {
     "title": "SourceHacks V1",
     "url": "https://sourcehacksv1.devpost.com/",
     "start_date": "Dec 11 - 12, 2026",
@@ -744,7 +723,7 @@
   {
     "title": "Zoftware Hireathon",
     "url": "https://zoftware-hireathon.devpost.com/",
-    "start_date": "Aug 09, 2026",
+    "start_date": "Aug 15, 2026",
     "location": "Delhi",
     "source": "Devpost"
   },
