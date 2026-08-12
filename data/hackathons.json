@@ -77,6 +77,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Build with AI Hack Days @BAU",
+    "url": "https://bau-hack.devpost.com/",
+    "start_date": "Aug 22, 2026",
+    "location": "Bangladesh Agricultural University",
+    "source": "Devpost"
+  },
+  {
     "title": "Build with AI Hack Days @EMK",
     "url": "https://build-with-ai-hack-days-emk.devpost.com/",
     "start_date": "Aug 17, 2026",
@@ -116,6 +123,13 @@
     "url": "https://central-hacks.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
     "location": "Central Michigan University Pearce Hall",
+    "source": "Devpost"
+  },
+  {
+    "title": "CISSA Product-thon 2026",
+    "url": "https://cissa-product-thon-2026.devpost.com/",
+    "start_date": "Aug 14 - 17, 2026",
+    "location": "Parkville, Australia",
     "source": "Devpost"
   },
   {
@@ -259,13 +273,6 @@
     "source": "Devpost"
   },
   {
-    "title": "GDGoC Summer DevSprint",
-    "url": "https://gdgoc-summer-devsprint.devpost.com/",
-    "start_date": "Aug 12 - 13, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "General Learning Hacks",
     "url": "https://general-learning-hacks.devpost.com/",
     "start_date": "Sep 18 - 19, 2026",
@@ -312,13 +319,6 @@
     "url": "https://hack-knowvy-1.devpost.com/",
     "start_date": "Sep 06, 2026",
     "location": "Indrapuri, Bhopal",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack RenderATL",
-    "url": "https://hack-renderatl.devpost.com/",
-    "start_date": "Aug 12, 2026",
-    "location": "AmericasMart",
     "source": "Devpost"
   },
   {
@@ -728,6 +728,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Vibe Coding Arena 2026",
+    "url": "https://vibe-coding-arena-2026-30996.devpost.com/",
+    "start_date": "Aug 20, 2026",
+    "location": "Arab Open University - Egypt Branch",
+    "source": "Devpost"
+  },
+  {
     "title": "WWU Social Justice Hackathon",
     "url": "https://wwu-sj-hack.devpost.com/",
     "start_date": "Oct 16 - 18, 2026",
@@ -766,7 +773,7 @@
   {
     "title": "Hackeroos & MLAI AUS present:",
     "url": "https://www.mlai.au/",
-    "start_date": "Sept 8th - 28th, 2026",
+    "start_date": "Sept 8th - 28th, 2025",
     "location": "Online",
     "source": "Hackeroos",
     "mode": "Online"
@@ -774,7 +781,7 @@
   {
     "title": "Hackeroos Spooky",
     "url": "https://developers.reddit.com/docs/",
-    "start_date": "Oct 8th - 28th, 2026",
+    "start_date": "Oct 8th - 28th, 2025",
     "location": "Online / TBA",
     "source": "Hackeroos"
   },
@@ -898,15 +905,8 @@
     "source": "MLH"
   },
   {
-    "title": "East Lansing , MI S",
-    "url": "https://events.mlh.io/events/14442-spartahack-12?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SpartaHack+12",
-    "start_date": "partaHack 12",
-    "location": "FEB 06 - 07 East Lansing, MI, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "East Lansing , Michigan SpartaHack",
-    "url": "https://events.mlh.com/events/14442-spartahack-12?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SpartaHack",
+    "url": "https://www.spartahack.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SpartaHack",
     "start_date": "FEB 06 - 07",
     "location": "East Lansing, Michigan, US In-Person",
     "source": "MLH"
