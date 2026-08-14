@@ -77,13 +77,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Build with AI @RUET",
-    "url": "https://build-with-ai-ruet.devpost.com/",
-    "start_date": "Aug 14, 2026",
-    "location": "CSE Building, RUET",
-    "source": "Devpost"
-  },
-  {
     "title": "Build with AI Hack Days @BAU",
     "url": "https://bau-hack.devpost.com/",
     "start_date": "Aug 22, 2026",
@@ -322,6 +315,20 @@
     "source": "Devpost"
   },
   {
+    "title": "Hack Days in Bhopal 2.O",
+    "url": "https://hack-days-in-bhopal-2-o.devpost.com/",
+    "start_date": "Aug 15 - 16, 2026",
+    "location": "Central Block - TIT College",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hack Days in Jabalpur",
+    "url": "https://hack-days-in-jabalpur.devpost.com/",
+    "start_date": "Aug 16, 2026",
+    "location": "Auditorium, Jabalpur Engineering College",
+    "source": "Devpost"
+  },
+  {
     "title": "Hack Days in Oriental",
     "url": "https://hack-days-in-oriental.devpost.com/",
     "start_date": "Aug 16, 2026",
@@ -462,13 +469,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Infinity Hacks",
-    "url": "https://infinity-hacks.devpost.com/",
-    "start_date": "Aug 14 - 16, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Infinity Hacks 2026 | HackerRank",
     "url": "https://infinity-hacks-2026-hackerrank.devpost.com/",
     "start_date": "Aug 15 - 16, 2026",
@@ -560,6 +560,13 @@
     "source": "Devpost"
   },
   {
+    "title": "OpenCV AI Competition 2026, powered by AWS",
+    "url": "https://opencv26.devpost.com/",
+    "start_date": "Aug 26 - Oct 27, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "OregonHacks",
     "url": "https://oregonhacks.devpost.com/",
     "start_date": "Aug 15 - 17, 2026",
@@ -571,13 +578,6 @@
     "url": "https://palmetto-hacks-2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
     "location": "USC College of Engineering and Computing",
-    "source": "Devpost"
-  },
-  {
-    "title": "PeddieHacks 2026",
-    "url": "https://peddiehacks-2026.devpost.com/",
-    "start_date": "Aug 14 - 16, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -658,13 +658,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Social Media Automation Hackathon",
-    "url": "https://social-media-automation-hacks.devpost.com/",
-    "start_date": "Aug 13 - 16, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "SourceHacks V1",
     "url": "https://sourcehacksv1.devpost.com/",
     "start_date": "Dec 11 - 12, 2026",
@@ -709,7 +702,7 @@
   {
     "title": "TechX Rwanda Hackathon",
     "url": "https://techx-rwanda-hackathon.devpost.com/",
-    "start_date": "Aug 27 - 29, 2026",
+    "start_date": "Aug 29, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -965,13 +958,6 @@
     "url": "https://innohacks.live/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Innohacks+4.0",
     "start_date": "Innohacks 4",
     "location": ".0 OCT 03 - 04 Ghaziabad, Uttar Pradesh, IN In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Global Hack Week: Agents",
-    "url": "https://events.mlh.io/events/14312-global-hack-week-agents?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Agents",
-    "start_date": "AUG 07 - 13",
-    "location": "Everywhere, Worldwide Digital",
     "source": "MLH"
   },
   {
