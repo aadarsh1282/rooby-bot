@@ -37,7 +37,7 @@
   {
     "title": "Arbiter Hacks V1",
     "url": "https://arbiter-hacks-v1.devpost.com/",
-    "start_date": "Sep 14 - Nov 15, 2026",
+    "start_date": "Oct 20 - Dec 21, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -112,13 +112,6 @@
     "source": "Devpost"
   },
   {
-    "title": "CentennialHacks",
-    "url": "https://centennialhacks.devpost.com/",
-    "start_date": "Aug 15, 2026",
-    "location": "Centennial College",
-    "source": "Devpost"
-  },
-  {
     "title": "Central Hacks",
     "url": "https://central-hacks.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
@@ -179,6 +172,13 @@
     "url": "https://developerweek-2027-hackathon.devpost.com/",
     "start_date": "Jan 25 - Feb 11, 2027",
     "location": "Santa Clara Convention Center + Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "DevLeague 2026",
+    "url": "https://devleague-2026.devpost.com/",
+    "start_date": "Aug 21 - 22, 2026",
+    "location": "Xsolla Curine Academy",
     "source": "Devpost"
   },
   {
@@ -298,27 +298,6 @@
     "url": "https://hack-atlantic-2026.devpost.com/",
     "start_date": "Sep 27, 2026",
     "location": "Fredericton, New Brunswick",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack Days in Bhopal 2.O",
-    "url": "https://hack-days-in-bhopal-2-o.devpost.com/",
-    "start_date": "Aug 15 - 16, 2026",
-    "location": "Central Block - TIT College",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack Days in Jabalpur",
-    "url": "https://hack-days-in-jabalpur.devpost.com/",
-    "start_date": "Aug 16, 2026",
-    "location": "Auditorium, Jabalpur Engineering College",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack Days in Oriental",
-    "url": "https://hack-days-in-oriental.devpost.com/",
-    "start_date": "Aug 16, 2026",
-    "location": "Main Auditorium - Oriental College",
     "source": "Devpost"
   },
   {
@@ -483,6 +462,13 @@
     "source": "Devpost"
   },
   {
+    "title": "LexHack 2026",
+    "url": "https://lexhack-2026.devpost.com/",
+    "start_date": "Sep 11 - 27, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "MakeUC 2026",
     "url": "https://makeuc-2026-30884.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -528,13 +514,6 @@
     "title": "OpenCV AI Competition 2026, powered by AWS",
     "url": "https://opencv26.devpost.com/",
     "start_date": "Aug 26 - Oct 27, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "OregonHacks",
-    "url": "https://oregonhacks.devpost.com/",
-    "start_date": "Aug 15 - 17, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -714,16 +693,9 @@
     "source": "Devpost"
   },
   {
-    "title": "YouthHackKC Summer Hackathon",
-    "url": "https://youthhackkc-summer-hackathon.devpost.com/",
-    "start_date": "Aug 15, 2026",
-    "location": "Olathe Health Education Center",
-    "source": "Devpost"
-  },
-  {
     "title": "Zoftware Hireathon",
     "url": "https://zoftware-hireathon.devpost.com/",
-    "start_date": "Aug 15, 2026",
+    "start_date": "Sep 09, 2026",
     "location": "Delhi",
     "source": "Devpost"
   },
