@@ -175,13 +175,6 @@
     "source": "Devpost"
   },
   {
-    "title": "DevNetwork [API + Cloud + AI] Hackathon 2026",
-    "url": "https://api-cloud-ai-hackathon-2026.devpost.com/",
-    "start_date": "Aug 17 - Sep 03, 2026",
-    "location": "Santa Clara Convention Center and Online",
-    "source": "Devpost"
-  },
-  {
     "title": "DreamHacks @ Georgia Institute of Technology",
     "url": "https://dreamhacks-gt.devpost.com/",
     "start_date": "Aug 29, 2026",
@@ -214,13 +207,6 @@
     "url": "https://evensonarisnord.devpost.com/",
     "start_date": "Dec 31, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Expo 26 hackathon",
-    "url": "https://expo26.devpost.com/",
-    "start_date": "Sep 19, 2026",
-    "location": "the venue hotel jeddah",
     "source": "Devpost"
   },
   {
@@ -406,6 +392,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HopHacks Fall 2026",
+    "url": "https://hophacks-fall-2026.devpost.com/",
+    "start_date": "Sep 18 - 20, 2026",
+    "location": "Johns Hopkins University",
+    "source": "Devpost"
+  },
+  {
     "title": "Houston Hackathon 2026",
     "url": "https://houstonhackathon2026.devpost.com/",
     "start_date": "Sep 25 - 28, 2026",
@@ -476,6 +469,13 @@
     "source": "Devpost"
   },
   {
+    "title": "LifeHack 2026",
+    "url": "https://lifehack-2026.devpost.com/",
+    "start_date": "Aug 29 - 30, 2026",
+    "location": "COM3, MPH",
+    "source": "Devpost"
+  },
+  {
     "title": "MakeUC 2026",
     "url": "https://makeuc-2026-30884.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -529,6 +529,20 @@
     "url": "https://palmetto-hacks-2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
     "location": "USC College of Engineering and Computing",
+    "source": "Devpost"
+  },
+  {
+    "title": "Practice Submission",
+    "url": "https://practice-submission.devpost.com/",
+    "start_date": "Aug 28 - 30, 2026",
+    "location": "University of Sydney",
+    "source": "Devpost"
+  },
+  {
+    "title": "Prompt Wars 2026",
+    "url": "https://prompt-wars-2026.devpost.com/",
+    "start_date": "Aug 29, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -704,13 +718,6 @@
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "Dec 20, 2026",
     "location": "South Plainfield Library",
-    "source": "Devpost"
-  },
-  {
-    "title": "Vibe Coding Arena 2026",
-    "url": "https://vibe-coding-arena-2026-30996.devpost.com/",
-    "start_date": "Aug 20, 2026",
-    "location": "Arab Open University - Egypt Branch",
     "source": "Devpost"
   },
   {
@@ -986,6 +993,13 @@
     "url": "https://lahacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=LA+Hacks+27",
     "start_date": "Hacks 27",
     "location": "APR 16 - 18 Los Angeles, California, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Lubbock , Texas",
+    "url": "https://hackwestx-website.netlify.app/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackWesTX+26",
+    "start_date": "HackWesTX 26",
+    "location": "SEP 12 - 13 Lubbock, Texas, US In-Person",
     "source": "MLH"
   },
   {
