@@ -21,6 +21,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Agentic Hackathon",
+    "url": "https://agentic-hackathon.devpost.com/",
+    "start_date": "Aug 23 - Sep 06, 2026",
+    "location": "BRAC University",
+    "source": "Devpost"
+  },
+  {
     "title": "AI Agent Hackathon",
     "url": "https://coffee-and-code-agent.devpost.com/",
     "start_date": "Sep 20, 2026",
@@ -144,6 +151,13 @@
     "url": "https://communihacks.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "Builders Club",
+    "source": "Devpost"
+  },
+  {
+    "title": "CSC Back-to-School Hackathon",
+    "url": "https://csc-back-to-school.devpost.com/",
+    "start_date": "Sep 04 - Oct 05, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -294,13 +308,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hack with Series",
-    "url": "https://hack-with-series.devpost.com/",
-    "start_date": "Aug 18, 2026",
-    "location": "Series HQ",
-    "source": "Devpost"
-  },
-  {
     "title": "HACK47: OFFGRID",
     "url": "https://hack47-offgrid.devpost.com/",
     "start_date": "Sep 15 - Oct 15, 2026",
@@ -354,13 +361,6 @@
     "url": "https://hacklanta.devpost.com/",
     "start_date": "Oct 09 - 11, 2026",
     "location": "Student Center East Ballroom GSU",
-    "source": "Devpost"
-  },
-  {
-    "title": "HACKNOVA'26",
-    "url": "https://hacknova-26-30838.devpost.com/",
-    "start_date": "Aug 18 - 19, 2026",
-    "location": "Chembarambakkam in Tamil Nadu, India.",
     "source": "Devpost"
   },
   {
@@ -508,6 +508,13 @@
     "url": "https://nextstep2026.devpost.com/",
     "start_date": "Aug 21 - 23, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "OCCHacks",
+    "url": "https://occhacks-2026.devpost.com/",
+    "start_date": "Oct 10 - 11, 2026",
+    "location": "OCC Ballroom - 3rd Floor Conference Room",
     "source": "Devpost"
   },
   {
@@ -714,10 +721,24 @@
     "source": "Devpost"
   },
   {
+    "title": "Veteran Innovation Hackathon",
+    "url": "https://veteran-innovation-hackathon.devpost.com/",
+    "start_date": "Aug 28 - 30, 2026",
+    "location": "Hacker Dojo",
+    "source": "Devpost"
+  },
+  {
     "title": "Vibe Code Animated Maps",
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "Dec 20, 2026",
     "location": "South Plainfield Library",
+    "source": "Devpost"
+  },
+  {
+    "title": "Vibe Coding Arena 2026",
+    "url": "https://vibe-coding-arena-2026-30996.devpost.com/",
+    "start_date": "Aug 20, 2026",
+    "location": "Arab Open University - Egypt Branch",
     "source": "Devpost"
   },
   {
