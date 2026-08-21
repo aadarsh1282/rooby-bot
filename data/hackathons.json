@@ -22,9 +22,9 @@
   },
   {
     "title": "804 Hacks",
-    "url": "https://804-hacks-31078.devpost.com/",
+    "url": "https://804hacks.devpost.com/",
     "start_date": "Oct 24, 2026",
-    "location": "VCU Shift Retail Lab",
+    "location": "VCU Retail Shift Lab",
     "source": "Devpost"
   },
   {
@@ -39,13 +39,6 @@
     "url": "https://coffee-and-code-agent.devpost.com/",
     "start_date": "Sep 20, 2026",
     "location": "Pennovation center",
-    "source": "Devpost"
-  },
-  {
-    "title": "AI Builders Hackathon",
-    "url": "https://ai-builders-hackathon-2026.devpost.com/",
-    "start_date": "Aug 21 - Sep 15, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -67,13 +60,6 @@
     "url": "https://bearhacks2027.devpost.com/",
     "start_date": "Apr 23 - 25, 2027",
     "location": "Sheridan College Hazel McCallion Campus",
-    "source": "Devpost"
-  },
-  {
-    "title": "Beginner's Paradise - FirstCommit",
-    "url": "https://firstcommit.devpost.com/",
-    "start_date": "Aug 21 - Sep 30, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -259,6 +245,13 @@
     "source": "Devpost"
   },
   {
+    "title": "GeauxHack 2026",
+    "url": "https://geauxhack-2026.devpost.com/",
+    "start_date": "Oct 23 - 25, 2026",
+    "location": "Patrick F. Taylor Hall",
+    "source": "Devpost"
+  },
+  {
     "title": "General Learning Hacks",
     "url": "https://general-learning-hacks.devpost.com/",
     "start_date": "Sep 18 - 19, 2026",
@@ -420,6 +413,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Hyperbloom September",
+    "url": "https://hyperbloom-september.devpost.com/",
+    "start_date": "Sep 01 - 14, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Hyphen-Hacks",
     "url": "https://hyphen-hacks26.devpost.com/",
     "start_date": "Oct 10, 2026",
@@ -457,7 +457,7 @@
   {
     "title": "LarpHacks",
     "url": "https://larphacks.devpost.com/",
-    "start_date": "Oct 23, 2026",
+    "start_date": "Oct 24 - 25, 2026",
     "location": "Toronto",
     "source": "Devpost"
   },
@@ -515,13 +515,6 @@
     "url": "https://myhack-isna.devpost.com/",
     "start_date": "Sep 05 - 06, 2026",
     "location": "Detroit, MI, USA",
-    "source": "Devpost"
-  },
-  {
-    "title": "NextStep Hacks 2026",
-    "url": "https://nextstep2026.devpost.com/",
-    "start_date": "Aug 21 - 23, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -611,7 +604,7 @@
   {
     "title": "SaugaHacks",
     "url": "https://saugahacks-2026.devpost.com/",
-    "start_date": "Aug 28 - 31, 2026",
+    "start_date": "Sep 12, 2026",
     "location": "Mississauga",
     "source": "Devpost"
   },
@@ -746,13 +739,6 @@
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "Dec 20, 2026",
     "location": "South Plainfield Library",
-    "source": "Devpost"
-  },
-  {
-    "title": "Vibe Coding Arena 2026",
-    "url": "https://vibe-coding-arena-2026-30996.devpost.com/",
-    "start_date": "Aug 20, 2026",
-    "location": "Arab Open University - Egypt Branch",
     "source": "Devpost"
   },
   {
