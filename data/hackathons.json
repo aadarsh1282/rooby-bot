@@ -84,13 +84,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Build with AI Hack Days @BAU",
-    "url": "https://bau-hack.devpost.com/",
-    "start_date": "Aug 22, 2026",
-    "location": "Bangladesh Agricultural University",
-    "source": "Devpost"
-  },
-  {
     "title": "Build with Gemini - Gen Recruiter",
     "url": "https://gen-recruiter-google-gemini.devpost.com/",
     "start_date": "Sep 10, 2026",
@@ -172,13 +165,6 @@
     "url": "https://developerweek-2027-hackathon.devpost.com/",
     "start_date": "Jan 25 - Feb 11, 2027",
     "location": "Santa Clara Convention Center + Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "DevLeague 2026",
-    "url": "https://devleague-2026.devpost.com/",
-    "start_date": "Aug 21 - 22, 2026",
-    "location": "Xsolla Curine Academy",
     "source": "Devpost"
   },
   {
@@ -378,6 +364,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Hacks for Humanity",
+    "url": "https://hacks-for-humanity-2026.devpost.com/",
+    "start_date": "Oct 10 - 11, 2026",
+    "location": "ASU Memorial Union , Ventana Ballroom",
+    "source": "Devpost"
+  },
+  {
     "title": "hacks test",
     "url": "https://youtube-automation-hackathon.devpost.com/",
     "start_date": "Sep 09 - Dec 10, 2027",
@@ -413,9 +406,23 @@
     "source": "Devpost"
   },
   {
-    "title": "Hyperbloom September",
+    "title": "Hyperbloom October- UI/UX and Web Design",
+    "url": "https://hyperbloom-october.devpost.com/",
+    "start_date": "Oct 05 - 12, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hyperbloom September - AI/ML",
     "url": "https://hyperbloom-september.devpost.com/",
-    "start_date": "Sep 01 - 14, 2026",
+    "start_date": "Aug 25 - Sep 14, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hyperbloom September - Beginer Freindly",
+    "url": "https://hyperbloom-september2.devpost.com/",
+    "start_date": "Sep 14 - 23, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -487,13 +494,6 @@
     "url": "https://makeuc-2026-30884.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "1819 Innovation Hub",
-    "source": "Devpost"
-  },
-  {
-    "title": "Melbourne Hack 2026",
-    "url": "https://melbourne-hack-2026.devpost.com/",
-    "start_date": "Aug 21 - 24, 2026",
-    "location": "University of Melbourne",
     "source": "Devpost"
   },
   {
@@ -602,6 +602,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Rutgers x Elastic Hackathon",
+    "url": "https://rutgers-x-elastic-hackathon.devpost.com/",
+    "start_date": "Sep 14, 2026",
+    "location": "Richard Weeks Hall of Engineering",
+    "source": "Devpost"
+  },
+  {
     "title": "SaugaHacks",
     "url": "https://saugahacks-2026.devpost.com/",
     "start_date": "Sep 12, 2026",
@@ -655,6 +662,13 @@
     "url": "https://stupideas-ottawa-f26.devpost.com/",
     "start_date": "Sep 12, 2026",
     "location": "Ottawa, Canada",
+    "source": "Devpost"
+  },
+  {
+    "title": "Sunbeam Seattle",
+    "url": "https://sunbeam-seattle.devpost.com/",
+    "start_date": "Aug 29, 2026",
+    "location": "The McKinney Center",
     "source": "Devpost"
   },
   {
