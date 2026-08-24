@@ -21,6 +21,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Agentic Day Online Hackathon Powered by Mel",
+    "url": "https://powered-by-mel.devpost.com/",
+    "start_date": "Aug 30, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "AI Agent Hackathon",
     "url": "https://coffee-and-code-agent.devpost.com/",
     "start_date": "Sep 20, 2026",
@@ -109,13 +116,6 @@
     "url": "https://codelinc11.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
     "location": "Lincoln Financial Group - Greensboro, NC",
-    "source": "Devpost"
-  },
-  {
-    "title": "CodeWars",
-    "url": "https://codewars.devpost.com/",
-    "start_date": "Aug 23, 2026",
-    "location": "Arya College of Engineering and IT",
     "source": "Devpost"
   },
   {
@@ -329,17 +329,17 @@
     "source": "Devpost"
   },
   {
-    "title": "Hacking  2026",
-    "url": "https://cloudhacks-2026.devpost.com/",
-    "start_date": "Aug 24, 2026",
-    "location": "Lahore",
-    "source": "Devpost"
-  },
-  {
     "title": "Hacklanta",
     "url": "https://hacklanta.devpost.com/",
     "start_date": "Oct 09 - 11, 2026",
     "location": "Student Center East Ballroom GSU",
+    "source": "Devpost"
+  },
+  {
+    "title": "hackPHS 2026",
+    "url": "https://hackphs2026.devpost.com/",
+    "start_date": "Oct 10 - 11, 2026",
+    "location": "Princeton High School",
     "source": "Devpost"
   },
   {
@@ -497,6 +497,13 @@
     "source": "Devpost"
   },
   {
+    "title": "MLAI Hackathon",
+    "url": "https://mlai-hackathon.devpost.com/",
+    "start_date": "Sep 18 - Oct 16, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "MunichTech EXPO",
     "url": "https://munichtech-expo.devpost.com/",
     "start_date": "Sep 01 - 20, 2026",
@@ -591,7 +598,7 @@
     "title": "Rutgers x Elastic Hackathon",
     "url": "https://rutgers-x-elastic-hackathon.devpost.com/",
     "start_date": "Sep 14, 2026",
-    "location": "Richard Weeks Hall of Engineering",
+    "location": "Richard Weeks Hall of Eng - Room 211",
     "source": "Devpost"
   },
   {
