@@ -378,6 +378,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HarborHack 2026 - Agent In The Loop",
+    "url": "https://harborhack-2026.devpost.com/",
+    "start_date": "Oct 23 - 25, 2026",
+    "location": "College of Charleston, Harbor Walk",
+    "source": "Devpost"
+  },
+  {
     "title": "HopHacks Fall 2026",
     "url": "https://hophacks-fall-2026.devpost.com/",
     "start_date": "Sep 18 - 20, 2026",
@@ -402,13 +409,6 @@
     "title": "Hyperbloom October- UI/UX and Web Design",
     "url": "https://hyperbloom-october.devpost.com/",
     "start_date": "Oct 05 - 12, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hyperbloom September - AI/ML",
-    "url": "https://hyperbloom-september.devpost.com/",
-    "start_date": "Aug 25 - Sep 14, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -501,6 +501,13 @@
     "url": "https://mlai-hackathon.devpost.com/",
     "start_date": "Sep 18 - Oct 16, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Mobile AI Build Weekend",
+    "url": "https://mobile-ai-build-weekend.devpost.com/",
+    "start_date": "Aug 28 - 29, 2026",
+    "location": "Stone &amp; Chalk Melbourne",
     "source": "Devpost"
   },
   {
@@ -616,10 +623,24 @@
     "source": "Devpost"
   },
   {
+    "title": "Sherubtse Hackathon 2026",
+    "url": "https://sherubtse-hackathon-2026.devpost.com/",
+    "start_date": "Sep 18 - 19, 2026",
+    "location": "Sherubtse College, Kanglung, Bhutan",
+    "source": "Devpost"
+  },
+  {
     "title": "Shower Hacks",
     "url": "https://showerhacks.devpost.com/",
     "start_date": "Sep 26 - 27, 2026",
     "location": "Bay Area",
+    "source": "Devpost"
+  },
+  {
+    "title": "SHPE Jr. Designathon",
+    "url": "https://shpe-jr-designathon.devpost.com/",
+    "start_date": "Sep 19, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -753,6 +774,13 @@
     "url": "https://wwu-sj-hack.devpost.com/",
     "start_date": "Oct 16 - 18, 2026",
     "location": "WWU - Kaiser Borsari Building",
+    "source": "Devpost"
+  },
+  {
+    "title": "YC Fall 2026 x Moss: The Zero Latency Builder Sprint",
+    "url": "https://yc-fall-2026-x-moss.devpost.com/",
+    "start_date": "Sep 06 - 20, 2026",
+    "location": "Bengaluru, India",
     "source": "Devpost"
   },
   {
@@ -1032,7 +1060,7 @@
   },
   {
     "title": "Lubbock , Texas",
-    "url": "https://hackwestx-website.netlify.app/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackWesTX+26",
+    "url": "https://hackwestx.gdgttu.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackWesTX+26",
     "start_date": "HackWesTX 26",
     "location": "SEP 12 - 13 Lubbock, Texas, US In-Person",
     "source": "MLH"
