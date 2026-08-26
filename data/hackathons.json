@@ -371,10 +371,24 @@
     "source": "Devpost"
   },
   {
+    "title": "HackStorm 3.0: Sense, Think and Act",
+    "url": "https://hackstorm3.devpost.com/",
+    "start_date": "Nov 06 - 08, 2026",
+    "location": "San Francisco, California, USA",
+    "source": "Devpost"
+  },
+  {
     "title": "HackTitan",
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "HackWashU Fall AI Build Challenge",
+    "url": "https://hackwashu-fall-ai-2026.devpost.com/",
+    "start_date": "Sep 25 - 27, 2026",
+    "location": "Washington University in St. Louis",
     "source": "Devpost"
   },
   {
@@ -525,6 +539,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Neighborhood Hacks",
+    "url": "https://neighborhood-hacks-2026.devpost.com/",
+    "start_date": "Oct 16 - 24, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "OCCHacks",
     "url": "https://occhacks-2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
@@ -619,7 +640,7 @@
     "title": "SC Quantathon v3",
     "url": "https://sc-quantathon-v3.devpost.com/",
     "start_date": "Sep 26 - 27, 2026",
-    "location": "Clemson University",
+    "location": "Watt Family Innovation Center",
     "source": "Devpost"
   },
   {
@@ -641,6 +662,13 @@
     "url": "https://shpe-jr-designathon.devpost.com/",
     "start_date": "Sep 19, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Signal Labs Hackathon",
+    "url": "https://signal-labs-hackathon.devpost.com/",
+    "start_date": "Aug 29, 2026",
+    "location": "Hyderabad",
     "source": "Devpost"
   },
   {
@@ -702,7 +730,7 @@
   {
     "title": "TechX Rwanda Hackathon",
     "url": "https://techx-rwanda-hackathon.devpost.com/",
-    "start_date": "Aug 29, 2026",
+    "start_date": "Sep 04, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -880,7 +908,7 @@
     "title": "Austin , TX",
     "url": "https://hacktx.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackTX+26",
     "start_date": "HackTX 26",
-    "location": "OCT 17 - 18 Austin, TX, US In-Person",
+    "location": "OCT 24 - 25 Austin, TX, US In-Person",
     "source": "MLH"
   },
   {
@@ -1179,7 +1207,7 @@
   },
   {
     "title": "Richardson , Texas HackUTD",
-    "url": "https://hackutd.co/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackUTD",
+    "url": "https://zeroday.hackutd.co/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackUTD",
     "start_date": "NOV 07 - 08",
     "location": "Richardson, Texas, US In-Person",
     "source": "MLH"
