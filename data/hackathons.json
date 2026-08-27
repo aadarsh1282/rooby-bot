@@ -49,6 +49,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Bay Hacks",
+    "url": "https://bayhacks-2026.devpost.com/",
+    "start_date": "Sep 18 - 19, 2026",
+    "location": "USF Hall of Flags",
+    "source": "Devpost"
+  },
+  {
     "title": "BearHacks 2027",
     "url": "https://bearhacks2027.devpost.com/",
     "start_date": "Apr 23 - 25, 2027",
@@ -119,6 +126,13 @@
     "source": "Devpost"
   },
   {
+    "title": "COMMA_HACK 7",
+    "url": "https://comma-hack-7.devpost.com/",
+    "start_date": "Sep 18 - 20, 2026",
+    "location": "comma HQ",
+    "source": "Devpost"
+  },
+  {
     "title": "CommuniHacks",
     "url": "https://communihacks.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -130,6 +144,13 @@
     "url": "https://csc-back-to-school.devpost.com/",
     "start_date": "Sep 04 - Oct 05, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "CTP Hacks 2026",
+    "url": "https://ctp-hacks-2026.devpost.com/",
+    "start_date": "Aug 27, 2026",
+    "location": "New York, New York, USA",
     "source": "Devpost"
   },
   {
@@ -177,7 +198,7 @@
   {
     "title": "EurekaDev 2026",
     "url": "https://eurekadev.devpost.com/",
-    "start_date": "Aug 20 - Sep 03, 2027",
+    "start_date": "Aug 27 - Oct 20, 2027",
     "location": "Online",
     "source": "Devpost"
   },
@@ -221,13 +242,6 @@
     "url": "https://gqhacks.devpost.com/",
     "start_date": "Oct 02 - 04, 2026",
     "location": "Gainesville, Florida",
-    "source": "Devpost"
-  },
-  {
-    "title": "GeauxHack 2026",
-    "url": "https://geauxhack-2026.devpost.com/",
-    "start_date": "Oct 23 - 25, 2026",
-    "location": "Patrick F. Taylor Hall",
     "source": "Devpost"
   },
   {
@@ -371,13 +385,6 @@
     "source": "Devpost"
   },
   {
-    "title": "HackStorm 3.0: Sense, Think and Act",
-    "url": "https://hackstorm3.devpost.com/",
-    "start_date": "Nov 06 - 08, 2026",
-    "location": "San Francisco, California, USA",
-    "source": "Devpost"
-  },
-  {
     "title": "HackTitan",
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
@@ -511,6 +518,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Midnight Hackathon: August 2026",
+    "url": "https://midnight-hackathon-august-2026.devpost.com/",
+    "start_date": "Aug 28 - 30, 2026",
+    "location": "New York, NY, USA",
+    "source": "Devpost"
+  },
+  {
     "title": "MLAI Hackathon",
     "url": "https://mlai-hackathon.devpost.com/",
     "start_date": "Sep 18 - Oct 16, 2026",
@@ -560,13 +574,6 @@
     "source": "Devpost"
   },
   {
-    "title": "OpenCV AI Competition 2026, powered by AWS",
-    "url": "https://opencv26.devpost.com/",
-    "start_date": "Aug 26 - Oct 27, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Palmetto Hacks",
     "url": "https://palmetto-hacks-2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
@@ -574,10 +581,24 @@
     "source": "Devpost"
   },
   {
-    "title": "Practice Submission",
-    "url": "https://practice-submission.devpost.com/",
-    "start_date": "Aug 28 - 30, 2026",
-    "location": "University of Sydney",
+    "title": "Prometheus August AI ML Hackathon (Hybrid)",
+    "url": "https://prometheus-aug-ml-hackathon.devpost.com/",
+    "start_date": "Aug 30 - Sep 27, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Prometheus Fall Classic",
+    "url": "https://prometheus-fall-classic.devpost.com/",
+    "start_date": "Aug 31 - Sep 26, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Prometheus Virgo Challenge",
+    "url": "https://virgo.devpost.com/",
+    "start_date": "Aug 31 - Sep 19, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -606,13 +627,6 @@
     "url": "https://rect-hackathon.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
     "location": "IDEA Spaces Saldanha",
-    "source": "Devpost"
-  },
-  {
-    "title": "Revolution",
-    "url": "https://revolution-mty2026.devpost.com/",
-    "start_date": "Dec 05 - 06, 2026",
-    "location": "Museo Del Acero Horno 3",
     "source": "Devpost"
   },
   {
@@ -707,6 +721,13 @@
     "source": "Devpost"
   },
   {
+    "title": "SummerDevs 2026",
+    "url": "https://summerdevs26.devpost.com/",
+    "start_date": "Aug 29, 2026",
+    "location": "Glendale Foothils Library",
+    "source": "Devpost"
+  },
+  {
     "title": "Sunbeam Seattle",
     "url": "https://sunbeam-seattle.devpost.com/",
     "start_date": "Aug 29, 2026",
@@ -721,17 +742,17 @@
     "source": "Devpost"
   },
   {
+    "title": "Tech Literacy Network Cybersecurity Challenge 2026",
+    "url": "https://tln-cybersecurity-challenge.devpost.com/",
+    "start_date": "Sep 19 - 20, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Tech to Treasure Hackathon",
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Mar 03 - 10, 2027",
     "location": "Tully Community Branch Library",
-    "source": "Devpost"
-  },
-  {
-    "title": "TechX Rwanda Hackathon",
-    "url": "https://techx-rwanda-hackathon.devpost.com/",
-    "start_date": "Sep 04, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -809,13 +830,6 @@
     "url": "https://yc-fall-2026-x-moss.devpost.com/",
     "start_date": "Sep 06 - 20, 2026",
     "location": "Bengaluru, India",
-    "source": "Devpost"
-  },
-  {
-    "title": "Zero Origin",
-    "url": "https://zero-origin.devpost.com/",
-    "start_date": "Aug 26 - Sep 25, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
