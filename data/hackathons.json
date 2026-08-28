@@ -49,6 +49,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Banana Hacks",
+    "url": "https://banana-hacks-1111.devpost.com/",
+    "start_date": "Oct 09 - 12, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Bay Hacks",
     "url": "https://bayhacks-2026.devpost.com/",
     "start_date": "Sep 18 - 19, 2026",
@@ -126,13 +133,6 @@
     "source": "Devpost"
   },
   {
-    "title": "COMMA_HACK 7",
-    "url": "https://comma-hack-7.devpost.com/",
-    "start_date": "Sep 18 - 20, 2026",
-    "location": "comma HQ",
-    "source": "Devpost"
-  },
-  {
     "title": "CommuniHacks",
     "url": "https://communihacks.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -147,13 +147,6 @@
     "source": "Devpost"
   },
   {
-    "title": "CTP Hacks 2026",
-    "url": "https://ctp-hacks-2026.devpost.com/",
-    "start_date": "Aug 27, 2026",
-    "location": "New York, New York, USA",
-    "source": "Devpost"
-  },
-  {
     "title": "Cutie Hack 2026",
     "url": "https://cutie-hack-2026.devpost.com/",
     "start_date": "Nov 21, 2026",
@@ -165,6 +158,13 @@
     "url": "https://cyber-hawk-hackathon.devpost.com/",
     "start_date": "Sep 26, 2026",
     "location": "Monmouth University",
+    "source": "Devpost"
+  },
+  {
+    "title": "Cybersecurity Hackathon 2026",
+    "url": "https://tln-cybersecurity-challenge.devpost.com/",
+    "start_date": "Sep 19 - 20, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -245,6 +245,13 @@
     "source": "Devpost"
   },
   {
+    "title": "GeauxHack 2026",
+    "url": "https://geauxhack-2026.devpost.com/",
+    "start_date": "Oct 23 - 25, 2026",
+    "location": "Patrick F. Taylor Hall",
+    "source": "Devpost"
+  },
+  {
     "title": "General Learning Hacks",
     "url": "https://general-learning-hacks.devpost.com/",
     "start_date": "Sep 18 - 19, 2026",
@@ -305,6 +312,13 @@
     "url": "https://hack-the-change-2026.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "University of Calgary",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hack The Weather",
+    "url": "https://hack-the-weather.devpost.com/",
+    "start_date": "Sep 01 - 03, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -518,13 +532,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Midnight Hackathon: August 2026",
-    "url": "https://midnight-hackathon-august-2026.devpost.com/",
-    "start_date": "Aug 28 - 30, 2026",
-    "location": "New York, NY, USA",
-    "source": "Devpost"
-  },
-  {
     "title": "MLAI Hackathon",
     "url": "https://mlai-hackathon.devpost.com/",
     "start_date": "Sep 18 - Oct 16, 2026",
@@ -581,16 +588,16 @@
     "source": "Devpost"
   },
   {
-    "title": "Prometheus August AI ML Hackathon (Hybrid)",
-    "url": "https://prometheus-aug-ml-hackathon.devpost.com/",
-    "start_date": "Aug 30 - Sep 27, 2026",
+    "title": "Prometheus Fall Classic",
+    "url": "https://prometheus-fall-classic.devpost.com/",
+    "start_date": "Aug 31 - Sep 26, 2026",
     "location": "Online",
     "source": "Devpost"
   },
   {
-    "title": "Prometheus Fall Classic",
-    "url": "https://prometheus-fall-classic.devpost.com/",
-    "start_date": "Aug 31 - Sep 26, 2026",
+    "title": "Prometheus September AI Challenge (Hybrid)",
+    "url": "https://prometheus-aug-ml-hackathon.devpost.com/",
+    "start_date": "Aug 30 - Sep 27, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -679,6 +686,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Sierra Hacks 2026",
+    "url": "https://sierra-hacks-2026.devpost.com/",
+    "start_date": "Oct 24, 2026",
+    "location": "Sierra High School",
+    "source": "Devpost"
+  },
+  {
     "title": "Signal Labs Hackathon",
     "url": "https://signal-labs-hackathon.devpost.com/",
     "start_date": "Aug 29, 2026",
@@ -735,6 +749,13 @@
     "source": "Devpost"
   },
   {
+    "title": "SVYCA Youth for Earth (Y4E) Hackathon",
+    "url": "https://svycay4e.devpost.com/",
+    "start_date": "Sep 20 - Oct 18, 2026",
+    "location": "Stanford University",
+    "source": "Devpost"
+  },
+  {
     "title": "SYNCS HACK 2026",
     "url": "https://syncs-hack-2026.devpost.com/",
     "start_date": "Aug 28 - 29, 2026",
@@ -742,24 +763,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Tech Literacy Network Cybersecurity Challenge 2026",
-    "url": "https://tln-cybersecurity-challenge.devpost.com/",
-    "start_date": "Sep 19 - 20, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Tech to Treasure Hackathon",
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Mar 03 - 10, 2027",
     "location": "Tully Community Branch Library",
-    "source": "Devpost"
-  },
-  {
-    "title": "Test Flight: Glasswing Ventures AI Hackathon",
-    "url": "https://test-flight-glasswing.devpost.com/",
-    "start_date": "Sep 26 - 27, 2026",
-    "location": "Glasswing Ventures",
     "source": "Devpost"
   },
   {
@@ -802,13 +809,6 @@
     "url": "https://venturefix.devpost.com/",
     "start_date": "Aug 30 - Sep 13, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Veteran Innovation Hackathon",
-    "url": "https://veteran-innovation-hackathon.devpost.com/",
-    "start_date": "Aug 28 - 30, 2026",
-    "location": "Hacker Dojo",
     "source": "Devpost"
   },
   {
@@ -1329,6 +1329,13 @@
     "url": "https://innovateherhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=InnovateHer",
     "start_date": "FEB 06 - 07",
     "location": "West Lafayette, Indiana, US In-Person DIVERSITY",
+    "source": "MLH"
+  },
+  {
+    "title": "Williamsburg , Virginia &HACKS XII",
+    "url": "https://andhacks.cs.wm.edu/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=%26HACKS+XII",
+    "start_date": "SEP 25 - 27",
+    "location": "Williamsburg, Virginia, US In-Person",
     "source": "MLH"
   }
 ]
