@@ -133,6 +133,13 @@
     "source": "Devpost"
   },
   {
+    "title": "COMMA_HACK 7",
+    "url": "https://comma-hack-7.devpost.com/",
+    "start_date": "Sep 18 - 20, 2026",
+    "location": "comma HQ",
+    "source": "Devpost"
+  },
+  {
     "title": "CommuniHacks",
     "url": "https://communihacks.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -140,9 +147,23 @@
     "source": "Devpost"
   },
   {
+    "title": "CrownHacks",
+    "url": "https://crownhacks.devpost.com/",
+    "start_date": "Oct 09 - 11, 2026",
+    "location": "UNC Charlotte - Union",
+    "source": "Devpost"
+  },
+  {
     "title": "CSC Back-to-School Hackathon",
     "url": "https://csc-back-to-school.devpost.com/",
     "start_date": "Sep 04 - Oct 05, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "CSH Social Impact Ideathon",
+    "url": "https://csh-social-impact-ideathon.devpost.com/",
+    "start_date": "Aug 31 - Sep 04, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -158,13 +179,6 @@
     "url": "https://cyber-hawk-hackathon.devpost.com/",
     "start_date": "Sep 26, 2026",
     "location": "Monmouth University",
-    "source": "Devpost"
-  },
-  {
-    "title": "Cybersecurity Hackathon 2026",
-    "url": "https://tln-cybersecurity-challenge.devpost.com/",
-    "start_date": "Sep 19 - 20, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -378,13 +392,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hacks day Bhopal",
-    "url": "https://hacks-day-bhopal.devpost.com/",
-    "start_date": "Aug 29, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Hacks for Humanity",
     "url": "https://hacks-for-humanity-2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
@@ -396,6 +403,13 @@
     "url": "https://youtube-automation-hackathon.devpost.com/",
     "start_date": "Sep 09 - Dec 10, 2027",
     "location": "Vancouver, Canada",
+    "source": "Devpost"
+  },
+  {
+    "title": "HackStorm 3.0: Sense, Think and Act",
+    "url": "https://hackstorm3.devpost.com/",
+    "start_date": "Nov 06 - 08, 2026",
+    "location": "San Francisco, California, USA",
     "source": "Devpost"
   },
   {
@@ -539,13 +553,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Mobile AI Build Weekend",
-    "url": "https://mobile-ai-build-weekend.devpost.com/",
-    "start_date": "Aug 28 - 29, 2026",
-    "location": "Stone &amp; Chalk Melbourne",
-    "source": "Devpost"
-  },
-  {
     "title": "MunichTech EXPO",
     "url": "https://munichtech-expo.devpost.com/",
     "start_date": "Sep 01 - 20, 2026",
@@ -563,6 +570,13 @@
     "title": "Neighborhood Hacks",
     "url": "https://neighborhood-hacks-2026.devpost.com/",
     "start_date": "Oct 16 - 24, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "NeuroHack - 1.0",
+    "url": "https://neurohack-1-0-by-axonic.devpost.com/",
+    "start_date": "Sep 16 - 24, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -588,30 +602,9 @@
     "source": "Devpost"
   },
   {
-    "title": "Prometheus Fall Classic",
-    "url": "https://prometheus-fall-classic.devpost.com/",
-    "start_date": "Aug 31 - Sep 26, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Prometheus September AI Challenge (Hybrid)",
     "url": "https://prometheus-aug-ml-hackathon.devpost.com/",
     "start_date": "Aug 30 - Sep 27, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Prometheus Virgo Challenge",
-    "url": "https://virgo.devpost.com/",
-    "start_date": "Aug 31 - Sep 19, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Prompt Wars 2026",
-    "url": "https://prompt-wars-2026.devpost.com/",
-    "start_date": "Aug 29, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -693,13 +686,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Signal Labs Hackathon",
-    "url": "https://signal-labs-hackathon.devpost.com/",
-    "start_date": "Aug 29, 2026",
-    "location": "Hyderabad",
-    "source": "Devpost"
-  },
-  {
     "title": "Since AI 2026",
     "url": "https://sinceai2026.devpost.com/",
     "start_date": "Nov 06 - 08, 2026",
@@ -728,9 +714,23 @@
     "source": "Devpost"
   },
   {
+    "title": "SPEED Fall Classic",
+    "url": "https://prometheus-fall-classic.devpost.com/",
+    "start_date": "Aug 31 - Sep 26, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "SPEED Virgo Challenge",
+    "url": "https://virgo.devpost.com/",
+    "start_date": "Aug 31 - Sep 19, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Stupid Ideas Hackathon (Ottawa F26)",
     "url": "https://stupideas-ottawa-f26.devpost.com/",
-    "start_date": "Sep 12, 2026",
+    "start_date": "Nov 07, 2026",
     "location": "Ottawa, Canada",
     "source": "Devpost"
   },
@@ -756,17 +756,17 @@
     "source": "Devpost"
   },
   {
-    "title": "SYNCS HACK 2026",
-    "url": "https://syncs-hack-2026.devpost.com/",
-    "start_date": "Aug 28 - 29, 2026",
-    "location": "University of Sydney",
-    "source": "Devpost"
-  },
-  {
     "title": "Tech to Treasure Hackathon",
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Mar 03 - 10, 2027",
     "location": "Tully Community Branch Library",
+    "source": "Devpost"
+  },
+  {
+    "title": "Test Flight: Glasswing Ventures AI Hackathon",
+    "url": "https://test-flight-glasswing.devpost.com/",
+    "start_date": "Sep 26 - 27, 2026",
+    "location": "Glasswing Ventures",
     "source": "Devpost"
   },
   {
@@ -777,9 +777,9 @@
     "source": "Devpost"
   },
   {
-    "title": "TikTok TechJam 2026",
-    "url": "https://tiktoktechjam2026.devpost.com/",
-    "start_date": "Aug 29 - Sep 01, 2026",
+    "title": "TLN Hackathon 2026",
+    "url": "https://tln-cybersecurity-challenge.devpost.com/",
+    "start_date": "Sep 19 - 20, 2026",
     "location": "Online",
     "source": "Devpost"
   },
