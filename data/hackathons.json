@@ -14,10 +14,24 @@
     "source": "Devpost"
   },
   {
+    "title": "2026 AI for Good Hackathon",
+    "url": "https://2026ai4goodhackathon.devpost.com/",
+    "start_date": "Oct 23 - 25, 2026",
+    "location": "The Link",
+    "source": "Devpost"
+  },
+  {
     "title": "804 Hacks",
     "url": "https://804hacks.devpost.com/",
     "start_date": "Oct 24, 2026",
     "location": "VCU Retail Shift Lab",
+    "source": "Devpost"
+  },
+  {
+    "title": "Action Space",
+    "url": "https://action-space-hacks.devpost.com/",
+    "start_date": "Oct 24 - 25, 2026",
+    "location": "Fab Lab",
     "source": "Devpost"
   },
   {
@@ -189,13 +203,6 @@
     "source": "Devpost"
   },
   {
-    "title": "DreamHacks @ Georgia Institute of Technology",
-    "url": "https://dreamhacks-gt.devpost.com/",
-    "start_date": "Aug 29, 2026",
-    "location": "Georgia Institute of Technology",
-    "source": "Devpost"
-  },
-  {
     "title": "Dublin Hacx",
     "url": "https://dublin-hacx.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
@@ -228,6 +235,13 @@
     "url": "https://forgehacks-2026.devpost.com/",
     "start_date": "Oct 03 - 10, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Forward",
+    "url": "https://forward.devpost.com/",
+    "start_date": "Sep 11 - 13, 2026",
+    "location": "University of Melbourne",
     "source": "Devpost"
   },
   {
@@ -270,6 +284,13 @@
     "url": "https://general-learning-hacks.devpost.com/",
     "start_date": "Sep 18 - 19, 2026",
     "location": "3/F Lee Garden 3, Causeway Bay",
+    "source": "Devpost"
+  },
+  {
+    "title": "Girls Hoo Hack 2026",
+    "url": "https://girls-hoo-hack-2026.devpost.com/",
+    "start_date": "Oct 17 - 18, 2026",
+    "location": "University of Virginia - Rice Hall",
     "source": "Devpost"
   },
   {
@@ -319,6 +340,13 @@
     "url": "https://hack-knowvy-1.devpost.com/",
     "start_date": "Sep 13, 2026",
     "location": "Indrapuri, Bhopal",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hack Like W@CC 2026",
+    "url": "https://hack-like-wacc-26.devpost.com/",
+    "start_date": "Oct 17 - 18, 2026",
+    "location": "Georgia Tech – Klaus Atrium, Klaus 1116",
     "source": "Devpost"
   },
   {
@@ -525,13 +553,6 @@
     "source": "Devpost"
   },
   {
-    "title": "LifeHack 2026",
-    "url": "https://lifehack-2026.devpost.com/",
-    "start_date": "Aug 29 - 30, 2026",
-    "location": "COM3, MPH",
-    "source": "Devpost"
-  },
-  {
     "title": "MakeUC 2026",
     "url": "https://makeuc-2026-30884.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -602,13 +623,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Prometheus September AI Challenge (Hybrid)",
-    "url": "https://prometheus-aug-ml-hackathon.devpost.com/",
-    "start_date": "Aug 30 - Sep 27, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Prompt2Product: MLH Hack Day @ AITR",
     "url": "https://prompt2product.devpost.com/",
     "start_date": "Oct 08 - 09, 2026",
@@ -655,6 +669,13 @@
     "url": "https://sc-quantathon-v3.devpost.com/",
     "start_date": "Sep 26 - 27, 2026",
     "location": "Watt Family Innovation Center",
+    "source": "Devpost"
+  },
+  {
+    "title": "Sheridan Datathon 2026",
+    "url": "https://sheridandatathon2026.devpost.com/",
+    "start_date": "Nov 07 - 08, 2026",
+    "location": "Sheridan College Hazel McCallion Campus",
     "source": "Devpost"
   },
   {
@@ -735,20 +756,6 @@
     "source": "Devpost"
   },
   {
-    "title": "SummerDevs 2026",
-    "url": "https://summerdevs26.devpost.com/",
-    "start_date": "Aug 29, 2026",
-    "location": "Glendale Foothils Library",
-    "source": "Devpost"
-  },
-  {
-    "title": "Sunbeam Seattle",
-    "url": "https://sunbeam-seattle.devpost.com/",
-    "start_date": "Aug 29, 2026",
-    "location": "The McKinney Center",
-    "source": "Devpost"
-  },
-  {
     "title": "SVYCA Youth for Earth (Y4E) Hackathon",
     "url": "https://svycay4e.devpost.com/",
     "start_date": "Sep 20 - Oct 18, 2026",
@@ -801,13 +808,6 @@
     "title": "United Hacks V8",
     "url": "https://unitedhacksv8.devpost.com/",
     "start_date": "Jan 08 - 10, 2027",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "VentureFix",
-    "url": "https://venturefix.devpost.com/",
-    "start_date": "Aug 30 - Sep 13, 2026",
     "location": "Online",
     "source": "Devpost"
   },
