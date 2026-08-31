@@ -35,13 +35,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Agentic Day Online Hackathon Powered by Mel",
-    "url": "https://powered-by-mel.devpost.com/",
-    "start_date": "Aug 30, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "AI Agent Hackathon",
     "url": "https://coffee-and-code-agent.devpost.com/",
     "start_date": "Sep 20, 2026",
@@ -133,6 +126,13 @@
     "source": "Devpost"
   },
   {
+    "title": "CityCamp Gainesville Hack Day",
+    "url": "https://citycamp-hack-day.devpost.com/",
+    "start_date": "Sep 20, 2026",
+    "location": "Reitz Union",
+    "source": "Devpost"
+  },
+  {
     "title": "Code Vidya Hack Days",
     "url": "https://code-vidya-hack-days.devpost.com/",
     "start_date": "Sep 01, 2026",
@@ -161,6 +161,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Coppell hackathon 1",
+    "url": "https://fintech-hackothon-1.devpost.com/",
+    "start_date": "Sep 04 - 06, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "CrownHacks",
     "url": "https://crownhacks.devpost.com/",
     "start_date": "Oct 09 - 11, 2026",
@@ -171,13 +178,6 @@
     "title": "CSC Back-to-School Hackathon",
     "url": "https://csc-back-to-school.devpost.com/",
     "start_date": "Sep 04 - Oct 05, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "CSH Social Impact Ideathon",
-    "url": "https://csh-social-impact-ideathon.devpost.com/",
-    "start_date": "Aug 31 - Sep 04, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -238,7 +238,7 @@
     "source": "Devpost"
   },
   {
-    "title": "Forward",
+    "title": "Forward: AI in Business Hackathon",
     "url": "https://forward.devpost.com/",
     "start_date": "Sep 11 - 13, 2026",
     "location": "University of Melbourne",
@@ -602,6 +602,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Next Gen Hackathon 2026 -Bengaluru",
+    "url": "https://next-gen-hackathon.devpost.com/",
+    "start_date": "Sep 01 - Oct 23, 2026",
+    "location": "Tripura Vasini Palace Grounds, Bengaluru",
+    "source": "Devpost"
+  },
+  {
     "title": "OCCHacks",
     "url": "https://occhacks-2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
@@ -738,13 +745,6 @@
     "title": "SPEED Fall Classic",
     "url": "https://prometheus-fall-classic.devpost.com/",
     "start_date": "Aug 31 - Sep 26, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "SPEED Virgo Challenge",
-    "url": "https://virgo.devpost.com/",
-    "start_date": "Aug 31 - Sep 19, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -954,13 +954,6 @@
     "source": "MLH"
   },
   {
-    "title": "Chennai , Tamilnadu PEC",
-    "url": "https://pechacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=PEC+HACKS+4.0",
-    "start_date": "HACKS 4",
-    "location": ".0 AUG 29 - 30 Chennai, Tamilnadu, IN In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Cincinnati , Ohio RevolutionUC",
     "url": "https://www.revolutionuc.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=RevolutionUC",
     "start_date": "FEB 27 - 28",
@@ -993,13 +986,6 @@
     "url": "https://www.spartahack.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SpartaHack",
     "start_date": "FEB 06 - 07",
     "location": "East Lansing, Michigan, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Everywhere , Worldwide Midnight Virtual Hackathon [August]",
-    "url": "https://events.mlh.com/events/14510-midnight-hackathon-august?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Midnight+Virtual+Hackathon+%5BAugust%5D",
-    "start_date": "AUG 28 - 30",
-    "location": "Everywhere, Worldwide, US Digital",
     "source": "MLH"
   },
   {
