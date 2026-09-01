@@ -133,13 +133,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Code Vidya Hack Days",
-    "url": "https://code-vidya-hack-days.devpost.com/",
-    "start_date": "Sep 01, 2026",
-    "location": "Kanpur Nagar UP",
-    "source": "Devpost"
-  },
-  {
     "title": "codeLinc 11 with Lincoln Financial & AWS",
     "url": "https://codelinc11.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
@@ -193,6 +186,13 @@
     "url": "https://cyber-hawk-hackathon.devpost.com/",
     "start_date": "Sep 26, 2026",
     "location": "Monmouth University",
+    "source": "Devpost"
+  },
+  {
+    "title": "CyberX 26 CTF",
+    "url": "https://cyberx-26-ctf.devpost.com/",
+    "start_date": "Sep 30 - Oct 01, 2026",
+    "location": "Bengaluru, India",
     "source": "Devpost"
   },
   {
@@ -252,24 +252,17 @@
     "source": "Devpost"
   },
   {
-    "title": "GatewayGS Hackathon 2",
-    "url": "https://gatewaygs-hackathon-2.devpost.com/",
-    "start_date": "Sep 01 - 16, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "GatewayHacks 2026 | Software & AI",
-    "url": "https://gatewayhacks-2026.devpost.com/",
-    "start_date": "Sep 01 - Oct 02, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Gator Quant Hacks",
     "url": "https://gqhacks.devpost.com/",
     "start_date": "Oct 02 - 04, 2026",
     "location": "Gainesville, Florida",
+    "source": "Devpost"
+  },
+  {
+    "title": "Gear Up Hacks 2026",
+    "url": "https://gear-up-hacks-2026.devpost.com/",
+    "start_date": "Sep 26, 2026",
+    "location": "Lincoln on Geer",
     "source": "Devpost"
   },
   {
@@ -361,6 +354,13 @@
     "url": "https://hack-the-weather.devpost.com/",
     "start_date": "Sep 01 - 03, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hack-a-ton with Friends",
+    "url": "https://hack-a-ton-with-friends.devpost.com/",
+    "start_date": "Nov 14 - 15, 2026",
+    "location": "DOW Theatre",
     "source": "Devpost"
   },
   {
@@ -574,17 +574,17 @@
     "source": "Devpost"
   },
   {
-    "title": "MunichTech EXPO",
-    "url": "https://munichtech-expo.devpost.com/",
-    "start_date": "Sep 01 - 20, 2026",
-    "location": "Munich, Germany",
-    "source": "Devpost"
-  },
-  {
     "title": "MYHack: ISNA 2026",
     "url": "https://myhack-isna.devpost.com/",
     "start_date": "Sep 05 - 06, 2026",
     "location": "Detroit, MI, USA",
+    "source": "Devpost"
+  },
+  {
+    "title": "N/A",
+    "url": "https://ai-content-engine-hackathon.devpost.com/",
+    "start_date": "Feb 02 - Apr 06, 2027",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -599,13 +599,6 @@
     "url": "https://neurohack-1-0-by-axonic.devpost.com/",
     "start_date": "Sep 16 - 24, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Next Gen Hackathon 2026 -Bengaluru",
-    "url": "https://next-gen-hackathon.devpost.com/",
-    "start_date": "Sep 01 - Oct 23, 2026",
-    "location": "Tripura Vasini Palace Grounds, Bengaluru",
     "source": "Devpost"
   },
   {
@@ -648,6 +641,13 @@
     "url": "https://rect-hackathon.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
     "location": "IDEA Spaces Saldanha",
+    "source": "Devpost"
+  },
+  {
+    "title": "Revolution",
+    "url": "https://revolution-mty2026.devpost.com/",
+    "start_date": "Dec 05 - 06, 2026",
+    "location": "Museo Del Acero Horno 3",
     "source": "Devpost"
   },
   {
@@ -742,13 +742,6 @@
     "source": "Devpost"
   },
   {
-    "title": "SPEED Fall Classic",
-    "url": "https://prometheus-fall-classic.devpost.com/",
-    "start_date": "Aug 31 - Sep 26, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Stupid Ideas Hackathon (Ottawa F26)",
     "url": "https://stupideas-ottawa-f26.devpost.com/",
     "start_date": "Nov 07, 2026",
@@ -781,6 +774,13 @@
     "url": "https://the-cad-challenge-2026.devpost.com/",
     "start_date": "Sep 12 - 14, 2026",
     "location": "University of California, Berkeley",
+    "source": "Devpost"
+  },
+  {
+    "title": "TigerHacks 2026",
+    "url": "https://tigerhacks-2026.devpost.com/",
+    "start_date": "Sep 24 - 27, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -996,6 +996,13 @@
     "source": "MLH"
   },
   {
+    "title": "Gainesville , Florida Gator Quant Hacks",
+    "url": "https://www.gqhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Gator+Quant+Hacks",
+    "start_date": "OCT 02 - 04",
+    "location": "Gainesville, Florida, US In-Person DIVERSITY",
+    "source": "MLH"
+  },
+  {
     "title": "Gainesville , Florida SwampHacks XII",
     "url": "https://swamphacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SwampHacks+XII",
     "start_date": "OCT 16 - 18",
@@ -1178,6 +1185,13 @@
     "source": "MLH"
   },
   {
+    "title": "Ottawa , Ontario Hack the Hill",
+    "url": "https://hackthehill.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+the+Hill",
+    "start_date": "SEP 25 - 27",
+    "location": "Ottawa, Ontario, CA In-Person",
+    "source": "MLH"
+  },
+  {
     "title": "Philadelphia , Pennsylvania OwlHacks",
     "url": "https://www.owlhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=OwlHacks",
     "start_date": "SEP 26 - 27",
@@ -1196,6 +1210,13 @@
     "url": "https://hackatbrown.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack%40Brown+2027",
     "start_date": "Brown 20",
     "location": "27 FEB 05 - 07 Providence, RI, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Raleigh , NC WB WolfHacks by ACM at NC State",
+    "url": "https://wolfhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=WolfHacks+by+ACM+at+NC+State",
+    "start_date": "OCT 03 - 04",
+    "location": "Raleigh, NC, US In-Person",
     "source": "MLH"
   },
   {
@@ -1250,7 +1271,7 @@
   {
     "title": "Stony Brook , New York SBUHacks",
     "url": "https://hack.sbcs.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SBUHacks",
-    "start_date": "OCT 09 - 11",
+    "start_date": "OCT 23 - 25",
     "location": "Stony Brook, New York, US In-Person",
     "source": "MLH"
   },
@@ -1280,6 +1301,13 @@
     "url": "https://hackrpi.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackRPI+2026",
     "start_date": "HackRPI 20",
     "location": "26 NOV 07 - 08 Troy, New York, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "University Park , PA Hack at Penn State",
+    "url": "https://hackpsu.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+at+Penn+State",
+    "start_date": "OCT 24 - 25",
+    "location": "University Park, PA, US In-Person",
     "source": "MLH"
   },
   {
