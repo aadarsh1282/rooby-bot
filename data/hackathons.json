@@ -28,6 +28,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Acodemic X G.I.R.L.S. Global SDG Hackathon",
+    "url": "https://acodemic-hackathon.devpost.com/",
+    "start_date": "Sep 06 - 16, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Action Space",
     "url": "https://action-space-hacks.devpost.com/",
     "start_date": "Oct 24 - 25, 2026",
@@ -175,6 +182,13 @@
     "source": "Devpost"
   },
   {
+    "title": "CuseHacks 2026",
+    "url": "https://cusehacks-2026.devpost.com/",
+    "start_date": "Sep 19 - 20, 2026",
+    "location": "Life Sciences Atrium",
+    "source": "Devpost"
+  },
+  {
     "title": "Cutie Hack 2026",
     "url": "https://cutie-hack-2026.devpost.com/",
     "start_date": "Nov 21, 2026",
@@ -186,13 +200,6 @@
     "url": "https://cyber-hawk-hackathon.devpost.com/",
     "start_date": "Sep 26, 2026",
     "location": "Monmouth University",
-    "source": "Devpost"
-  },
-  {
-    "title": "CyberX 26 CTF",
-    "url": "https://cyberx-26-ctf.devpost.com/",
-    "start_date": "Sep 30 - Oct 01, 2026",
-    "location": "Bengaluru, India",
     "source": "Devpost"
   },
   {
@@ -261,7 +268,7 @@
   {
     "title": "Gear Up Hacks 2026",
     "url": "https://gear-up-hacks-2026.devpost.com/",
-    "start_date": "Sep 26, 2026",
+    "start_date": "Oct 03, 2026",
     "location": "Lincoln on Geer",
     "source": "Devpost"
   },
@@ -352,7 +359,7 @@
   {
     "title": "Hack The Weather",
     "url": "https://hack-the-weather.devpost.com/",
-    "start_date": "Sep 01 - 03, 2026",
+    "start_date": "Sep 05 - 09, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -581,13 +588,6 @@
     "source": "Devpost"
   },
   {
-    "title": "N/A",
-    "url": "https://ai-content-engine-hackathon.devpost.com/",
-    "start_date": "Feb 02 - Apr 06, 2027",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Neighborhood Hacks",
     "url": "https://neighborhood-hacks-2026.devpost.com/",
     "start_date": "Oct 16 - 24, 2026",
@@ -644,13 +644,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Revolution",
-    "url": "https://revolution-mty2026.devpost.com/",
-    "start_date": "Dec 05 - 06, 2026",
-    "location": "Museo Del Acero Horno 3",
-    "source": "Devpost"
-  },
-  {
     "title": "RoadStar Hackathon",
     "url": "https://roadstarhackathon.devpost.com/",
     "start_date": "Sep 05 - 13, 2026",
@@ -676,13 +669,6 @@
     "url": "https://sc-quantathon-v3.devpost.com/",
     "start_date": "Sep 26 - 27, 2026",
     "location": "Watt Family Innovation Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "Sheridan Datathon 2026",
-    "url": "https://sheridandatathon2026.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "Sheridan College Hazel McCallion Campus",
     "source": "Devpost"
   },
   {
@@ -739,6 +725,13 @@
     "url": "https://spartahack-12.devpost.com/",
     "start_date": "Feb 06 - 07, 2027",
     "location": "MSU - STEM Building",
+    "source": "Devpost"
+  },
+  {
+    "title": "SteelHacks XIII",
+    "url": "https://steelhacksxiii.devpost.com/",
+    "start_date": "Sep 19 - 20, 2026",
+    "location": "University of Pittsburgh - Posvar Hall",
     "source": "Devpost"
   },
   {
@@ -809,6 +802,13 @@
     "url": "https://unitedhacksv8.devpost.com/",
     "start_date": "Jan 08 - 10, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "UPAI-Hackdays",
+    "url": "https://upai-hackdays.devpost.com/",
+    "start_date": "Sep 07 - 10, 2026",
+    "location": "Virtual",
     "source": "Devpost"
   },
   {
@@ -947,6 +947,13 @@
     "source": "MLH"
   },
   {
+    "title": "Burnaby , British Columbia S stormhacks",
+    "url": "https://www.stormhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=stormhacks",
+    "start_date": "OCT 03 - 04",
+    "location": "Burnaby, British Columbia, CA In-Person",
+    "source": "MLH"
+  },
+  {
     "title": "Chapel Hill , North Carolina HackNC",
     "url": "https://hacknc.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackNC",
     "start_date": "OCT 09 - 11",
@@ -1013,7 +1020,7 @@
     "title": "Ghaziabad , Uttar Pradesh",
     "url": "https://innohacks.live/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Innohacks+4.0",
     "start_date": "Innohacks 4",
-    "location": ".0 OCT 03 - 04 Ghaziabad, Uttar Pradesh, IN In-Person",
+    "location": ".0 OCT 10 - 11 Ghaziabad, Uttar Pradesh, IN In-Person",
     "source": "MLH"
   },
   {
