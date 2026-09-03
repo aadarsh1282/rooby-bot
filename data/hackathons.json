@@ -35,13 +35,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Action Space",
-    "url": "https://action-space-hacks.devpost.com/",
-    "start_date": "Oct 24 - 25, 2026",
-    "location": "Fab Lab",
-    "source": "Devpost"
-  },
-  {
     "title": "AI Agent Hackathon",
     "url": "https://coffee-and-code-agent.devpost.com/",
     "start_date": "Sep 20, 2026",
@@ -168,13 +161,6 @@
     "source": "Devpost"
   },
   {
-    "title": "CrownHacks",
-    "url": "https://crownhacks.devpost.com/",
-    "start_date": "Oct 09 - 11, 2026",
-    "location": "UNC Charlotte - Union",
-    "source": "Devpost"
-  },
-  {
     "title": "CSC Back-to-School Hackathon",
     "url": "https://csc-back-to-school.devpost.com/",
     "start_date": "Sep 04 - Oct 05, 2026",
@@ -200,6 +186,13 @@
     "url": "https://cyber-hawk-hackathon.devpost.com/",
     "start_date": "Sep 26, 2026",
     "location": "Monmouth University",
+    "source": "Devpost"
+  },
+  {
+    "title": "CyberX 26 CTF",
+    "url": "https://cyberx-26-ctf.devpost.com/",
+    "start_date": "Sep 30 - Oct 01, 2026",
+    "location": "Bengaluru, India",
     "source": "Devpost"
   },
   {
@@ -672,6 +665,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Sheridan Datathon 2026",
+    "url": "https://sheridandatathon2026.devpost.com/",
+    "start_date": "Nov 07 - 08, 2026",
+    "location": "Sheridan College Hazel McCallion Campus",
+    "source": "Devpost"
+  },
+  {
     "title": "Sherubtse Hackathon 2026",
     "url": "https://sherubtse-hackathon-2026.devpost.com/",
     "start_date": "Sep 18 - 19, 2026",
@@ -947,8 +947,8 @@
     "source": "MLH"
   },
   {
-    "title": "Burnaby , British Columbia S stormhacks",
-    "url": "https://www.stormhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=stormhacks",
+    "title": "Burnaby , British Columbia S StormHacks",
+    "url": "https://www.stormhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=StormHacks",
     "start_date": "OCT 03 - 04",
     "location": "Burnaby, British Columbia, CA In-Person",
     "source": "MLH"
@@ -1084,6 +1084,13 @@
     "url": "https://www.hackku.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackKU27",
     "start_date": "APR 09 - 11",
     "location": "Lawrence, Kansas, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "London , London IKU Womxn in STEM Hackathon",
+    "url": "https://ikuwomxninstemhackathon.co.uk/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=IKU+Womxn+in+STEM+Hackathon",
+    "start_date": "OCT 17 - 18",
+    "location": "London, London, GB In-Person DIVERSITY",
     "source": "MLH"
   },
   {
