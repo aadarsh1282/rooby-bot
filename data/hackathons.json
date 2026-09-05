@@ -30,7 +30,7 @@
   {
     "title": "Acodemic X G.I.R.L.S. Global SDG Hackathon",
     "url": "https://acodemic-hackathon.devpost.com/",
-    "start_date": "Sep 06 - 16, 2026",
+    "start_date": "Sep 19 - 27, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -140,6 +140,13 @@
     "source": "Devpost"
   },
   {
+    "title": "CodeBox Hacks",
+    "url": "https://codebox-hacks.devpost.com/",
+    "start_date": "Sep 05 - 06, 2026",
+    "location": "Cal Poly Advanced Technology Lab",
+    "source": "Devpost"
+  },
+  {
     "title": "codeLinc 11 with Lincoln Financial & AWS",
     "url": "https://codelinc11.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
@@ -151,13 +158,6 @@
     "url": "https://communihacks.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "Builders Club",
-    "source": "Devpost"
-  },
-  {
-    "title": "Coppell hackathon 1",
-    "url": "https://fintech-hackothon-1.devpost.com/",
-    "start_date": "Sep 04 - 06, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -277,13 +277,6 @@
     "url": "https://girls-hoo-hack-2026.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
     "location": "University of Virginia - Rice Hall",
-    "source": "Devpost"
-  },
-  {
-    "title": "Global Psyops Hackathon",
-    "url": "https://global-psyops-hackathon.devpost.com/",
-    "start_date": "Sep 04 - 07, 2026",
-    "location": "Distribution Hall",
     "source": "Devpost"
   },
   {
@@ -630,6 +623,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Revolution",
+    "url": "https://revolution-mty2026.devpost.com/",
+    "start_date": "Dec 05 - 06, 2026",
+    "location": "Museo Del Acero Horno 3",
+    "source": "Devpost"
+  },
+  {
     "title": "RoadStar Hackathon",
     "url": "https://roadstarhackathon.devpost.com/",
     "start_date": "Sep 05 - 13, 2026",
@@ -786,7 +786,7 @@
   {
     "title": "Trust in the Hiring Funnel Hackathon",
     "url": "https://trust-in-the-hiring-funnel.devpost.com/",
-    "start_date": "Sep 12, 2026",
+    "start_date": "Sep 19, 2026",
     "location": "NYU",
     "source": "Devpost"
   },
@@ -1227,7 +1227,7 @@
     "source": "MLH"
   },
   {
-    "title": "Raleigh , NC WB WolfHacks by ACM at NC State",
+    "title": "Raleigh , NC WolfHacks by ACM at NC State",
     "url": "https://wolfhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=WolfHacks+by+ACM+at+NC+State",
     "start_date": "OCT 03 - 04",
     "location": "Raleigh, NC, US In-Person",
