@@ -106,22 +106,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "AI as a Driving Companion Hackathon",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Sept 2026",
-    "location": "Melbourne, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
-    "title": "Citadel Cryptography Challenge",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Sept 2026",
-    "location": "Brisbane, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "Forward: AI in Business Hackathon",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Sept 2026",
@@ -134,6 +118,14 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Sept 2026",
     "location": "In-Person",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "n8n University Hackathon - Sydney",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Sept 2026",
+    "location": "Sydney, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },

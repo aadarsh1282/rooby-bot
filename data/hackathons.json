@@ -105,13 +105,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Build with Gemini - Gen Recruiter",
-    "url": "https://gen-recruiter-google-gemini.devpost.com/",
-    "start_date": "Sep 10, 2026",
-    "location": "Jaipur, India",
-    "source": "Devpost"
-  },
-  {
     "title": "Build-A-Thon",
     "url": "https://build-a-thon-30568.devpost.com/",
     "start_date": "Oct 16 - 17, 2026",
@@ -245,17 +238,17 @@
     "source": "Devpost"
   },
   {
+    "title": "Gator Hack V - AI Days 2026",
+    "url": "https://gatorhack2026.devpost.com/",
+    "start_date": "Oct 23 - 25, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Gator Quant Hacks",
     "url": "https://gqhacks.devpost.com/",
     "start_date": "Oct 02 - 04, 2026",
     "location": "Gainesville, Florida",
-    "source": "Devpost"
-  },
-  {
-    "title": "Gear Up Hacks 2026",
-    "url": "https://gear-up-hacks-2026.devpost.com/",
-    "start_date": "Oct 03, 2026",
-    "location": "Lincoln on Geer",
     "source": "Devpost"
   },
   {
@@ -388,7 +381,7 @@
     "title": "HackKentucky",
     "url": "https://hackkentucky.devpost.com/",
     "start_date": "Sep 11 - 12, 2026",
-    "location": "Genuine Works",
+    "location": "Genuine Works - IN PERSON ONLY",
     "source": "Devpost"
   },
   {
@@ -476,6 +469,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HuskyHack 2026:Phase 1",
+    "url": "https://huskyhack2026.devpost.com/",
+    "start_date": "Oct 17, 2026",
+    "location": "Milgard Hall",
+    "source": "Devpost"
+  },
+  {
     "title": "Hyperbloom October- UI/UX and Web Design",
     "url": "https://hyperbloom-october.devpost.com/",
     "start_date": "Oct 05 - 12, 2026",
@@ -500,6 +500,13 @@
     "title": "IEEE ClimateChain Global Hackathon",
     "url": "https://ieee-climatechain-hack.devpost.com/",
     "start_date": "Oct 05 - 25, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "ImpactHack 2026",
+    "url": "https://impacthack26.devpost.com/",
+    "start_date": "Oct 01 - 08, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -760,13 +767,6 @@
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Mar 03 - 10, 2027",
     "location": "Tully Community Branch Library",
-    "source": "Devpost"
-  },
-  {
-    "title": "TechCommons Hacks V2 - Hacks to Inspire",
-    "url": "https://techcommons-hacks-v2.devpost.com/",
-    "start_date": "Sep 10 - 17, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -1244,6 +1244,13 @@
     "url": "https://www.owlhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=OwlHacks",
     "start_date": "SEP 26 - 27",
     "location": "Philadelphia, Pennsylvania, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Pittsburgh , PA HackCMU",
+    "url": "https://www.acmatcmu.com/hackcmu2026/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackCMU",
+    "start_date": "SEP 11 - 12",
+    "location": "Pittsburgh, PA, US In-Person",
     "source": "MLH"
   },
   {
