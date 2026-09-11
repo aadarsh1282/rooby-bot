@@ -70,6 +70,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Battle of the Schools",
+    "url": "https://battle-of-the-schools.devpost.com/",
+    "start_date": "Sep 12 - 13, 2026",
+    "location": "Bahen Centre, University of Toronto",
+    "source": "Devpost"
+  },
+  {
     "title": "Bay Hacks",
     "url": "https://bayhacks-2026.devpost.com/",
     "start_date": "Sep 18 - 19, 2026",
@@ -301,13 +308,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hack CMU",
-    "url": "https://hack-cmu-2026.devpost.com/",
-    "start_date": "Sep 11 - 12, 2026",
-    "location": "Carnegie Mellon University",
-    "source": "Devpost"
-  },
-  {
     "title": "Hack Knowvy - 1",
     "url": "https://hack-knowvy-1.devpost.com/",
     "start_date": "Sep 13, 2026",
@@ -403,6 +403,13 @@
     "url": "https://hackpsu-fall-2026.devpost.com/",
     "start_date": "Oct 24 - 25, 2026",
     "location": "ECoRE Building",
+    "source": "Devpost"
+  },
+  {
+    "title": "HackRice 16",
+    "url": "https://hackrice-16.devpost.com/",
+    "start_date": "Sep 11 - 13, 2026",
+    "location": "Rice Memorial Center",
     "source": "Devpost"
   },
   {
@@ -546,13 +553,6 @@
     "source": "Devpost"
   },
   {
-    "title": "LexHack 2026",
-    "url": "https://lexhack-2026.devpost.com/",
-    "start_date": "Sep 11 - 27, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "MakeUC 2026",
     "url": "https://makeuc-2026-30884.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -577,13 +577,6 @@
     "title": "MLAI Hackathon 2026",
     "url": "https://mlai-hackathon.devpost.com/",
     "start_date": "Sep 18 - Oct 16, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "N/A",
-    "url": "https://ai-content-engine-hackathon.devpost.com/",
-    "start_date": "Feb 02 - Apr 06, 2027",
     "location": "Online",
     "source": "Devpost"
   },
@@ -644,6 +637,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Runway to Reality: AI Fashion Hackathon",
+    "url": "https://runway-to-reality.devpost.com/",
+    "start_date": "Sep 12, 2026",
+    "location": "Luma Studios",
+    "source": "Devpost"
+  },
+  {
     "title": "Rutgers x Elastic Hackathon",
     "url": "https://rutgers-x-elastic-hackathon.devpost.com/",
     "start_date": "Sep 14, 2026",
@@ -662,13 +662,6 @@
     "url": "https://sc-quantathon-v3.devpost.com/",
     "start_date": "Sep 26 - 27, 2026",
     "location": "Watt Family Innovation Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "Shared OS Hackathon",
-    "url": "https://shared-os-hackathon.devpost.com/",
-    "start_date": "Sep 11 - 13, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -826,6 +819,13 @@
     "source": "Devpost"
   },
   {
+    "title": "WarriorHacks 2.0",
+    "url": "https://warriorhacks-2-0.devpost.com/",
+    "start_date": "Sep 28 - Oct 13, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "WWU Social Justice Hackathon",
     "url": "https://wwu-sj-hack.devpost.com/",
     "start_date": "Oct 16 - 18, 2026",
@@ -960,6 +960,13 @@
     "source": "MLH"
   },
   {
+    "title": "Bhilai , Chhattisgarh HackBIOS",
+    "url": "https://hackbios.xyz/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackBIOS",
+    "start_date": "OCT 09 - 10",
+    "location": "Bhilai, Chhattisgarh, IN In-Person",
+    "source": "MLH"
+  },
+  {
     "title": "Blacksburg , Virginia",
     "url": "https://vthacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=VTHacks+14",
     "start_date": "VTHacks 14",
@@ -1083,6 +1090,13 @@
     "url": "https://hackrice.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackRice",
     "start_date": "SEP 11 - 13",
     "location": "Houston, Texas, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Hyattsville , Maryland Technica Hacks",
+    "url": "https://gotechnica.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Technica+Hacks",
+    "start_date": "OCT 17 - 18",
+    "location": "Hyattsville, Maryland, US In-Person DIVERSITY",
     "source": "MLH"
   },
   {
@@ -1247,6 +1261,13 @@
     "source": "MLH"
   },
   {
+    "title": "Piscataway , New Jersey H HackRU",
+    "url": "https://www.hackru.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackRU",
+    "start_date": "OCT 10 - 11",
+    "location": "Piscataway, New Jersey, US In-Person",
+    "source": "MLH"
+  },
+  {
     "title": "Pittsburgh , PA HackCMU",
     "url": "https://www.acmatcmu.com/hackcmu2026/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackCMU",
     "start_date": "SEP 11 - 12",
@@ -1258,6 +1279,13 @@
     "url": "https://steelhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SteelHacks+XIII",
     "start_date": "SEP 19 - 20",
     "location": "Pittsburgh, PA, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Princeton , New Jersey hackPHS",
+    "url": "https://hackphs.tech/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=hackPHS",
+    "start_date": "OCT 10 - 11",
+    "location": "Princeton, New Jersey, US In-Person HIGH SCHOOL",
     "source": "MLH"
   },
   {
@@ -1324,6 +1352,13 @@
     "source": "MLH"
   },
   {
+    "title": "Seattle , Washington DubHacks",
+    "url": "https://dh26.dubhacks.co/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=DubHacks",
+    "start_date": "OCT 17 - 18",
+    "location": "Seattle, Washington, US In-Person",
+    "source": "MLH"
+  },
+  {
     "title": "Stony Brook , New York SBUHacks",
     "url": "https://hack.sbcs.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SBUHacks",
     "start_date": "OCT 23 - 25",
@@ -1377,6 +1412,13 @@
     "url": "https://nwhacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=nwHacks",
     "start_date": "JAN 16 - 17",
     "location": "Vancouver, British Columbia, CA In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Vancovuer , British Columbia HackCamp",
+    "url": "https://hackcamp.nwplus.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackCamp",
+    "start_date": "NOV 07 - 08",
+    "location": "Vancovuer, British Columbia, CA In-Person",
     "source": "MLH"
   },
   {
