@@ -1,7 +1,7 @@
 [
   {
     "title": "A tech scenebeyond the city.",
-    "url": "https://www.meetup.com/codeforsydney/events/313473965/",
+    "url": "https://sfd.org.au/",
     "start_date": "Sept 19 Hybrid Software Freedom Day 2026",
     "location": "In-Person",
     "source": "Hackeroos",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Explore the directories",
-    "url": "https://www.meetup.com/codeforsydney/events/313473965/",
+    "url": "https://sfd.org.au/",
     "start_date": "Sept 19 Hybrid Software Freedom Day 2026",
     "location": "In-Person",
     "source": "Hackeroos",
@@ -42,14 +42,6 @@
     "start_date": "",
     "location": "Online / TBA",
     "source": "Hackeroos"
-  },
-  {
-    "title": "Demystifying dispatch in the national electricity market",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "",
-    "location": "In-Person",
-    "source": "Hackeroos",
-    "mode": "In-Person"
   },
   {
     "title": "Hackeroos Discord Coworking",
@@ -122,6 +114,13 @@
     "mode": "In-Person"
   },
   {
+    "title": "Meet the community.",
+    "url": "https://discord.com/invite/cvrEcxU5b7",
+    "start_date": "",
+    "location": "Online / TBA",
+    "source": "Hackeroos"
+  },
+  {
     "title": "Find your next role.",
     "url": "/login?mode=signup&returnTo=%2Fonboarding",
     "start_date": "",
@@ -150,28 +149,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Meet the community.",
-    "url": "https://discord.com/invite/cvrEcxU5b7",
-    "start_date": "",
-    "location": "Online / TBA",
-    "source": "Hackeroos"
-  },
-  {
-    "title": "Host your next event or hackathon.",
-    "url": "/dashboard/events/new",
-    "start_date": "",
-    "location": "Online",
-    "source": "Hackeroos",
-    "mode": "Online"
-  },
-  {
-    "title": "Hackeroos merch.",
-    "url": "/shop",
-    "start_date": "",
-    "location": "Online / TBA",
-    "source": "Hackeroos"
-  },
-  {
     "title": "Directories & Resources",
     "url": "/events",
     "start_date": "",
@@ -179,7 +156,7 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Information",
+    "title": "Info & Contact",
     "url": "/events",
     "start_date": "",
     "location": "Online / TBA",
