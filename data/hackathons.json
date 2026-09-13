@@ -35,6 +35,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Action Space",
+    "url": "https://action-space-hacks.devpost.com/",
+    "start_date": "Oct 24 - 25, 2026",
+    "location": "Fab Lab",
+    "source": "Devpost"
+  },
+  {
     "title": "Agentic Hackathon 2026",
     "url": "https://agentic-hacks-2026.devpost.com/",
     "start_date": "Sep 20 - 30, 2026",
@@ -67,13 +74,6 @@
     "url": "https://banana-hacks-1111.devpost.com/",
     "start_date": "Oct 09 - 12, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Battle of the Schools",
-    "url": "https://battle-of-the-schools.devpost.com/",
-    "start_date": "Sep 12 - 13, 2026",
-    "location": "Bahen Centre, University of Toronto",
     "source": "Devpost"
   },
   {
@@ -168,6 +168,13 @@
     "source": "Devpost"
   },
   {
+    "title": "CrownHacks",
+    "url": "https://crownhacks.devpost.com/",
+    "start_date": "Oct 09 - 11, 2026",
+    "location": "UNC Charlotte - Union",
+    "source": "Devpost"
+  },
+  {
     "title": "CuseHacks 2026",
     "url": "https://cusehacks-2026.devpost.com/",
     "start_date": "Sep 19 - 20, 2026",
@@ -224,16 +231,16 @@
     "source": "Devpost"
   },
   {
-    "title": "ForgeHacks Online 2026",
-    "url": "https://forgehacks-2026.devpost.com/",
-    "start_date": "Oct 03 - 10, 2026",
+    "title": "Financial Cybersecurity Challenge",
+    "url": "https://financecybersecuritychallenge.devpost.com/",
+    "start_date": "Oct 03 - 04, 2026",
     "location": "Online",
     "source": "Devpost"
   },
   {
-    "title": "Frontier Cascadia",
-    "url": "https://frontier-cascadia-2026.devpost.com/",
-    "start_date": "Sep 12, 2026",
+    "title": "ForgeHacks Online 2026",
+    "url": "https://forgehacks-2026.devpost.com/",
+    "start_date": "Oct 03 - 10, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -256,6 +263,13 @@
     "url": "https://gqhacks.devpost.com/",
     "start_date": "Oct 02 - 04, 2026",
     "location": "Gainesville, Florida",
+    "source": "Devpost"
+  },
+  {
+    "title": "Gear Up Hacks 2026",
+    "url": "https://gear-up-hacks-2026.devpost.com/",
+    "start_date": "Oct 03, 2026",
+    "location": "Lincoln on Geer",
     "source": "Devpost"
   },
   {
@@ -312,13 +326,6 @@
     "url": "https://hack-atlantic-2026.devpost.com/",
     "start_date": "Sep 27, 2026",
     "location": "Fredericton, New Brunswick",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack Knowvy - 1",
-    "url": "https://hack-knowvy-1.devpost.com/",
-    "start_date": "Sep 13, 2026",
-    "location": "Indrapuri, Bhopal",
     "source": "Devpost"
   },
   {
@@ -574,6 +581,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Meow",
+    "url": "https://makeuc-2026-30881.devpost.com/",
+    "start_date": "Nov 07 - 08, 2026",
+    "location": "1819 Innovation Hub",
+    "source": "Devpost"
+  },
+  {
     "title": "Miami AI Hackathon: Mel + ElevenLabs",
     "url": "https://hackathon-mel-elevenlabs.devpost.com/",
     "start_date": "Sep 19, 2026",
@@ -644,13 +658,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Runway to Reality: AI Fashion Hackathon",
-    "url": "https://runway-to-reality.devpost.com/",
-    "start_date": "Sep 12, 2026",
-    "location": "Luma Studios",
-    "source": "Devpost"
-  },
-  {
     "title": "Rutgers x Elastic Hackathon",
     "url": "https://rutgers-x-elastic-hackathon.devpost.com/",
     "start_date": "Sep 14, 2026",
@@ -658,17 +665,17 @@
     "source": "Devpost"
   },
   {
-    "title": "SaugaHacks",
-    "url": "https://saugahacks-2026.devpost.com/",
-    "start_date": "Sep 12, 2026",
-    "location": "University Of Toronto Mississauga",
-    "source": "Devpost"
-  },
-  {
     "title": "SC Quantathon v3",
     "url": "https://sc-quantathon-v3.devpost.com/",
     "start_date": "Sep 26 - 27, 2026",
     "location": "Watt Family Innovation Center",
+    "source": "Devpost"
+  },
+  {
+    "title": "Seattle GiveCamp 2026",
+    "url": "https://seattle-givecamp-2026.devpost.com/",
+    "start_date": "Oct 16 - 18, 2026",
+    "location": "Microsoft Building 122",
     "source": "Devpost"
   },
   {
@@ -731,13 +738,6 @@
     "title": "STEMergent Hacks 2026",
     "url": "https://stemergent-hacks.devpost.com/",
     "start_date": "Oct 18 - 31, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "STEMinate Wildcard Hack",
-    "url": "https://steminate-texas-wildcard-hack.devpost.com/",
-    "start_date": "Sep 12 - 19, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -840,14 +840,6 @@
     "source": "Devpost"
   },
   {
-    "title": "A tech scenebeyond the city.",
-    "url": "https://sfd.org.au/",
-    "start_date": "Sept 19 Hybrid Software Freedom Day 2026",
-    "location": "In-Person",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "Directories & Resources",
     "url": "/events",
     "start_date": "",
@@ -862,6 +854,14 @@
     "source": "Hackeroos"
   },
   {
+    "title": "List your eventor hackathon.",
+    "url": "https://gdg.community.dev/events/details/google-gdg-melbourne-presents-gdg-melbourne-september-coding-night-2/",
+    "start_date": "Sept 19 Hybrid Software Freedom Day 2026",
+    "location": "Melbourne, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
     "title": "Makerspaces",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "",
@@ -871,13 +871,6 @@
   {
     "title": "Meet the community.",
     "url": "https://discord.com/invite/cvrEcxU5b7",
-    "start_date": "",
-    "location": "Online / TBA",
-    "source": "Hackeroos"
-  },
-  {
-    "title": "Upcoming Events",
-    "url": "/dashboard/events/new",
     "start_date": "",
     "location": "Online / TBA",
     "source": "Hackeroos"
@@ -1258,13 +1251,6 @@
     "url": "https://www.hackru.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackRU",
     "start_date": "OCT 10 - 11",
     "location": "Piscataway, New Jersey, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Pittsburgh , PA HackCMU",
-    "url": "https://www.acmatcmu.com/hackcmu2026/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackCMU",
-    "start_date": "SEP 11 - 12",
-    "location": "Pittsburgh, PA, US In-Person",
     "source": "MLH"
   },
   {

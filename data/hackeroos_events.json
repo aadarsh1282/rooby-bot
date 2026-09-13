@@ -1,17 +1,17 @@
 [
   {
-    "title": "A tech scenebeyond the city.",
-    "url": "https://sfd.org.au/",
+    "title": "List your eventor hackathon.",
+    "url": "https://gdg.community.dev/events/details/google-gdg-melbourne-presents-gdg-melbourne-september-coding-night-2/",
     "start_date": "Sept 19 Hybrid Software Freedom Day 2026",
-    "location": "In-Person",
+    "location": "Melbourne, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
   {
     "title": "Explore the directories",
-    "url": "https://sfd.org.au/",
+    "url": "https://gdg.community.dev/events/details/google-gdg-melbourne-presents-gdg-melbourne-september-coding-night-2/",
     "start_date": "Sept 19 Hybrid Software Freedom Day 2026",
-    "location": "In-Person",
+    "location": "Melbourne, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
@@ -38,10 +38,18 @@
   },
   {
     "title": "Upcoming Events",
-    "url": "/dashboard/events/new",
+    "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "",
     "location": "Online / TBA",
     "source": "Hackeroos"
+  },
+  {
+    "title": "GDG Melbourne September Coding Night!",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "",
+    "location": "Melbourne, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
   },
   {
     "title": "Hackeroos Discord Coworking",
@@ -98,18 +106,18 @@
     "mode": "In-Person"
   },
   {
-    "title": "the lock-in",
+    "title": "Industry Hackathon: Sustainable Cities and Communities",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Sept 2026",
-    "location": "In-Person",
+    "location": "Melbourne, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
   {
-    "title": "n8n University Hackathon - Sydney",
+    "title": "Redzone Recovery - Ōtautahi's new Green Belt. A Minecraft Education Build Challenge: September 2026",
     "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Sept 2026",
-    "location": "Sydney, Australia",
+    "start_date": "September 2026 18 Sept 2026",
+    "location": "In-Person",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
