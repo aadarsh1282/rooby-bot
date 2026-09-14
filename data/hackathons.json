@@ -28,6 +28,13 @@
     "source": "Devpost"
   },
   {
+    "title": "ACM Marketsphere 2026",
+    "url": "https://acm-marketsphere-2026.devpost.com/",
+    "start_date": "Sep 17 - 20, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Acodemic X G.I.R.L.S. Global SDG Hackathon",
     "url": "https://acodemic-hackathon.devpost.com/",
     "start_date": "Sep 19 - 27, 2026",
@@ -227,13 +234,6 @@
     "title": "evensonarisnord",
     "url": "https://evensonarisnord.devpost.com/",
     "start_date": "Dec 31, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Financial Cybersecurity Challenge",
-    "url": "https://financecybersecuritychallenge.devpost.com/",
-    "start_date": "Oct 03 - 04, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -497,13 +497,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hyperbloom September - Beginer Freindly",
-    "url": "https://hyperbloom-september2.devpost.com/",
-    "start_date": "Sep 14 - 23, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Hyphen-Hacks",
     "url": "https://hyphen-hacks26.devpost.com/",
     "start_date": "Oct 10, 2026",
@@ -658,6 +651,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Revolution",
+    "url": "https://revolution-mty2026.devpost.com/",
+    "start_date": "Dec 05 - 06, 2026",
+    "location": "Museo Del Acero Horno 3",
+    "source": "Devpost"
+  },
+  {
     "title": "Rutgers x Elastic Hackathon",
     "url": "https://rutgers-x-elastic-hackathon.devpost.com/",
     "start_date": "Sep 14, 2026",
@@ -667,7 +667,7 @@
   {
     "title": "SC Quantathon v3",
     "url": "https://sc-quantathon-v3.devpost.com/",
-    "start_date": "Sep 26 - 27, 2026",
+    "start_date": "Sep 25 - 27, 2026",
     "location": "Watt Family Innovation Center",
     "source": "Devpost"
   },
@@ -1072,13 +1072,6 @@
     "source": "MLH"
   },
   {
-    "title": "Houston , Texas HackRice",
-    "url": "https://hackrice.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackRice",
-    "start_date": "SEP 11 - 13",
-    "location": "Houston, Texas, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Hyattsville , Maryland Technica Hacks",
     "url": "https://gotechnica.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Technica+Hacks",
     "start_date": "OCT 17 - 18",
@@ -1142,13 +1135,6 @@
     "source": "MLH"
   },
   {
-    "title": "Lubbock , Texas",
-    "url": "https://hackwestx.gdgttu.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackWesTX+26",
-    "start_date": "HackWesTX 26",
-    "location": "SEP 12 - 13 Lubbock, Texas, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Miami , Florida ShellHacks",
     "url": "https://shellhacks.net/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=ShellHacks",
     "start_date": "SEP 25 - 27",
@@ -1160,13 +1146,6 @@
     "url": "https://hackville.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hackville+2027",
     "start_date": "Hackville 20",
     "location": "27 JAN 22 - 24 Missisauga, Ontario, CA In-Person DIVERSITY",
-    "source": "MLH"
-  },
-  {
-    "title": "Monterrey , Nuevo Leon",
-    "url": "https://hackmty.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackMTY+2026",
-    "start_date": "HackMTY 20",
-    "location": "26 SEP 11 - 13 Monterrey, Nuevo Leon, MX In-Person",
     "source": "MLH"
   },
   {
