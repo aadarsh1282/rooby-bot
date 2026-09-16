@@ -147,6 +147,20 @@
     "source": "Devpost"
   },
   {
+    "title": "checkpoint 1 — games for good",
+    "url": "https://checkpoint-1.devpost.com/",
+    "start_date": "Jan 08 - 10, 2027",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Chipcraft 3.0 - 24 Hour VLSI Hackathon",
+    "url": "https://chipcraft-3-0.devpost.com/",
+    "start_date": "Sep 25 - 26, 2026",
+    "location": "DSPSD Lab (321), Block III",
+    "source": "Devpost"
+  },
+  {
     "title": "CityCamp Gainesville Hack Day",
     "url": "https://citycamp-hack-day.devpost.com/",
     "start_date": "Sep 20, 2026",
@@ -172,6 +186,13 @@
     "url": "https://communihacks.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "Builders Club",
+    "source": "Devpost"
+  },
+  {
+    "title": "Cosmo Hacks",
+    "url": "https://cosmohacks.devpost.com/",
+    "start_date": "Dec 18 - 21, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -343,6 +364,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Hack the Hill III",
+    "url": "https://hack-the-hill-iii.devpost.com/",
+    "start_date": "Sep 25 - 27, 2026",
+    "location": "Learning Crossroads (CRX) - uOttawa",
+    "source": "Devpost"
+  },
+  {
     "title": "Hack the North 2026",
     "url": "https://hackthenorth2026.devpost.com/",
     "start_date": "Sep 18 - 20, 2026",
@@ -352,7 +380,7 @@
   {
     "title": "Hack The Weather",
     "url": "https://hack-the-weather.devpost.com/",
-    "start_date": "Sep 16 - 18, 2026",
+    "start_date": "Sep 20 - 23, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -361,13 +389,6 @@
     "url": "https://hack-a-ton-with-friends.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
     "location": "DOW Theatre",
-    "source": "Devpost"
-  },
-  {
-    "title": "HACK47: OFFGRID",
-    "url": "https://hack47-offgrid.devpost.com/",
-    "start_date": "Sep 15 - Oct 15, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -381,7 +402,7 @@
     "title": "HackCamp 2026",
     "url": "https://hackcamp-2026.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
-    "location": "University Endowment Lands, Canada",
+    "location": "Vancouver, Canada",
     "source": "Devpost"
   },
   {
@@ -518,13 +539,6 @@
     "source": "Devpost"
   },
   {
-    "title": "InfinityX Global Hackathon 2K26",
-    "url": "https://infinityx-2k26.devpost.com/",
-    "start_date": "Sep 15 - 25, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Kent Hack Enough 2027",
     "url": "https://khe-2027.devpost.com/",
     "start_date": "Mar 06 - 07, 2027",
@@ -557,13 +571,6 @@
     "url": "https://launchhacks-v.devpost.com/",
     "start_date": "Dec 11 - 15, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "MakeUC 2026",
-    "url": "https://makeuc-2026-30884.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "1819 Innovation Hub",
     "source": "Devpost"
   },
   {
@@ -609,17 +616,17 @@
     "source": "Devpost"
   },
   {
+    "title": "Nerdearla Vibeathon 2026",
+    "url": "https://nerdearla26.devpost.com/",
+    "start_date": "Sep 24 - 25, 2026",
+    "location": "Ciudad Cultural Konex",
+    "source": "Devpost"
+  },
+  {
     "title": "OCCHacks",
     "url": "https://occhacks-2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
     "location": "OCC Ballroom - 3rd Floor Conference Room",
-    "source": "Devpost"
-  },
-  {
-    "title": "OneAquaHealth IEEE Global Hackathon",
-    "url": "https://oneaquahealth-ieee-hackathon.devpost.com/",
-    "start_date": "Sep 14 - Oct 01, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -637,6 +644,13 @@
     "source": "Devpost"
   },
   {
+    "title": "PROMPTOTHON 2026: AI Edition",
+    "url": "https://promptothon-2026-ai-edition.devpost.com/",
+    "start_date": "Sep 26 - 27, 2026",
+    "location": "AVNIET, Ramdaspally, Hyderabad,Telangana",
+    "source": "Devpost"
+  },
+  {
     "title": "Recruit Holdings Hackathon “Innovation Cup”",
     "url": "https://innovation-cup2026.devpost.com/",
     "start_date": "Sep 25 - 27, 2026",
@@ -648,20 +662,6 @@
     "url": "https://rect-hackathon.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
     "location": "IDEA Spaces Saldanha",
-    "source": "Devpost"
-  },
-  {
-    "title": "Revolution",
-    "url": "https://revolution-mty2026.devpost.com/",
-    "start_date": "Dec 05 - 06, 2026",
-    "location": "Museo Del Acero Horno 3",
-    "source": "Devpost"
-  },
-  {
-    "title": "Rutgers x Elastic Hackathon",
-    "url": "https://rutgers-x-elastic-hackathon.devpost.com/",
-    "start_date": "Sep 14, 2026",
-    "location": "Richard Weeks Hall of Eng - Room 211",
     "source": "Devpost"
   },
   {
@@ -995,6 +995,13 @@
     "source": "MLH"
   },
   {
+    "title": "Columbia , SC Palmetto Hacks",
+    "url": "https://palmettohacks.ktpusc.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Palmetto+Hacks",
+    "start_date": "OCT 10 - 11",
+    "location": "Columbia, SC, US In-Person",
+    "source": "MLH"
+  },
+  {
     "title": "Dearborn , Michigan Hack",
     "url": "https://www.hackdearborn.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+Dearborn+5%3A+Conjure+Reality",
     "start_date": "Dearborn 5",
@@ -1216,6 +1223,13 @@
     "url": "https://hackthehill.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+the+Hill",
     "start_date": "SEP 25 - 27",
     "location": "Ottawa, Ontario, CA In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Oxford , England OxHack '26",
+    "url": "https://26.oxhack.net/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=OxHack+%2726",
+    "start_date": "OCT 24 - 25",
+    "location": "Oxford, England, GB In-Person",
     "source": "MLH"
   },
   {
