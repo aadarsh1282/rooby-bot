@@ -1,17 +1,17 @@
 [
   {
     "title": "List your eventor hackathon.",
-    "url": "https://gdg.community.dev/events/details/google-gdg-melbourne-presents-gdg-melbourne-september-coding-night-2/",
+    "url": "https://sfd.org.au/",
     "start_date": "Sept 19 Hybrid Software Freedom Day 2026",
-    "location": "Melbourne, Australia",
+    "location": "In-Person",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
   {
     "title": "Explore the directories",
-    "url": "https://gdg.community.dev/events/details/google-gdg-melbourne-presents-gdg-melbourne-september-coding-night-2/",
+    "url": "https://sfd.org.au/",
     "start_date": "Sept 19 Hybrid Software Freedom Day 2026",
-    "location": "Melbourne, Australia",
+    "location": "In-Person",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
@@ -42,14 +42,6 @@
     "start_date": "",
     "location": "Online / TBA",
     "source": "Hackeroos"
-  },
-  {
-    "title": "GDG Melbourne September Coding Night!",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "",
-    "location": "Melbourne, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
   },
   {
     "title": "Hackeroos Discord Coworking",

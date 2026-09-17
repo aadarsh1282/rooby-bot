@@ -3,7 +3,7 @@
     "title": "&HACKS XII",
     "url": "https://hacks-xii.devpost.com/",
     "start_date": "Sep 26 - 27, 2026",
-    "location": "William &amp; Mary - ISC4",
+    "location": "William and Mary - ISC4",
     "source": "Devpost"
   },
   {
@@ -39,13 +39,6 @@
     "url": "https://acodemic-hackathon.devpost.com/",
     "start_date": "Sep 19 - 27, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Action Space",
-    "url": "https://action-space-hacks.devpost.com/",
-    "start_date": "Oct 24 - 25, 2026",
-    "location": "Fab Lab",
     "source": "Devpost"
   },
   {
@@ -380,7 +373,7 @@
   {
     "title": "Hack The Weather",
     "url": "https://hack-the-weather.devpost.com/",
-    "start_date": "Sep 20 - 23, 2026",
+    "start_date": "Sep 20 - 21, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -574,17 +567,17 @@
     "source": "Devpost"
   },
   {
+    "title": "LovHack Season 3",
+    "url": "https://lovhack-season-3.devpost.com/",
+    "start_date": "Sep 26 - Oct 04, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "MantisGrid AI Hackathon 2026",
     "url": "https://mantisgrid-ai-hackathon-2026.devpost.com/",
     "start_date": "Sep 17, 2026",
     "location": "Mitchell Park Community Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "Meow",
-    "url": "https://makeuc-2026-30881.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "1819 Innovation Hub",
     "source": "Devpost"
   },
   {
@@ -749,6 +742,13 @@
     "source": "Devpost"
   },
   {
+    "title": "SVC Hackathon 2027",
+    "url": "https://svchackathon2027.devpost.com/",
+    "start_date": "May 08, 2027",
+    "location": "Gary Knutzen Cardinal Center",
+    "source": "Devpost"
+  },
+  {
     "title": "SVYCA Youth for Earth (Y4E) Hackathon",
     "url": "https://svycay4e.devpost.com/",
     "start_date": "Sep 20 - Oct 18, 2026",
@@ -855,9 +855,9 @@
   },
   {
     "title": "List your eventor hackathon.",
-    "url": "https://gdg.community.dev/events/details/google-gdg-melbourne-presents-gdg-melbourne-september-coding-night-2/",
+    "url": "https://sfd.org.au/",
     "start_date": "Sept 19 Hybrid Software Freedom Day 2026",
-    "location": "Melbourne, Australia",
+    "location": "In-Person",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
@@ -992,6 +992,13 @@
     "url": "https://cuhack.it/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=CUhackit",
     "start_date": "FEB 20 - 21",
     "location": "Clemson, SC, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Columbia , Missouri TigerHacks",
+    "url": "https://tigerhacks.dev/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=TigerHacks",
+    "start_date": "SEP 25 - 27",
+    "location": "Columbia, Missouri, US In-Person",
     "source": "MLH"
   },
   {
@@ -1300,6 +1307,13 @@
     "url": "https://wichacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=WiCHacks",
     "start_date": "FEB 27 - 28",
     "location": "Rochester, New York, US In-Person DIVERSITY",
+    "source": "MLH"
+  },
+  {
+    "title": "Saltillo , Coahuila Hackathon TecNM Campus",
+    "url": "https://www.road2tech.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hackathon+TecNM+Campus+Saltillo+2026",
+    "start_date": "Saltillo 20",
+    "location": "26 OCT 09 - 10 Saltillo, Coahuila, MX In-Person",
     "source": "MLH"
   },
   {
