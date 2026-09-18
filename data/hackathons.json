@@ -28,13 +28,6 @@
     "source": "Devpost"
   },
   {
-    "title": "ACM Marketsphere 2026",
-    "url": "https://acm-marketsphere-2026.devpost.com/",
-    "start_date": "Sep 17 - 20, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Acodemic X G.I.R.L.S. Global SDG Hackathon",
     "url": "https://acodemic-hackathon.devpost.com/",
     "start_date": "Sep 19 - 27, 2026",
@@ -60,6 +53,13 @@
     "url": "https://la-ai-hackathon-2026.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
     "location": "James West Alumni Center",
+    "source": "Devpost"
+  },
+  {
+    "title": "Anvation",
+    "url": "https://anvation.devpost.com/",
+    "start_date": "Oct 08 - 09, 2026",
+    "location": "KSSEM",
     "source": "Devpost"
   },
   {
@@ -574,13 +574,6 @@
     "source": "Devpost"
   },
   {
-    "title": "MantisGrid AI Hackathon 2026",
-    "url": "https://mantisgrid-ai-hackathon-2026.devpost.com/",
-    "start_date": "Sep 17, 2026",
-    "location": "Mitchell Park Community Center",
-    "source": "Devpost"
-  },
-  {
     "title": "Miami AI Hackathon: Mel + ElevenLabs",
     "url": "https://hackathon-mel-elevenlabs.devpost.com/",
     "start_date": "Sep 19, 2026",
@@ -658,6 +651,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Rutgers Health Hack 2026",
+    "url": "https://rutgers-health-hack-2026.devpost.com/",
+    "start_date": "Oct 09 - 11, 2026",
+    "location": "NJ HELIX Tower 1",
+    "source": "Devpost"
+  },
+  {
     "title": "SC Quantathon v3",
     "url": "https://sc-quantathon-v3.devpost.com/",
     "start_date": "Sep 25 - 27, 2026",
@@ -681,7 +681,7 @@
   {
     "title": "Sherubtse Hackathon 2026",
     "url": "https://sherubtse-hackathon-2026.devpost.com/",
-    "start_date": "Sep 18 - 19, 2026",
+    "start_date": "Sep 26 - 27, 2026",
     "location": "Sherubtse College, Kanglung, Bhutan",
     "source": "Devpost"
   },
@@ -787,7 +787,7 @@
     "title": "Trust in the Hiring Funnel Hackathon",
     "url": "https://trust-in-the-hiring-funnel.devpost.com/",
     "start_date": "Sep 19, 2026",
-    "location": "NYU",
+    "location": "NYU Tandon School of Engineering",
     "source": "Devpost"
   },
   {
@@ -1058,13 +1058,6 @@
     "source": "MLH"
   },
   {
-    "title": "Global Hack Week: Data",
-    "url": "https://events.mlh.io/events/14416-global-hack-week-data?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Global+Hack+Week%3A+Data",
-    "start_date": "SEP 11 - 17",
-    "location": "Everywhere, Worldwide Digital",
-    "source": "MLH"
-  },
-  {
     "title": "Green Bay , WI HackGB",
     "url": "https://hackgb.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackGB",
     "start_date": "OCT 17 - 18",
@@ -1247,7 +1240,7 @@
     "source": "MLH"
   },
   {
-    "title": "Piscataway , New Jersey H HackRU",
+    "title": "Piscataway , New Jersey HackRU",
     "url": "https://www.hackru.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackRU",
     "start_date": "OCT 10 - 11",
     "location": "Piscataway, New Jersey, US In-Person",

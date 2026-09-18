@@ -44,7 +44,7 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Hackeroos Discord Coworking",
+    "title": "Software Freedom Day 2026",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "",
     "location": "Online",
@@ -52,7 +52,7 @@
     "mode": "Online"
   },
   {
-    "title": "Software Freedom Day 2026",
+    "title": "Hackeroos Discord Coworking",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "",
     "location": "Online",
@@ -90,14 +90,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Redzone Recovery - Ōtautahi's new Green Belt. A Minecraft Education Build Challenge: September 2026",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "September 2026 18 Sept 2026",
-    "location": "In-Person",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "AI for Social Enterprise — Hackathon",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Sept 2026",
@@ -118,6 +110,14 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Sept 2026",
     "location": "Sydney, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "(Fargone) Hack Night",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Sept 2026",
+    "location": "Melbourne, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
