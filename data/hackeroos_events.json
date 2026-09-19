@@ -1,16 +1,16 @@
 [
   {
     "title": "List your eventor hackathon.",
-    "url": "https://sfd.org.au/",
-    "start_date": "Sept 19 Hybrid Software Freedom Day 2026",
+    "url": "https://linuxvictoria.org/events/2026-10-06_Town-Hall-Meeting-October/",
+    "start_date": "",
     "location": "In-Person",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
   {
     "title": "Explore the directories",
-    "url": "https://sfd.org.au/",
-    "start_date": "Sept 19 Hybrid Software Freedom Day 2026",
+    "url": "https://linuxvictoria.org/events/2026-10-06_Town-Hall-Meeting-October/",
+    "start_date": "",
     "location": "In-Person",
     "source": "Hackeroos",
     "mode": "In-Person"
@@ -42,14 +42,6 @@
     "start_date": "",
     "location": "Online / TBA",
     "source": "Hackeroos"
-  },
-  {
-    "title": "Software Freedom Day 2026",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "",
-    "location": "Online",
-    "source": "Hackeroos",
-    "mode": "Online"
   },
   {
     "title": "Hackeroos Discord Coworking",

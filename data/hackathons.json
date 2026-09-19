@@ -35,10 +35,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Agentic Hackathon 2026",
-    "url": "https://agentic-hacks-2026.devpost.com/",
-    "start_date": "Sep 20 - 30, 2026",
-    "location": "BRAC University",
+    "title": "Action Space",
+    "url": "https://action-space-hacks.devpost.com/",
+    "start_date": "Oct 24 - 25, 2026",
+    "location": "Fab Lab",
     "source": "Devpost"
   },
   {
@@ -70,17 +70,24 @@
     "source": "Devpost"
   },
   {
+    "title": "Arm + ExecuTorch: Edge AI Challenge",
+    "url": "https://arm-executorch.devpost.com/",
+    "start_date": "Oct 16 - 17, 2026",
+    "location": "San Francisco State University",
+    "source": "Devpost"
+  },
+  {
+    "title": "Ascendance Foundry's Hackathon",
+    "url": "https://ascendance-foundry-s-hackathon.devpost.com/",
+    "start_date": "Sep 26 - 27, 2026",
+    "location": "University of Waterloo",
+    "source": "Devpost"
+  },
+  {
     "title": "Banana Hacks",
     "url": "https://banana-hacks-1111.devpost.com/",
     "start_date": "Oct 09 - 12, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Bay Hacks",
-    "url": "https://bayhacks-2026.devpost.com/",
-    "start_date": "Sep 18 - 19, 2026",
-    "location": "USF Hall of Flags",
     "source": "Devpost"
   },
   {
@@ -165,13 +172,6 @@
     "url": "https://codelinc11.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
     "location": "Lincoln Financial Group - Greensboro, NC",
-    "source": "Devpost"
-  },
-  {
-    "title": "COMMA_HACK 7",
-    "url": "https://comma-hack-7.devpost.com/",
-    "start_date": "Sep 18 - 20, 2026",
-    "location": "comma HQ",
     "source": "Devpost"
   },
   {
@@ -294,13 +294,6 @@
     "source": "Devpost"
   },
   {
-    "title": "General Learning Hacks",
-    "url": "https://general-learning-hacks.devpost.com/",
-    "start_date": "Sep 18 - 19, 2026",
-    "location": "3/F Lee Garden 3, Causeway Bay",
-    "source": "Devpost"
-  },
-  {
     "title": "Girls Hoo Hack 2026",
     "url": "https://girls-hoo-hack-2026.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
@@ -312,13 +305,6 @@
     "url": "https://goathacks-2027.devpost.com/",
     "start_date": "Feb 12 - 14, 2027",
     "location": "WPI - Campus Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "Gotong Royong Hackathon",
-    "url": "https://gotong-royong-hackathon.devpost.com/",
-    "start_date": "Sep 19, 2026",
-    "location": "Cleo Hotels Surabaya",
     "source": "Devpost"
   },
   {
@@ -361,13 +347,6 @@
     "url": "https://hack-the-hill-iii.devpost.com/",
     "start_date": "Sep 25 - 27, 2026",
     "location": "Learning Crossroads (CRX) - uOttawa",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack the North 2026",
-    "url": "https://hackthenorth2026.devpost.com/",
-    "start_date": "Sep 18 - 20, 2026",
-    "location": "University of Waterloo — E5/PSE",
     "source": "Devpost"
   },
   {
@@ -434,6 +413,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HackRPI 2026",
+    "url": "https://hackrpi-2026.devpost.com/",
+    "start_date": "Nov 07 - 08, 2026",
+    "location": "Darrin Communications Center",
+    "source": "Devpost"
+  },
+  {
     "title": "Hacks for Humanity",
     "url": "https://hacks-for-humanity-2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
@@ -473,13 +459,6 @@
     "url": "https://harborhack-2026.devpost.com/",
     "start_date": "Oct 23 - 25, 2026",
     "location": "College of Charleston, Harbor Walk",
-    "source": "Devpost"
-  },
-  {
-    "title": "HopHacks Fall 2026",
-    "url": "https://hophacks-fall-2026.devpost.com/",
-    "start_date": "Sep 18 - 20, 2026",
-    "location": "Johns Hopkins University",
     "source": "Devpost"
   },
   {
@@ -532,6 +511,13 @@
     "source": "Devpost"
   },
   {
+    "title": "JacHacks a2Tech",
+    "url": "https://jachacks-a2tech.devpost.com/",
+    "start_date": "Sep 26 - 27, 2026",
+    "location": "UMich - Leinweber CS Building",
+    "source": "Devpost"
+  },
+  {
     "title": "Kent Hack Enough 2027",
     "url": "https://khe-2027.devpost.com/",
     "start_date": "Mar 06 - 07, 2027",
@@ -543,6 +529,13 @@
     "url": "https://knight-hacks-ix.devpost.com/",
     "start_date": "Oct 09 - 11, 2026",
     "location": "UCF Engineering II (ENG2)",
+    "source": "Devpost"
+  },
+  {
+    "title": "Kurukshetra CTF",
+    "url": "https://kurukshetractf.devpost.com/",
+    "start_date": "Oct 03, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -581,13 +574,6 @@
     "source": "Devpost"
   },
   {
-    "title": "MLAI Hackathon 2026",
-    "url": "https://mlai-hackathon.devpost.com/",
-    "start_date": "Sep 18 - Oct 16, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "N/A",
     "url": "https://ai-content-engine-hackathon.devpost.com/",
     "start_date": "Feb 02 - Apr 06, 2027",
@@ -616,10 +602,24 @@
     "source": "Devpost"
   },
   {
+    "title": "OwlHacks 2026",
+    "url": "https://owlhacks-2026.devpost.com/",
+    "start_date": "Sep 26 - 27, 2026",
+    "location": "Temple University - SERC",
+    "source": "Devpost"
+  },
+  {
     "title": "PalmettoHacks",
     "url": "https://palmetto-hacks-2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
     "location": "USC College of Engineering and Computing",
+    "source": "Devpost"
+  },
+  {
+    "title": "Planet Resilience: Innovation for Sustainable Impact Hackathon",
+    "url": "https://uob-suss-planet-resilience.devpost.com/",
+    "start_date": "Sep 28 - Oct 01, 2026",
+    "location": "Singapore, Singapore",
     "source": "Devpost"
   },
   {
@@ -791,6 +791,13 @@
     "source": "Devpost"
   },
   {
+    "title": "UGAHacks CADathon",
+    "url": "https://ugahacks-cadathon.devpost.com/",
+    "start_date": "Oct 24 - 25, 2026",
+    "location": "UGA - Driftmier Engineering Center",
+    "source": "Devpost"
+  },
+  {
     "title": "United Hackathons V1",
     "url": "https://devonomicsv1.devpost.com/",
     "start_date": "Oct 06 - 12, 2026",
@@ -812,13 +819,6 @@
     "source": "Devpost"
   },
   {
-    "title": "VTHacks 14",
-    "url": "https://vthacks-14.devpost.com/",
-    "start_date": "Sep 18 - 20, 2026",
-    "location": "Blacksburg, VA",
-    "source": "Devpost"
-  },
-  {
     "title": "WarriorHacks 2.0",
     "url": "https://warriorhacks-2-0.devpost.com/",
     "start_date": "Sep 28 - Oct 13, 2026",
@@ -835,7 +835,7 @@
   {
     "title": "Zoftware Hireathon",
     "url": "https://zoftware-hireathon.devpost.com/",
-    "start_date": "Sep 19, 2026",
+    "start_date": "Oct 03, 2026",
     "location": "Delhi",
     "source": "Devpost"
   },
@@ -855,8 +855,8 @@
   },
   {
     "title": "List your eventor hackathon.",
-    "url": "https://sfd.org.au/",
-    "start_date": "Sept 19 Hybrid Software Freedom Day 2026",
+    "url": "https://linuxvictoria.org/events/2026-10-06_Town-Hall-Meeting-October/",
+    "start_date": "",
     "location": "In-Person",
     "source": "Hackeroos",
     "mode": "In-Person"
