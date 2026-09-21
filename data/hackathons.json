@@ -35,13 +35,6 @@
     "source": "Devpost"
   },
   {
-    "title": "AI Agent Hackathon",
-    "url": "https://coffee-and-code-agent.devpost.com/",
-    "start_date": "Sep 20, 2026",
-    "location": "Pennovation center",
-    "source": "Devpost"
-  },
-  {
     "title": "AI Hackathon 2026 by LA Hacks",
     "url": "https://la-ai-hackathon-2026.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
@@ -126,10 +119,24 @@
     "source": "Devpost"
   },
   {
+    "title": "Business + AI Hackathon",
+    "url": "https://business-ai-hackathon.devpost.com/",
+    "start_date": "Sep 25, 2026",
+    "location": "Tech Flex, University Center Complex",
+    "source": "Devpost"
+  },
+  {
     "title": "Case Closed",
     "url": "https://caseclosed.devpost.com/",
     "start_date": "Oct 04, 2026",
     "location": "Location TBA",
+    "source": "Devpost"
+  },
+  {
+    "title": "CCT IT CLUB X INOVEXHQ HACK DAYS",
+    "url": "https://cct-it-club-inovexhq-hack-days.devpost.com/",
+    "start_date": "Oct 01, 2026",
+    "location": "Chitwan College of Technology",
     "source": "Devpost"
   },
   {
@@ -154,13 +161,6 @@
     "source": "Devpost"
   },
   {
-    "title": "CityCamp Gainesville Hack Day",
-    "url": "https://citycamp-hack-day.devpost.com/",
-    "start_date": "Sep 20, 2026",
-    "location": "Reitz Union",
-    "source": "Devpost"
-  },
-  {
     "title": "codeLinc 11 with Lincoln Financial & AWS",
     "url": "https://codelinc11.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
@@ -178,13 +178,6 @@
     "title": "Cosmo Hacks",
     "url": "https://cosmohacks.devpost.com/",
     "start_date": "Dec 18 - 21, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Creator Colosseum: The Startup Showdown",
-    "url": "https://creatorcolosseumshowdown.devpost.com/",
-    "start_date": "Sep 20 - Oct 10, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -241,6 +234,13 @@
     "title": "evensonarisnord",
     "url": "https://evensonarisnord.devpost.com/",
     "start_date": "Dec 31, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Financial Cybersecurity Challenge 2026",
+    "url": "https://finance-cybersecurity2026.devpost.com/",
+    "start_date": "Oct 03 - 04, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -347,13 +347,6 @@
     "url": "https://hack-the-hill-iii.devpost.com/",
     "start_date": "Sep 25 - 27, 2026",
     "location": "Learning Crossroads (CRX) - uOttawa",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack The Weather",
-    "url": "https://hack-the-weather.devpost.com/",
-    "start_date": "Sep 20 - 21, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -620,6 +613,13 @@
     "url": "https://occhacks-2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
     "location": "OCC Ballroom - 3rd Floor Conference Room",
+    "source": "Devpost"
+  },
+  {
+    "title": "ONHacks",
+    "url": "https://onhacks.devpost.com/",
+    "start_date": "Nov 21, 2026",
+    "location": "Polish Combatant's Hall",
     "source": "Devpost"
   },
   {
@@ -925,13 +925,6 @@
     "source": "MLH"
   },
   {
-    "title": "Baltimore , Maryland HopHacks",
-    "url": "https://www.hophacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HopHacks",
-    "start_date": "SEP 18 - 20",
-    "location": "Baltimore, Maryland, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Baltimore , MD hackUMBC",
     "url": "https://hackumbc.tech/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=hackUMBC",
     "start_date": "SEP 26 - 27",
@@ -943,13 +936,6 @@
     "url": "https://hackbios.xyz/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackBIOS",
     "start_date": "OCT 09 - 10",
     "location": "Bhilai, Chhattisgarh, IN In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Blacksburg , Virginia",
-    "url": "https://vthacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=VTHacks+14",
-    "start_date": "VTHacks 14",
-    "location": "SEP 18 - 20 Blacksburg, Virginia, US In-Person",
     "source": "MLH"
   },
   {
@@ -1240,13 +1226,6 @@
     "source": "MLH"
   },
   {
-    "title": "Pittsburgh , PA SteelHacks XIII",
-    "url": "https://steelhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SteelHacks+XIII",
-    "start_date": "SEP 19 - 20",
-    "location": "Pittsburgh, PA, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Princeton , New Jersey hackPHS",
     "url": "https://hackphs.tech/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=hackPHS",
     "start_date": "OCT 10 - 11",
@@ -1398,13 +1377,6 @@
     "url": "https://www.hoyahacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hoya+Hacks",
     "start_date": "JAN 22 - 24",
     "location": "Washington, DC, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Waterloo , Ontario Hack the North",
-    "url": "https://hackthenorth.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+the+North",
-    "start_date": "SEP 18 - 20",
-    "location": "Waterloo, Ontario, CA In-Person",
     "source": "MLH"
   },
   {
