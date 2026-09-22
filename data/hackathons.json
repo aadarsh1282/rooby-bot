@@ -1,5 +1,12 @@
 [
   {
+    "title": "#SFTechWeek - Decision-Grade AI @ Stanford ⚡️ A Buildathon on LLM Trust",
+    "url": "https://ai-trust.devpost.com/",
+    "start_date": "Oct 10, 2026",
+    "location": "Stanford, California, USA",
+    "source": "Devpost"
+  },
+  {
     "title": "&HACKS XII",
     "url": "https://hacks-xii.devpost.com/",
     "start_date": "Sep 26 - 27, 2026",
@@ -35,17 +42,17 @@
     "source": "Devpost"
   },
   {
+    "title": "Agentic Enterprise AI Hackathon — Box + AWS",
+    "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
+    "start_date": "Oct 16 - 17, 2026",
+    "location": "Amazon Day 1 Building",
+    "source": "Devpost"
+  },
+  {
     "title": "AI Hackathon 2026 by LA Hacks",
     "url": "https://la-ai-hackathon-2026.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
     "location": "James West Alumni Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "Anvation",
-    "url": "https://anvation.devpost.com/",
-    "start_date": "Oct 08 - 09, 2026",
-    "location": "KSSEM",
     "source": "Devpost"
   },
   {
@@ -58,7 +65,7 @@
   {
     "title": "Arm + ExecuTorch: Edge AI Challenge",
     "url": "https://arm-executorch.devpost.com/",
-    "start_date": "Oct 16 - 17, 2026",
+    "start_date": "Oct 17 - 18, 2026",
     "location": "San Francisco State University",
     "source": "Devpost"
   },
@@ -133,13 +140,6 @@
     "source": "Devpost"
   },
   {
-    "title": "CCT IT CLUB X INOVEXHQ HACK DAYS",
-    "url": "https://cct-it-club-inovexhq-hack-days.devpost.com/",
-    "start_date": "Oct 01, 2026",
-    "location": "Chitwan College of Technology",
-    "source": "Devpost"
-  },
-  {
     "title": "Central Hacks",
     "url": "https://central-hacks.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
@@ -203,13 +203,6 @@
     "source": "Devpost"
   },
   {
-    "title": "CyberX 26 CTF",
-    "url": "https://cyberx-26-ctf.devpost.com/",
-    "start_date": "Sep 30 - Oct 01, 2026",
-    "location": "Bengaluru, India",
-    "source": "Devpost"
-  },
-  {
     "title": "DeveloperWeek 2027 Hackathon",
     "url": "https://developerweek-2027-hackathon.devpost.com/",
     "start_date": "Jan 25 - Feb 11, 2027",
@@ -248,6 +241,13 @@
     "title": "ForgeHacks Online 2026",
     "url": "https://forgehacks-2026.devpost.com/",
     "start_date": "Oct 03 - 10, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Future innovators hackothon",
+    "url": "https://future-innovators-hackothon.devpost.com/",
+    "start_date": "Oct 02 - 04, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -469,6 +469,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HelloHacks",
+    "url": "https://hellohacks-2026.devpost.com/",
+    "start_date": "Sep 26 - 27, 2026",
+    "location": "University of British Columbia (UBC)",
+    "source": "Devpost"
+  },
+  {
     "title": "Houston Hackathon 2026",
     "url": "https://houstonhackathon2026.devpost.com/",
     "start_date": "Sep 25 - 28, 2026",
@@ -522,6 +529,13 @@
     "url": "https://jachacks-a2tech.devpost.com/",
     "start_date": "Sep 26 - 27, 2026",
     "location": "UMich - Leinweber CS Building",
+    "source": "Devpost"
+  },
+  {
+    "title": "Jāgriti Hacks",
+    "url": "https://jagriti-hacks1.devpost.com/",
+    "start_date": "Sep 25 - 29, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -616,13 +630,6 @@
     "source": "Devpost"
   },
   {
-    "title": "ONHacks",
-    "url": "https://onhacks.devpost.com/",
-    "start_date": "Nov 21, 2026",
-    "location": "Polish Combatant's Hall",
-    "source": "Devpost"
-  },
-  {
     "title": "OwlHacks 2026",
     "url": "https://owlhacks-2026.devpost.com/",
     "start_date": "Sep 26 - 27, 2026",
@@ -651,13 +658,6 @@
     "source": "Devpost"
   },
   {
-    "title": "PROMPTOTHON 2026: AI Edition",
-    "url": "https://promptothon-2026-ai-edition.devpost.com/",
-    "start_date": "Sep 26 - 27, 2026",
-    "location": "AVNIET, Ramdaspally, Hyderabad,Telangana",
-    "source": "Devpost"
-  },
-  {
     "title": "Recruit Holdings Hackathon “Innovation Cup”",
     "url": "https://innovation-cup2026.devpost.com/",
     "start_date": "Sep 25 - 27, 2026",
@@ -669,13 +669,6 @@
     "url": "https://rect-hackathon.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
     "location": "IDEA Spaces Saldanha",
-    "source": "Devpost"
-  },
-  {
-    "title": "Revolution",
-    "url": "https://revolution-mty2026.devpost.com/",
-    "start_date": "Dec 05 - 06, 2026",
-    "location": "Museo Del Acero Horno 3",
     "source": "Devpost"
   },
   {
@@ -774,6 +767,13 @@
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Mar 03 - 10, 2027",
     "location": "Tully Community Branch Library",
+    "source": "Devpost"
+  },
+  {
+    "title": "Teens Hack Houston Hackathon",
+    "url": "https://tripleh.devpost.com/",
+    "start_date": "Nov 14 - 21, 2026",
+    "location": "The Post",
     "source": "Devpost"
   },
   {
@@ -1083,6 +1083,13 @@
     "url": "https://khe.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Kent+Hack+Enough",
     "start_date": "MAR 06 - 07",
     "location": "Kent, Ohio, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Kitchener , Ontario CommuniHacks",
+    "url": "https://www.communihacks.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=CommuniHacks",
+    "start_date": "NOV 07 - 08",
+    "location": "Kitchener, Ontario, CA In-Person",
     "source": "MLH"
   },
   {
