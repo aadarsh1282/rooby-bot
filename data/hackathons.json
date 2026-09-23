@@ -35,13 +35,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Action Space",
-    "url": "https://action-space-hacks.devpost.com/",
-    "start_date": "Oct 24 - 25, 2026",
-    "location": "Fab Lab",
-    "source": "Devpost"
-  },
-  {
     "title": "Agentic Enterprise AI Hackathon — Box + AWS",
     "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
     "start_date": "Oct 16 - 17, 2026",
@@ -140,6 +133,13 @@
     "source": "Devpost"
   },
   {
+    "title": "CCT IT CLUB X INOVEXHQ HACK DAYS",
+    "url": "https://cct-it-club-inovexhq-hack-days.devpost.com/",
+    "start_date": "Oct 01, 2026",
+    "location": "Chitwan College of Technology",
+    "source": "Devpost"
+  },
+  {
     "title": "Central Hacks",
     "url": "https://central-hacks.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
@@ -196,17 +196,17 @@
     "source": "Devpost"
   },
   {
-    "title": "Cyber Hawk Hack Days",
-    "url": "https://cyber-hawk-hackathon.devpost.com/",
-    "start_date": "Sep 26, 2026",
-    "location": "Monmouth University",
-    "source": "Devpost"
-  },
-  {
     "title": "DeveloperWeek 2027 Hackathon",
     "url": "https://developerweek-2027-hackathon.devpost.com/",
     "start_date": "Jan 25 - Feb 11, 2027",
     "location": "Santa Clara Convention Center + Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "DivHacks 2026",
+    "url": "https://divhacks-2026.devpost.com/",
+    "start_date": "Sep 26 - 27, 2026",
+    "location": "Columbia University - Alfred Lerner Hall",
     "source": "Devpost"
   },
   {
@@ -588,17 +588,10 @@
     "source": "Devpost"
   },
   {
-    "title": "MakeUC 2026",
-    "url": "https://makeuc-2026-30884.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "1819 Innovation Hub",
-    "source": "Devpost"
-  },
-  {
-    "title": "Meow",
-    "url": "https://makeuc-2026-30881.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "1819 Innovation Hub",
+    "title": "Multimodal AI Hackathon 2026",
+    "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
+    "start_date": "Sep 30 - Oct 14, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -627,6 +620,13 @@
     "url": "https://occhacks-2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
     "location": "OCC Ballroom - 3rd Floor Conference Room",
+    "source": "Devpost"
+  },
+  {
+    "title": "Origin Weekend Fall 2026 (x Replit)",
+    "url": "https://origin-weekend-fall-2026.devpost.com/",
+    "start_date": "Sep 24 - 28, 2026",
+    "location": "Los Angeles, CA, USA",
     "source": "Devpost"
   },
   {
@@ -1398,6 +1398,13 @@
     "url": "https://andhacks.cs.wm.edu/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=%26HACKS+XII",
     "start_date": "SEP 25 - 27",
     "location": "Williamsburg, Virginia, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "York PA , PA YCP Hacks",
+    "url": "https://ycphacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=YCP+Hacks",
+    "start_date": "NOV 06 - 08",
+    "location": "York PA, PA, US In-Person",
     "source": "MLH"
   }
 ]
