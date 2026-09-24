@@ -82,22 +82,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Change Your City ImpactHack",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Sept 2026",
-    "location": "Melbourne, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
-    "title": "Kids Cooking Competition: Mystery Box Challenge! Ages 9 - 13",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Sept 2026",
-    "location": "Melbourne, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "Ethereum Hackathon @ Sydney",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Sept 2026",
@@ -110,6 +94,22 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Sept 2026",
     "location": "Sydney, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "(Fargone) Hack Night",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Sept 2026",
+    "location": "Melbourne, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Capricorn AI Productathon 2026 | Final Demo Day",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "apricorn AI Productathon 2026",
+    "location": "Melbourne, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },

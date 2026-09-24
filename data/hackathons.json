@@ -42,6 +42,13 @@
     "source": "Devpost"
   },
   {
+    "title": "AI Agents for Founders Challenge — HETIC 2026",
+    "url": "https://ai-agents-founders-hetic-26.devpost.com/",
+    "start_date": "Nov 04 - Dec 18, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "AI Hackathon 2026 by LA Hacks",
     "url": "https://la-ai-hackathon-2026.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
@@ -158,13 +165,6 @@
     "url": "https://chipcraft-3-0.devpost.com/",
     "start_date": "Sep 25 - 26, 2026",
     "location": "DSPSD Lab (321), Block III",
-    "source": "Devpost"
-  },
-  {
-    "title": "codeLinc 11 with Lincoln Financial & AWS",
-    "url": "https://codelinc11.devpost.com/",
-    "start_date": "Oct 03 - 04, 2026",
-    "location": "Lincoln Financial Group - Greensboro, NC",
     "source": "Devpost"
   },
   {
@@ -445,6 +445,13 @@
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "hackUMBC 2026",
+    "url": "https://hackumbc-2026.devpost.com/",
+    "start_date": "Sep 26 - 27, 2026",
+    "location": "RAC (Retriever Activities Center)",
     "source": "Devpost"
   },
   {
@@ -791,13 +798,6 @@
     "source": "Devpost"
   },
   {
-    "title": "UGAHacks CADathon",
-    "url": "https://ugahacks-cadathon.devpost.com/",
-    "start_date": "Oct 24 - 25, 2026",
-    "location": "UGA - Driftmier Engineering Center",
-    "source": "Devpost"
-  },
-  {
     "title": "United Hackathons V1",
     "url": "https://devonomicsv1.devpost.com/",
     "start_date": "Oct 06 - 12, 2026",
@@ -904,6 +904,13 @@
     "source": "MLH"
   },
   {
+    "title": "Atlanta , GA Emory Hacks",
+    "url": "https://emoryhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Emory+Hacks",
+    "start_date": "NOV 13 - 15",
+    "location": "Atlanta, GA, US In-Person",
+    "source": "MLH"
+  },
+  {
     "title": "Atlanta , GA H",
     "url": "https://hacklytics2027.web.app/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hacklytics+2027",
     "start_date": "acklytics 20",
@@ -957,6 +964,13 @@
     "url": "https://www.girlshoohack.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Girls+Hoo+Hack+2026",
     "start_date": "Hack 20",
     "location": "26 OCT 17 - 18 Charlottesville, VA, US In-Person DIVERSITY HARDWARE",
+    "source": "MLH"
+  },
+  {
+    "title": "Cincinnati , Ohio M MakeUC",
+    "url": "https://makeuc.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=MakeUC",
+    "start_date": "NOV 07 - 08",
+    "location": "Cincinnati, Ohio, US In-Person",
     "source": "MLH"
   },
   {
@@ -1300,6 +1314,13 @@
     "url": "https://sfhacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SF+Hacks+",
     "start_date": "FEB 19 - 21",
     "location": "San Francisco, CA, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "San Francisco , California Cal",
+    "url": "https://calhacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Cal+Hacks+13.0+",
+    "start_date": "Hacks 13",
+    "location": ".0 OCT 23 - 25 San Francisco, California, US In-Person HARDWARE",
     "source": "MLH"
   },
   {
