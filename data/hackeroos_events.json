@@ -52,14 +52,6 @@
     "mode": "Online"
   },
   {
-    "title": "Hackeroos Game Club - Australia and New Zealand",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "",
-    "location": "Online",
-    "source": "Hackeroos",
-    "mode": "Online"
-  },
-  {
     "title": "Linux Town Hall October",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "",
@@ -73,6 +65,14 @@
     "location": "In-Person",
     "source": "Hackeroos",
     "mode": "In-Person"
+  },
+  {
+    "title": "Hackeroos Game Club - Australia and New Zealand",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "",
+    "location": "Online",
+    "source": "Hackeroos",
+    "mode": "Online"
   },
   {
     "title": "Hackathons",
