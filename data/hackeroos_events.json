@@ -82,14 +82,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Ethereum Hackathon @ Sydney",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Sept 2026",
-    "location": "Sydney, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "Short Film Hackathon with The Story Mill | 2-Day Event",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Sept 2026",
@@ -110,6 +102,14 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "apricorn AI Productathon 2026",
     "location": "Melbourne, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "GDG Jam Showcase Night",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Sept 2026",
+    "location": "In-Person",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
