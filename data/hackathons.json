@@ -84,6 +84,13 @@
     "source": "Devpost"
   },
   {
+    "title": "BigRed//Hacks 2026",
+    "url": "https://bigredhacks2026.devpost.com/",
+    "start_date": "Oct 02 - 04, 2026",
+    "location": "Phys Sci Building [Check-in @ Klarman]",
+    "source": "Devpost"
+  },
+  {
     "title": "BioHacks",
     "url": "https://biohacksmcmaster.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -112,13 +119,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Build for Canada: An AI Hackathon for Economic Resilience",
-    "url": "https://build-for-canada.devpost.com/",
-    "start_date": "Oct 03, 2026",
-    "location": "ForgeVenue",
-    "source": "Devpost"
-  },
-  {
     "title": "Build Multiplayer Data Science Agents · PyMC Labs",
     "url": "https://daimon-hackathon.devpost.com/",
     "start_date": "Oct 10, 2026",
@@ -142,7 +142,7 @@
   {
     "title": "Caribbean AI Summit Hackathon",
     "url": "https://caribbean-ai-summit-hackathon.devpost.com/",
-    "start_date": "Oct 09 - 10, 2026",
+    "start_date": "Oct 08 - 10, 2026",
     "location": "Puerto Rico Convention Center",
     "source": "Devpost"
   },
@@ -242,13 +242,6 @@
     "url": "https://dublin-hacx.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
     "location": "SAP Office — San Ramon, CA",
-    "source": "Devpost"
-  },
-  {
-    "title": "Ensign Build",
-    "url": "https://ensign-build.devpost.com/",
-    "start_date": "Oct 09 - 10, 2026",
-    "location": "Ensign College Building",
     "source": "Devpost"
   },
   {
@@ -427,6 +420,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HackOHI/O 2026",
+    "url": "https://hackohio2026.devpost.com/",
+    "start_date": "Oct 24 - 25, 2026",
+    "location": "The Ohio State University - Ohio Union",
+    "source": "Devpost"
+  },
+  {
     "title": "hackPHS 2026",
     "url": "https://hackphs2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
@@ -473,6 +473,13 @@
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hacktoberfest Hack Day Dinajpur",
+    "url": "https://hacktoberfest-dinajpur.devpost.com/",
+    "start_date": "Oct 03, 2026",
+    "location": "HSTU, Dinajpur",
     "source": "Devpost"
   },
   {
@@ -567,6 +574,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Life After Code",
+    "url": "https://gitlab-transcend.devpost.com/",
+    "start_date": "Oct 05 - 27, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "MakeUC 2026",
     "url": "https://makeuc-2026-30884.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -585,13 +599,6 @@
     "url": "https://hacktoberfest-teens.devpost.com/",
     "start_date": "Oct 17, 2026",
     "location": "The Grandeur By Lavanya-Moti Nagar",
-    "source": "Devpost"
-  },
-  {
-    "title": "Multimodal AI Hackathon 2026",
-    "url": "https://multimodal-ai-hackathon-2026-7.devpost.com/",
-    "start_date": "Sep 29 - Oct 14, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -669,6 +676,13 @@
     "url": "https://respawn.devpost.com/",
     "start_date": "Oct 12 - 15, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "RESPIRA HACKATHON",
+    "url": "https://respira-hackathon.devpost.com/",
+    "start_date": "Oct 01 - 03, 2026",
+    "location": "Edificio Estel",
     "source": "Devpost"
   },
   {
@@ -777,13 +791,6 @@
     "source": "Devpost"
   },
   {
-    "title": "UIUC Product Hackathon - Hack to the Future",
-    "url": "https://product-hackathon-uiuc.devpost.com/",
-    "start_date": "Oct 02 - 03, 2026",
-    "location": "Campus Instructional Facility",
-    "source": "Devpost"
-  },
-  {
     "title": "United Hackathons V1",
     "url": "https://devonomicsv1.devpost.com/",
     "start_date": "Oct 06 - 12, 2026",
@@ -823,13 +830,6 @@
     "url": "https://wwu-sj-hack.devpost.com/",
     "start_date": "Oct 16 - 18, 2026",
     "location": "WWU - Kaiser Borsari Building",
-    "source": "Devpost"
-  },
-  {
-    "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
-    "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
-    "start_date": "Sep 29 - Nov 02, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -971,6 +971,13 @@
     "url": "https://cuhack.it/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=CUhackit",
     "start_date": "FEB 20 - 21",
     "location": "Clemson, SC, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "College Station , Texas TAMU Datathon",
+    "url": "https://tamudatathon.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=TAMU+Datathon",
+    "start_date": "NOV 07 - 08",
+    "location": "College Station, Texas, US In-Person",
     "source": "MLH"
   },
   {

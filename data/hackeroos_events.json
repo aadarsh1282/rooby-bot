@@ -90,14 +90,6 @@
     "mode": "In-Person"
   },
   {
-    "title": "CALL HERO - HACKATHON",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Sept 2026",
-    "location": "Sydney, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "Capture The Flag: Warembo wa Cyber; Powered by Hack The Box | Held at ECU",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Oct 2026",
@@ -110,6 +102,14 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Oct 2026",
     "location": "Canberra, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Minecraft Build Challenge - Te Ara Ātea",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Oct 2026",
+    "location": "In-Person",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
