@@ -44,19 +44,19 @@
     "source": "Hackeroos"
   },
   {
+    "title": "Linux Town Hall October",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "",
+    "location": "Online / TBA",
+    "source": "Hackeroos"
+  },
+  {
     "title": "Hackeroos Discord Coworking",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "",
     "location": "Online",
     "source": "Hackeroos",
     "mode": "Online"
-  },
-  {
-    "title": "Linux Town Hall October",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "",
-    "location": "Online / TBA",
-    "source": "Hackeroos"
   },
   {
     "title": "HEY CHAT! After Party",
@@ -82,22 +82,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "GDS Game Jam",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Sept – 2 Oct 2026",
-    "location": "Sydney, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
-    "title": "Capture The Flag: Warembo wa Cyber; Powered by Hack The Box | Held at ECU",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Oct 2026",
-    "location": "Perth, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "2026 GAME JAM",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Oct 2026",
@@ -110,6 +94,22 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Oct 2026",
     "location": "In-Person",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Minecraft Build Challenge - Lincoln",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Oct 2026",
+    "location": "In-Person",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "AI WRANGLER CHALLENGE",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Oct 2026",
+    "location": "Melbourne, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },

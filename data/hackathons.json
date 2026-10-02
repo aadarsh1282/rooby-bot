@@ -42,6 +42,13 @@
     "source": "Devpost"
   },
   {
+    "title": "AdaHack 2026",
+    "url": "https://adahack-2026.devpost.com/",
+    "start_date": "Oct 03, 2026",
+    "location": "UoE Informatics Forum",
+    "source": "Devpost"
+  },
+  {
     "title": "Agentic Enterprise AI Hackathon — Box + AWS",
     "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
     "start_date": "Oct 16 - 17, 2026",
@@ -205,15 +212,8 @@
   {
     "title": "CrownHacks",
     "url": "https://crownhacks.devpost.com/",
-    "start_date": "Oct 09 - 11, 2026",
-    "location": "UNC Charlotte - Union",
-    "source": "Devpost"
-  },
-  {
-    "title": "CSIT RE:Uni Hackathon 2026",
-    "url": "https://csit-re-uni-hackathon-2026.devpost.com/",
-    "start_date": "Oct 02 - 03, 2026",
-    "location": "80.04.011, RMIT University",
+    "start_date": "Nov 06 - 08, 2026",
+    "location": "UNC Charlotte - Woodward Hall Room 106",
     "source": "Devpost"
   },
   {
@@ -259,7 +259,7 @@
     "source": "Devpost"
   },
   {
-    "title": "EthnoHACK",
+    "title": "EthnoHack",
     "url": "https://ethnohack2026.devpost.com/",
     "start_date": "Nov 02 - 08, 2026",
     "location": "Online",
@@ -283,13 +283,6 @@
     "title": "Financial Cybersecurity Challenge 2026",
     "url": "https://finance-cybersecurity2026.devpost.com/",
     "start_date": "Oct 03 - 04, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "ForgeHacks Online 2026",
-    "url": "https://forgehacks-2026.devpost.com/",
-    "start_date": "Oct 03 - 10, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -658,6 +651,13 @@
     "source": "Devpost"
   },
   {
+    "title": "QMUL AI Hackathon",
+    "url": "https://qmul-ai-hackathon.devpost.com/",
+    "start_date": "Oct 10, 2026",
+    "location": "QMUL - Bancroft Building 1.13",
+    "source": "Devpost"
+  },
+  {
     "title": "RecT Solutions Hackathon: Beyond the CV 2026",
     "url": "https://rect-hackathon.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
@@ -679,10 +679,10 @@
     "source": "Devpost"
   },
   {
-    "title": "RESPIRA HACKATHON",
-    "url": "https://respira-hackathon.devpost.com/",
-    "start_date": "Oct 01 - 03, 2026",
-    "location": "Edificio Estel",
+    "title": "Revolution",
+    "url": "https://revolution-mty2026.devpost.com/",
+    "start_date": "Dec 05 - 06, 2026",
+    "location": "Museo Del Acero Horno 3",
     "source": "Devpost"
   },
   {
@@ -1195,6 +1195,13 @@
     "url": "https://26.oxhack.net/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=OxHack+%2726",
     "start_date": "OCT 24 - 25",
     "location": "Oxford, England, GB In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Peterborough , Ontario HackTrent",
+    "url": "https://www.hacktrent.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackTrent",
+    "start_date": "NOV 06 - 08",
+    "location": "Peterborough, Ontario, CA In-Person",
     "source": "MLH"
   },
   {
