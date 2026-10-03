@@ -42,13 +42,6 @@
     "source": "Devpost"
   },
   {
-    "title": "AdaHack 2026",
-    "url": "https://adahack-2026.devpost.com/",
-    "start_date": "Oct 03, 2026",
-    "location": "UoE Informatics Forum",
-    "source": "Devpost"
-  },
-  {
     "title": "Agentic Enterprise AI Hackathon — Box + AWS",
     "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
     "start_date": "Oct 16 - 17, 2026",
@@ -95,13 +88,6 @@
     "url": "https://bearhacks2027.devpost.com/",
     "start_date": "Apr 23 - 25, 2027",
     "location": "Sheridan College Hazel McCallion Campus",
-    "source": "Devpost"
-  },
-  {
-    "title": "BigRed//Hacks 2026",
-    "url": "https://bigredhacks2026.devpost.com/",
-    "start_date": "Oct 02 - 04, 2026",
-    "location": "Phys Sci Building [Check-in @ Klarman]",
     "source": "Devpost"
   },
   {
@@ -203,6 +189,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Cornell Six Sigma Hackathon",
+    "url": "https://six-sigma-hackathon.devpost.com/",
+    "start_date": "Oct 16 - 17, 2026",
+    "location": "Upson Hall 116",
+    "source": "Devpost"
+  },
+  {
     "title": "Cosmo Hacks",
     "url": "https://cosmohacks.devpost.com/",
     "start_date": "Dec 18 - 21, 2026",
@@ -287,13 +280,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Future innovators hackothon",
-    "url": "https://future-innovators-hackothon.devpost.com/",
-    "start_date": "Oct 02 - 04, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "FutureForge Hacks",
     "url": "https://futureforge-hacks.devpost.com/",
     "start_date": "Nov 21, 2026",
@@ -308,13 +294,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Gator Quant Hacks",
-    "url": "https://gqhacks.devpost.com/",
-    "start_date": "Oct 02 - 04, 2026",
-    "location": "Gainesville, Florida",
-    "source": "Devpost"
-  },
-  {
     "title": "Gear Up Hacks 2026",
     "url": "https://gear-up-hacks-2026.devpost.com/",
     "start_date": "Oct 24, 2026",
@@ -326,6 +305,13 @@
     "url": "https://geauxhack-2026.devpost.com/",
     "start_date": "Oct 23 - 25, 2026",
     "location": "Patrick F. Taylor Hall",
+    "source": "Devpost"
+  },
+  {
+    "title": "GirlHacks 2026",
+    "url": "https://girlhacks2026.devpost.com/",
+    "start_date": "Oct 03 - 04, 2026",
+    "location": "NJIT - Campus Center",
     "source": "Devpost"
   },
   {
@@ -357,10 +343,24 @@
     "source": "Devpost"
   },
   {
+    "title": "Hack Knight Fall 2026",
+    "url": "https://hack-knight-fall-2026.devpost.com/",
+    "start_date": "Oct 09 - 11, 2026",
+    "location": "Queens College - Dining Hall",
+    "source": "Devpost"
+  },
+  {
     "title": "Hack Like W@CC 2026",
     "url": "https://hack-like-wacc-26.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
     "location": "Georgia Tech – Klaus Atrium, Klaus 1116",
+    "source": "Devpost"
+  },
+  {
+    "title": "HACK PRADESH – RVIT Hackathon",
+    "url": "https://hackpradesh.devpost.com/",
+    "start_date": "Oct 06 - 08, 2026",
+    "location": "RV Institute of Technology (RVIT)",
     "source": "Devpost"
   },
   {
@@ -469,13 +469,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hacktoberfest Hack Day Dinajpur",
-    "url": "https://hacktoberfest-dinajpur.devpost.com/",
-    "start_date": "Oct 03, 2026",
-    "location": "HSTU, Dinajpur",
-    "source": "Devpost"
-  },
-  {
     "title": "HackUCD x Stripe",
     "url": "https://hackucd.devpost.com/",
     "start_date": "Oct 09, 2026",
@@ -539,13 +532,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Kurukshetra CTF",
-    "url": "https://kurukshetractf.devpost.com/",
-    "start_date": "Oct 03, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "LarpHacks",
     "url": "https://larphacks.devpost.com/",
     "start_date": "Oct 24 - 25, 2026",
@@ -578,6 +564,13 @@
     "url": "https://makeuc-2026-30884.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "1819 Innovation Hub",
+    "source": "Devpost"
+  },
+  {
+    "title": "MATLAB in Space",
+    "url": "https://matlab-in-space.devpost.com/",
+    "start_date": "Oct 03, 2026",
+    "location": "Northeastern University Shillman Hall",
     "source": "Devpost"
   },
   {
@@ -644,6 +637,13 @@
     "source": "Devpost"
   },
   {
+    "title": "PowerHack",
+    "url": "https://powerhack.devpost.com/",
+    "start_date": "Nov 06, 2026",
+    "location": "Lehman College - East Dining Hall/MU-102",
+    "source": "Devpost"
+  },
+  {
     "title": "Prompt2Product: MLH Hack Day @ AITR",
     "url": "https://prompt2product.devpost.com/",
     "start_date": "Oct 08 - 09, 2026",
@@ -686,13 +686,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Rowdy Hacks XII",
-    "url": "https://rowdy-hacks-xii.devpost.com/",
-    "start_date": "Oct 03 - 04, 2026",
-    "location": "San Pedro II",
-    "source": "Devpost"
-  },
-  {
     "title": "Rutgers Health Hack 2026",
     "url": "https://rutgers-health-hack-2026.devpost.com/",
     "start_date": "Oct 09 - 11, 2026",
@@ -711,6 +704,13 @@
     "url": "https://sheridandatathon2026.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "Sheridan College Hazel McCallion Campus",
+    "source": "Devpost"
+  },
+  {
+    "title": "Shiva Tech -Prompt Wars",
+    "url": "https://shiva-tech-prompt-wars.devpost.com/",
+    "start_date": "Oct 09, 2026",
+    "location": "Shivalik University",
     "source": "Devpost"
   },
   {
@@ -826,17 +826,17 @@
     "source": "Devpost"
   },
   {
+    "title": "WolfHacks 2026 by ACM NCSU",
+    "url": "https://wolfhacks-2026.devpost.com/",
+    "start_date": "Oct 03 - 04, 2026",
+    "location": "Duke Energy Hall, James Hunt Jr. Library",
+    "source": "Devpost"
+  },
+  {
     "title": "WWU Social Justice Hackathon",
     "url": "https://wwu-sj-hack.devpost.com/",
     "start_date": "Oct 16 - 18, 2026",
     "location": "WWU - Kaiser Borsari Building",
-    "source": "Devpost"
-  },
-  {
-    "title": "Zoftware Hireathon",
-    "url": "https://zoftware-hireathon.devpost.com/",
-    "start_date": "Oct 03, 2026",
-    "location": "Delhi",
     "source": "Devpost"
   },
   {
