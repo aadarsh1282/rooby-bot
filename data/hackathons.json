@@ -63,6 +63,13 @@
     "source": "Devpost"
   },
   {
+    "title": "All you can do with AI",
+    "url": "https://all-you-can-do-with-ai.devpost.com/",
+    "start_date": "Oct 07 - 12, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Arbiter Hacks V1",
     "url": "https://arbiter-hacks-v1.devpost.com/",
     "start_date": "Oct 20 - Dec 21, 2026",
@@ -116,13 +123,6 @@
     "url": "https://sq-hacks.devpost.com/",
     "start_date": "Nov 15 - 21, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Build for Canada: An AI Hackathon for Economic Resilience",
-    "url": "https://build-for-canada.devpost.com/",
-    "start_date": "Oct 03, 2026",
-    "location": "ForgeVenue",
     "source": "Devpost"
   },
   {
@@ -238,13 +238,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Dublin Hacx",
-    "url": "https://dublin-hacx.devpost.com/",
-    "start_date": "Oct 03 - 04, 2026",
-    "location": "SAP Office — San Ramon, CA",
-    "source": "Devpost"
-  },
-  {
     "title": "Ensign Build",
     "url": "https://ensign-build.devpost.com/",
     "start_date": "Oct 09 - 10, 2026",
@@ -269,13 +262,6 @@
     "title": "EvoHacks2026",
     "url": "https://evohackathon2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Financial Cybersecurity Challenge 2026",
-    "url": "https://finance-cybersecurity2026.devpost.com/",
-    "start_date": "Oct 03 - 04, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -308,13 +294,6 @@
     "source": "Devpost"
   },
   {
-    "title": "GirlHacks 2026",
-    "url": "https://girlhacks2026.devpost.com/",
-    "start_date": "Oct 03 - 04, 2026",
-    "location": "NJIT - Campus Center",
-    "source": "Devpost"
-  },
-  {
     "title": "Girls Hoo Hack 2026",
     "url": "https://girls-hoo-hack-2026.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
@@ -333,13 +312,6 @@
     "url": "https://h-a-r-d-hack-2027.devpost.com/",
     "start_date": "Jan 30 - 31, 2027",
     "location": "University of California - Jacobs Hall",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack Dearborn: Conjure Reality",
-    "url": "https://hack-dearborn-5.devpost.com/",
-    "start_date": "Oct 03 - 04, 2026",
-    "location": "University of Michigan-Dearborn",
     "source": "Devpost"
   },
   {
@@ -483,6 +455,27 @@
     "source": "Devpost"
   },
   {
+    "title": "Haven Asbury Park Game Jam - High School",
+    "url": "https://haven-asbury-park.devpost.com/",
+    "start_date": "Nov 14 - 15, 2026",
+    "location": "Asbury Park, NJ, USA",
+    "source": "Devpost"
+  },
+  {
+    "title": "HEALTHHACK 48",
+    "url": "https://healthhack-48.devpost.com/",
+    "start_date": "Oct 17 - 19, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hook Em Hacks 2027",
+    "url": "https://hook-em-hacks-2027.devpost.com/",
+    "start_date": "Feb 27 - 28, 2027",
+    "location": "Austin, TX, USA",
+    "source": "Devpost"
+  },
+  {
     "title": "Hoya Hacks 2027",
     "url": "https://hoya-hacks-2027.devpost.com/",
     "start_date": "Jan 22 - 24, 2027",
@@ -567,13 +560,6 @@
     "source": "Devpost"
   },
   {
-    "title": "MATLAB in Space",
-    "url": "https://matlab-in-space.devpost.com/",
-    "start_date": "Oct 03, 2026",
-    "location": "Northeastern University Shillman Hall",
-    "source": "Devpost"
-  },
-  {
     "title": "Meow",
     "url": "https://makeuc-2026-30881.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -613,6 +599,13 @@
     "url": "https://nsh-rpi-2027.devpost.com/",
     "start_date": "Jan 30 - 31, 2027",
     "location": "RPI DCC",
+    "source": "Devpost"
+  },
+  {
+    "title": "NTU Beyond Binary Techathon 2027",
+    "url": "https://ntu-beyond-binary-2027.devpost.com/",
+    "start_date": "Feb 09 - 13, 2027",
+    "location": "Singapore",
     "source": "Devpost"
   },
   {
@@ -658,10 +651,24 @@
     "source": "Devpost"
   },
   {
+    "title": "Reality Check(Meet-up)",
+    "url": "https://reality-check-meet-up.devpost.com/",
+    "start_date": "Oct 05 - Nov 18, 2026",
+    "location": "Cities: Delhi, Pune Bangalore",
+    "source": "Devpost"
+  },
+  {
     "title": "RecT Solutions Hackathon: Beyond the CV 2026",
     "url": "https://rect-hackathon.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
     "location": "IDEA Spaces Saldanha",
+    "source": "Devpost"
+  },
+  {
+    "title": "Redhawk Builds 2026",
+    "url": "https://redhawk-builds-2026.devpost.com/",
+    "start_date": "Nov 07 - 08, 2026",
+    "location": "McVey Data Science Building",
     "source": "Devpost"
   },
   {
@@ -690,6 +697,13 @@
     "url": "https://rutgers-health-hack-2026.devpost.com/",
     "start_date": "Oct 09 - 11, 2026",
     "location": "NJ HELIX Tower 1",
+    "source": "Devpost"
+  },
+  {
+    "title": "SDC Hackathon 2026",
+    "url": "https://sdc-hackathon-2026.devpost.com/",
+    "start_date": "Oct 19 - 24, 2026",
+    "location": "Xiamen University Malaysia",
     "source": "Devpost"
   },
   {
@@ -739,13 +753,6 @@
     "url": "https://stemergent-hacks.devpost.com/",
     "start_date": "Oct 18 - 31, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "StormHacks 2026",
-    "url": "https://stormhacks2026.devpost.com/",
-    "start_date": "Oct 03 - 04, 2026",
-    "location": "Simon Fraser University",
     "source": "Devpost"
   },
   {
@@ -823,13 +830,6 @@
     "url": "https://wics-hackathon.devpost.com/",
     "start_date": "Feb 28 - Mar 02, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "WolfHacks 2026 by ACM NCSU",
-    "url": "https://wolfhacks-2026.devpost.com/",
-    "start_date": "Oct 03 - 04, 2026",
-    "location": "Duke Energy Hall, James Hunt Jr. Library",
     "source": "Devpost"
   },
   {
