@@ -35,6 +35,13 @@
     "source": "Devpost"
   },
   {
+    "title": "[OLD] PalmettoHacks",
+    "url": "https://palmetto-hacks-2026.devpost.com/",
+    "start_date": "Oct 10 - 11, 2026",
+    "location": "USC College of Engineering and Computing",
+    "source": "Devpost"
+  },
+  {
     "title": "Action Space",
     "url": "https://action-space-hacks.devpost.com/",
     "start_date": "Oct 24 - 25, 2026",
@@ -151,13 +158,6 @@
     "url": "https://caribbean-ai-summit-hackathon.devpost.com/",
     "start_date": "Oct 08 - 10, 2026",
     "location": "Puerto Rico Convention Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "Case Closed",
-    "url": "https://caseclosed.devpost.com/",
-    "start_date": "Oct 04, 2026",
-    "location": "Location TBA",
     "source": "Devpost"
   },
   {
@@ -443,8 +443,8 @@
   {
     "title": "HackUCD x Stripe",
     "url": "https://hackucd.devpost.com/",
-    "start_date": "Oct 09, 2026",
-    "location": "Ireland",
+    "start_date": "Oct 10, 2026",
+    "location": "UCD Quinn School of Business PWC theatre",
     "source": "Devpost"
   },
   {
@@ -457,8 +457,8 @@
   {
     "title": "Haven Asbury Park Game Jam - High School",
     "url": "https://haven-asbury-park.devpost.com/",
-    "start_date": "Nov 14 - 15, 2026",
-    "location": "Asbury Park, NJ, USA",
+    "start_date": "Nov 14, 2026",
+    "location": "iCode Shrewbury, NJ",
     "source": "Devpost"
   },
   {
@@ -497,13 +497,6 @@
     "source": "Devpost"
   },
   {
-    "title": "IEEE ClimateChain Global Hackathon",
-    "url": "https://ieee-climatechain-hack.devpost.com/",
-    "start_date": "Oct 05 - 25, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Kent Hack Enough 2027",
     "url": "https://khe-2027.devpost.com/",
     "start_date": "Mar 06 - 07, 2027",
@@ -515,6 +508,13 @@
     "url": "https://knight-hacks-ix.devpost.com/",
     "start_date": "Oct 09 - 11, 2026",
     "location": "UCF Engineering II (ENG2)",
+    "source": "Devpost"
+  },
+  {
+    "title": "KTPHacks 2",
+    "url": "https://ktphacks-2.devpost.com/",
+    "start_date": "Nov 07 - 08, 2026",
+    "location": "Virginia Tech - DDS",
     "source": "Devpost"
   },
   {
@@ -623,10 +623,10 @@
     "source": "Devpost"
   },
   {
-    "title": "PalmettoHacks",
-    "url": "https://palmetto-hacks-2026.devpost.com/",
+    "title": "PalmettoHacks 2026",
+    "url": "https://palmettohacks-2026.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
-    "location": "USC College of Engineering and Computing",
+    "location": "Swearingen Engineering Center",
     "source": "Devpost"
   },
   {
@@ -648,13 +648,6 @@
     "url": "https://qmul-ai-hackathon.devpost.com/",
     "start_date": "Oct 10, 2026",
     "location": "QMUL - Bancroft Building 1.13",
-    "source": "Devpost"
-  },
-  {
-    "title": "Reality Check(Meet-up)",
-    "url": "https://reality-check-meet-up.devpost.com/",
-    "start_date": "Oct 05 - Nov 18, 2026",
-    "location": "Cities: Delhi, Pune Bangalore",
     "source": "Devpost"
   },
   {
@@ -751,7 +744,7 @@
   {
     "title": "STEMergent Hacks 2026",
     "url": "https://stemergent-hacks.devpost.com/",
-    "start_date": "Oct 18 - 31, 2026",
+    "start_date": "Oct 31 - Nov 15, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -774,6 +767,13 @@
     "url": "https://svchackathon2027.devpost.com/",
     "start_date": "May 08, 2027",
     "location": "Gary Knutzen Cardinal Center",
+    "source": "Devpost"
+  },
+  {
+    "title": "SwampHacks XII",
+    "url": "https://swamphacks-xii.devpost.com/",
+    "start_date": "Oct 16 - 18, 2026",
+    "location": "University of Florida - Reitz Union",
     "source": "Devpost"
   },
   {
@@ -883,13 +883,6 @@
     "source": "MLH"
   },
   {
-    "title": "Ann Arbor , MI MHacks",
-    "url": "https://www.mhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=MHacks",
-    "start_date": "OCT 03 - 04",
-    "location": "Ann Arbor, MI, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Athens , Georgia UGAHacks",
     "url": "https://ugahacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=UGAHacks+",
     "start_date": "FEB 05 - 07",
@@ -932,13 +925,6 @@
     "source": "MLH"
   },
   {
-    "title": "Burnaby , British Columbia S StormHacks",
-    "url": "https://www.stormhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=StormHacks",
-    "start_date": "OCT 03 - 04",
-    "location": "Burnaby, British Columbia, CA In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Chapel Hill , North Carolina HackNC",
     "url": "https://hacknc.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackNC",
     "start_date": "OCT 09 - 11",
@@ -947,7 +933,7 @@
   },
   {
     "title": "Charlottesville , VA Girls Hoo",
-    "url": "https://www.girlshoohack.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Girls+Hoo+Hack+2026",
+    "url": "https://girls-hoo-hack-uva.github.io/GHH-2026/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Girls+Hoo+Hack+2026",
     "start_date": "Hack 20",
     "location": "26 OCT 17 - 18 Charlottesville, VA, US In-Person DIVERSITY HARDWARE",
     "source": "MLH"
@@ -988,13 +974,6 @@
     "source": "MLH"
   },
   {
-    "title": "Dearborn , Michigan Hack",
-    "url": "https://www.hackdearborn.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+Dearborn+5%3A+Conjure+Reality",
-    "start_date": "Dearborn 5",
-    "location": ": Conjure Reality OCT 03 - 04 Dearborn, Michigan, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Durham , County Durham DurHack",
     "url": "https://durhack.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=DurHack",
     "start_date": "NOV 14 - 15",
@@ -1013,13 +992,6 @@
     "url": "https://hackknight.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+Knight",
     "start_date": "OCT 09 - 11",
     "location": "Flushing, New York, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Gainesville , Florida Gator Quant Hacks",
-    "url": "https://www.gqhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Gator+Quant+Hacks",
-    "start_date": "OCT 02 - 04",
-    "location": "Gainesville, Florida, US In-Person",
     "source": "MLH"
   },
   {
@@ -1062,13 +1034,6 @@
     "url": "https://gotechnica.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Technica+Hacks",
     "start_date": "OCT 17 - 18",
     "location": "Hyattsville, Maryland, US In-Person DIVERSITY",
-    "source": "MLH"
-  },
-  {
-    "title": "Ithaca , New York BigRed//",
-    "url": "https://www.bigredhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=BigRed%2F%2FHacks+2026",
-    "start_date": "Hacks 20",
-    "location": "26 OCT 02 - 04 Ithaca, New York, US In-Person",
     "source": "MLH"
   },
   {
@@ -1170,13 +1135,6 @@
     "source": "MLH"
   },
   {
-    "title": "Newark , NJ GirlHacks",
-    "url": "https://www.njitgirlhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=GirlHacks",
-    "start_date": "OCT 03 - 04",
-    "location": "Newark, NJ, US In-Person DIVERSITY",
-    "source": "MLH"
-  },
-  {
     "title": "Orlando , Florida Knight Hacks IX",
     "url": "https://2026.knighthacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Knight+Hacks+IX",
     "start_date": "OCT 09 - 11",
@@ -1226,13 +1184,6 @@
     "source": "MLH"
   },
   {
-    "title": "Raleigh , NC WolfHacks by ACM at NC State",
-    "url": "https://wolfhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=WolfHacks+by+ACM+at+NC+State",
-    "start_date": "OCT 03 - 04",
-    "location": "Raleigh, NC, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Raleigh , North Carolina Hack_NCState",
     "url": "https://hackncstate.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack_NCState",
     "start_date": "FEB 06 - 07",
@@ -1265,13 +1216,6 @@
     "url": "https://www.road2tech.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hackathon+TecNM+Campus+Saltillo+2026",
     "start_date": "Saltillo 20",
     "location": "26 OCT 09 - 10 Saltillo, Coahuila, MX In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "San Antonio , Texas Rowdy Hacks",
-    "url": "https://rowdyhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Rowdy+Hacks",
-    "start_date": "OCT 03 - 04",
-    "location": "San Antonio, Texas, US In-Person",
     "source": "MLH"
   },
   {
