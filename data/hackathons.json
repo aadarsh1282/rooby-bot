@@ -133,6 +133,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Build Beyond Hackathon",
+    "url": "https://build-beyond.devpost.com/",
+    "start_date": "Mar 01 - 15, 2027",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Build Multiplayer Data Science Agents · PyMC Labs",
     "url": "https://daimon-hackathon.devpost.com/",
     "start_date": "Oct 10, 2026",
@@ -151,6 +158,13 @@
     "url": "https://build-a-thon-30568.devpost.com/",
     "start_date": "Oct 16 - 17, 2026",
     "location": "NCC Digital Park, University of Ibadan",
+    "source": "Devpost"
+  },
+  {
+    "title": "CapCut x EAST2046 University of Cambridge Creator Lab",
+    "url": "https://cambridge-creator-lab.devpost.com/",
+    "start_date": "Oct 22, 2026",
+    "location": "IfM, University of Cambridge",
     "source": "Devpost"
   },
   {
@@ -385,6 +399,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HackNC 2026",
+    "url": "https://hacknc-2026.devpost.com/",
+    "start_date": "Oct 10 - 11, 2026",
+    "location": "Fetzer Gym, UNC-Chapel Hill",
+    "source": "Devpost"
+  },
+  {
     "title": "HackOHI/O 2026",
     "url": "https://hackohio2026.devpost.com/",
     "start_date": "Oct 24 - 25, 2026",
@@ -469,13 +490,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hook Em Hacks 2027",
-    "url": "https://hook-em-hacks-2027.devpost.com/",
-    "start_date": "Feb 27 - 28, 2027",
-    "location": "Austin, TX, USA",
-    "source": "Devpost"
-  },
-  {
     "title": "Hoya Hacks 2027",
     "url": "https://hoya-hacks-2027.devpost.com/",
     "start_date": "Jan 22 - 24, 2027",
@@ -511,13 +525,6 @@
     "source": "Devpost"
   },
   {
-    "title": "KTPHacks 2",
-    "url": "https://ktphacks-2.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "Virginia Tech - DDS",
-    "source": "Devpost"
-  },
-  {
     "title": "KUK VIRTUAL HACKATHON",
     "url": "https://kuk-virtual-hackathon.devpost.com/",
     "start_date": "Nov 15 - 22, 2026",
@@ -546,9 +553,9 @@
     "source": "Devpost"
   },
   {
-    "title": "Life After Code",
-    "url": "https://gitlab-transcend.devpost.com/",
-    "start_date": "Oct 05 - 27, 2026",
+    "title": "Lehigh Fall 2026 Collegiate Hackathon",
+    "url": "https://lehigh-hacks.devpost.com/",
+    "start_date": "Oct 17 - 18, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -655,13 +662,6 @@
     "url": "https://rect-hackathon.devpost.com/",
     "start_date": "Oct 10 - 11, 2026",
     "location": "IDEA Spaces Saldanha",
-    "source": "Devpost"
-  },
-  {
-    "title": "Redhawk Builds 2026",
-    "url": "https://redhawk-builds-2026.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "McVey Data Science Building",
     "source": "Devpost"
   },
   {
@@ -798,13 +798,6 @@
     "source": "Devpost"
   },
   {
-    "title": "United Hackathons V1",
-    "url": "https://devonomicsv1.devpost.com/",
-    "start_date": "Oct 06 - 12, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "United Hacks V8",
     "url": "https://unitedhacksv8.devpost.com/",
     "start_date": "Jan 08 - 10, 2027",
@@ -835,8 +828,15 @@
   {
     "title": "WWU Social Justice Hackathon",
     "url": "https://wwu-sj-hack.devpost.com/",
-    "start_date": "Oct 16 - 18, 2026",
+    "start_date": "Nov 07, 2026",
     "location": "WWU - Kaiser Borsari Building",
+    "source": "Devpost"
+  },
+  {
+    "title": "YUNet AIgnite 2026",
+    "url": "https://yunet-aignite26.devpost.com/",
+    "start_date": "Nov 01 - 05, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -855,7 +855,7 @@
   },
   {
     "title": "List your eventor hackathon.",
-    "url": "https://linuxvictoria.org/events/2026-10-06_Town-Hall-Meeting-October/",
+    "url": "https://meetups.twitch.tv/events/details/twitch-adelaide-presents-hey-chat-after-party/",
     "start_date": "",
     "location": "In-Person",
     "source": "Hackeroos",
