@@ -35,13 +35,6 @@
     "source": "Devpost"
   },
   {
-    "title": "[OLD] PalmettoHacks",
-    "url": "https://palmetto-hacks-2026.devpost.com/",
-    "start_date": "Oct 10 - 11, 2026",
-    "location": "USC College of Engineering and Computing",
-    "source": "Devpost"
-  },
-  {
     "title": "Action Space",
     "url": "https://action-space-hacks.devpost.com/",
     "start_date": "Oct 24 - 25, 2026",
@@ -70,13 +63,6 @@
     "source": "Devpost"
   },
   {
-    "title": "All you can do with AI",
-    "url": "https://all-you-can-do-with-ai.devpost.com/",
-    "start_date": "Oct 07 - 12, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Arbiter Hacks V1",
     "url": "https://arbiter-hacks-v1.devpost.com/",
     "start_date": "Oct 20 - Dec 21, 2026",
@@ -88,6 +74,13 @@
     "url": "https://arm-executorch.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
     "location": "San Francisco State University",
+    "source": "Devpost"
+  },
+  {
+    "title": "Asymmetric Reframed Reality Hackathon & Co-Creation Workshop",
+    "url": "https://arr-hackathon-co-creation.devpost.com/",
+    "start_date": "Nov 04 - 06, 2026",
+    "location": "Caroline Graveson Building",
     "source": "Devpost"
   },
   {
@@ -238,6 +231,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Desert Dev Lab 2027",
+    "url": "https://desert-dev-lab-2027.devpost.com/",
+    "start_date": "Apr 24 - 25, 2027",
+    "location": "Albuquerque, NM, USA",
+    "source": "Devpost"
+  },
+  {
     "title": "DeveloperWeek 2027 Hackathon",
     "url": "https://developerweek-2027-hackathon.devpost.com/",
     "start_date": "Jan 25 - Feb 11, 2027",
@@ -290,7 +290,7 @@
     "title": "Gator Hack V - AI Days 2026",
     "url": "https://gatorhack2026.devpost.com/",
     "start_date": "Oct 23 - 25, 2026",
-    "location": "Online",
+    "location": "Online / TBA",
     "source": "Devpost"
   },
   {
@@ -340,13 +340,6 @@
     "url": "https://hack-like-wacc-26.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
     "location": "Georgia Tech – Klaus Atrium, Klaus 1116",
-    "source": "Devpost"
-  },
-  {
-    "title": "HACK PRADESH – RVIT Hackathon",
-    "url": "https://hackpradesh.devpost.com/",
-    "start_date": "Oct 06 - 08, 2026",
-    "location": "RV Institute of Technology (RVIT)",
     "source": "Devpost"
   },
   {
@@ -490,6 +483,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Hook Em Hacks 2027",
+    "url": "https://hook-em-hacks-2027.devpost.com/",
+    "start_date": "Feb 27 - 28, 2027",
+    "location": "Austin, TX, USA",
+    "source": "Devpost"
+  },
+  {
     "title": "Hoya Hacks 2027",
     "url": "https://hoya-hacks-2027.devpost.com/",
     "start_date": "Jan 22 - 24, 2027",
@@ -542,7 +542,7 @@
     "title": "Latinos x AI Hackathon - NYC",
     "url": "https://latinos-x-ai-hackathon-nyc.devpost.com/",
     "start_date": "Oct 10, 2026",
-    "location": "New York City / TBD",
+    "location": "Columbia Business School",
     "source": "Devpost"
   },
   {
@@ -1209,6 +1209,13 @@
     "url": "https://wichacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=WiCHacks",
     "start_date": "FEB 27 - 28",
     "location": "Rochester, New York, US In-Person DIVERSITY",
+    "source": "MLH"
+  },
+  {
+    "title": "Salisbury , MD GullHacks",
+    "url": "https://hub.salisbury.edu/hackathon/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=GullHacks",
+    "start_date": "NOV 07 - 08",
+    "location": "Salisbury, MD, US In-Person",
     "source": "MLH"
   },
   {
