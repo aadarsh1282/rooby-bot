@@ -23,7 +23,7 @@
   {
     "title": "2026 International CodeTheCure Hackathon",
     "url": "https://codethecure-hackathon-26.devpost.com/",
-    "start_date": "Oct 10 - 30, 2026",
+    "start_date": "Oct 10 - 28, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -151,13 +151,6 @@
     "url": "https://build-a-thon-30568.devpost.com/",
     "start_date": "Oct 16 - 17, 2026",
     "location": "NCC Digital Park, University of Ibadan",
-    "source": "Devpost"
-  },
-  {
-    "title": "CapCut x EAST2046 University of Cambridge Creator Lab",
-    "url": "https://cambridge-creator-lab.devpost.com/",
-    "start_date": "Oct 22, 2026",
-    "location": "IfM, University of Cambridge",
     "source": "Devpost"
   },
   {
@@ -305,6 +298,13 @@
     "url": "https://geauxhack-2026.devpost.com/",
     "start_date": "Oct 23 - 25, 2026",
     "location": "Patrick F. Taylor Hall",
+    "source": "Devpost"
+  },
+  {
+    "title": "Get Hired Hack @ Columbia Startup Lab",
+    "url": "https://get-hired-hack-nyc.devpost.com/",
+    "start_date": "Oct 10, 2026",
+    "location": "Columbia Startup Lab",
     "source": "Devpost"
   },
   {
@@ -644,13 +644,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Prompt2Product: MLH Hack Day @ AITR",
-    "url": "https://prompt2product.devpost.com/",
-    "start_date": "Oct 08 - 09, 2026",
-    "location": "AITR Indore",
-    "source": "Devpost"
-  },
-  {
     "title": "QMUL AI Hackathon",
     "url": "https://qmul-ai-hackathon.devpost.com/",
     "start_date": "Oct 10, 2026",
@@ -840,6 +833,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Zoftware AgentHack",
+    "url": "https://zoftware-agenthack.devpost.com/",
+    "start_date": "Oct 11, 2026",
+    "location": "Spring House Workspaces SHGU001",
+    "source": "Devpost"
+  },
+  {
     "title": "Directories & Resources",
     "url": "/events",
     "start_date": "",
@@ -884,7 +884,7 @@
   },
   {
     "title": "Athens , Georgia UGAHacks",
-    "url": "https://ugahacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=UGAHacks+",
+    "url": "https://12.ugahacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=UGAHacks+",
     "start_date": "FEB 05 - 07",
     "location": "Athens, Georgia, US In-Person",
     "source": "MLH"
@@ -1065,6 +1065,13 @@
     "source": "MLH"
   },
   {
+    "title": "Lleida , Lleida, Spain HackEPS",
+    "url": "https://hackeps.dev/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackEPS",
+    "start_date": "NOV 28 - 29",
+    "location": "Lleida, Lleida, Spain, ES In-Person",
+    "source": "MLH"
+  },
+  {
     "title": "London , London IKU Womxn in STEM Hackathon",
     "url": "https://ikuwomxninstemhackathon.co.uk/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=IKU+Womxn+in+STEM+Hackathon",
     "start_date": "OCT 17 - 18",
@@ -1083,6 +1090,13 @@
     "url": "https://lahacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=LA+Hacks+27",
     "start_date": "Hacks 27",
     "location": "APR 16 - 18 Los Angeles, California, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Miami , FL SharkByte",
+    "url": "https://shark-byte.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SharkByte",
+    "start_date": "NOV 06 - 08",
+    "location": "Miami, FL, US In-Person",
     "source": "MLH"
   },
   {
