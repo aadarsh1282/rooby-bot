@@ -56,6 +56,13 @@
     "source": "Devpost"
   },
   {
+    "title": "AI At Work - Hack the Everyday",
+    "url": "https://ai-at-work-hack-the-everyday.devpost.com/",
+    "start_date": "Oct 16, 2026",
+    "location": "College for Creative Studies - Taubman",
+    "source": "Devpost"
+  },
+  {
     "title": "AI Hackathon 2026 by LA Hacks",
     "url": "https://la-ai-hackathon-2026.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
@@ -154,13 +161,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Caribbean AI Summit Hackathon",
-    "url": "https://caribbean-ai-summit-hackathon.devpost.com/",
-    "start_date": "Oct 08 - 10, 2026",
-    "location": "Puerto Rico Convention Center",
-    "source": "Devpost"
-  },
-  {
     "title": "Central Hacks",
     "url": "https://central-hacks.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
@@ -245,10 +245,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Ensign Build",
-    "url": "https://ensign-build.devpost.com/",
-    "start_date": "Oct 09 - 10, 2026",
-    "location": "Ensign College Building",
+    "title": "DubHacks '26",
+    "url": "https://dubhacks-2026.devpost.com/",
+    "start_date": "Oct 17 - 18, 2026",
+    "location": "UW Seattle- Husky Union Building",
     "source": "Devpost"
   },
   {
@@ -385,6 +385,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HacKITSnova 2026",
+    "url": "https://hackitsnova-2026-31640.devpost.com/",
+    "start_date": "Oct 15, 2026",
+    "location": "Madawarayapuram, India",
+    "source": "Devpost"
+  },
+  {
     "title": "Hacklanta",
     "url": "https://hacklanta.devpost.com/",
     "start_date": "Oct 09 - 11, 2026",
@@ -469,10 +476,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Haven Asbury Park Game Jam - High School",
+    "title": "Haven Princeton Game Jam - High School",
     "url": "https://haven-asbury-park.devpost.com/",
     "start_date": "Nov 14, 2026",
-    "location": "iCode Shrewbury, NJ",
+    "location": "1435 Capital",
     "source": "Devpost"
   },
   {
@@ -497,7 +504,7 @@
     "source": "Devpost"
   },
   {
-    "title": "HuskyHack 2026:Phase 1",
+    "title": "HuskyHack 2026: Phase 1",
     "url": "https://huskyhack2026.devpost.com/",
     "start_date": "Oct 17, 2026",
     "location": "Milgard Hall",
@@ -704,13 +711,6 @@
     "url": "https://sheridandatathon2026.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "Sheridan College Hazel McCallion Campus",
-    "source": "Devpost"
-  },
-  {
-    "title": "Shiva Tech -Prompt Wars",
-    "url": "https://shiva-tech-prompt-wars.devpost.com/",
-    "start_date": "Oct 09, 2026",
-    "location": "Shivalik University",
     "source": "Devpost"
   },
   {
@@ -925,6 +925,13 @@
     "source": "MLH"
   },
   {
+    "title": "Brooklyn , New York NS NASA's Space Apps Challenge NYC",
+    "url": "https://www.spaceappschallenge.org/2026/local-events/new-york/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=NASA%27s+Space+Apps+Challenge+NYC",
+    "start_date": "NOV 13 - 15",
+    "location": "Brooklyn, New York, US In-Person",
+    "source": "MLH"
+  },
+  {
     "title": "Chapel Hill , North Carolina HackNC",
     "url": "https://hacknc.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackNC",
     "start_date": "OCT 09 - 11",
@@ -978,6 +985,13 @@
     "url": "https://durhack.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=DurHack",
     "start_date": "NOV 14 - 15",
     "location": "Durham, County Durham, GB In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Durham , NC DuQuantum",
+    "url": "https://duquantum.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=DuQuantum",
+    "start_date": "OCT 24 - 25",
+    "location": "Durham, NC, US In-Person",
     "source": "MLH"
   },
   {
