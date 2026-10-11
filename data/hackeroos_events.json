@@ -1,19 +1,19 @@
 [
   {
     "title": "List your eventor hackathon.",
-    "url": "https://meetups.twitch.tv/events/details/twitch-adelaide-presents-hey-chat-after-party/",
+    "url": "/login?mode=signup&returnTo=%2Fonboarding",
     "start_date": "",
-    "location": "In-Person",
+    "location": "Online",
     "source": "Hackeroos",
-    "mode": "In-Person"
+    "mode": "Online"
   },
   {
     "title": "Explore the directories",
-    "url": "https://meetups.twitch.tv/events/details/twitch-adelaide-presents-hey-chat-after-party/",
+    "url": "/login?mode=signup&returnTo=%2Fonboarding",
     "start_date": "",
-    "location": "In-Person",
+    "location": "Online",
     "source": "Hackeroos",
-    "mode": "In-Person"
+    "mode": "Online"
   },
   {
     "title": "Makerspaces",
@@ -44,14 +44,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "HEY CHAT! After Party",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "",
-    "location": "In-Person",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "Hackeroos Discord Coworking",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "",
@@ -75,18 +67,18 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Terrible Ideas Hackathon!",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Oct 2026",
-    "location": "Sydney, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "HyLogger Hackathon",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Oct 2026",
     "location": "Perth, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "AI Hackathon",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Oct 2026",
+    "location": "Melbourne, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },

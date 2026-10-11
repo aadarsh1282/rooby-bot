@@ -1,12 +1,5 @@
 [
   {
-    "title": "#SFTechWeek - Decision-Grade AI @ Stanford ⚡️ A Buildathon on LLM Trust",
-    "url": "https://ai-trust.devpost.com/",
-    "start_date": "Oct 10, 2026",
-    "location": "Industrious Palo Alto Page Mil",
-    "source": "Devpost"
-  },
-  {
     "title": ".devHacks 2027",
     "url": "https://devhacks-2027.devpost.com/",
     "start_date": "Feb 19 - 21, 2027",
@@ -112,13 +105,6 @@
     "source": "Devpost"
   },
   {
-    "title": "BoxLang-AI-ANIA-2026",
-    "url": "https://boxlang-ai-ania-2026.devpost.com/",
-    "start_date": "Oct 10 - 11, 2026",
-    "location": "ANIA - El Salvador",
-    "source": "Devpost"
-  },
-  {
     "title": "Brewing Codes 4.0",
     "url": "https://brewing-codes-4-0.devpost.com/",
     "start_date": "Mar 12 - 27, 2028",
@@ -154,6 +140,13 @@
     "source": "Devpost"
   },
   {
+    "title": "BuildyourOwnWebsite",
+    "url": "https://buildyourownwebsite.devpost.com/",
+    "start_date": "Nov 16 - 25, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "CapCut x EAST2046 University of Cambridge Creator Lab Free Learning Campus",
     "url": "https://cambridge-creator-lab.devpost.com/",
     "start_date": "Oct 22, 2026",
@@ -178,13 +171,6 @@
     "title": "Code For DFW",
     "url": "https://code-for-dfw.devpost.com/",
     "start_date": "Oct 20 - 27, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "CodeRED: Orion",
-    "url": "https://codered-orion-ccs.devpost.com/",
-    "start_date": "Oct 10 - 11, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -280,13 +266,6 @@
     "source": "Devpost"
   },
   {
-    "title": "EvoHacks2026",
-    "url": "https://evohackathon2026.devpost.com/",
-    "start_date": "Oct 10 - 11, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "FutureForge Hacks",
     "url": "https://futureforge-hacks.devpost.com/",
     "start_date": "Nov 21, 2026",
@@ -312,13 +291,6 @@
     "url": "https://geauxhack-2026.devpost.com/",
     "start_date": "Oct 23 - 25, 2026",
     "location": "Patrick F. Taylor Hall",
-    "source": "Devpost"
-  },
-  {
-    "title": "Get Hired Hack @ Columbia Startup Lab",
-    "url": "https://get-hired-hack-nyc.devpost.com/",
-    "start_date": "Oct 10, 2026",
-    "location": "Columbia Startup Lab",
     "source": "Devpost"
   },
   {
@@ -396,13 +368,6 @@
     "url": "https://hackitsnova-2026-31640.devpost.com/",
     "start_date": "Oct 15, 2026",
     "location": "Madawarayapuram, India",
-    "source": "Devpost"
-  },
-  {
-    "title": "HackNC 2026",
-    "url": "https://hacknc-2026.devpost.com/",
-    "start_date": "Oct 10 - 11, 2026",
-    "location": "Fetzer Gym, UNC-Chapel Hill",
     "source": "Devpost"
   },
   {
@@ -497,13 +462,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hyphen-Hacks",
-    "url": "https://hyphen-hacks26.devpost.com/",
-    "start_date": "Oct 10, 2026",
-    "location": "Lick-Wilmerding High School",
-    "source": "Devpost"
-  },
-  {
     "title": "IceHacks",
     "url": "https://icehacks.devpost.com/",
     "start_date": "Nov 08 - 15, 2026",
@@ -536,13 +494,6 @@
     "url": "https://larphacks.devpost.com/",
     "start_date": "Nov 01, 2026",
     "location": "Toronto",
-    "source": "Devpost"
-  },
-  {
-    "title": "Latinos x AI Hackathon - NYC",
-    "url": "https://latinos-x-ai-hackathon-nyc.devpost.com/",
-    "start_date": "Oct 10, 2026",
-    "location": "Columbia Business School",
     "source": "Devpost"
   },
   {
@@ -616,13 +567,6 @@
     "source": "Devpost"
   },
   {
-    "title": "OCCHacks",
-    "url": "https://occhacks-2026.devpost.com/",
-    "start_date": "Oct 10 - 11, 2026",
-    "location": "OCC Ballroom - 3rd Floor Conference Room",
-    "source": "Devpost"
-  },
-  {
     "title": "ONHacks",
     "url": "https://onhacks.devpost.com/",
     "start_date": "Nov 21, 2026",
@@ -634,13 +578,6 @@
     "url": "https://yunet-aignite26.devpost.com/",
     "start_date": "Nov 01 - 05, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "PalmettoHacks 2026",
-    "url": "https://palmettohacks-2026.devpost.com/",
-    "start_date": "Oct 10 - 11, 2026",
-    "location": "Swearingen Engineering Center",
     "source": "Devpost"
   },
   {
@@ -805,13 +742,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Vortexa 3.0",
-    "url": "https://vortexa-3-0.devpost.com/",
-    "start_date": "Oct 10, 2026",
-    "location": "Dr DY Patil Institute Of Technology",
-    "source": "Devpost"
-  },
-  {
     "title": "WiCS Hackathon",
     "url": "https://wics-hackathon.devpost.com/",
     "start_date": "Feb 28 - Mar 02, 2027",
@@ -828,7 +758,7 @@
   {
     "title": "Zoftware AgentHack",
     "url": "https://zoftware-agenthack.devpost.com/",
-    "start_date": "Oct 11, 2026",
+    "start_date": "Oct 17, 2026",
     "location": "Spring House Workspaces SHGU001",
     "source": "Devpost"
   },
@@ -840,19 +770,12 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Find your next role.",
+    "title": "List your eventor hackathon.",
     "url": "/login?mode=signup&returnTo=%2Fonboarding",
     "start_date": "",
-    "location": "Online / TBA",
-    "source": "Hackeroos"
-  },
-  {
-    "title": "List your eventor hackathon.",
-    "url": "https://meetups.twitch.tv/events/details/twitch-adelaide-presents-hey-chat-after-party/",
-    "start_date": "",
-    "location": "In-Person",
+    "location": "Online",
     "source": "Hackeroos",
-    "mode": "In-Person"
+    "mode": "Online"
   },
   {
     "title": "Makerspaces",
@@ -908,13 +831,6 @@
     "url": "https://hacktx.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackTX+26",
     "start_date": "HackTX 26",
     "location": "OCT 24 - 25 Austin, TX, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Bhilai , Chhattisgarh HackBIOS",
-    "url": "https://hackbios.xyz/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackBIOS",
-    "start_date": "OCT 09 - 10",
-    "location": "Bhilai, Chhattisgarh, IN In-Person",
     "source": "MLH"
   },
   {
@@ -1237,13 +1153,6 @@
     "url": "https://hub.salisbury.edu/hackathon/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=GullHacks",
     "start_date": "NOV 07 - 08",
     "location": "Salisbury, MD, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Saltillo , Coahuila Hackathon TecNM Campus",
-    "url": "https://www.road2tech.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hackathon+TecNM+Campus+Saltillo+2026",
-    "start_date": "Saltillo 20",
-    "location": "26 OCT 09 - 10 Saltillo, Coahuila, MX In-Person",
     "source": "MLH"
   },
   {
