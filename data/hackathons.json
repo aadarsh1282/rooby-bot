@@ -91,13 +91,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Black Code Collective Hacktoberfest",
-    "url": "https://bcc-hacktoberfest.devpost.com/",
-    "start_date": "Oct 12 - 24, 2026",
-    "location": "Washington DC",
-    "source": "Devpost"
-  },
-  {
     "title": "Blank Page",
     "url": "https://blankpage.devpost.com/",
     "start_date": "Oct 17, 2026",
@@ -144,6 +137,13 @@
     "url": "https://buildyourownwebsite.devpost.com/",
     "start_date": "Nov 16 - 25, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Business Battlefield 2027",
+    "url": "https://business-battkefuekd.devpost.com/",
+    "start_date": "Feb 20, 2027",
+    "location": "Virginia De Land Theatre",
     "source": "Devpost"
   },
   {
@@ -308,6 +308,13 @@
     "source": "Devpost"
   },
   {
+    "title": "GSD Hackathon - Get Shit Done",
+    "url": "https://tbd-hackathon.devpost.com/",
+    "start_date": "Jan 23, 2027",
+    "location": "Pennovation Works",
+    "source": "Devpost"
+  },
+  {
     "title": "H.A.R.D. Hack 2027",
     "url": "https://h-a-r-d-hack-2027.devpost.com/",
     "start_date": "Jan 30 - 31, 2027",
@@ -333,6 +340,13 @@
     "url": "https://hack-the-harvest.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
     "location": "Aggie Square",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hack the Valley 11",
+    "url": "https://hack-the-valley-11.devpost.com/",
+    "start_date": "Oct 16 - 18, 2026",
+    "location": "University of Toronto Scarborough",
     "source": "Devpost"
   },
   {
@@ -408,7 +422,7 @@
   {
     "title": "HackStorm 3.0: Sense, Think and Act",
     "url": "https://hackstorm3.devpost.com/",
-    "start_date": "Nov 06 - 08, 2026",
+    "start_date": "Jan 15 - 17, 2027",
     "location": "San Francisco, California, USA",
     "source": "Devpost"
   },
@@ -431,6 +445,13 @@
     "url": "https://haven-asbury-park.devpost.com/",
     "start_date": "Nov 14, 2026",
     "location": "1435 Capital",
+    "source": "Devpost"
+  },
+  {
+    "title": "Haven Richmond",
+    "url": "https://haven-richmond.devpost.com/",
+    "start_date": "Nov 14 - 15, 2026",
+    "location": "Richmond, Virginia, USA",
     "source": "Devpost"
   },
   {
@@ -707,6 +728,13 @@
     "source": "Devpost"
   },
   {
+    "title": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
+    "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
+    "start_date": "Nov 10 - 11, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "The Top 500 (UH v2)",
     "url": "https://the-top-500-uh-v2.devpost.com/",
     "start_date": "Oct 23 - 25, 2026",
@@ -820,13 +848,6 @@
     "source": "MLH"
   },
   {
-    "title": "Atlanta , Georgia Hacklanta",
-    "url": "https://hacklanta.dev/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hacklanta",
-    "start_date": "OCT 09 - 11",
-    "location": "Atlanta, Georgia, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Austin , TX",
     "url": "https://hacktx.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackTX+26",
     "start_date": "HackTX 26",
@@ -838,13 +859,6 @@
     "url": "https://www.spaceappschallenge.org/2026/local-events/new-york/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=NASA%27s+Space+Apps+Challenge+NYC",
     "start_date": "NOV 13 - 15",
     "location": "Brooklyn, New York, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Chapel Hill , North Carolina HackNC",
-    "url": "https://hacknc.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackNC",
-    "start_date": "OCT 09 - 11",
-    "location": "Chapel Hill, North Carolina, US In-Person",
     "source": "MLH"
   },
   {
@@ -883,13 +897,6 @@
     "source": "MLH"
   },
   {
-    "title": "Columbia , SC Palmetto Hacks",
-    "url": "https://palmettohacks.ktpusc.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Palmetto+Hacks",
-    "start_date": "OCT 10 - 11",
-    "location": "Columbia, SC, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Durham , County Durham DurHack",
     "url": "https://durhack.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=DurHack",
     "start_date": "NOV 14 - 15",
@@ -911,24 +918,10 @@
     "source": "MLH"
   },
   {
-    "title": "Flushing , New York Hack Knight",
-    "url": "https://hackknight.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+Knight",
-    "start_date": "OCT 09 - 11",
-    "location": "Flushing, New York, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Gainesville , Florida SwampHacks XII",
     "url": "https://swamphacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SwampHacks+XII",
     "start_date": "OCT 16 - 18",
     "location": "Gainesville, Florida, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Ghaziabad , Uttar Pradesh",
-    "url": "https://innohacks.live/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Innohacks+4.0",
-    "start_date": "Innohacks 4",
-    "location": ".0 OCT 10 - 11 Ghaziabad, Uttar Pradesh, IN In-Person",
     "source": "MLH"
   },
   {
@@ -943,13 +936,6 @@
     "url": "https://www.deltahacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=DeltaHacks",
     "start_date": "JAN 09 - 10",
     "location": "Hamilton, Ontario, CA In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Houston , Texas CodeRED Orion",
-    "url": "https://uhcode.red/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=CodeRED+Orion",
-    "start_date": "OCT 10 - 11",
-    "location": "Houston, Texas, US In-Person",
     "source": "MLH"
   },
   {
@@ -1072,13 +1058,6 @@
     "source": "MLH"
   },
   {
-    "title": "Orlando , Florida Knight Hacks IX",
-    "url": "https://2026.knighthacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Knight+Hacks+IX",
-    "start_date": "OCT 09 - 11",
-    "location": "Orlando, Florida, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Ottawa , Ontario",
     "url": "https://2027.uottahack.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=uOttaHack+9",
     "start_date": "uOttaHack 9",
@@ -1097,20 +1076,6 @@
     "url": "https://www.hacktrent.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackTrent",
     "start_date": "NOV 06 - 08",
     "location": "Peterborough, Ontario, CA In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Piscataway , New Jersey HackRU",
-    "url": "https://www.hackru.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackRU",
-    "start_date": "OCT 10 - 11",
-    "location": "Piscataway, New Jersey, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Princeton , New Jersey hackPHS",
-    "url": "https://hackphs.tech/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=hackPHS",
-    "start_date": "OCT 10 - 11",
-    "location": "Princeton, New Jersey, US In-Person HIGH SCHOOL",
     "source": "MLH"
   },
   {
