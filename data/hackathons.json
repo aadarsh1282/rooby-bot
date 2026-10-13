@@ -77,6 +77,13 @@
     "source": "Devpost"
   },
   {
+    "title": "AWS x A10 Hack 2026",
+    "url": "https://a10-x-aws-hack-26.devpost.com/",
+    "start_date": "Nov 07 - 08, 2026",
+    "location": "Heafey Hall",
+    "source": "Devpost"
+  },
+  {
     "title": "BearHacks 2027",
     "url": "https://bearhacks2027.devpost.com/",
     "start_date": "Apr 23 - 25, 2027",
@@ -322,6 +329,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Hack For Humanity (Taipei)",
+    "url": "https://hack-for-humanity-taipei.devpost.com/",
+    "start_date": "Oct 17, 2026",
+    "location": "Collaplay",
+    "source": "Devpost"
+  },
+  {
     "title": "Hack Like W@CC 2026",
     "url": "https://hack-like-wacc-26.devpost.com/",
     "start_date": "Oct 17 - 18, 2026",
@@ -476,10 +490,24 @@
     "source": "Devpost"
   },
   {
+    "title": "Human + AI Hackathon ($1750 Prize Pool)",
+    "url": "https://human-ai-hackathon.devpost.com/",
+    "start_date": "Oct 14, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "HuskyHack 2026: Phase 1",
     "url": "https://huskyhack2026.devpost.com/",
     "start_date": "Oct 17, 2026",
     "location": "Milgard Hall",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hybrid Micro Mouse Challenge",
+    "url": "https://hybrid-micro-mouse-challenge.devpost.com/",
+    "start_date": "Oct 29, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -588,6 +616,13 @@
     "source": "Devpost"
   },
   {
+    "title": "OCSEFHacks 3",
+    "url": "https://ocsefhacks3.devpost.com/",
+    "start_date": "Nov 14 - 15, 2026",
+    "location": "Westminster High School",
+    "source": "Devpost"
+  },
+  {
     "title": "ONHacks",
     "url": "https://onhacks.devpost.com/",
     "start_date": "Nov 21, 2026",
@@ -623,17 +658,17 @@
     "source": "Devpost"
   },
   {
-    "title": "RESPAWN",
-    "url": "https://respawn.devpost.com/",
-    "start_date": "Oct 12 - 15, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Revolution",
     "url": "https://revolution-mty2026.devpost.com/",
     "start_date": "Dec 05 - 06, 2026",
     "location": "Museo Del Acero Horno 3",
+    "source": "Devpost"
+  },
+  {
+    "title": "SBUHacks 2026",
+    "url": "https://sbuhacks-2026.devpost.com/",
+    "start_date": "Oct 23 - 25, 2026",
+    "location": "Frank Melville Jr. Memorial Library",
     "source": "Devpost"
   },
   {
@@ -992,6 +1027,13 @@
     "url": "https://ai.lahacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=LA+Hacks+AI+Hackathon+2026",
     "start_date": "Hackathon 20",
     "location": "26 OCT 17 - 18 Los Angeles, CA, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Los Angeles , CA QH QWER Hacks",
+    "url": "https://www.qwerhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=QWER+Hacks",
+    "start_date": "JAN 16 - 17",
+    "location": "Los Angeles, CA, US In-Person DIVERSITY",
     "source": "MLH"
   },
   {
