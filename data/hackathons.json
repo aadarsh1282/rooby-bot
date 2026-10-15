@@ -14,16 +14,9 @@
     "source": "Devpost"
   },
   {
-    "title": "305 CodeFest Edition December 2026",
+    "title": "305 CodeFest Edition December 2026 — 305Hackathons.vercel.app",
     "url": "https://305codefestdec2026.devpost.com/",
     "start_date": "Dec 01 - 31, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "305 Veterans Hackathon Edition November 2026",
-    "url": "https://305veteransnov2026.devpost.com/",
-    "start_date": "Nov 01 - 30, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -168,6 +161,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Cal Hacks 13.0",
+    "url": "https://cal-hacks-13-0.devpost.com/",
+    "start_date": "Oct 23 - 25, 2026",
+    "location": "Palace of Fine Arts",
+    "source": "Devpost"
+  },
+  {
     "title": "CapCut x EAST2046 University of Cambridge Creator Lab Free Learning Campus",
     "url": "https://cambridge-creator-lab.devpost.com/",
     "start_date": "Oct 22, 2026",
@@ -221,6 +221,13 @@
     "url": "https://crownhacks.devpost.com/",
     "start_date": "Nov 06 - 08, 2026",
     "location": "UNC Charlotte - Woodward Hall Room 106",
+    "source": "Devpost"
+  },
+  {
+    "title": "CSC Winter Sparkathon",
+    "url": "https://csc-winter-sparkathon.devpost.com/",
+    "start_date": "Oct 29 - Nov 30, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -469,13 +476,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hacktoberfest Hack Day Dhaka",
-    "url": "https://hacktoberfest-hack-day-dhaka.devpost.com/",
-    "start_date": "Oct 18, 2026",
-    "location": "EMK Center",
-    "source": "Devpost"
-  },
-  {
     "title": "HarborHack 2026 - Agent In The Loop",
     "url": "https://harborhack-2026.devpost.com/",
     "start_date": "Oct 23 - 25, 2026",
@@ -511,17 +511,17 @@
     "source": "Devpost"
   },
   {
-    "title": "Human + AI Hackathon ($1750 Prize Pool)",
-    "url": "https://human-ai-hackathon.devpost.com/",
-    "start_date": "Oct 14, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "HuskyHack 2026: Phase 1",
     "url": "https://huskyhack2026.devpost.com/",
     "start_date": "Oct 17, 2026",
     "location": "Milgard Hall",
+    "source": "Devpost"
+  },
+  {
+    "title": "HuskyHack 2026:Phase 2",
+    "url": "https://huskyhack2026phase2.devpost.com/",
+    "start_date": "Oct 18, 2026",
+    "location": "University of Washington Tacoma",
     "source": "Devpost"
   },
   {
@@ -543,6 +543,13 @@
     "url": "https://khe-2027.devpost.com/",
     "start_date": "Mar 06 - 07, 2027",
     "location": "Kent State University - DI Hub",
+    "source": "Devpost"
+  },
+  {
+    "title": "Kiroween 2026",
+    "url": "https://kiroween.devpost.com/",
+    "start_date": "Oct 30 - Dec 04, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -637,13 +644,6 @@
     "source": "Devpost"
   },
   {
-    "title": "OCSEFHacks 3",
-    "url": "https://ocsefhacks3.devpost.com/",
-    "start_date": "Nov 14 - 15, 2026",
-    "location": "Westminster High School",
-    "source": "Devpost"
-  },
-  {
     "title": "ONHacks",
     "url": "https://onhacks.devpost.com/",
     "start_date": "Nov 21, 2026",
@@ -655,20 +655,6 @@
     "url": "https://yunet-aignite26.devpost.com/",
     "start_date": "Nov 01 - 05, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "PowerHack",
-    "url": "https://powerhack.devpost.com/",
-    "start_date": "Nov 06, 2026",
-    "location": "Lehman College - East Dining Hall/MU-102",
-    "source": "Devpost"
-  },
-  {
-    "title": "RenderJuice Blender Animation & Programmatic Rendering Contest",
-    "url": "https://programmatic-rendering-contest.devpost.com/",
-    "start_date": "Oct 14 - 31, 2026",
-    "location": "New York, NY",
     "source": "Devpost"
   },
   {
@@ -728,6 +714,13 @@
     "source": "Devpost"
   },
   {
+    "title": "SPU Hacks",
+    "url": "https://spu-hacks.devpost.com/",
+    "start_date": "Oct 15 - 18, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "STEMergent Hacks 2026",
     "url": "https://stemergent-hacks.devpost.com/",
     "start_date": "Oct 31 - Nov 15, 2026",
@@ -737,7 +730,7 @@
   {
     "title": "Stupid Ideas Hackathon (Ottawa F26)",
     "url": "https://stupideas-ottawa-f26.devpost.com/",
-    "start_date": "Nov 07, 2026",
+    "start_date": "Nov 15, 2026",
     "location": "Ottawa, Canada",
     "source": "Devpost"
   },
@@ -767,6 +760,13 @@
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Mar 03 - 10, 2027",
     "location": "Tully Community Branch Library",
+    "source": "Devpost"
+  },
+  {
+    "title": "Technica 2026",
+    "url": "https://technica-2026.devpost.com/",
+    "start_date": "Oct 17 - 18, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -1149,6 +1149,13 @@
     "source": "MLH"
   },
   {
+    "title": "Princeton , New Jersey HackPrinceton",
+    "url": "https://www.hackprinceton.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackPrinceton+Fall+2026",
+    "start_date": "Fall 20",
+    "location": "26 NOV 13 - 15 Princeton, New Jersey, US In-Person HARDWARE",
+    "source": "MLH"
+  },
+  {
     "title": "Providence , RI Hack@",
     "url": "https://hackatbrown.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack%40Brown+2027",
     "start_date": "Brown 20",
@@ -1174,6 +1181,13 @@
     "url": "https://www.wehackutd.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=WEHack",
     "start_date": "APR 10 - 11",
     "location": "Richardson, TX, US In-Person DIVERSITY",
+    "source": "MLH"
+  },
+  {
+    "title": "Rochester , New York H HACK.COMS",
+    "url": "https://events.mlh.com/events/14418-hack-coms-2026?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HACK.COMS",
+    "start_date": "NOV 07 - 08",
+    "location": "Rochester, New York, US In-Person DIVERSITY",
     "source": "MLH"
   },
   {
@@ -1293,6 +1307,13 @@
     "url": "https://www.hoyahacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hoya+Hacks",
     "start_date": "JAN 22 - 24",
     "location": "Washington, DC, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Wellesley , Massachesetts WHACK (Wellesley Hackathon)",
+    "url": "https://www.wellesleyhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=WHACK+%28Wellesley+Hackathon%29",
+    "start_date": "NOV 21 - 22",
+    "location": "Wellesley, Massachesetts, US In-Person",
     "source": "MLH"
   },
   {
