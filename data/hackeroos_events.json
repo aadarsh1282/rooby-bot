@@ -67,14 +67,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "HyLogger Hackathon",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Oct 2026",
-    "location": "Perth, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "Lyra x Product Counsel Hackathon",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Oct 2026",
@@ -95,6 +87,14 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Oct 2026",
     "location": "In-Person",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Moonhack 2026 - Room booking for Scouts only",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Oct 2026",
+    "location": "Adelaide, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },

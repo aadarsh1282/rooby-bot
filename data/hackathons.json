@@ -35,13 +35,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Agentic Enterprise AI Hackathon — Box + AWS",
-    "url": "https://agentic-ai-hackathon-box-aws.devpost.com/",
-    "start_date": "Oct 16 - 17, 2026",
-    "location": "Amazon Day 1 Building",
-    "source": "Devpost"
-  },
-  {
     "title": "AI Agents for Founders Challenge — HETIC 2026",
     "url": "https://ai-agents-founders-hetic-26.devpost.com/",
     "start_date": "Nov 04 - Dec 18, 2026",
@@ -53,6 +46,13 @@
     "url": "https://ai-at-work-hack-the-everyday.devpost.com/",
     "start_date": "Oct 16, 2026",
     "location": "College for Creative Studies - Taubman",
+    "source": "Devpost"
+  },
+  {
+    "title": "AI Hackathon - Kenya",
+    "url": "https://ai-hackathon-ken.devpost.com/",
+    "start_date": "Oct 16 - 17, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -144,13 +144,6 @@
     "url": "https://innovate-in-windsor-hackathon.devpost.com/",
     "start_date": "Nov 13 - 20, 2026",
     "location": "University of Windsor",
-    "source": "Devpost"
-  },
-  {
-    "title": "Build-A-Thon",
-    "url": "https://build-a-thon-30568.devpost.com/",
-    "start_date": "Oct 16 - 17, 2026",
-    "location": "NCC Digital Park, University of Ibadan",
     "source": "Devpost"
   },
   {
@@ -252,6 +245,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Deal Flow: NYC's First VC Hackathon @ Betaworks",
+    "url": "https://nyc-vc-hack.devpost.com/",
+    "start_date": "Oct 24, 2026",
+    "location": "Betaworks NYC",
+    "source": "Devpost"
+  },
+  {
     "title": "Desert Dev Lab 2027",
     "url": "https://desert-dev-lab-2027.devpost.com/",
     "start_date": "Apr 24 - 25, 2027",
@@ -350,13 +350,6 @@
     "source": "Devpost"
   },
   {
-    "title": "GSD Hackathon - Get Shit Done",
-    "url": "https://tbd-hackathon.devpost.com/",
-    "start_date": "Jan 23, 2027",
-    "location": "Pennovation Works",
-    "source": "Devpost"
-  },
-  {
     "title": "H.A.R.D. Hack 2027",
     "url": "https://h-a-r-d-hack-2027.devpost.com/",
     "start_date": "Jan 30 - 31, 2027",
@@ -427,13 +420,6 @@
     "source": "Devpost"
   },
   {
-    "title": "HacKITSnova 2026",
-    "url": "https://hackitsnova-2026-31640.devpost.com/",
-    "start_date": "Oct 15, 2026",
-    "location": "Madawarayapuram, India",
-    "source": "Devpost"
-  },
-  {
     "title": "HackOHI/O 2026",
     "url": "https://hackohio2026.devpost.com/",
     "start_date": "Oct 24 - 25, 2026",
@@ -473,6 +459,13 @@
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hacktoberfest Hack Day Dhaka",
+    "url": "https://hacktoberfest-hack-day-dhaka.devpost.com/",
+    "start_date": "Oct 18, 2026",
+    "location": "EMK Center",
     "source": "Devpost"
   },
   {
@@ -536,6 +529,20 @@
     "url": "https://icehacks.devpost.com/",
     "start_date": "Nov 08 - 15, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "IKU Womxn in STEM Hackathon",
+    "url": "https://iku-womxn-in-stem-hackathon.devpost.com/",
+    "start_date": "Oct 17 - 18, 2026",
+    "location": "King's College London - Bush House",
+    "source": "Devpost"
+  },
+  {
+    "title": "InnovateLA x Dual-Use Hackathon",
+    "url": "https://innovatela.devpost.com/",
+    "start_date": "Oct 16 - 17, 2026",
+    "location": "University of Southern California- UPC",
     "source": "Devpost"
   },
   {
@@ -646,7 +653,7 @@
   {
     "title": "ONHacks",
     "url": "https://onhacks.devpost.com/",
-    "start_date": "Nov 21, 2026",
+    "start_date": "Nov 15, 2026",
     "location": "Polish Combatant's Hall",
     "source": "Devpost"
   },
@@ -679,13 +686,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Seattle GiveCamp 2026",
-    "url": "https://seattle-givecamp-2026.devpost.com/",
-    "start_date": "Oct 16 - 18, 2026",
-    "location": "Microsoft Building 122",
-    "source": "Devpost"
-  },
-  {
     "title": "Sheridan Datathon 2026",
     "url": "https://sheridandatathon2026.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -714,13 +714,6 @@
     "source": "Devpost"
   },
   {
-    "title": "SPU Hacks",
-    "url": "https://spu-hacks.devpost.com/",
-    "start_date": "Oct 15 - 18, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "STEMergent Hacks 2026",
     "url": "https://stemergent-hacks.devpost.com/",
     "start_date": "Oct 31 - Nov 15, 2026",
@@ -731,7 +724,7 @@
     "title": "Stupid Ideas Hackathon (Ottawa F26)",
     "url": "https://stupideas-ottawa-f26.devpost.com/",
     "start_date": "Nov 15, 2026",
-    "location": "Ottawa, Canada",
+    "location": "Bayview Yards",
     "source": "Devpost"
   },
   {
@@ -812,6 +805,13 @@
     "source": "Devpost"
   },
   {
+    "title": "uXperience Design Jam sponsored by Sunlife",
+    "url": "https://uxperience-f26.devpost.com/",
+    "start_date": "Oct 19 - 24, 2026",
+    "location": "DMS - Stratford Campus",
+    "source": "Devpost"
+  },
+  {
     "title": "Vibe Code Animated Maps",
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "Dec 20, 2026",
@@ -873,6 +873,13 @@
     "url": "https://www.hackumass.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackUMass",
     "start_date": "NOV 13 - 15",
     "location": "Amherst, MA, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Arlington , Texas HackUTA",
+    "url": "https://hackuta.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackUTA",
+    "start_date": "NOV 14 - 15",
+    "location": "Arlington, Texas, US In-Person HARDWARE",
     "source": "MLH"
   },
   {
@@ -992,6 +999,13 @@
     "url": "https://hackgb.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackGB",
     "start_date": "OCT 17 - 18",
     "location": "Green Bay, WI, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Hamilton , Ontario BioHacks",
+    "url": "https://www.bioeng4youth.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=BioHacks",
+    "start_date": "NOV 07 - 08",
+    "location": "Hamilton, Ontario, CA In-Person",
     "source": "MLH"
   },
   {
