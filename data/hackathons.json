@@ -28,13 +28,6 @@
     "source": "Devpost"
   },
   {
-    "title": "804 Hacks",
-    "url": "https://804hacks.devpost.com/",
-    "start_date": "Oct 18, 2026",
-    "location": "Randolph-Macon College - Birdsong Hall",
-    "source": "Devpost"
-  },
-  {
     "title": "Action Space",
     "url": "https://action-space-hacks.devpost.com/",
     "start_date": "Oct 24 - 25, 2026",
@@ -109,13 +102,6 @@
     "url": "https://build-beyond.devpost.com/",
     "start_date": "Mar 01 - 15, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Build The Next Big Thing with AI - Devmarketplace",
-    "url": "https://build-next-big-thing-with-ai.devpost.com/",
-    "start_date": "Oct 19 - 22, 2026",
-    "location": "NED University",
     "source": "Devpost"
   },
   {
@@ -287,6 +273,13 @@
     "source": "Devpost"
   },
   {
+    "title": "FUSE Society Blueprint 2026",
+    "url": "https://fuse-society-blueprint-2026.devpost.com/",
+    "start_date": "Oct 24 - 31, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "FutureForge Hacks",
     "url": "https://futureforge-hacks.devpost.com/",
     "start_date": "Nov 21, 2026",
@@ -326,6 +319,13 @@
     "url": "https://tbd-hackathon.devpost.com/",
     "start_date": "Jan 23, 2027",
     "location": "Pennovation Works",
+    "source": "Devpost"
+  },
+  {
+    "title": "GTransformer AI Buildathon 2026 — AI for Global Good",
+    "url": "https://gtransformer-buildathon-2026.devpost.com/",
+    "start_date": "Nov 13 - 15, 2026",
+    "location": "Milpitas, Bay Area + Online",
     "source": "Devpost"
   },
   {
@@ -476,13 +476,6 @@
     "source": "Devpost"
   },
   {
-    "title": "HuskyHack 2026: Phase 2",
-    "url": "https://huskyhack2026phase2.devpost.com/",
-    "start_date": "Oct 18, 2026",
-    "location": "University of Washington Tacoma",
-    "source": "Devpost"
-  },
-  {
     "title": "Hybrid Micro Mouse Challenge",
     "url": "https://hybrid-micro-mouse-challenge.devpost.com/",
     "start_date": "Oct 29, 2026",
@@ -560,6 +553,13 @@
     "source": "Devpost"
   },
   {
+    "title": "MEGA Hackathon 2027",
+    "url": "https://megahackathon-27.devpost.com/",
+    "start_date": "Feb 14 - 21, 2027",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Meow",
     "url": "https://makeuc-2026-30881.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -577,6 +577,13 @@
     "title": "N/A",
     "url": "https://ai-content-engine-hackathon.devpost.com/",
     "start_date": "Feb 02 - Apr 06, 2027",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "NextSpark Hacks",
+    "url": "https://nextspark-hacks.devpost.com/",
+    "start_date": "Oct 24 - 31, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -648,13 +655,6 @@
     "url": "https://sc-quantathon-v4.devpost.com/",
     "start_date": "Oct 23 - 24, 2027",
     "location": "Watt Family Innovation Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "SDC Hackathon 2026",
-    "url": "https://sdc-hackathon-2026.devpost.com/",
-    "start_date": "Oct 19 - 24, 2026",
-    "location": "Xiamen University Malaysia",
     "source": "Devpost"
   },
   {
@@ -735,9 +735,9 @@
     "source": "Devpost"
   },
   {
-    "title": "Ticket to Hack",
+    "title": "Ticket to Hack 2027 @ UVA",
     "url": "https://ticket-to-hack.devpost.com/",
-    "start_date": "Feb 27 - 28, 2027",
+    "start_date": "Feb 20 - 21, 2027",
     "location": "Rice Hall",
     "source": "Devpost"
   },
@@ -753,13 +753,6 @@
     "url": "https://unitedhacksv8.devpost.com/",
     "start_date": "Jan 08 - 10, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "uXperience Design Jam sponsored by Sunlife",
-    "url": "https://uxperience-f26.devpost.com/",
-    "start_date": "Oct 19 - 24, 2026",
-    "location": "DMS - Stratford Campus",
     "source": "Devpost"
   },
   {
@@ -890,13 +883,6 @@
     "source": "MLH"
   },
   {
-    "title": "Charlottesville , VA Girls Hoo",
-    "url": "https://girls-hoo-hack-uva.github.io/GHH-2026/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Girls+Hoo+Hack+2026",
-    "start_date": "Hack 20",
-    "location": "26 OCT 17 - 18 Charlottesville, VA, US In-Person DIVERSITY HARDWARE",
-    "source": "MLH"
-  },
-  {
     "title": "Cincinnati , Ohio M MakeUC",
     "url": "https://makeuc.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=MakeUC",
     "start_date": "NOV 07 - 08",
@@ -960,20 +946,6 @@
     "source": "MLH"
   },
   {
-    "title": "Gainesville , Florida SwampHacks XII",
-    "url": "https://swamphacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SwampHacks+XII",
-    "start_date": "OCT 16 - 18",
-    "location": "Gainesville, Florida, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Green Bay , WI HackGB",
-    "url": "https://hackgb.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackGB",
-    "start_date": "OCT 17 - 18",
-    "location": "Green Bay, WI, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Hamilton , Ontario BioHacks",
     "url": "https://www.bioeng4youth.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=BioHacks",
     "start_date": "NOV 07 - 08",
@@ -985,13 +957,6 @@
     "url": "https://www.deltahacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=DeltaHacks",
     "start_date": "JAN 09 - 10",
     "location": "Hamilton, Ontario, CA In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Hyattsville , Maryland Technica Hacks",
-    "url": "https://gotechnica.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Technica+Hacks",
-    "start_date": "OCT 17 - 18",
-    "location": "Hyattsville, Maryland, US In-Person DIVERSITY",
     "source": "MLH"
   },
   {
@@ -1034,20 +999,6 @@
     "url": "https://hackeps.dev/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackEPS",
     "start_date": "NOV 28 - 29",
     "location": "Lleida, Lleida, Spain, ES In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "London , London IKU Womxn in STEM Hackathon",
-    "url": "https://ikuwomxninstemhackathon.co.uk/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=IKU+Womxn+in+STEM+Hackathon",
-    "start_date": "OCT 17 - 18",
-    "location": "London, London, GB In-Person DIVERSITY",
-    "source": "MLH"
-  },
-  {
-    "title": "Los Angeles , CA LA Hacks AI",
-    "url": "https://ai.lahacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=LA+Hacks+AI+Hackathon+2026",
-    "start_date": "Hackathon 20",
-    "location": "26 OCT 17 - 18 Los Angeles, CA, US In-Person",
     "source": "MLH"
   },
   {
@@ -1209,20 +1160,6 @@
     "url": "https://calhacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Cal+Hacks+13.0+",
     "start_date": "Hacks 13",
     "location": ".0 OCT 23 - 25 San Francisco, California, US In-Person HARDWARE",
-    "source": "MLH"
-  },
-  {
-    "title": "Scarborough , Ontario Hack the Valley",
-    "url": "https://hackthevalley.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+the+Valley",
-    "start_date": "OCT 16 - 18",
-    "location": "Scarborough, Ontario, CA In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Seattle , Washington DubHacks",
-    "url": "https://dh26.dubhacks.co/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=DubHacks",
-    "start_date": "OCT 17 - 18",
-    "location": "Seattle, Washington, US In-Person",
     "source": "MLH"
   },
   {
