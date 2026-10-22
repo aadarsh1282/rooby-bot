@@ -63,6 +63,13 @@
     "source": "Devpost"
   },
   {
+    "title": "BDBI x SpaceXSI Grokathon",
+    "url": "https://bdbi-x-spacexsi.devpost.com/",
+    "start_date": "Nov 02, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "BearHacks 2027",
     "url": "https://bearhacks2027.devpost.com/",
     "start_date": "Apr 23 - 25, 2027",
@@ -74,13 +81,6 @@
     "url": "https://biohacksmcmaster.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "McMaster University - PGCLL",
-    "source": "Devpost"
-  },
-  {
-    "title": "BISV Hacks 2027",
-    "url": "https://bisv-hacks-2027.devpost.com/",
-    "start_date": "Mar 27, 2027",
-    "location": "BASIS Independent Silicon Valley",
     "source": "Devpost"
   },
   {
@@ -140,13 +140,6 @@
     "source": "Devpost"
   },
   {
-    "title": "CapCut x EAST2046 University of Cambridge Creator Lab Free Learning Campus",
-    "url": "https://cambridge-creator-lab.devpost.com/",
-    "start_date": "Oct 22, 2026",
-    "location": "IfM, University of Cambridge",
-    "source": "Devpost"
-  },
-  {
     "title": "Central Hacks",
     "url": "https://central-hacks.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
@@ -165,6 +158,13 @@
     "url": "https://code-clash.devpost.com/",
     "start_date": "Nov 14, 2026",
     "location": "Towson Cyber Center (10 West)",
+    "source": "Devpost"
+  },
+  {
+    "title": "CodeFest 2026 by ColorStackBU",
+    "url": "https://codefest-2026-colorstackbu.devpost.com/",
+    "start_date": "Oct 24 - 25, 2026",
+    "location": "Binghamton University Classroom Wing",
     "source": "Devpost"
   },
   {
@@ -192,6 +192,13 @@
     "title": "CSC Winter Sparkathon",
     "url": "https://csc-winter-sparkathon.devpost.com/",
     "start_date": "Oct 29 - Nov 30, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Ctrl+V Hackathon",
+    "url": "https://ctrl-v-hackathon-31831.devpost.com/",
+    "start_date": "Nov 06 - 10, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -270,13 +277,6 @@
     "url": "https://evensonarisnord.devpost.com/",
     "start_date": "Dec 31, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "FSB AI Build-a-thon Event 02",
-    "url": "https://fsb-ai-buildathon-02.devpost.com/",
-    "start_date": "Nov 03, 2026",
-    "location": "Farmer School of Business",
     "source": "Devpost"
   },
   {
@@ -448,6 +448,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Haunted Hacks: Realtime AI Edition",
+    "url": "https://haunted-hacks.devpost.com/",
+    "start_date": "Oct 31, 2026",
+    "location": "Y Combinator",
+    "source": "Devpost"
+  },
+  {
     "title": "Haven Las Vegas",
     "url": "https://haven-las-vegas.devpost.com/",
     "start_date": "Nov 15, 2026",
@@ -483,17 +490,17 @@
     "source": "Devpost"
   },
   {
+    "title": "HowdyHack 2026",
+    "url": "https://hh26.devpost.com/",
+    "start_date": "Oct 24 - 25, 2026",
+    "location": "Texas A＆M - Memorial Student Center",
+    "source": "Devpost"
+  },
+  {
     "title": "Hoya Hacks 2027",
     "url": "https://hoya-hacks-2027.devpost.com/",
     "start_date": "Jan 22 - 24, 2027",
     "location": "Healey Family Student Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hybrid Micro Mouse Challenge",
-    "url": "https://hybrid-micro-mouse-challenge.devpost.com/",
-    "start_date": "Oct 29, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -609,13 +616,6 @@
     "source": "Devpost"
   },
   {
-    "title": "NextSpark Hacks",
-    "url": "https://nextspark-hacks.devpost.com/",
-    "start_date": "Oct 21 - 26, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "NSH @RPI 2027",
     "url": "https://nsh-rpi-2027.devpost.com/",
     "start_date": "Jan 30 - 31, 2027",
@@ -658,6 +658,13 @@
     "source": "Devpost"
   },
   {
+    "title": "RebelHacks 2027",
+    "url": "https://rebelhacks-2027.devpost.com/",
+    "start_date": "Feb 20 - 21, 2027",
+    "location": "University of Nevada Las Vegas, SEB 1311",
+    "source": "Devpost"
+  },
+  {
     "title": "Redhawk Builds 2026",
     "url": "https://redhawk-builds-2026.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -686,10 +693,10 @@
     "source": "Devpost"
   },
   {
-    "title": "SCALE FORGE AI HACKATHON",
-    "url": "https://scale-forge-ai-hackathon.devpost.com/",
-    "start_date": "Nov 22 - 23, 2026",
-    "location": "ISLAMABAD",
+    "title": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
+    "url": "https://scope-ai-thon-2026.devpost.com/",
+    "start_date": "Nov 01 - 14, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -777,6 +784,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Trick or Build: Mel × Prompt Anything × AI Builders",
+    "url": "https://trick-or-build.devpost.com/",
+    "start_date": "Oct 29, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "UGAHacks CADathon",
     "url": "https://ugahacks-cadathon.devpost.com/",
     "start_date": "Oct 24 - 25, 2026",
@@ -809,6 +823,13 @@
     "url": "https://wwu-sj-hack.devpost.com/",
     "start_date": "Nov 07, 2026",
     "location": "WWU - Kaiser Borsari Building",
+    "source": "Devpost"
+  },
+  {
+    "title": "Zero Human Company Hackathon at Whop HQ by Terac",
+    "url": "https://zhch-nyc.devpost.com/",
+    "start_date": "Oct 24, 2026",
+    "location": "Whop Headquarters",
     "source": "Devpost"
   },
   {
@@ -978,13 +999,6 @@
     "url": "https://hackjunction.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Junction",
     "start_date": "NOV 13 - 15",
     "location": "Espoo, Uusimaa, FI In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Everywhere , Worldwide F fph-example",
-    "url": "https://events.mlh.com/events/15611-fph-example?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=fph-example",
-    "start_date": "OCT 23 - 25",
-    "location": "Everywhere, Worldwide, US In-Person",
     "source": "MLH"
   },
   {
