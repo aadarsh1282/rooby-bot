@@ -67,14 +67,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "UNSW RAMSoc Presents: BUILD-A-THON Showcase",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Oct 2026",
-    "location": "Sydney, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "Sydney Apple AI Hackathon",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Oct 2026",
@@ -95,6 +87,14 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Oct 2026",
     "location": "Melbourne, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Hack It! • Spring 2026 • Wendouree Library",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Oct 2026",
+    "location": "In-Person",
     "source": "Hackeroos",
     "mode": "In-Person"
   },

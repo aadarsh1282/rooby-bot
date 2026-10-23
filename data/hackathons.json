@@ -42,13 +42,6 @@
     "source": "Devpost"
   },
   {
-    "title": "AI Builder Competition (Hackachusetts)",
-    "url": "https://a-hackachusetts.devpost.com/",
-    "start_date": "Oct 24, 2026",
-    "location": "Meehan Student Center (MSC) 490",
-    "source": "Devpost"
-  },
-  {
     "title": "Asymmetric Reframed Reality Hackathon & Co-Creation Workshop",
     "url": "https://arr-hackathon-co-creation.devpost.com/",
     "start_date": "Nov 04 - 06, 2026",
@@ -161,13 +154,6 @@
     "source": "Devpost"
   },
   {
-    "title": "CodeFest 2026 by ColorStackBU",
-    "url": "https://codefest-2026-colorstackbu.devpost.com/",
-    "start_date": "Oct 24 - 25, 2026",
-    "location": "Binghamton University Classroom Wing",
-    "source": "Devpost"
-  },
-  {
     "title": "CommuniHacks",
     "url": "https://communihacks.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -207,6 +193,13 @@
     "url": "https://cutie-hack-2026.devpost.com/",
     "start_date": "Nov 21, 2026",
     "location": "UC Riverside - Winston Chung Hall",
+    "source": "Devpost"
+  },
+  {
+    "title": "Dakar Bitcoin Hack by BTrust",
+    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+    "start_date": "Oct 26 - Nov 20, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -448,13 +441,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Haunted Hacks: Realtime AI Edition",
-    "url": "https://haunted-hacks.devpost.com/",
-    "start_date": "Oct 31, 2026",
-    "location": "Y Combinator",
-    "source": "Devpost"
-  },
-  {
     "title": "Haven Las Vegas",
     "url": "https://haven-las-vegas.devpost.com/",
     "start_date": "Nov 15, 2026",
@@ -567,6 +553,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Make Her Hack",
+    "url": "https://make-her-hack.devpost.com/",
+    "start_date": "Oct 23, 2026",
+    "location": "Kochi",
+    "source": "Devpost"
+  },
+  {
     "title": "MakeUC 2026",
     "url": "https://makeuc-2026-30884.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -669,6 +662,13 @@
     "url": "https://redhawk-builds-2026.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "McVey Data Science Building",
+    "source": "Devpost"
+  },
+  {
+    "title": "Redshifted Cortex - AI built by High Schoolers",
+    "url": "https://redshifted-cortex.devpost.com/",
+    "start_date": "Nov 07, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -805,6 +805,13 @@
     "source": "Devpost"
   },
   {
+    "title": "UXDC Designathon - 2026",
+    "url": "https://uxdc-designathon-2026.devpost.com/",
+    "start_date": "Nov 07 - 08, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Vibe Code Animated Maps",
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "Dec 20, 2026",
@@ -823,13 +830,6 @@
     "url": "https://wwu-sj-hack.devpost.com/",
     "start_date": "Nov 07, 2026",
     "location": "WWU - Kaiser Borsari Building",
-    "source": "Devpost"
-  },
-  {
-    "title": "Zero Human Company Hackathon at Whop HQ by Terac",
-    "url": "https://zhch-nyc.devpost.com/",
-    "start_date": "Oct 24, 2026",
-    "location": "Whop Headquarters",
     "source": "Devpost"
   },
   {
@@ -1031,7 +1031,7 @@
   },
   {
     "title": "La Jolla , CA SanD Hacks",
-    "url": "https://csesucsd.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SanD+Hacks",
+    "url": "https://hackathon.csesatucsd.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SanD+Hacks",
     "start_date": "NOV 14 - 15",
     "location": "La Jolla, CA, US In-Person",
     "source": "MLH"
@@ -1055,6 +1055,13 @@
     "url": "https://hackeps.dev/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackEPS",
     "start_date": "NOV 28 - 29",
     "location": "Lleida, Lleida, Spain, ES In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "London , Ontario Hack",
+    "url": "https://hackwestern.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+Western+13",
+    "start_date": "Western 13",
+    "location": "NOV 20 - 22 London, Ontario, CA In-Person HARDWARE",
     "source": "MLH"
   },
   {
@@ -1216,6 +1223,13 @@
     "url": "https://calhacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Cal+Hacks+13.0+",
     "start_date": "Hacks 13",
     "location": ".0 OCT 23 - 25 San Francisco, California, US In-Person HARDWARE",
+    "source": "MLH"
+  },
+  {
+    "title": "Sheffield , South Yorkshire H HackSheffield11",
+    "url": "https://hacksheffield.uk/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackSheffield11",
+    "start_date": "NOV 28 - 29",
+    "location": "Sheffield, South Yorkshire, GB In-Person",
     "source": "MLH"
   },
   {
