@@ -7,13 +7,6 @@
     "source": "Devpost"
   },
   {
-    "title": "2026 AI for Good Hackathon",
-    "url": "https://2026ai4goodhackathon.devpost.com/",
-    "start_date": "Oct 23 - 25, 2026",
-    "location": "The Link",
-    "source": "Devpost"
-  },
-  {
     "title": "305 CodeFest Edition December 2026 — 305Hackathons.vercel.app",
     "url": "https://305codefestdec2026.devpost.com/",
     "start_date": "Dec 01 - 31, 2026",
@@ -35,10 +28,31 @@
     "source": "Devpost"
   },
   {
+    "title": "Agent Builders Hackathon",
+    "url": "https://agent-builders-hackathon.devpost.com/",
+    "start_date": "Oct 24, 2026",
+    "location": "Primitive Office",
+    "source": "Devpost"
+  },
+  {
     "title": "AI Agents for Founders Challenge — HETIC 2026",
     "url": "https://ai-agents-founders-hetic-26.devpost.com/",
     "start_date": "Nov 04 - Dec 18, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "AI Builder Competition (Hackachusetts)",
+    "url": "https://a-hackachusetts.devpost.com/",
+    "start_date": "Oct 24, 2026",
+    "location": "Meehan Student Center (MSC) 490",
+    "source": "Devpost"
+  },
+  {
+    "title": "AI in Healthcare Hackathon",
+    "url": "https://leeds-ai-hackathon.devpost.com/",
+    "start_date": "Oct 24 - 25, 2026",
+    "location": "University of Leeds - Helix",
     "source": "Devpost"
   },
   {
@@ -74,6 +88,13 @@
     "url": "https://biohacksmcmaster.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "McMaster University - PGCLL",
+    "source": "Devpost"
+  },
+  {
+    "title": "Blackout 2026",
+    "url": "https://blackout-2026.devpost.com/",
+    "start_date": "Nov 28, 2026",
+    "location": "Coimbatore , TamilNadu",
     "source": "Devpost"
   },
   {
@@ -126,13 +147,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Cal Hacks 13.0",
-    "url": "https://cal-hacks-13-0.devpost.com/",
-    "start_date": "Oct 23 - 25, 2026",
-    "location": "Palace of Fine Arts",
-    "source": "Devpost"
-  },
-  {
     "title": "Central Hacks",
     "url": "https://central-hacks.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
@@ -151,6 +165,13 @@
     "url": "https://code-clash.devpost.com/",
     "start_date": "Nov 14, 2026",
     "location": "Towson Cyber Center (10 West)",
+    "source": "Devpost"
+  },
+  {
+    "title": "CodeFest 2026 by ColorStackBU",
+    "url": "https://codefest-2026-colorstackbu.devpost.com/",
+    "start_date": "Oct 24 - 25, 2026",
+    "location": "Binghamton University Classroom Wing",
     "source": "Devpost"
   },
   {
@@ -273,10 +294,17 @@
     "source": "Devpost"
   },
   {
-    "title": "FUSE Society Blueprint 2026",
-    "url": "https://fuse-society-blueprint-2026.devpost.com/",
-    "start_date": "Oct 24 - 31, 2026",
+    "title": "Five Nights with AI",
+    "url": "https://five-nights-with-ai.devpost.com/",
+    "start_date": "Oct 24, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "FSB AI Build-a-thon Event 02",
+    "url": "https://fsb-ai-buildathon-02.devpost.com/",
+    "start_date": "Nov 03, 2026",
+    "location": "Farmer School of Business",
     "source": "Devpost"
   },
   {
@@ -287,24 +315,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Gator Hack V - AI Days 2026",
-    "url": "https://gatorhack2026.devpost.com/",
-    "start_date": "Oct 23 - 25, 2026",
-    "location": "Newell Hall, University of Florida",
-    "source": "Devpost"
-  },
-  {
     "title": "Gear Up Hacks 2026",
     "url": "https://gear-up-hacks-2026.devpost.com/",
     "start_date": "Oct 24, 2026",
     "location": "Lincoln on Geer",
-    "source": "Devpost"
-  },
-  {
-    "title": "GeauxHack 2026",
-    "url": "https://geauxhack-2026.devpost.com/",
-    "start_date": "Oct 23 - 25, 2026",
-    "location": "Patrick F. Taylor Hall",
     "source": "Devpost"
   },
   {
@@ -434,13 +448,6 @@
     "source": "Devpost"
   },
   {
-    "title": "HarborHack 2026 - Agent In The Loop",
-    "url": "https://harborhack-2026.devpost.com/",
-    "start_date": "Oct 23 - 25, 2026",
-    "location": "College of Charleston, Harbor Walk",
-    "source": "Devpost"
-  },
-  {
     "title": "Haven Las Vegas",
     "url": "https://haven-las-vegas.devpost.com/",
     "start_date": "Nov 15, 2026",
@@ -550,13 +557,6 @@
     "url": "https://loohacks.devpost.com/",
     "start_date": "Nov 27 - 29, 2026",
     "location": "Spur Innovation Center - SPUR Campus",
-    "source": "Devpost"
-  },
-  {
-    "title": "Make Her Hack",
-    "url": "https://make-her-hack.devpost.com/",
-    "start_date": "Oct 23, 2026",
-    "location": "Kochi",
     "source": "Devpost"
   },
   {
@@ -672,17 +672,17 @@
     "source": "Devpost"
   },
   {
+    "title": "REPLIT UG Hackathon",
+    "url": "https://replit-ug-hackathon.devpost.com/",
+    "start_date": "Oct 24, 2026",
+    "location": "Accra",
+    "source": "Devpost"
+  },
+  {
     "title": "Revolution",
     "url": "https://revolution-mty2026.devpost.com/",
     "start_date": "Dec 05 - 06, 2026",
     "location": "Museo Del Acero Horno 3",
-    "source": "Devpost"
-  },
-  {
-    "title": "SBUHacks 2026",
-    "url": "https://sbuhacks-2026.devpost.com/",
-    "start_date": "Oct 23 - 25, 2026",
-    "location": "Frank Melville Jr. Memorial Library",
     "source": "Devpost"
   },
   {
@@ -759,20 +759,13 @@
     "title": "Teens Hack Houston Hackathon",
     "url": "https://tripleh.devpost.com/",
     "start_date": "Nov 14 - 21, 2026",
-    "location": "The Post",
+    "location": "Online",
     "source": "Devpost"
   },
   {
     "title": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
     "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
     "start_date": "Nov 10 - 11, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "The Top 500 (UH v2)",
-    "url": "https://the-top-500-uh-v2.devpost.com/",
-    "start_date": "Oct 23 - 25, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -791,10 +784,10 @@
     "source": "Devpost"
   },
   {
-    "title": "UGAHacks CADathon",
-    "url": "https://ugahacks-cadathon.devpost.com/",
-    "start_date": "Oct 24 - 25, 2026",
-    "location": "UGA - Driftmier Engineering Center",
+    "title": "UF GDG DevFest 2026",
+    "url": "https://ufgdg-devfest-2026.devpost.com/",
+    "start_date": "Oct 24, 2026",
+    "location": "Turlington Hall - University of Florida",
     "source": "Devpost"
   },
   {
@@ -809,6 +802,13 @@
     "url": "https://uxdc-designathon-2026.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "UXperience: Waves of Becoming",
+    "url": "https://uxperience-waves-of-becoming.devpost.com/",
+    "start_date": "Oct 24 - 25, 2026",
+    "location": "ECSW @ UT Dallas",
     "source": "Devpost"
   },
   {
@@ -833,9 +833,9 @@
     "source": "Devpost"
   },
   {
-    "title": "Zoftware AgentHack",
+    "title": "Zoftware Hackathon",
     "url": "https://zoftware-agenthack.devpost.com/",
-    "start_date": "Oct 24, 2026",
+    "start_date": "Oct 31, 2026",
     "location": "Spring House Workspaces SHGU001",
     "source": "Devpost"
   },
@@ -879,7 +879,7 @@
     "title": "Arlington , Texas HackUTA",
     "url": "https://hackuta.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackUTA",
     "start_date": "NOV 14 - 15",
-    "location": "Arlington, Texas, US In-Person HARDWARE",
+    "location": "Arlington, Texas, US In-Person",
     "source": "MLH"
   },
   {
@@ -1191,7 +1191,7 @@
     "source": "MLH"
   },
   {
-    "title": "Rochester , New York H HACK.COMS",
+    "title": "Rochester , New York HACK.COMS",
     "url": "https://events.mlh.com/events/14418-hack-coms-2026?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HACK.COMS",
     "start_date": "NOV 07 - 08",
     "location": "Rochester, New York, US In-Person DIVERSITY",
