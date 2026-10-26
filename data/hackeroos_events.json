@@ -67,14 +67,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Hack It! • Spring 2026 • Wendouree Library",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Oct 2026",
-    "location": "In-Person",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "AI WRANGLER CHALLENGE",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Oct 2026",
@@ -95,6 +87,14 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
     "location": "Canberra, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Level Her Up Community Meetup + Game Jam Theme Reveal",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Nov 2026",
+    "location": "Perth, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },

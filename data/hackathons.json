@@ -163,7 +163,7 @@
   {
     "title": "Cosmo Hacks 2026",
     "url": "https://cosmohacks.devpost.com/",
-    "start_date": "Dec 18 - 21, 2026",
+    "start_date": "Dec 18, 2026 - Jan 18, 2027",
     "location": "Online",
     "source": "Devpost"
   },
@@ -193,13 +193,6 @@
     "url": "https://cutie-hack-2026.devpost.com/",
     "start_date": "Nov 21, 2026",
     "location": "UC Riverside - Winston Chung Hall",
-    "source": "Devpost"
-  },
-  {
-    "title": "Dakar Bitcoin Hack by BTrust",
-    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "start_date": "Oct 26 - Nov 20, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -273,6 +266,13 @@
     "source": "Devpost"
   },
   {
+    "title": "GNEC Hackathon 2027 Winter - Compete For UN-Affiliated/NGO Internships & Prizes",
+    "url": "https://gnec-hackathon-2027-winter.devpost.com/",
+    "start_date": "Jan 26 - Mar 26, 2027",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "GoatHacks 2027",
     "url": "https://goathacks-2027.devpost.com/",
     "start_date": "Jan 29 - 31, 2027",
@@ -319,6 +319,13 @@
     "url": "https://hack-western-13.devpost.com/",
     "start_date": "Nov 20 - 22, 2026",
     "location": "London, Canada",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hack With Karthik",
+    "url": "https://hack-with-karthik.devpost.com/",
+    "start_date": "Oct 30 - Nov 01, 2026",
+    "location": "Al-Amen",
     "source": "Devpost"
   },
   {
@@ -869,13 +876,6 @@
     "source": "MLH"
   },
   {
-    "title": "Austin , TX",
-    "url": "https://hacktx.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackTX+26",
-    "start_date": "HackTX 26",
-    "location": "OCT 24 - 25 Austin, TX, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Boston , MA B BostonHacks",
     "url": "https://bostonhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=BostonHacks",
     "start_date": "NOV 21 - 22",
@@ -936,13 +936,6 @@
     "url": "https://durhack.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=DurHack",
     "start_date": "NOV 14 - 15",
     "location": "Durham, County Durham, GB In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Durham , NC DuQuantum",
-    "url": "https://duquantum.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=DuQuantum",
-    "start_date": "OCT 24 - 25",
-    "location": "Durham, NC, US In-Person",
     "source": "MLH"
   },
   {
@@ -1107,13 +1100,6 @@
     "source": "MLH"
   },
   {
-    "title": "Oxford , England OxHack '26",
-    "url": "https://26.oxhack.net/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=OxHack+%2726",
-    "start_date": "OCT 24 - 25",
-    "location": "Oxford, England, GB In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Peterborough , Ontario HackTrent",
     "url": "https://www.hacktrent.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackTrent",
     "start_date": "NOV 06 - 08",
@@ -1184,13 +1170,6 @@
     "source": "MLH"
   },
   {
-    "title": "San Francisco , California Cal",
-    "url": "https://calhacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Cal+Hacks+13.0+",
-    "start_date": "Hacks 13",
-    "location": ".0 OCT 23 - 25 San Francisco, California, US In-Person HARDWARE",
-    "source": "MLH"
-  },
-  {
     "title": "Sheffield , South Yorkshire H HackSheffield11",
     "url": "https://hacksheffield.uk/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackSheffield11",
     "start_date": "NOV 28 - 29",
@@ -1202,13 +1181,6 @@
     "url": "https://tecnurtur.org/hackathon?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Tech+For+Community+2026",
     "start_date": "Community 20",
     "location": "26 NOV 21 - 22 St. John's, Newfoundland and Labrador / Avalon Peninsula, CA In-Person HIGH SCHOOL HARDWARE",
-    "source": "MLH"
-  },
-  {
-    "title": "Stony Brook , New York SBUHacks",
-    "url": "https://hack.sbcs.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SBUHacks",
-    "start_date": "OCT 23 - 25",
-    "location": "Stony Brook, New York, US In-Person",
     "source": "MLH"
   },
   {
@@ -1258,13 +1230,6 @@
     "url": "https://sinceai.ai/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Since+AI+Hackathon",
     "start_date": "NOV 06 - 08",
     "location": "Turku, Varsinais-Suomi, FI In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "University Park , PA Hack at Penn State",
-    "url": "https://hackpsu.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+at+Penn+State",
-    "start_date": "OCT 24 - 25",
-    "location": "University Park, PA, US In-Person",
     "source": "MLH"
   },
   {
