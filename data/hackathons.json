@@ -1,5 +1,12 @@
 [
   {
+    "title": "#BuildHybridAI 2026",
+    "url": "https://firebasehybridaihackathon.devpost.com/",
+    "start_date": "Nov 09 - 30, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": ".devHacks 2027",
     "url": "https://devhacks-2027.devpost.com/",
     "start_date": "Feb 19 - 21, 2027",
@@ -17,6 +24,13 @@
     "title": "305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app",
     "url": "https://305veteransnov2026.devpost.com/",
     "start_date": "Nov 01 - 30, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Agentic Hackathon",
+    "url": "https://agentic-hackathon.devpost.com/",
+    "start_date": "Nov 01 - 10, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -63,17 +77,17 @@
     "source": "Devpost"
   },
   {
+    "title": "Bharat Builds Tour",
+    "url": "https://bharat-builds-tour.devpost.com/",
+    "start_date": "Nov 16 - 17, 2026",
+    "location": "jaipur",
+    "source": "Devpost"
+  },
+  {
     "title": "BioHacks",
     "url": "https://biohacksmcmaster.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "McMaster University - PGCLL",
-    "source": "Devpost"
-  },
-  {
-    "title": "BISV Hacks 2027",
-    "url": "https://bisv-hacks-2027.devpost.com/",
-    "start_date": "Mar 27, 2027",
-    "location": "BASIS Independent Silicon Valley",
     "source": "Devpost"
   },
   {
@@ -163,7 +177,7 @@
   {
     "title": "Cosmo Hacks 2026",
     "url": "https://cosmohacks.devpost.com/",
-    "start_date": "Dec 18, 2026 - Jan 18, 2027",
+    "start_date": "Dec 19, 2026 - Jan 18, 2027",
     "location": "Online",
     "source": "Devpost"
   },
@@ -275,7 +289,7 @@
   {
     "title": "GoatHacks 2027",
     "url": "https://goathacks-2027.devpost.com/",
-    "start_date": "Jan 29 - 31, 2027",
+    "start_date": "Mar 26 - 28, 2027",
     "location": "WPI - Campus Center",
     "source": "Devpost"
   },
@@ -318,7 +332,7 @@
     "title": "Hack Western 13",
     "url": "https://hack-western-13.devpost.com/",
     "start_date": "Nov 20 - 22, 2026",
-    "location": "London, Canada",
+    "location": "SEI Building",
     "source": "Devpost"
   },
   {
@@ -380,7 +394,7 @@
   {
     "title": "HackTheFashion Global'26",
     "url": "https://hackthefashion-global26.devpost.com/",
-    "start_date": "Nov 06 - Dec 31, 2026",
+    "start_date": "Nov 06 - 25, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -445,6 +459,13 @@
     "url": "https://indy-init-2026.devpost.com/",
     "start_date": "Nov 07, 2026",
     "location": "Launch Fishers",
+    "source": "Devpost"
+  },
+  {
+    "title": "Intermountain Quantum Competition",
+    "url": "https://iqc.devpost.com/",
+    "start_date": "Nov 06 - 07, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -665,6 +686,13 @@
     "source": "Devpost"
   },
   {
+    "title": "SearchHack: Build the next layer of AI search",
+    "url": "https://searchhack.devpost.com/",
+    "start_date": "Nov 14, 2026",
+    "location": "Sunnyvale",
+    "source": "Devpost"
+  },
+  {
     "title": "Sheridan Datathon 2026",
     "url": "https://sheridandatathon2026.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -704,13 +732,6 @@
     "url": "https://stupideas-ottawa-f26.devpost.com/",
     "start_date": "Nov 15, 2026",
     "location": "Bayview Yards",
-    "source": "Devpost"
-  },
-  {
-    "title": "SUSTAIN-A-THON 2.0",
-    "url": "https://sustain-a-thon-2-0-31534.devpost.com/",
-    "start_date": "Oct 27 - 28, 2026",
-    "location": "Block 45, Sharda University,",
     "source": "Devpost"
   },
   {
@@ -766,6 +787,13 @@
     "title": "Trick or Build: Mel × Prompt Anything × AI Builders",
     "url": "https://trick-or-build.devpost.com/",
     "start_date": "Oct 29, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "TRMI X Lovhack : Multiplayer Everything Hackathon",
+    "url": "https://lovhack-trmi-2026.devpost.com/",
+    "start_date": "Oct 31 - Nov 01, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -1139,13 +1167,6 @@
     "url": "https://www.wehackutd.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=WEHack",
     "start_date": "APR 10 - 11",
     "location": "Richardson, TX, US In-Person DIVERSITY",
-    "source": "MLH"
-  },
-  {
-    "title": "Rochester , New York HACK.COMS",
-    "url": "https://events.mlh.com/events/14418-hack-coms-2026?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HACK.COMS",
-    "start_date": "NOV 07 - 08",
-    "location": "Rochester, New York, US In-Person DIVERSITY",
     "source": "MLH"
   },
   {
