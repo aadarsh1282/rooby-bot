@@ -67,14 +67,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "AI WRANGLER CHALLENGE",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Oct 2026",
-    "location": "Melbourne, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "AccessHack 2.0",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
@@ -95,6 +87,14 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
     "location": "Perth, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Free Short Film Hackathon for People with Disability 2026",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Nov 2026",
+    "location": "Sydney, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },

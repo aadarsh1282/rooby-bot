@@ -77,13 +77,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Bharat Builds Tour",
-    "url": "https://bharat-builds-tour.devpost.com/",
-    "start_date": "Nov 16 - 17, 2026",
-    "location": "jaipur",
-    "source": "Devpost"
-  },
-  {
     "title": "BioHacks",
     "url": "https://biohacksmcmaster.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
@@ -144,6 +137,13 @@
     "url": "https://business-battkefuekd.devpost.com/",
     "start_date": "Feb 20, 2027",
     "location": "Virginia De Land Theatre",
+    "source": "Devpost"
+  },
+  {
+    "title": "Catalyst California Conference (C3) Hackathon",
+    "url": "https://c3hackathon.devpost.com/",
+    "start_date": "Oct 28, 2026",
+    "location": "Anaheim, CA, USA",
     "source": "Devpost"
   },
   {
@@ -276,6 +276,13 @@
     "title": "Global AI Builder’s Challenge",
     "url": "https://global-ai-builders-challenge.devpost.com/",
     "start_date": "Nov 21 - 28, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Global AI Hackathon - Devcon 2026 By Mel",
+    "url": "https://trick-or-build.devpost.com/",
+    "start_date": "Oct 31 - Nov 01, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -493,13 +500,6 @@
     "title": "KUK VIRTUAL HACKATHON",
     "url": "https://kuk-virtual-hackathon.devpost.com/",
     "start_date": "Nov 15 - 22, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "LancerHacks",
-    "url": "https://lancerhacks2026.devpost.com/",
-    "start_date": "Oct 30, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -784,13 +784,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Trick or Build: Mel × Prompt Anything × AI Builders",
-    "url": "https://trick-or-build.devpost.com/",
-    "start_date": "Oct 29, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "TRMI X Lovhack : Multiplayer Everything Hackathon",
     "url": "https://lovhack-trmi-2026.devpost.com/",
     "start_date": "Oct 31 - Nov 01, 2026",
@@ -823,6 +816,13 @@
     "url": "https://wics-hackathon.devpost.com/",
     "start_date": "Feb 28 - Mar 02, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "WWC Hackathon",
+    "url": "https://wwc-hackathon.devpost.com/",
+    "start_date": "Nov 03 - 09, 2026",
+    "location": "Fiji",
     "source": "Devpost"
   },
   {
