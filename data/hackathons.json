@@ -140,13 +140,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Catalyst California Conference (C3) Hackathon",
-    "url": "https://c3hackathon.devpost.com/",
-    "start_date": "Oct 28, 2026",
-    "location": "Anaheim, CA, USA",
-    "source": "Devpost"
-  },
-  {
     "title": "Central Hacks",
     "url": "https://central-hacks.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
@@ -186,13 +179,6 @@
     "url": "https://crownhacks.devpost.com/",
     "start_date": "Nov 06 - 08, 2026",
     "location": "UNC Charlotte - Woodward Hall Room 106",
-    "source": "Devpost"
-  },
-  {
-    "title": "CSC Winter Sparkathon",
-    "url": "https://csc-winter-sparkathon.devpost.com/",
-    "start_date": "Oct 29 - Nov 30, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -357,6 +343,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HACK.COMS 2026",
+    "url": "https://hack-coms-2026.devpost.com/",
+    "start_date": "Nov 07 - 08, 2026",
+    "location": "Golisano College of Computing @ RIT",
+    "source": "Devpost"
+  },
+  {
     "title": "hack::peel 2026",
     "url": "https://hack-peel.devpost.com/",
     "start_date": "Dec 12 - 13, 2026",
@@ -375,6 +368,13 @@
     "url": "https://hackperimeter.devpost.com/",
     "start_date": "Nov 13, 2026",
     "location": "GSU Perimeter College - Clarkston Campus",
+    "source": "Devpost"
+  },
+  {
+    "title": "HACKRISE'26",
+    "url": "https://hackrise-26.devpost.com/",
+    "start_date": "Nov 29, 2026 - Jan 31, 2027",
+    "location": "Online",
     "source": "Devpost"
   },
   {
