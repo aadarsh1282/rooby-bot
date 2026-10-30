@@ -14,6 +14,13 @@
     "source": "Devpost"
   },
   {
+    "title": "2026 UXC NYU Fall Design-a-thon",
+    "url": "https://uxc-fall-2026-design-a-thon.devpost.com/",
+    "start_date": "Nov 02 - 07, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "305 CodeFest Edition December 2026 — 305Hackathons.vercel.app",
     "url": "https://305codefestdec2026.devpost.com/",
     "start_date": "Dec 01 - 31, 2026",
@@ -108,6 +115,13 @@
     "title": "Bridge The Gap Hacks",
     "url": "https://sq-hacks.devpost.com/",
     "start_date": "Nov 15 - 21, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "BUHACK 2.0",
+    "url": "https://buhack-2.devpost.com/",
+    "start_date": "Nov 13 - 15, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -329,13 +343,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hack With Karthik",
-    "url": "https://hack-with-karthik.devpost.com/",
-    "start_date": "Oct 30 - Nov 01, 2026",
-    "location": "Al-Amen",
-    "source": "Devpost"
-  },
-  {
     "title": "Hack-a-ton with Friends",
     "url": "https://hack-a-ton-with-friends.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
@@ -361,6 +368,13 @@
     "url": "https://hackcamp-2026.devpost.com/",
     "start_date": "Nov 07 - 08, 2026",
     "location": "Vancouver, Canada",
+    "source": "Devpost"
+  },
+  {
+    "title": "HackOut! 2027",
+    "url": "https://hackout-branchout.devpost.com/",
+    "start_date": "Jan 01 - Feb 01, 2027",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -410,13 +424,6 @@
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Haven Las Vegas",
-    "url": "https://haven-las-vegas.devpost.com/",
-    "start_date": "Nov 15, 2026",
-    "location": "Pololu Corporation",
     "source": "Devpost"
   },
   {
@@ -504,17 +511,17 @@
     "source": "Devpost"
   },
   {
+    "title": "LancerHacks1.0",
+    "url": "https://lancerhacks1-0.devpost.com/",
+    "start_date": "Oct 30, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "LarpHacks",
     "url": "https://larphacks.devpost.com/",
     "start_date": "Nov 01, 2026",
     "location": "Toronto",
-    "source": "Devpost"
-  },
-  {
-    "title": "Learn to Hack: MATLAB Edition 2026",
-    "url": "https://ntu-matlab-2026.devpost.com/",
-    "start_date": "Oct 30, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -672,13 +679,6 @@
     "source": "Devpost"
   },
   {
-    "title": "SCALE FORGE AI HACKATHON",
-    "url": "https://scale-forge-ai-hackathon.devpost.com/",
-    "start_date": "Nov 22 - 23, 2026",
-    "location": "ISLAMABAD",
-    "source": "Devpost"
-  },
-  {
     "title": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
     "url": "https://scope-ai-thon-2026.devpost.com/",
     "start_date": "Nov 01 - 14, 2026",
@@ -718,6 +718,13 @@
     "url": "https://spartahack-12.devpost.com/",
     "start_date": "Feb 06 - 07, 2027",
     "location": "MSU - STEM Building",
+    "source": "Devpost"
+  },
+  {
+    "title": "START Hack League Munich 2026",
+    "url": "https://start-hack-league-munich-2026.devpost.com/",
+    "start_date": "Nov 21 - 22, 2026",
+    "location": "TUM Audimax",
     "source": "Devpost"
   },
   {
@@ -767,13 +774,6 @@
     "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
     "start_date": "Nov 10 - 11, 2026",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "The Next Frontier 2026: A Space Innovation Hackathon",
-    "url": "https://aichr-space.devpost.com/",
-    "start_date": "Nov 14 - 15, 2026",
-    "location": "ECPI Virginia Beach Campus",
     "source": "Devpost"
   },
   {
@@ -904,7 +904,7 @@
     "source": "MLH"
   },
   {
-    "title": "Boston , MA B BostonHacks",
+    "title": "Boston , MA BostonHacks",
     "url": "https://bostonhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=BostonHacks",
     "start_date": "NOV 21 - 22",
     "location": "Boston, MA, US In-Person",
@@ -932,7 +932,7 @@
     "source": "MLH"
   },
   {
-    "title": "Cincinnati , Ohio M MakeUC",
+    "title": "Cincinnati , Ohio MakeUC",
     "url": "https://makeuc.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=MakeUC",
     "start_date": "NOV 07 - 08",
     "location": "Cincinnati, Ohio, US In-Person",
@@ -1051,7 +1051,7 @@
     "source": "MLH"
   },
   {
-    "title": "Los Angeles , CA QH QWER Hacks",
+    "title": "Los Angeles , CA QWER Hacks",
     "url": "https://www.qwerhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=QWER+Hacks",
     "start_date": "JAN 16 - 17",
     "location": "Los Angeles, CA, US In-Person DIVERSITY",
@@ -1191,14 +1191,14 @@
     "source": "MLH"
   },
   {
-    "title": "Sheffield , South Yorkshire H HackSheffield11",
+    "title": "Sheffield , South Yorkshire HackSheffield11",
     "url": "https://hacksheffield.uk/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackSheffield11",
     "start_date": "NOV 28 - 29",
     "location": "Sheffield, South Yorkshire, GB In-Person",
     "source": "MLH"
   },
   {
-    "title": "St. John's , Newfoundland and Labrador / Avalon Peninsula TF Tech For",
+    "title": "St. John's , Newfoundland and Labrador / Avalon Peninsula Tech For",
     "url": "https://tecnurtur.org/hackathon?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Tech+For+Community+2026",
     "start_date": "Community 20",
     "location": "26 NOV 21 - 22 St. John's, Newfoundland and Labrador / Avalon Peninsula, CA In-Person HIGH SCHOOL HARDWARE",
@@ -1303,7 +1303,7 @@
     "source": "MLH"
   },
   {
-    "title": "Ypsilanti , Michigan HT Hack The Nest",
+    "title": "Ypsilanti , Michigan Hack The Nest",
     "url": "https://hackthenest.tech/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+The+Nest",
     "start_date": "NOV 14 - 15",
     "location": "Ypsilanti, Michigan, US In-Person HARDWARE",
