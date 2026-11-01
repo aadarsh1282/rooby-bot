@@ -28,20 +28,6 @@
     "source": "Devpost"
   },
   {
-    "title": "305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app",
-    "url": "https://305veteransnov2026.devpost.com/",
-    "start_date": "Nov 01 - 30, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Agentic Hackathon",
-    "url": "https://agentic-hackathon.devpost.com/",
-    "start_date": "Nov 01 - 10, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "AI Agents for Founders Challenge — HETIC 2026",
     "url": "https://ai-agents-founders-hetic-26.devpost.com/",
     "start_date": "Nov 04 - Dec 18, 2026",
@@ -147,6 +133,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Build, Demo, and Take Home a Working AI Support Bot",
+    "url": "https://build-a-working-ai-support-bot.devpost.com/",
+    "start_date": "Nov 06 - 12, 2026",
+    "location": "eGain Corp.",
+    "source": "Devpost"
+  },
+  {
     "title": "BuildyourOwnWebsite",
     "url": "https://buildyourownwebsite.devpost.com/",
     "start_date": "Nov 16 - 25, 2026",
@@ -192,6 +185,13 @@
     "title": "Cosmo Hacks 2026",
     "url": "https://cosmohacks.devpost.com/",
     "start_date": "Dec 19, 2026 - Jan 18, 2027",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "CRC Hacks",
+    "url": "https://crc-student-hackathon.devpost.com/",
+    "start_date": "Nov 09 - 17, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -266,6 +266,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Forgehacks",
+    "url": "https://forgehacks-biztech.devpost.com/",
+    "start_date": "Feb 27 - 28, 2027",
+    "location": "Pharmacutical Sciences Building",
+    "source": "Devpost"
+  },
+  {
     "title": "FSB AI Build-a-thon Event 02",
     "url": "https://fsb-ai-buildathon-02.devpost.com/",
     "start_date": "Nov 03, 2026",
@@ -283,13 +290,6 @@
     "title": "Global AI Builder’s Challenge",
     "url": "https://global-ai-builders-challenge.devpost.com/",
     "start_date": "Nov 21 - 28, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Global AI Hackathon - Devcon 2026 By Mel",
-    "url": "https://trick-or-build.devpost.com/",
-    "start_date": "Oct 31 - Nov 01, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -420,6 +420,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HackTCNJ 2027",
+    "url": "https://hacktcnj-2027.devpost.com/",
+    "start_date": "Feb 27 - 28, 2027",
+    "location": "The College of New Jersey",
+    "source": "Devpost"
+  },
+  {
     "title": "HackTheFashion Global'26",
     "url": "https://hackthefashion-global26.devpost.com/",
     "start_date": "Nov 06 - 25, 2026",
@@ -431,6 +438,13 @@
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "HackTrent 2026",
+    "url": "https://hacktrent-2026-31951.devpost.com/",
+    "start_date": "Nov 06 - 08, 2026",
+    "location": "Trent University Student Centre",
     "source": "Devpost"
   },
   {
@@ -616,13 +630,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Ostad Presents YUNet AIgnite Buildathon 2026",
-    "url": "https://yunet-aignite26.devpost.com/",
-    "start_date": "Nov 01 - 05, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "PowerHack",
     "url": "https://powerhack.devpost.com/",
     "start_date": "Nov 06, 2026",
@@ -683,13 +690,6 @@
     "url": "https://scale-forge-ai-hackathon.devpost.com/",
     "start_date": "Nov 22 - 23, 2026",
     "location": "ISLAMABAD",
-    "source": "Devpost"
-  },
-  {
-    "title": "Scope-AI-Thon 2026 - AI for Detection of Acute Patient Deterioration",
-    "url": "https://scope-ai-thon-2026.devpost.com/",
-    "start_date": "Nov 01 - 14, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -791,13 +791,6 @@
     "source": "Devpost"
   },
   {
-    "title": "TRMI X Lovhack : Multiplayer Everything Hackathon",
-    "url": "https://lovhack-trmi-2026.devpost.com/",
-    "start_date": "Oct 31 - Nov 01, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "United Hacks V8",
     "url": "https://unitedhacksv8.devpost.com/",
     "start_date": "Jan 08 - 10, 2027",
@@ -823,6 +816,13 @@
     "url": "https://wics-hackathon.devpost.com/",
     "start_date": "Feb 28 - Mar 02, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "WiseStart 2026 Hackathon: Tallinn",
+    "url": "https://wisestart-2026-tll.devpost.com/",
+    "start_date": "Nov 13 - 14, 2026",
+    "location": "Wise Tallinn",
     "source": "Devpost"
   },
   {
