@@ -14,13 +14,6 @@
     "source": "Devpost"
   },
   {
-    "title": "2026 UXC NYU Fall Design-a-thon",
-    "url": "https://uxc-fall-2026-design-a-thon.devpost.com/",
-    "start_date": "Nov 02 - 07, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "305 CodeFest Edition December 2026 — 305Hackathons.vercel.app",
     "url": "https://305codefestdec2026.devpost.com/",
     "start_date": "Dec 01 - 31, 2026",
@@ -161,6 +154,13 @@
     "source": "Devpost"
   },
   {
+    "title": "CIVIC Hack 2026",
+    "url": "https://civic-hack-2026.devpost.com/",
+    "start_date": "Nov 12 - 14, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Code/Clash",
     "url": "https://code-clash.devpost.com/",
     "start_date": "Nov 14, 2026",
@@ -255,6 +255,13 @@
     "title": "evensonarisnord",
     "url": "https://evensonarisnord.devpost.com/",
     "start_date": "Dec 31, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "FCA Hacks",
+    "url": "https://lis-hack-day.devpost.com/",
+    "start_date": "Nov 19, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -448,6 +455,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HackUTD 2026: ZeroDay",
+    "url": "https://hackutd-zeroday.devpost.com/",
+    "start_date": "Nov 07 - 08, 2026",
+    "location": "University of Texas at Dallas - ECSW",
+    "source": "Devpost"
+  },
+  {
     "title": "Haven Las Vegas",
     "url": "https://haven-las-vegas.devpost.com/",
     "start_date": "Nov 15, 2026",
@@ -577,13 +591,6 @@
     "title": "N/A",
     "url": "https://ai-content-engine-hackathon.devpost.com/",
     "start_date": "Feb 02 - Apr 06, 2027",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Neural Storm",
-    "url": "https://neuralstorm.devpost.com/",
-    "start_date": "Nov 02 - 04, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -826,13 +833,6 @@
     "source": "Devpost"
   },
   {
-    "title": "WWC Hackathon",
-    "url": "https://wwc-hackathon.devpost.com/",
-    "start_date": "Nov 03 - 09, 2026",
-    "location": "Fiji",
-    "source": "Devpost"
-  },
-  {
     "title": "WWU Social Justice Hackathon",
     "url": "https://wwu-sj-hack.devpost.com/",
     "start_date": "Nov 07, 2026",
@@ -847,12 +847,19 @@
     "source": "Hackeroos"
   },
   {
-    "title": "List your eventor hackathon.",
+    "title": "Find your next role.",
     "url": "/login?mode=signup&returnTo=%2Fonboarding",
     "start_date": "",
-    "location": "Online",
+    "location": "Online / TBA",
+    "source": "Hackeroos"
+  },
+  {
+    "title": "List your eventor hackathon.",
+    "url": "https://melbourne.sciencegallery.com/events/free-guided-tours",
+    "start_date": "Nov 27 In person Monash FutureFest 2026",
+    "location": "Melbourne, Australia",
     "source": "Hackeroos",
-    "mode": "Online"
+    "mode": "In-Person"
   },
   {
     "title": "Makerspaces",
@@ -867,6 +874,13 @@
     "start_date": "",
     "location": "Online / TBA",
     "source": "Hackeroos"
+  },
+  {
+    "title": "Alexandria , Virginia HackBI X",
+    "url": "https://hackbi.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackBI+X",
+    "start_date": "JAN 16 - 17",
+    "location": "Alexandria, Virginia, US In-Person HIGH SCHOOL",
+    "source": "MLH"
   },
   {
     "title": "Amherst , MA HackUMass",

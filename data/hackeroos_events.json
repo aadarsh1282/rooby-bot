@@ -1,19 +1,19 @@
 [
   {
     "title": "List your eventor hackathon.",
-    "url": "/login?mode=signup&returnTo=%2Fonboarding",
-    "start_date": "",
-    "location": "Online",
+    "url": "https://melbourne.sciencegallery.com/events/free-guided-tours",
+    "start_date": "Nov 27 In person Monash FutureFest 2026",
+    "location": "Melbourne, Australia",
     "source": "Hackeroos",
-    "mode": "Online"
+    "mode": "In-Person"
   },
   {
     "title": "Explore the directories",
-    "url": "/login?mode=signup&returnTo=%2Fonboarding",
-    "start_date": "",
-    "location": "Online",
+    "url": "https://melbourne.sciencegallery.com/events/free-guided-tours",
+    "start_date": "Nov 27 In person Monash FutureFest 2026",
+    "location": "Melbourne, Australia",
     "source": "Hackeroos",
-    "mode": "Online"
+    "mode": "In-Person"
   },
   {
     "title": "Makerspaces",
@@ -52,12 +52,52 @@
     "mode": "Online"
   },
   {
+    "title": "EMERGENCE[Y] guided tour",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "",
+    "location": "Melbourne, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Generation STEM: Blacktown Showcase",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "",
+    "location": "Sydney, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Generation STEM: Canterbury Bankstown Showcase",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "",
+    "location": "Sydney, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "New Minds Awards Night",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "",
+    "location": "Melbourne, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
     "title": "Hackeroos Game Club - Australia and New Zealand",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "",
     "location": "Online",
     "source": "Hackeroos",
     "mode": "Online"
+  },
+  {
+    "title": "Monash FutureFest 2026",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "",
+    "location": "Melbourne, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
   },
   {
     "title": "Hackathons",
@@ -83,18 +123,18 @@
     "mode": "In-Person"
   },
   {
-    "title": "Level Her Up Community Meetup + Game Jam Theme Reveal",
+    "title": "AI WRANGLER CHALLENGE",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
-    "location": "Perth, Australia",
+    "location": "Melbourne, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
   {
-    "title": "Free Short Film Hackathon for People with Disability 2026",
+    "title": "Level Her Up Community Meetup + Game Jam Theme Reveal",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
-    "location": "Sydney, Australia",
+    "location": "Perth, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
@@ -113,25 +153,26 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Competitive Programming Expert - Freelance AI Trainer",
+    "title": "ICT Manager, Infrastructure Optimisation",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "",
+    "location": "Melbourne, Australia",
+    "source": "Hackeroos"
+  },
+  {
+    "title": "Cloud Integrations Engineer",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "",
     "location": "Online / TBA",
     "source": "Hackeroos"
   },
   {
-    "title": "We’re hiring in Melbourne! Apply for a Level 2 Engineer, Service Desk Manager, or Head of Technology. Interviews happening ASAP – don’t miss out!",
+    "title": "IT Support – Remote",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "",
     "location": "Melbourne, Australia",
-    "source": "Hackeroos"
-  },
-  {
-    "title": "Digital Marketing Assistant",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "",
-    "location": "Melbourne, Australia",
-    "source": "Hackeroos"
+    "source": "Hackeroos",
+    "mode": "Online"
   },
   {
     "title": "Directories & Resources",
