@@ -44,14 +44,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Hackeroos Discord Coworking",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "",
-    "location": "Online",
-    "source": "Hackeroos",
-    "mode": "Online"
-  },
-  {
     "title": "EMERGENCE[Y] guided tour",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "",
@@ -66,6 +58,14 @@
     "location": "Sydney, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
+  },
+  {
+    "title": "Hackeroos Discord Coworking",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "",
+    "location": "Online",
+    "source": "Hackeroos",
+    "mode": "Online"
   },
   {
     "title": "Generation STEM: Canterbury Bankstown Showcase",

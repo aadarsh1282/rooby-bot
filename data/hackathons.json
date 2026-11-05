@@ -35,6 +35,13 @@
     "source": "Devpost"
   },
   {
+    "title": "BCI Build Sprint",
+    "url": "https://bci-build-sprint.devpost.com/",
+    "start_date": "Nov 07, 2026",
+    "location": "Engineering Building II - USF",
+    "source": "Devpost"
+  },
+  {
     "title": "BearHacks 2027",
     "url": "https://bearhacks2027.devpost.com/",
     "start_date": "Apr 23 - 25, 2027",
@@ -79,7 +86,7 @@
   {
     "title": "BUHACK 2.0",
     "url": "https://buhack-2.devpost.com/",
-    "start_date": "Nov 13 - 15, 2026",
+    "start_date": "Nov 12 - 14, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -185,7 +192,7 @@
     "title": "CrownHacks",
     "url": "https://crownhacks.devpost.com/",
     "start_date": "Nov 06 - 08, 2026",
-    "location": "UNC Charlotte - Woodward Hall Room 106",
+    "location": "UNC Charlotte - McEniry Hall Room 124",
     "source": "Devpost"
   },
   {
@@ -235,13 +242,6 @@
     "url": "https://devfest-ai-hackathon.devpost.com/",
     "start_date": "Nov 21, 2026",
     "location": "Volkshochschule",
-    "source": "Devpost"
-  },
-  {
-    "title": "Engage Test",
-    "url": "https://engage-test.devpost.com/",
-    "start_date": "Nov 13 - 15, 2026",
-    "location": "Dubai",
     "source": "Devpost"
   },
   {
@@ -354,6 +354,13 @@
     "url": "https://hack-peel.devpost.com/",
     "start_date": "Dec 12 - 13, 2026",
     "location": "The Woodlands Secondary School",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hackathon 2026",
+    "url": "https://dtit-hackathon-2026.devpost.com/",
+    "start_date": "Nov 28 - 29, 2026",
+    "location": "Technical University of Košice - Library",
     "source": "Devpost"
   },
   {
@@ -644,13 +651,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Redshifted Cortex - AI built by High Schoolers",
-    "url": "https://redshifted-cortex.devpost.com/",
-    "start_date": "Nov 07, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Revolution",
     "url": "https://revolution-mty2026.devpost.com/",
     "start_date": "Dec 05 - 06, 2026",
@@ -704,6 +704,13 @@
     "url": "https://sinceai2026.devpost.com/",
     "start_date": "Nov 06 - 08, 2026",
     "location": "Kupittaa Campus, Turku",
+    "source": "Devpost"
+  },
+  {
+    "title": "SLAY HACKS",
+    "url": "https://slayy-hacks.devpost.com/",
+    "start_date": "Nov 07 - 13, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -819,13 +826,6 @@
     "source": "Devpost"
   },
   {
-    "title": "WiseStart 2026 Hackathon: Tallinn",
-    "url": "https://wisestart-2026-tll.devpost.com/",
-    "start_date": "Nov 13 - 14, 2026",
-    "location": "Wise Tallinn",
-    "source": "Devpost"
-  },
-  {
     "title": "Wolfjam 2026",
     "url": "https://wolfjam-2026.devpost.com/",
     "start_date": "Nov 06 - 07, 2026",
@@ -876,7 +876,7 @@
     "source": "Hackeroos"
   },
   {
-    "title": "A Coruña , A Coruña H HackUDC",
+    "title": "A Coruña , A Coruña HackUDC",
     "url": "https://hackudc.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackUDC",
     "start_date": "FEB 26 - 28",
     "location": "A Coruña, A Coruña, ES In-Person",
@@ -932,7 +932,7 @@
     "source": "MLH"
   },
   {
-    "title": "Brooklyn , New York NS NASA's Space Apps Challenge NYC",
+    "title": "Brooklyn , New York NASA's Space Apps Challenge NYC",
     "url": "https://www.spaceappschallenge.org/2026/local-events/new-york/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=NASA%27s+Space+Apps+Challenge+NYC",
     "start_date": "NOV 13 - 15",
     "location": "Brooklyn, New York, US In-Person",
@@ -1110,7 +1110,7 @@
     "title": "Missisauga , Ontario",
     "url": "https://hackville.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hackville+2027",
     "start_date": "Hackville 20",
-    "location": "27 JAN 22 - 24 Missisauga, Ontario, CA In-Person DIVERSITY",
+    "location": "27 JAN 23 - 24 Missisauga, Ontario, CA In-Person DIVERSITY",
     "source": "MLH"
   },
   {
@@ -1180,13 +1180,20 @@
     "title": "Raleigh , North Carolina Hack_NCState",
     "url": "https://hackncstate.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack_NCState",
     "start_date": "FEB 06 - 07",
-    "location": "Raleigh, North Carolina, US In-Person",
+    "location": "Raleigh, North Carolina, US In-Person HARDWARE",
     "source": "MLH"
   },
   {
     "title": "Richardson , Texas HackUTD",
     "url": "https://zeroday.hackutd.co/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackUTD",
     "start_date": "NOV 07 - 08",
+    "location": "Richardson, Texas, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Richardson , Texas HackUTD Roadshow",
+    "url": "https://luma.com/UTDRoadshow?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackUTD+Roadshow",
+    "start_date": "NOV 06",
     "location": "Richardson, Texas, US In-Person",
     "source": "MLH"
   },
