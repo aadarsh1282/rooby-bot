@@ -1,17 +1,17 @@
 [
   {
     "title": "List your eventor hackathon.",
-    "url": "https://melbourne.sciencegallery.com/events/free-guided-tours",
+    "url": "https://events.csiro.au/Events/2026/July/22/Generation-STEM-WS-Blacktown-Showcase-2026",
     "start_date": "Nov 27 In person Monash FutureFest 2026",
-    "location": "Melbourne, Australia",
+    "location": "Sydney, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
   {
     "title": "Explore the directories",
-    "url": "https://melbourne.sciencegallery.com/events/free-guided-tours",
+    "url": "https://events.csiro.au/Events/2026/July/22/Generation-STEM-WS-Blacktown-Showcase-2026",
     "start_date": "Nov 27 In person Monash FutureFest 2026",
-    "location": "Melbourne, Australia",
+    "location": "Sydney, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
@@ -42,14 +42,6 @@
     "start_date": "",
     "location": "Online / TBA",
     "source": "Hackeroos"
-  },
-  {
-    "title": "EMERGENCE[Y] guided tour",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "",
-    "location": "Melbourne, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
   },
   {
     "title": "Generation STEM: Blacktown Showcase",
