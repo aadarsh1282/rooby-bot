@@ -107,26 +107,26 @@
     "mode": "In-Person"
   },
   {
-    "title": "Free Short Film Hackathon for People with Disability 2026",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Nov 2026",
-    "location": "Sydney, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
-    "title": "Level Her Up We Can Build It! Game Jam 2026",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Nov 2026",
-    "location": "Perth, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "SDG Schools Challenge Term 4 (Mentone Grammar)",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
     "location": "In-Person",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "The Future Anything Challenge Grand Final 2026",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Nov 2026",
+    "location": "Brisbane, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "SDA Hackathon",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Nov 2026",
+    "location": "Sydney, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },

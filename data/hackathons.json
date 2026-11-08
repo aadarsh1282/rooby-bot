@@ -28,17 +28,10 @@
     "source": "Devpost"
   },
   {
-    "title": "AWS x A10 Hack 2026",
-    "url": "https://a10-x-aws-hack-26.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "Heafey Hall",
-    "source": "Devpost"
-  },
-  {
-    "title": "BCI Build Sprint",
-    "url": "https://bci-build-sprint.devpost.com/",
-    "start_date": "Nov 07, 2026",
-    "location": "Engineering Building II - USF",
+    "title": "AI@USC",
+    "url": "https://ai-usc.devpost.com/",
+    "start_date": "Nov 14 - 15, 2026",
+    "location": "Ginsburg Hall, USC",
     "source": "Devpost"
   },
   {
@@ -56,10 +49,10 @@
     "source": "Devpost"
   },
   {
-    "title": "BioHacks 2026",
-    "url": "https://biohacksmcmaster.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "McMaster University - MCCD",
+    "title": "BISV Hacks 2027",
+    "url": "https://bisv-hacks-2027.devpost.com/",
+    "start_date": "Mar 27, 2027",
+    "location": "BASIS Independent Silicon Valley",
     "source": "Devpost"
   },
   {
@@ -154,17 +147,17 @@
     "source": "Devpost"
   },
   {
+    "title": "Civic Hacks 2027",
+    "url": "https://civic-hacks-2027-32027.devpost.com/",
+    "start_date": "Feb 20 - 21, 2027",
+    "location": "Boston University- CDS",
+    "source": "Devpost"
+  },
+  {
     "title": "Code/Clash",
     "url": "https://code-clash.devpost.com/",
     "start_date": "Nov 14, 2026",
     "location": "Towson Cyber Center (10 West)",
-    "source": "Devpost"
-  },
-  {
-    "title": "CommuniHacks",
-    "url": "https://communihacks.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "Builders Club",
     "source": "Devpost"
   },
   {
@@ -196,6 +189,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Decisions Modeling for Greater Philadelphia",
+    "url": "https://tbd-hackathon.devpost.com/",
+    "start_date": "Jan 23, 2027",
+    "location": "Pennovation Works",
+    "source": "Devpost"
+  },
+  {
     "title": "Desert Dev Lab 2027",
     "url": "https://desert-dev-lab-2027.devpost.com/",
     "start_date": "Apr 24 - 25, 2027",
@@ -224,6 +224,13 @@
     "source": "Devpost"
   },
   {
+    "title": "EagleHacks 2027",
+    "url": "https://eaglehacks2027.devpost.com/",
+    "start_date": "Mar 12 - 14, 2027",
+    "location": "Florida Gulf Coast University",
+    "source": "Devpost"
+  },
+  {
     "title": "Engage Test",
     "url": "https://engage-test.devpost.com/",
     "start_date": "Nov 13 - 15, 2026",
@@ -234,6 +241,13 @@
     "title": "evensonarisnord",
     "url": "https://evensonarisnord.devpost.com/",
     "start_date": "Dec 31, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "EvoHacks ⅠⅠ",
+    "url": "https://evohacks2.devpost.com/",
+    "start_date": "Nov 21 - 22, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -280,38 +294,10 @@
     "source": "Devpost"
   },
   {
-    "title": "GreatUniHack 2026",
-    "url": "https://greatunihack-2026.devpost.com/",
-    "start_date": "Nov 07, 2026",
-    "location": "Nancy Rothwell Building, Manchester",
-    "source": "Devpost"
-  },
-  {
-    "title": "Grizzly Hacks VII",
-    "url": "https://hack-ggc-vii.devpost.com/",
-    "start_date": "Nov 07, 2026",
-    "location": "Georgia Gwinnett College Campus - B 1000",
-    "source": "Devpost"
-  },
-  {
-    "title": "GSD Hackathon",
-    "url": "https://tbd-hackathon.devpost.com/",
-    "start_date": "Jan 23, 2027",
-    "location": "Pennovation Works",
-    "source": "Devpost"
-  },
-  {
     "title": "GTransformer AI Buildathon 2026 — AI for Global Good",
     "url": "https://gtransformer-buildathon-2026.devpost.com/",
     "start_date": "Nov 13 - 15, 2026",
     "location": "Milpitas, Bay Area + Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "GullHacks",
-    "url": "https://gullhacks2026.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -322,17 +308,17 @@
     "source": "Devpost"
   },
   {
+    "title": "Hack AI x Stan",
+    "url": "https://hackai-toronto.devpost.com/",
+    "start_date": "Dec 05 - 06, 2026",
+    "location": "Stan HQ - Toronto",
+    "source": "Devpost"
+  },
+  {
     "title": "Hack Club Haven (Hong Kong)",
     "url": "https://hack-club-haven-hong-kong.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
     "location": "Canadian International School Hong Kong",
-    "source": "Devpost"
-  },
-  {
-    "title": "Hack the Change 2026",
-    "url": "https://hack-the-change-2026.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "University of Calgary",
     "source": "Devpost"
   },
   {
@@ -357,13 +343,6 @@
     "source": "Devpost"
   },
   {
-    "title": "HACK.COMS 2026",
-    "url": "https://hack-coms-2026.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "Golisano College of Computing @ RIT",
-    "source": "Devpost"
-  },
-  {
     "title": "hack::peel 2026",
     "url": "https://hack-peel.devpost.com/",
     "start_date": "Dec 12 - 13, 2026",
@@ -378,13 +357,6 @@
     "source": "Devpost"
   },
   {
-    "title": "HackCamp 2026",
-    "url": "https://hackcamp-2026.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "Vancouver, Canada",
-    "source": "Devpost"
-  },
-  {
     "title": "Hackperimeter",
     "url": "https://hackperimeter.devpost.com/",
     "start_date": "Nov 13, 2026",
@@ -396,13 +368,6 @@
     "url": "https://hackrise-26.devpost.com/",
     "start_date": "Nov 29, 2026 - Jan 31, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "HackRPI 2026",
-    "url": "https://hackrpi-2026.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "Darrin Communications Center",
     "source": "Devpost"
   },
   {
@@ -434,24 +399,10 @@
     "source": "Devpost"
   },
   {
-    "title": "HackTheBurgh-XIII",
-    "url": "https://hacktheburghxiii.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "The Nucleus Building, Edinburgh",
-    "source": "Devpost"
-  },
-  {
     "title": "HackTitan",
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "HackUTD 2026: ZeroDay",
-    "url": "https://hackutd-zeroday.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "University of Texas at Dallas - ECSW",
     "source": "Devpost"
   },
   {
@@ -518,14 +469,7 @@
     "source": "Devpost"
   },
   {
-    "title": "Indy Init 2026",
-    "url": "https://indy-init-2026.devpost.com/",
-    "start_date": "Nov 07, 2026",
-    "location": "Launch Fishers",
-    "source": "Devpost"
-  },
-  {
-    "title": "iOSC End of Semester Hackathon",
+    "title": "iOSC Hackathon: Fall 2026",
     "url": "https://iosc-end-of-semester-hackathon.devpost.com/",
     "start_date": "Nov 08, 2026",
     "location": "SOS B44",
@@ -553,13 +497,6 @@
     "source": "Devpost"
   },
   {
-    "title": "KTPHacks 2",
-    "url": "https://ktphacks-2.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "Virginia Tech - DDS",
-    "source": "Devpost"
-  },
-  {
     "title": "KUK VIRTUAL HACKATHON",
     "url": "https://kuk-virtual-hackathon.devpost.com/",
     "start_date": "Nov 15 - 22, 2026",
@@ -578,6 +515,13 @@
     "url": "https://lpc-hacks.devpost.com/",
     "start_date": "Nov 14, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "LumaHacks",
+    "url": "https://lumahacks.devpost.com/",
+    "start_date": "Mar 07, 2027",
+    "location": "Orlando, FL, USA",
     "source": "Devpost"
   },
   {
@@ -620,13 +564,6 @@
     "url": "https://ntu-beyond-binary-2027.devpost.com/",
     "start_date": "Feb 09 - 13, 2027",
     "location": "Singapore",
-    "source": "Devpost"
-  },
-  {
-    "title": "NYCAIRR × HackBU 2026",
-    "url": "https://nycairrhackbu2026.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "Binghamton University – Innovation Lab",
     "source": "Devpost"
   },
   {
@@ -693,13 +630,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Sheridan Datathon 2026",
-    "url": "https://sheridandatathon2026.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "Sheridan College Hazel McCallion Campus",
-    "source": "Devpost"
-  },
-  {
     "title": "SpartaHack 12",
     "url": "https://spartahack-12.devpost.com/",
     "start_date": "Feb 06 - 07, 2027",
@@ -735,13 +665,6 @@
     "source": "Devpost"
   },
   {
-    "title": "TAMU Datathon 26: Casino Royale",
-    "url": "https://tamu-datathon-26-casino-royale.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "MSC Bethancourt Ballroom",
-    "source": "Devpost"
-  },
-  {
     "title": "Tech to Treasure Hackathon",
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Mar 03 - 10, 2027",
@@ -753,6 +676,13 @@
     "url": "https://tripleh.devpost.com/",
     "start_date": "Nov 14 - 21, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "test",
+    "url": "https://nutech-hackfest-2026.devpost.com/",
+    "start_date": "Nov 23 - 24, 2026",
+    "location": "NUTECH Main Campus",
     "source": "Devpost"
   },
   {
@@ -777,13 +707,6 @@
     "source": "Devpost"
   },
   {
-    "title": "TKA Hacks 2026",
-    "url": "https://tka-hacks-2026.devpost.com/",
-    "start_date": "Nov 07, 2026",
-    "location": "The King's Academy W building",
-    "source": "Devpost"
-  },
-  {
     "title": "United Hacks V8",
     "url": "https://unitedhacksv8.devpost.com/",
     "start_date": "Jan 08 - 10, 2027",
@@ -795,13 +718,6 @@
     "url": "https://ubc-hackathon-2026.devpost.com/",
     "start_date": "Nov 13 - 20, 2026",
     "location": "University of Texas at Austin",
-    "source": "Devpost"
-  },
-  {
-    "title": "UXDC Designathon - 2026",
-    "url": "https://uxdc-designathon-2026.devpost.com/",
-    "start_date": "Nov 07 - 08, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -819,24 +735,10 @@
     "source": "Devpost"
   },
   {
-    "title": "WiE Hackathon 2026",
-    "url": "https://wie-hackathon-2026.devpost.com/",
-    "start_date": "Nov 07, 2026",
-    "location": "PSE",
-    "source": "Devpost"
-  },
-  {
     "title": "WiseStart 2026 Hackathon: Tallinn",
     "url": "https://wisestart-2026-tll.devpost.com/",
     "start_date": "Nov 13 - 14, 2026",
     "location": "Wise Tallinn",
-    "source": "Devpost"
-  },
-  {
-    "title": "WWU Social Justice Hackathon",
-    "url": "https://wwu-sj-hack.devpost.com/",
-    "start_date": "Nov 07, 2026",
-    "location": "WWU - Kaiser Borsari Building",
     "source": "Devpost"
   },
   {
@@ -876,10 +778,31 @@
     "source": "Hackeroos"
   },
   {
+    "title": "Apply",
+    "url": "https://fellowship.mlh.com/apply",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
     "title": "Atlanta , GA Emory Hacks",
     "url": "https://emoryhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Emory+Hacks",
     "start_date": "NOV 13 - 15",
     "location": "Atlanta, GA, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Blog",
+    "url": "https://blog.mlh.com/",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
+    "title": "Branding Guidelines",
+    "url": "https://mlh.io/brand-guidelines",
+    "start_date": "",
+    "location": "",
     "source": "MLH"
   },
   {
@@ -911,10 +834,38 @@
     "source": "MLH"
   },
   {
+    "title": "Code of Conduct",
+    "url": "http://www.mlh.com/code-of-conduct",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
     "title": "College Station , Texas TAMU Datathon",
     "url": "https://tamudatathon.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=TAMU+Datathon",
     "start_date": "NOV 07 - 08",
     "location": "College Station, Texas, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Contact Us",
+    "url": "https://mlh.io/contact",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
+    "title": "DEV",
+    "url": "https://dev.to/mlh",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
+    "title": "Discord",
+    "url": "https://discord.mlh.io",
+    "start_date": "",
+    "location": "",
     "source": "MLH"
   },
   {
@@ -939,6 +890,20 @@
     "source": "MLH"
   },
   {
+    "title": "Fellowship FAQ",
+    "url": "https://mlh.link/fellowship-faq",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
+    "title": "Global Hack Week",
+    "url": "https://ghw.mlh.com/",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
     "title": "Hamilton , Ontario BioHacks",
     "url": "https://www.bioeng4youth.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=BioHacks",
     "start_date": "NOV 07 - 08",
@@ -946,10 +911,31 @@
     "source": "MLH"
   },
   {
+    "title": "Instagram",
+    "url": "https://www.instagram.com/mlhacks/",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
     "title": "Kitchener , Ontario CommuniHacks",
     "url": "https://www.communihacks.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=CommuniHacks",
     "start_date": "NOV 07 - 08",
     "location": "Kitchener, Ontario, CA In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com/company/major-league-hacking/",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
+    "title": "Major League Hacking MLH Logo",
+    "url": "https://www.mlh.com/",
+    "start_date": "",
+    "location": "",
     "source": "MLH"
   },
   {
@@ -974,6 +960,20 @@
     "source": "MLH"
   },
   {
+    "title": "OpenStreetMap",
+    "url": "https://www.openstreetmap.org/copyright",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
+    "title": "Partners",
+    "url": "https://sponsor.mlh.com/",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
     "title": "Peterborough , Ontario HackTrent",
     "url": "https://www.hacktrent.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackTrent",
     "start_date": "NOV 06 - 08",
@@ -985,6 +985,27 @@
     "url": "https://www.hackprinceton.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackPrinceton+Fall+2026",
     "start_date": "Fall 20",
     "location": "26 NOV 13 - 15 Princeton, New Jersey, US In-Person Hardware",
+    "source": "MLH"
+  },
+  {
+    "title": "Privacy",
+    "url": "https://mlh.io/privacy",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
+    "title": "Prizes & Freebies",
+    "url": "https://mlh.io/events/prizes",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
+    "title": "Programs",
+    "url": "https://fellowship.mlh.com/#programs",
+    "start_date": "",
+    "location": "",
     "source": "MLH"
   },
   {
@@ -1009,6 +1030,20 @@
     "source": "MLH"
   },
   {
+    "title": "TechTogether",
+    "url": "https://techtogether.io",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
+    "title": "Terms of Service",
+    "url": "https://mlh.io/terms",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
     "title": "Timișoara , Timiș UniHack",
     "url": "https://unihack.eu/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=UniHack",
     "start_date": "NOV 13 - 15",
@@ -1030,6 +1065,13 @@
     "source": "MLH"
   },
   {
+    "title": "Upcoming Hackathons",
+    "url": "https://mlh.io/seasons/2027/events",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
     "title": "Vancovuer , British Columbia HackCamp",
     "url": "https://hackcamp.nwplus.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackCamp",
     "start_date": "NOV 07 - 08",
@@ -1037,10 +1079,31 @@
     "source": "MLH"
   },
   {
+    "title": "Work at MLH",
+    "url": "https://careers.mlh.io",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
+    "title": "X",
+    "url": "https://x.com/mlhacks",
+    "start_date": "",
+    "location": "",
+    "source": "MLH"
+  },
+  {
     "title": "York PA , PA YCP Hacks",
     "url": "https://ycphacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=YCP+Hacks",
     "start_date": "NOV 06 - 08",
     "location": "York PA, PA, US In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "YouTube",
+    "url": "https://www.youtube.com/majorleaguehacking",
+    "start_date": "",
+    "location": "",
     "source": "MLH"
   }
 ]
