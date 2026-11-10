@@ -107,14 +107,6 @@
     "mode": "In-Person"
   },
   {
-    "title": "SDA Hackathon",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Nov 2026",
-    "location": "Sydney, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "AI WRANGLER CHALLENGE",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
@@ -127,6 +119,14 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
     "location": "Sydney, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Startup Weekend Taranaki 2026",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Nov 2026",
+    "location": "In-Person",
     "source": "Hackeroos",
     "mode": "In-Person"
   },

@@ -2,7 +2,7 @@
   {
     "title": "#BuildHybridAI 2026",
     "url": "https://firebasehybridaihackathon.devpost.com/",
-    "start_date": "Nov 09 - 30, 2026",
+    "start_date": "Nov 11 - 30, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -32,6 +32,13 @@
     "url": "https://ai-usc.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
     "location": "Ginsburg Hall, USC",
+    "source": "Devpost"
+  },
+  {
+    "title": "Arioron Think 2026",
+    "url": "https://arioron-think-2026.devpost.com/",
+    "start_date": "Dec 10 - 17, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -140,6 +147,13 @@
     "source": "Devpost"
   },
   {
+    "title": "checkpoint journeys — hanoi",
+    "url": "https://checkpoint-journeys-hanoi.devpost.com/",
+    "start_date": "Mar 19 - 20, 2027",
+    "location": "True North International School",
+    "source": "Devpost"
+  },
+  {
     "title": "CIVIC Hack 2026",
     "url": "https://civic-hack-2026.devpost.com/",
     "start_date": "Nov 12 - 14, 2026",
@@ -164,13 +178,6 @@
     "title": "Cosmo Hacks 2026",
     "url": "https://cosmohacks.devpost.com/",
     "start_date": "Dec 19, 2026 - Jan 18, 2027",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "CRC Hacks",
-    "url": "https://crc-student-hackathon.devpost.com/",
-    "start_date": "Nov 09 - 17, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -297,7 +304,7 @@
     "title": "Ground Truth: The Live Agents Hackathon - powered by You.com",
     "url": "https://ground-truth-you-hack.devpost.com/",
     "start_date": "Nov 14, 2026",
-    "location": "Station 3",
+    "location": "XDC Tech",
     "source": "Devpost"
   },
   {
@@ -436,7 +443,7 @@
   {
     "title": "Haven Richmond",
     "url": "https://haven-richmond.devpost.com/",
-    "start_date": "Nov 14 - 15, 2026",
+    "start_date": "Nov 14, 2026",
     "location": "Richmond, Virginia, USA",
     "source": "Devpost"
   },
@@ -466,6 +473,13 @@
     "url": "https://ibm-qiskit-hackathon.devpost.com/",
     "start_date": "Nov 13 - 14, 2026",
     "location": "BRAC University",
+    "source": "Devpost"
+  },
+  {
+    "title": "InnovateHER Hackathon: Girls Who Code",
+    "url": "https://hackathon-girls-who-code.devpost.com/",
+    "start_date": "Nov 13 - Dec 13, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -539,6 +553,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Nerdearla Vibeathon by Devin",
+    "url": "https://vibeathon-mexico-2026.devpost.com/",
+    "start_date": "Nov 21, 2026",
+    "location": "Amazon CDMX (Puerta Polanco)",
+    "source": "Devpost"
+  },
+  {
     "title": "NorCal Hacks 27",
     "url": "https://norcal-hacks-27.devpost.com/",
     "start_date": "Nov 12 - 15, 2026",
@@ -581,10 +602,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Peninsula Innovation Hackathon",
-    "url": "https://peninsula-innovation-hackathon.devpost.com/",
-    "start_date": "Nov 10 - Dec 10, 2026",
-    "location": "Online",
+    "title": "Opportunity Hack 2026 | ASU Fall Hackathon 2026 | Tempe Arizona - Nov 14-15",
+    "url": "https://opportunity-hack-2026-arizona.devpost.com/",
+    "start_date": "Nov 14 - 15, 2026",
+    "location": "ASU Engineering Center G Wing",
     "source": "Devpost"
   },
   {
