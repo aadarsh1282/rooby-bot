@@ -231,6 +231,13 @@
     "source": "Devpost"
   },
   {
+    "title": "DevNetwork [API + Cloud + AI] Hackathon 2027",
+    "url": "https://devnetwork-api-hackathon-2027.devpost.com/",
+    "start_date": "Sep 03 - 10, 2027",
+    "location": "Santa Clara Convention Center and Online",
+    "source": "Devpost"
+  },
+  {
     "title": "EagleHacks 2027",
     "url": "https://eaglehacks2027.devpost.com/",
     "start_date": "Mar 12 - 14, 2027",
@@ -378,6 +385,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HackPrinceton Fall '26",
+    "url": "https://hackprinceton-fall-26.devpost.com/",
+    "start_date": "Nov 13 - 15, 2026",
+    "location": "JRR, LAS, Robertson, Friend",
+    "source": "Devpost"
+  },
+  {
     "title": "HACKRISE'26",
     "url": "https://hackrise-26.devpost.com/",
     "start_date": "Nov 29, 2026 - Jan 31, 2027",
@@ -417,6 +431,13 @@
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "HackVA",
+    "url": "https://hackva27.devpost.com/",
+    "start_date": "Feb 05 - 07, 2027",
+    "location": "Northern Virginia Community College",
     "source": "Devpost"
   },
   {
@@ -476,10 +497,10 @@
     "source": "Devpost"
   },
   {
-    "title": "InnovateHER Hackathon: Girls Who Code",
-    "url": "https://hackathon-girls-who-code.devpost.com/",
-    "start_date": "Nov 13 - Dec 13, 2026",
-    "location": "Online",
+    "title": "Immerse the Bay 2026",
+    "url": "https://immerse-the-bay-2026.devpost.com/",
+    "start_date": "Nov 14 - 15, 2026",
+    "location": "Stanford University",
     "source": "Devpost"
   },
   {
@@ -714,13 +735,6 @@
     "source": "Devpost"
   },
   {
-    "title": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
-    "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
-    "start_date": "Nov 10 - 11, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "The Dawn of Superintelligence | Kaya AI Grand Challenge",
     "url": "https://kaya-ai-grand-challenge.devpost.com/",
     "start_date": "Nov 29 - Dec 06, 2026",
@@ -739,6 +753,13 @@
     "url": "https://ticket-to-hack.devpost.com/",
     "start_date": "Feb 20 - 21, 2027",
     "location": "Rice Hall",
+    "source": "Devpost"
+  },
+  {
+    "title": "UBC eProjects x n8n LOOP Hackathon",
+    "url": "https://loop.devpost.com/",
+    "start_date": "Nov 14 - 15, 2026",
+    "location": "University of British Columbia",
     "source": "Devpost"
   },
   {
@@ -767,6 +788,13 @@
     "url": "https://vibecode-animated-maps.devpost.com/",
     "start_date": "Dec 20, 2026",
     "location": "South Plainfield Library",
+    "source": "Devpost"
+  },
+  {
+    "title": "Westside High School Build Challenge",
+    "url": "https://whs-build.devpost.com/",
+    "start_date": "Nov 24 - Dec 01, 2026",
+    "location": "Westside High School",
     "source": "Devpost"
   },
   {

@@ -107,14 +107,6 @@
     "mode": "In-Person"
   },
   {
-    "title": "AI WRANGLER CHALLENGE",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Nov 2026",
-    "location": "Melbourne, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "Building Better Futures for Health 2027 Challenge",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
@@ -127,6 +119,14 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
     "location": "In-Person",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "FaithTech Brisbane 2026 Hackathon",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Nov 2026",
+    "location": "Brisbane, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
