@@ -1,7 +1,7 @@
 [
   {
     "title": "List your eventor hackathon.",
-    "url": "https://events.csiro.au/Events/2026/July/22/Generation-STEM-WS-Blacktown-Showcase-2026",
+    "url": "https://events.csiro.au/Events/2026/July/22/Generation-STEM-WS-CanterburyBankstown-Showcase-2026",
     "start_date": "Nov 27 In person Monash FutureFest 2026",
     "location": "Sydney, Australia",
     "source": "Hackeroos",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Explore the directories",
-    "url": "https://events.csiro.au/Events/2026/July/22/Generation-STEM-WS-Blacktown-Showcase-2026",
+    "url": "https://events.csiro.au/Events/2026/July/22/Generation-STEM-WS-CanterburyBankstown-Showcase-2026",
     "start_date": "Nov 27 In person Monash FutureFest 2026",
     "location": "Sydney, Australia",
     "source": "Hackeroos",
@@ -42,14 +42,6 @@
     "start_date": "",
     "location": "Online / TBA",
     "source": "Hackeroos"
-  },
-  {
-    "title": "Generation STEM: Blacktown Showcase",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "",
-    "location": "Sydney, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
   },
   {
     "title": "Hackeroos Discord Coworking",
@@ -107,14 +99,6 @@
     "mode": "In-Person"
   },
   {
-    "title": "Building Better Futures for Health 2027 Challenge",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Nov 2026",
-    "location": "Sydney, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "Startup Weekend Taranaki 2026",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
@@ -127,6 +111,14 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
     "location": "Brisbane, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Cyber in Motion CTF Creation Challenge Hands-On Workshop - Gold Coast",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Nov 2026",
+    "location": "In-Person",
     "source": "Hackeroos",
     "mode": "In-Person"
   },

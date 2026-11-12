@@ -1,12 +1,5 @@
 [
   {
-    "title": "#BuildHybridAI 2026",
-    "url": "https://firebasehybridaihackathon.devpost.com/",
-    "start_date": "Nov 11 - 30, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": ".devHacks 2027",
     "url": "https://devhacks-2027.devpost.com/",
     "start_date": "Feb 19 - 21, 2027",
@@ -56,13 +49,6 @@
     "source": "Devpost"
   },
   {
-    "title": "BISV Hacks 2027",
-    "url": "https://bisv-hacks-2027.devpost.com/",
-    "start_date": "Mar 27, 2027",
-    "location": "BASIS Independent Silicon Valley",
-    "source": "Devpost"
-  },
-  {
     "title": "Blackout 2026",
     "url": "https://blackout-2026.devpost.com/",
     "start_date": "Nov 28, 2026",
@@ -102,6 +88,13 @@
     "url": "https://build-beyond.devpost.com/",
     "start_date": "Mar 01 - 15, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Build Day 2",
+    "url": "https://build-day.devpost.com/",
+    "start_date": "Nov 28, 2026",
+    "location": "Durham University, Entrepreneurs Durham",
     "source": "Devpost"
   },
   {
@@ -147,13 +140,6 @@
     "source": "Devpost"
   },
   {
-    "title": "checkpoint journeys — hanoi",
-    "url": "https://checkpoint-journeys-hanoi.devpost.com/",
-    "start_date": "Mar 19 - 20, 2027",
-    "location": "True North International School",
-    "source": "Devpost"
-  },
-  {
     "title": "CIVIC Hack 2026",
     "url": "https://civic-hack-2026.devpost.com/",
     "start_date": "Nov 12 - 14, 2026",
@@ -185,6 +171,13 @@
     "title": "CrossPointX 2026",
     "url": "https://cpx2026.devpost.com/",
     "start_date": "Nov 20 - 22, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "CSAIC Hack-AI-Thon",
+    "url": "https://csaic-hackaithon.devpost.com/",
+    "start_date": "Nov 20 - 24, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -231,6 +224,13 @@
     "source": "Devpost"
   },
   {
+    "title": "DevHacks",
+    "url": "https://devhacks2026.devpost.com/",
+    "start_date": "Nov 14 - 15, 2026",
+    "location": "The Ohio State University",
+    "source": "Devpost"
+  },
+  {
     "title": "DevNetwork [API + Cloud + AI] Hackathon 2027",
     "url": "https://devnetwork-api-hackathon-2027.devpost.com/",
     "start_date": "Sep 03 - 10, 2027",
@@ -238,10 +238,17 @@
     "source": "Devpost"
   },
   {
-    "title": "EagleHacks 2027",
-    "url": "https://eaglehacks2027.devpost.com/",
-    "start_date": "Mar 12 - 14, 2027",
-    "location": "Florida Gulf Coast University",
+    "title": "DurHack 2026",
+    "url": "https://durhack-26.devpost.com/",
+    "start_date": "Nov 14 - 15, 2026",
+    "location": "Teaching and Learning Centre",
+    "source": "Devpost"
+  },
+  {
+    "title": "Emory Hacks 2026",
+    "url": "https://emory-hacks-26.devpost.com/",
+    "start_date": "Nov 13 - 15, 2026",
+    "location": "Emory Univ. - Goizueta Business School",
     "source": "Devpost"
   },
   {
@@ -259,9 +266,16 @@
     "source": "Devpost"
   },
   {
-    "title": "EvoHacks ⅠⅠ",
+    "title": "EvoHacks 2",
     "url": "https://evohacks2.devpost.com/",
     "start_date": "Nov 21 - 22, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Fall 2026 Projects",
+    "url": "https://fall-2026-projects.devpost.com/",
+    "start_date": "Nov 15 - 16, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -277,6 +291,13 @@
     "url": "https://forgehacks-biztech.devpost.com/",
     "start_date": "Feb 27 - 28, 2027",
     "location": "Pharmacutical Sciences Building",
+    "source": "Devpost"
+  },
+  {
+    "title": "FRONTIER//26",
+    "url": "https://lovhack.devpost.com/",
+    "start_date": "Dec 04 - 11, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -353,7 +374,7 @@
     "title": "Hack Western 13",
     "url": "https://hack-western-13.devpost.com/",
     "start_date": "Nov 20 - 22, 2026",
-    "location": "SEI Building",
+    "location": "Ronald D. Schmeichel Building",
     "source": "Devpost"
   },
   {
@@ -431,13 +452,6 @@
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "HackVA",
-    "url": "https://hackva27.devpost.com/",
-    "start_date": "Feb 05 - 07, 2027",
-    "location": "Northern Virginia Community College",
     "source": "Devpost"
   },
   {
@@ -546,13 +560,6 @@
     "source": "Devpost"
   },
   {
-    "title": "LumaHacks",
-    "url": "https://lumahacks.devpost.com/",
-    "start_date": "Mar 07, 2027",
-    "location": "Orlando, FL, USA",
-    "source": "Devpost"
-  },
-  {
     "title": "MadHacks 2026",
     "url": "https://madhacks-fall-2026.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
@@ -630,6 +637,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Pixelforge",
+    "url": "https://pixel-forge-gamethon.devpost.com/",
+    "start_date": "Nov 19 - 20, 2026",
+    "location": "Dayananda sagar academy",
+    "source": "Devpost"
+  },
+  {
     "title": "Project-ZH Hack Day",
     "url": "https://project-zh.devpost.com/",
     "start_date": "Nov 28, 2026",
@@ -704,6 +718,13 @@
     "url": "https://svchackathon2027.devpost.com/",
     "start_date": "May 08, 2027",
     "location": "Gary Knutzen Cardinal Center",
+    "source": "Devpost"
+  },
+  {
+    "title": "Syntax Hacks 2026",
+    "url": "https://syntax-hacks-2026.devpost.com/",
+    "start_date": "Dec 14, 2026 - Jan 17, 2027",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -798,13 +819,6 @@
     "source": "Devpost"
   },
   {
-    "title": "WiCS Geaux Hack 2027",
-    "url": "https://wics-geaux-hack-2027.devpost.com/",
-    "start_date": "Mar 21, 2027",
-    "location": "LSU - Patrick F. Taylor Hall",
-    "source": "Devpost"
-  },
-  {
     "title": "WiCS Hackathon",
     "url": "https://wics-hackathon.devpost.com/",
     "start_date": "Feb 28 - Mar 02, 2027",
@@ -816,6 +830,13 @@
     "url": "https://wisestart-2026-tll.devpost.com/",
     "start_date": "Nov 13 - 14, 2026",
     "location": "Wise Tallinn",
+    "source": "Devpost"
+  },
+  {
+    "title": "WoHack",
+    "url": "https://wohack.devpost.com/",
+    "start_date": "Nov 21, 2026",
+    "location": "Queen Mary University of london",
     "source": "Devpost"
   },
   {
@@ -834,7 +855,7 @@
   },
   {
     "title": "List your eventor hackathon.",
-    "url": "https://events.csiro.au/Events/2026/July/22/Generation-STEM-WS-Blacktown-Showcase-2026",
+    "url": "https://events.csiro.au/Events/2026/July/22/Generation-STEM-WS-CanterburyBankstown-Showcase-2026",
     "start_date": "Nov 27 In person Monash FutureFest 2026",
     "location": "Sydney, Australia",
     "source": "Hackeroos",
