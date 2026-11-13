@@ -14,6 +14,13 @@
     "source": "Devpost"
   },
   {
+    "title": "AdaHacks 2027",
+    "url": "https://adahacks-2027.devpost.com/",
+    "start_date": "Feb 26 - 28, 2027",
+    "location": "TBD",
+    "source": "Devpost"
+  },
+  {
     "title": "AI for Human Impact: A Global BASIS Hackathon",
     "url": "https://basisglobalhackathon.devpost.com/",
     "start_date": "Feb 06 - 13, 2027",
@@ -70,13 +77,6 @@
     "source": "Devpost"
   },
   {
-    "title": "BUHACK 2.0",
-    "url": "https://buhack-2.devpost.com/",
-    "start_date": "Nov 12 - 14, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "BUILD 4 ALL",
     "url": "https://build4all.devpost.com/",
     "start_date": "Dec 05 - 12, 2026",
@@ -95,13 +95,6 @@
     "url": "https://build-day.devpost.com/",
     "start_date": "Nov 28, 2026",
     "location": "Durham University, Entrepreneurs Durham",
-    "source": "Devpost"
-  },
-  {
-    "title": "Build with Gemma - Innovate in Windsor",
-    "url": "https://innovate-in-windsor-hackathon.devpost.com/",
-    "start_date": "Nov 13 - 20, 2026",
-    "location": "University of Windsor",
     "source": "Devpost"
   },
   {
@@ -140,10 +133,10 @@
     "source": "Devpost"
   },
   {
-    "title": "CIVIC Hack 2026",
-    "url": "https://civic-hack-2026.devpost.com/",
-    "start_date": "Nov 12 - 14, 2026",
-    "location": "Online",
+    "title": "checkpoint journeys — hanoi",
+    "url": "https://checkpoint-journeys-hanoi.devpost.com/",
+    "start_date": "Mar 19 - 20, 2027",
+    "location": "True North International School",
     "source": "Devpost"
   },
   {
@@ -245,17 +238,17 @@
     "source": "Devpost"
   },
   {
+    "title": "EagleHacks 2027",
+    "url": "https://eaglehacks2027.devpost.com/",
+    "start_date": "Mar 12 - 14, 2027",
+    "location": "Florida Gulf Coast University",
+    "source": "Devpost"
+  },
+  {
     "title": "Emory Hacks 2026",
     "url": "https://emory-hacks-26.devpost.com/",
     "start_date": "Nov 13 - 15, 2026",
     "location": "Emory Univ. - Goizueta Business School",
-    "source": "Devpost"
-  },
-  {
-    "title": "Engage Test",
-    "url": "https://engage-test.devpost.com/",
-    "start_date": "Nov 13 - 15, 2026",
-    "location": "Dubai",
     "source": "Devpost"
   },
   {
@@ -284,6 +277,13 @@
     "url": "https://lis-hack-day.devpost.com/",
     "start_date": "Nov 19, 2026",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Firebird Hacks 2027",
+    "url": "https://firebird-hacks-32077.devpost.com/",
+    "start_date": "Mar 20, 2027",
+    "location": "Arcadia High School - Gym",
     "source": "Devpost"
   },
   {
@@ -455,6 +455,20 @@
     "source": "Devpost"
   },
   {
+    "title": "HackUMass XIV",
+    "url": "https://hackumass-xiv.devpost.com/",
+    "start_date": "Nov 13 - 15, 2026",
+    "location": "Integrative Learning Center",
+    "source": "Devpost"
+  },
+  {
+    "title": "HackVA",
+    "url": "https://hackva27.devpost.com/",
+    "start_date": "Feb 05 - 07, 2027",
+    "location": "Northern Virginia Community College",
+    "source": "Devpost"
+  },
+  {
     "title": "Haven Las Vegas",
     "url": "https://haven-las-vegas.devpost.com/",
     "start_date": "Nov 15, 2026",
@@ -504,17 +518,17 @@
     "source": "Devpost"
   },
   {
-    "title": "IBM Qiskit Hackathon - Bangladesh",
-    "url": "https://ibm-qiskit-hackathon.devpost.com/",
-    "start_date": "Nov 13 - 14, 2026",
-    "location": "BRAC University",
-    "source": "Devpost"
-  },
-  {
     "title": "Immerse the Bay 2026",
     "url": "https://immerse-the-bay-2026.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
     "location": "Stanford University",
+    "source": "Devpost"
+  },
+  {
+    "title": "Jewel City Hacks 6.0",
+    "url": "https://jewel-city-hacks-6-0.devpost.com/",
+    "start_date": "Nov 14, 2026",
+    "location": "Glendale Community College",
     "source": "Devpost"
   },
   {
@@ -560,6 +574,13 @@
     "source": "Devpost"
   },
   {
+    "title": "LumaHacks",
+    "url": "https://lumahacks.devpost.com/",
+    "start_date": "Mar 07, 2027",
+    "location": "Orlando, FL, USA",
+    "source": "Devpost"
+  },
+  {
     "title": "MadHacks 2026",
     "url": "https://madhacks-fall-2026.devpost.com/",
     "start_date": "Nov 14 - 15, 2026",
@@ -585,13 +606,6 @@
     "url": "https://vibeathon-mexico-2026.devpost.com/",
     "start_date": "Nov 21, 2026",
     "location": "Amazon CDMX (Puerta Polanco)",
-    "source": "Devpost"
-  },
-  {
-    "title": "NorCal Hacks 27",
-    "url": "https://norcal-hacks-27.devpost.com/",
-    "start_date": "Nov 12 - 15, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -728,13 +742,6 @@
     "source": "Devpost"
   },
   {
-    "title": "System Public Challenge",
-    "url": "https://system-public-challenge.devpost.com/",
-    "start_date": "Nov 14, 2026",
-    "location": "System HQ",
-    "source": "Devpost"
-  },
-  {
     "title": "Tech to Treasure Hackathon",
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Mar 03 - 10, 2027",
@@ -784,13 +791,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Unfair Weekend 2026",
-    "url": "https://unfair-weekend.devpost.com/",
-    "start_date": "Nov 12 - 14, 2026",
-    "location": "ISM University, Vilnius",
-    "source": "Devpost"
-  },
-  {
     "title": "United Hacks V8",
     "url": "https://unitedhacksv8.devpost.com/",
     "start_date": "Jan 08 - 10, 2027",
@@ -819,17 +819,17 @@
     "source": "Devpost"
   },
   {
+    "title": "WHACK",
+    "url": "https://wellesleyhack-2026.devpost.com/",
+    "start_date": "Nov 21 - 22, 2026",
+    "location": "Lulu Chow Wang Campus Center",
+    "source": "Devpost"
+  },
+  {
     "title": "WiCS Hackathon",
     "url": "https://wics-hackathon.devpost.com/",
     "start_date": "Feb 28 - Mar 02, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "WiseStart 2026 Hackathon: Tallinn",
-    "url": "https://wisestart-2026-tll.devpost.com/",
-    "start_date": "Nov 13 - 14, 2026",
-    "location": "Wise Tallinn",
     "source": "Devpost"
   },
   {
