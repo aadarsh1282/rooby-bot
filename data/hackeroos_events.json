@@ -99,14 +99,6 @@
     "mode": "In-Person"
   },
   {
-    "title": "Startup Weekend Taranaki 2026",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Nov 2026",
-    "location": "In-Person",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "SDG Schools Challenge Term 4 (Carey Baptist Grammar School)",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
@@ -118,6 +110,14 @@
     "title": "Tanda AI Hackathon: What if…?",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
+    "location": "Brisbane, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Cyber in Motion CTF Creation Challenge Hands-On Workshop - Brisbane",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Nov 2026 TAFE Queensland South Bank Campus - G Block, Room G1014",
     "location": "Brisbane, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
