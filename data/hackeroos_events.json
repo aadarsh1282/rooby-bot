@@ -91,23 +91,7 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Traction Lab - IRL Sprint",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Oct – 3 Dec 2026",
-    "location": "In-Person",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
-    "title": "SDG Schools Challenge Term 4 (Carey Baptist Grammar School)",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Nov 2026",
-    "location": "Melbourne, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
-    "title": "Tanda AI Hackathon: What if…?",
+    "title": "Tanda AI Hackathon: Bring an idea to life",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
     "location": "Brisbane, Australia",
@@ -115,9 +99,25 @@
     "mode": "In-Person"
   },
   {
-    "title": "Cyber in Motion CTF Creation Challenge Hands-On Workshop - Brisbane",
+    "title": "AccessHack 3.0",
     "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Nov 2026 TAFE Queensland South Bank Campus - G Block, Room G1014",
+    "start_date": "Nov – 4 Dec 2026",
+    "location": "Canberra, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Brisbane | Fable 5.2 Build Day",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Nov 2026",
+    "location": "Brisbane, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "2026 Dealer Studio Hackathon",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Nov 2026",
     "location": "Brisbane, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
