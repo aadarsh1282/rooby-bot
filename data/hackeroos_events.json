@@ -99,14 +99,6 @@
     "mode": "In-Person"
   },
   {
-    "title": "AccessHack 3.0",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Nov – 4 Dec 2026",
-    "location": "Canberra, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "Brisbane | Fable 5.2 Build Day",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
@@ -115,10 +107,18 @@
     "mode": "In-Person"
   },
   {
-    "title": "2026 Dealer Studio Hackathon",
+    "title": "BFPG Hack Day - November 2026",
     "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Nov 2026",
+    "start_date": "November 2026 28 Nov 2026",
     "location": "Brisbane, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Alloy × OpenAI Physical AI Hackathon",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Dec 2026",
+    "location": "Sydney, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
