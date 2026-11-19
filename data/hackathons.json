@@ -98,13 +98,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Build with AI - Pico Space Program",
-    "url": "https://pico-space-program.devpost.com/",
-    "start_date": "Nov 18, 2026 - Feb 01, 2027",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Business Battlefield 2027",
     "url": "https://business-battkefuekd.devpost.com/",
     "start_date": "Feb 20, 2027",
@@ -252,6 +245,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Free AWS Courses & Certifications for Students – NASSCOM Initiative",
+    "url": "https://free-aws-courses.devpost.com/",
+    "start_date": "Nov 19 - 26, 2026",
+    "location": "REMOTE",
+    "source": "Devpost"
+  },
+  {
     "title": "FRONTIER//26",
     "url": "https://frontier26.devpost.com/",
     "start_date": "Dec 04 - 11, 2026",
@@ -392,6 +392,13 @@
     "source": "Devpost"
   },
   {
+    "title": "HenHacks 2027",
+    "url": "https://henhacks2027.devpost.com/",
+    "start_date": "Mar 06 - 07, 2027",
+    "location": "University of Delaware - Smith Hall",
+    "source": "Devpost"
+  },
+  {
     "title": "Hook Em Hacks 2027",
     "url": "https://hook-em-hacks-2027.devpost.com/",
     "start_date": "Feb 27 - 28, 2027",
@@ -497,13 +504,6 @@
     "source": "Devpost"
   },
   {
-    "title": "OBSCURA: Satellite AI Research Challenge",
-    "url": "https://obscura.devpost.com/",
-    "start_date": "Nov 18 - 24, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "Open Sourcery F26 Showcase",
     "url": "https://open-sourcery-f26-showcase.devpost.com/",
     "start_date": "Dec 04 - 11, 2026",
@@ -532,13 +532,6 @@
     "source": "Devpost"
   },
   {
-    "title": "RAMHACK Mini 2026",
-    "url": "https://ramhack-mini-2026.devpost.com/",
-    "start_date": "Nov 18, 2026",
-    "location": "Fordham University at Lincoln Center",
-    "source": "Devpost"
-  },
-  {
     "title": "RebelHacks 2027",
     "url": "https://rebelhacks-2027.devpost.com/",
     "start_date": "Feb 20 - 21, 2027",
@@ -553,6 +546,13 @@
     "source": "Devpost"
   },
   {
+    "title": "rookie hacks",
+    "url": "https://rookie-hacks.devpost.com/",
+    "start_date": "Nov 20, 2026",
+    "location": "Helsinki",
+    "source": "Devpost"
+  },
+  {
     "title": "Ryze Hacks 2026",
     "url": "https://ryzehacks.devpost.com/",
     "start_date": "Dec 10 - 18, 2026",
@@ -564,13 +564,6 @@
     "url": "https://sc-quantathon-v4.devpost.com/",
     "start_date": "Oct 23 - 24, 2027",
     "location": "Watt Family Innovation Center",
-    "source": "Devpost"
-  },
-  {
-    "title": "SMBP FinHack",
-    "url": "https://smbp-finhack.devpost.com/",
-    "start_date": "Nov 18 - 20, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -627,13 +620,6 @@
     "url": "https://ticket-to-hack.devpost.com/",
     "start_date": "Feb 20 - 21, 2027",
     "location": "Rice Hall",
-    "source": "Devpost"
-  },
-  {
-    "title": "TUM XR Value Creation Hackathon 2026",
-    "url": "https://tum-xr-hackathon-2026.devpost.com/",
-    "start_date": "Nov 19 - 21, 2026",
-    "location": "Online / TBA",
     "source": "Devpost"
   },
   {
@@ -879,7 +865,7 @@
     "title": "Missisauga , Ontario",
     "url": "https://hackville.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hackville+2027",
     "start_date": "Hackville 20",
-    "location": "27 JAN 23 - 24 Missisauga, Ontario, CA In-Person Diversity",
+    "location": "27 JAN 23 - 24 Missisauga, Ontario, CA In-Person Diversity Hardware",
     "source": "MLH"
   },
   {
@@ -939,13 +925,6 @@
     "source": "MLH"
   },
   {
-    "title": "San Francisco , CA SF Hacks",
-    "url": "https://sfhacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SF+Hacks+",
-    "start_date": "FEB 19 - 21",
-    "location": "San Francisco, CA, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Sheffield , South Yorkshire HackSheffield11",
     "url": "https://hacksheffield.uk/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackSheffield11",
     "start_date": "NOV 28 - 29",
@@ -985,6 +964,13 @@
     "url": "https://ellehacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=ElleHacks",
     "start_date": "JAN 29 - 31",
     "location": "Toronto, Ontario, CA In-Person Diversity",
+    "source": "MLH"
+  },
+  {
+    "title": "Toronto , Ontario Hack",
+    "url": "https://hackcanada.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+Canada+2027",
+    "start_date": "Canada 20",
+    "location": "27 JAN 08 - 10 Toronto, Ontario, CA In-Person Hardware",
     "source": "MLH"
   },
   {
