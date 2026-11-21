@@ -91,14 +91,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Tanda AI Hackathon: Bring an idea to life",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Nov 2026",
-    "location": "Brisbane, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "Brisbane | Fable 5.2 Build Day",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Nov 2026",
@@ -119,6 +111,14 @@
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Dec 2026",
     "location": "Sydney, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Campus Clash",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Dec 2026",
+    "location": "Perth, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },

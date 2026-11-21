@@ -28,6 +28,13 @@
     "source": "Devpost"
   },
   {
+    "title": "AlgoConnect Quantathon - 2026",
+    "url": "https://algoconnect-quantathon-2026.devpost.com/",
+    "start_date": "Nov 22 - 28, 2026",
+    "location": "AlgoConnect - Montréal Offices",
+    "source": "Devpost"
+  },
+  {
     "title": "Arioron Think 2026",
     "url": "https://arioron-think-2026.devpost.com/",
     "start_date": "Dec 10 - 17, 2026",
@@ -39,6 +46,13 @@
     "url": "https://bearhacks2027.devpost.com/",
     "start_date": "Apr 23 - 25, 2027",
     "location": "Sheridan College Hazel McCallion Campus",
+    "source": "Devpost"
+  },
+  {
+    "title": "BiokindxUBSA 2026 Datathon",
+    "url": "https://biokindxubsa-2026.devpost.com/",
+    "start_date": "Nov 21, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -147,13 +161,6 @@
     "source": "Devpost"
   },
   {
-    "title": "CrossPointX 2026",
-    "url": "https://cpx2026.devpost.com/",
-    "start_date": "Nov 20 - 22, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "CSAIC Hack-AI-Thon",
     "url": "https://csaic-hackaithon.devpost.com/",
     "start_date": "Jan 08 - 11, 2027",
@@ -196,17 +203,17 @@
     "source": "Devpost"
   },
   {
-    "title": "DevFest Münster 2026: Agentic AI Hackathon",
-    "url": "https://devfest-ai-hackathon.devpost.com/",
-    "start_date": "Nov 21, 2026",
-    "location": "Volkshochschule",
-    "source": "Devpost"
-  },
-  {
     "title": "DevNetwork [API + Cloud + AI] Hackathon 2027",
     "url": "https://devnetwork-api-hackathon-2027.devpost.com/",
     "start_date": "Sep 03 - 10, 2027",
     "location": "Santa Clara Convention Center and Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "DIU Dev Meetup 2026",
+    "url": "https://diu-devthon.devpost.com/",
+    "start_date": "Nov 22 - 30, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -266,13 +273,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Global AI Builder’s Challenge",
-    "url": "https://global-ai-builders-challenge.devpost.com/",
-    "start_date": "Nov 21 - 28, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "GNEC Hackathon 2027 Winter - Compete For UN-Affiliated/NGO Internships & Prizes",
     "url": "https://gnec-hackathon-2027-winter.devpost.com/",
     "start_date": "Jan 26 - Mar 26, 2027",
@@ -308,13 +308,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Hack Western 13",
-    "url": "https://hack-western-13.devpost.com/",
-    "start_date": "Nov 20 - 22, 2026",
-    "location": "Ronald D. Schmeichel Building",
-    "source": "Devpost"
-  },
-  {
     "title": "hack::peel 2026",
     "url": "https://hack-peel.devpost.com/",
     "start_date": "Dec 12 - 13, 2026",
@@ -340,6 +333,13 @@
     "url": "https://youtube-automation-hackathon.devpost.com/",
     "start_date": "Sep 09 - Dec 10, 2027",
     "location": "Vancouver, Canada",
+    "source": "Devpost"
+  },
+  {
+    "title": "Hackstead: Winterfest",
+    "url": "https://hackstead.devpost.com/",
+    "start_date": "Dec 06 - 20, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -427,6 +427,13 @@
     "source": "Devpost"
   },
   {
+    "title": "KickStart 2026",
+    "url": "https://kickstart-2026.devpost.com/",
+    "start_date": "Nov 26 - 30, 2026",
+    "location": "UBC Sauder (Demo Day)",
+    "source": "Devpost"
+  },
+  {
     "title": "Knightlytics",
     "url": "https://knightlytics.devpost.com/",
     "start_date": "Apr 09 - 11, 2027",
@@ -459,6 +466,13 @@
     "url": "https://megahackathon-27.devpost.com/",
     "start_date": "Feb 14 - 21, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Money Talks #3",
+    "url": "https://money-talks-3.devpost.com/",
+    "start_date": "Nov 21, 2026",
+    "location": "Gabelli School of Business New York, NY",
     "source": "Devpost"
   },
   {
@@ -532,6 +546,13 @@
     "source": "Devpost"
   },
   {
+    "title": "RT Audit Hack 777",
+    "url": "https://rt-audit-hack-777.devpost.com/",
+    "start_date": "Nov 21 - 23, 2026",
+    "location": "Test Location",
+    "source": "Devpost"
+  },
+  {
     "title": "Ryze Hacks 2026",
     "url": "https://ryzehacks.devpost.com/",
     "start_date": "Dec 10 - 18, 2026",
@@ -553,16 +574,9 @@
     "source": "Devpost"
   },
   {
-    "title": "START Hack League Munich 2026",
-    "url": "https://start-hack-league-munich-2026.devpost.com/",
-    "start_date": "Nov 21 - 22, 2026",
-    "location": "TUM Audimax",
-    "source": "Devpost"
-  },
-  {
     "title": "STEM Innovation Challenge 2026",
     "url": "https://stem-innovation-challenge-2026.devpost.com/",
-    "start_date": "Nov 24 - 27, 2026",
+    "start_date": "Nov 24 - 25, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -609,13 +623,6 @@
     "source": "Devpost"
   },
   {
-    "title": "TUJ Fall 2026 Hackathon",
-    "url": "https://tuj-fall-2026-hackathon.devpost.com/",
-    "start_date": "Nov 20 - 22, 2026",
-    "location": "Temple University Japan, City Campus",
-    "source": "Devpost"
-  },
-  {
     "title": "United Hacks V8",
     "url": "https://unitedhacksv8.devpost.com/",
     "start_date": "Jan 08 - 10, 2027",
@@ -644,13 +651,6 @@
     "source": "Devpost"
   },
   {
-    "title": "WHACK",
-    "url": "https://wellesleyhack-2026.devpost.com/",
-    "start_date": "Nov 21 - 22, 2026",
-    "location": "Lulu Chow Wang Campus Center",
-    "source": "Devpost"
-  },
-  {
     "title": "WiCS Geaux Hack 2027",
     "url": "https://wics-geaux-hack-2027.devpost.com/",
     "start_date": "Mar 21, 2027",
@@ -662,13 +662,6 @@
     "url": "https://wics-hackathon.devpost.com/",
     "start_date": "Feb 28 - Mar 02, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "WoHack",
-    "url": "https://wohack.devpost.com/",
-    "start_date": "Nov 21, 2026",
-    "location": "Queen Mary University of london",
     "source": "Devpost"
   },
   {
@@ -1011,7 +1004,7 @@
   {
     "title": "West Lafayette , Indiana InnovateHer",
     "url": "https://innovateherhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=InnovateHer",
-    "start_date": "FEB 06 - 07",
+    "start_date": "FEB 13 - 14",
     "location": "West Lafayette, Indiana, US In-Person Diversity",
     "source": "MLH"
   },
