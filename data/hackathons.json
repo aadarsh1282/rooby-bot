@@ -14,10 +14,24 @@
     "source": "Devpost"
   },
   {
+    "title": "Acodemic X KeebsforWater Global SDG Hackathon",
+    "url": "https://hackathon-draft-32215.devpost.com/",
+    "start_date": "Nov 23 - 30, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "AdaHacks 2027",
     "url": "https://adahacks-2027.devpost.com/",
     "start_date": "Feb 26 - 28, 2027",
     "location": "TBD",
+    "source": "Devpost"
+  },
+  {
+    "title": "Agents that act. Systems that answer.",
+    "url": "https://accountable-agents.devpost.com/",
+    "start_date": "Nov 28 - Dec 01, 2026",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -49,13 +63,6 @@
     "source": "Devpost"
   },
   {
-    "title": "BiokindxUBSA 2026 Datathon",
-    "url": "https://biokindxubsa-2026.devpost.com/",
-    "start_date": "Nov 21, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "BisonHacks 2027",
     "url": "https://bisonhacks-2027.devpost.com/",
     "start_date": "Feb 20 - 21, 2027",
@@ -74,13 +81,6 @@
     "url": "https://blackout-2026.devpost.com/",
     "start_date": "Nov 28, 2026",
     "location": "Coimbatore , TamilNadu",
-    "source": "Devpost"
-  },
-  {
-    "title": "BostonHacks 2026",
-    "url": "https://bostonhacks-2026.devpost.com/",
-    "start_date": "Nov 21 - 22, 2026",
-    "location": "Boston University",
     "source": "Devpost"
   },
   {
@@ -157,7 +157,7 @@
     "title": "Creator Economy Hack - powered by You.com",
     "url": "https://creator-economy-you-hack.devpost.com/",
     "start_date": "Nov 22, 2026",
-    "location": "Whop HQ",
+    "location": "XDC",
     "source": "Devpost"
   },
   {
@@ -165,13 +165,6 @@
     "url": "https://csaic-hackaithon.devpost.com/",
     "start_date": "Jan 08 - 11, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Cutie Hack 2026",
-    "url": "https://cutie-hack-2026.devpost.com/",
-    "start_date": "Nov 21, 2026",
-    "location": "UC Riverside - Winston Chung Hall",
     "source": "Devpost"
   },
   {
@@ -212,7 +205,7 @@
   {
     "title": "DIU Dev Meetup 2026",
     "url": "https://diu-devthon.devpost.com/",
-    "start_date": "Nov 22 - 30, 2026",
+    "start_date": "Nov 22 - Dec 01, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -227,13 +220,6 @@
     "title": "evensonarisnord",
     "url": "https://evensonarisnord.devpost.com/",
     "start_date": "Dec 31, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "EvoHacks 2",
-    "url": "https://evohacks2.devpost.com/",
-    "start_date": "Nov 21 - 22, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -255,20 +241,6 @@
     "title": "FRONTIER//26",
     "url": "https://frontier26.devpost.com/",
     "start_date": "Dec 04 - 11, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "FutureForge Hacks",
-    "url": "https://futureforge-hacks.devpost.com/",
-    "start_date": "Nov 21, 2026",
-    "location": "Pleasanton, CA",
-    "source": "Devpost"
-  },
-  {
-    "title": "Game On Night – Imagine the Impossible",
-    "url": "https://game-on-night.devpost.com/",
-    "start_date": "Nov 21, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -462,6 +434,13 @@
     "source": "Devpost"
   },
   {
+    "title": "McGill CodeJam 16",
+    "url": "https://mcgill-codejam-16.devpost.com/",
+    "start_date": "Nov 22, 2026",
+    "location": "McGill University Trottier Building",
+    "source": "Devpost"
+  },
+  {
     "title": "MEGA Hackathon 2027",
     "url": "https://megahackathon-27.devpost.com/",
     "start_date": "Feb 14 - 21, 2027",
@@ -469,24 +448,10 @@
     "source": "Devpost"
   },
   {
-    "title": "Money Talks #3",
-    "url": "https://money-talks-3.devpost.com/",
-    "start_date": "Nov 21, 2026",
-    "location": "Gabelli School of Business New York, NY",
-    "source": "Devpost"
-  },
-  {
     "title": "N/A",
     "url": "https://ai-content-engine-hackathon.devpost.com/",
     "start_date": "Feb 02 - Apr 06, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Nerdearla Vibeathon by Devin",
-    "url": "https://vibeathon-mexico-2026.devpost.com/",
-    "start_date": "Nov 21, 2026",
-    "location": "Amazon CDMX (Puerta Polanco)",
     "source": "Devpost"
   },
   {
@@ -546,13 +511,6 @@
     "source": "Devpost"
   },
   {
-    "title": "RT Audit Hack 777",
-    "url": "https://rt-audit-hack-777.devpost.com/",
-    "start_date": "Nov 21 - 23, 2026",
-    "location": "Test Location",
-    "source": "Devpost"
-  },
-  {
     "title": "Ryze Hacks 2026",
     "url": "https://ryzehacks.devpost.com/",
     "start_date": "Dec 10 - 18, 2026",
@@ -577,6 +535,13 @@
     "title": "STEM Innovation Challenge 2026",
     "url": "https://stem-innovation-challenge-2026.devpost.com/",
     "start_date": "Nov 24 - 25, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "SunnyHacks Jan 2027",
+    "url": "https://sunnyhacks-jan-2027.devpost.com/",
+    "start_date": "Jan 25 - Feb 01, 2027",
     "location": "Online",
     "source": "Devpost"
   },
