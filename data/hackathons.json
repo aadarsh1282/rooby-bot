@@ -14,13 +14,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Acodemic X KeebsforWater Global SDG Hackathon",
-    "url": "https://hackathon-draft-32215.devpost.com/",
-    "start_date": "Nov 23 - 30, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "AdaHacks 2027",
     "url": "https://adahacks-2027.devpost.com/",
     "start_date": "Feb 26 - 28, 2027",
@@ -39,13 +32,6 @@
     "url": "https://basisglobalhackathon.devpost.com/",
     "start_date": "Feb 06 - 13, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "AlgoConnect Quantathon - 2026",
-    "url": "https://algoconnect-quantathon-2026.devpost.com/",
-    "start_date": "Nov 22 - 28, 2026",
-    "location": "AlgoConnect - Montréal Offices",
     "source": "Devpost"
   },
   {
@@ -154,13 +140,6 @@
     "source": "Devpost"
   },
   {
-    "title": "Creator Economy Hack - powered by You.com",
-    "url": "https://creator-economy-you-hack.devpost.com/",
-    "start_date": "Nov 22, 2026",
-    "location": "XDC",
-    "source": "Devpost"
-  },
-  {
     "title": "CSAIC Hack-AI-Thon",
     "url": "https://csaic-hackaithon.devpost.com/",
     "start_date": "Jan 08 - 11, 2027",
@@ -200,13 +179,6 @@
     "url": "https://devnetwork-api-hackathon-2027.devpost.com/",
     "start_date": "Sep 03 - 10, 2027",
     "location": "Santa Clara Convention Center and Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "DIU Dev Meetup 2026",
-    "url": "https://diu-devthon.devpost.com/",
-    "start_date": "Nov 22 - Dec 01, 2026",
-    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -378,6 +350,13 @@
     "source": "Devpost"
   },
   {
+    "title": "JanHacks 2027",
+    "url": "https://janhacks-2027.devpost.com/",
+    "start_date": "Jan 01 - Mar 01, 2027",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "K-Dub Hacks",
     "url": "https://k-dub-hacks.devpost.com/",
     "start_date": "Nov 27 - 29, 2026",
@@ -414,7 +393,7 @@
   },
   {
     "title": "Launchly Project Sprint",
-    "url": "https://launchlyp.devpost.com/",
+    "url": "https://launchlyapp.devpost.com/",
     "start_date": "Jan 27 - Feb 24, 2027",
     "location": "Online",
     "source": "Devpost"
@@ -434,10 +413,10 @@
     "source": "Devpost"
   },
   {
-    "title": "McGill CodeJam 16",
-    "url": "https://mcgill-codejam-16.devpost.com/",
-    "start_date": "Nov 22, 2026",
-    "location": "McGill University Trottier Building",
+    "title": "MACHINE AGE",
+    "url": "https://machineage.devpost.com/",
+    "start_date": "Jan 01 - Mar 31, 2027",
+    "location": "Online",
     "source": "Devpost"
   },
   {
@@ -473,6 +452,13 @@
     "url": "https://ntu-beyond-binary-2027.devpost.com/",
     "start_date": "Feb 09 - 13, 2027",
     "location": "Singapore",
+    "source": "Devpost"
+  },
+  {
+    "title": "nwHacks 2027",
+    "url": "https://nwhacks-2027.devpost.com/",
+    "start_date": "Jan 16 - 17, 2027",
+    "location": "UBC LSI Life Sciences Institute",
     "source": "Devpost"
   },
   {
@@ -630,6 +616,13 @@
     "source": "Devpost"
   },
   {
+    "title": "Zero-G Hacks",
+    "url": "https://zero-g-hacks.devpost.com/",
+    "start_date": "Nov 27 - 30, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "Directories & Resources",
     "url": "/events",
     "start_date": "",
@@ -687,6 +680,13 @@
     "source": "MLH"
   },
   {
+    "title": "Atlanta , GA H",
+    "url": "https://hacklytics2027.web.app/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hacklytics+2027",
+    "start_date": "acklytics 20",
+    "location": "27 FEB 26 - 28 Atlanta, GA, US In-Person",
+    "source": "MLH"
+  },
+  {
     "title": "Blog",
     "url": "https://blog.mlh.com/",
     "start_date": "",
@@ -694,17 +694,17 @@
     "source": "MLH"
   },
   {
-    "title": "Boston , MA BostonHacks",
-    "url": "https://bostonhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=BostonHacks",
-    "start_date": "NOV 21 - 22",
-    "location": "Boston, MA, US In-Person",
-    "source": "MLH"
-  },
-  {
     "title": "Branding Guidelines",
     "url": "https://mlh.io/brand-guidelines",
     "start_date": "",
     "location": "",
+    "source": "MLH"
+  },
+  {
+    "title": "Clemson , SC CUhackit",
+    "url": "https://cuhack.it/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=CUhackit",
+    "start_date": "FEB 20 - 21",
+    "location": "Clemson, SC, US In-Person",
     "source": "MLH"
   },
   {
@@ -785,13 +785,6 @@
     "source": "MLH"
   },
   {
-    "title": "London , Ontario Hack",
-    "url": "https://hackwestern.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack+Western+13",
-    "start_date": "Western 13",
-    "location": "NOV 20 - 22 London, Ontario, CA In-Person Hardware",
-    "source": "MLH"
-  },
-  {
     "title": "Los Angeles , CA QWER Hacks",
     "url": "https://www.qwerhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=QWER+Hacks",
     "start_date": "JAN 16 - 17",
@@ -869,6 +862,13 @@
     "source": "MLH"
   },
   {
+    "title": "Rajpura , Punjab",
+    "url": "https://techacks.tech/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Techacks+5.0",
+    "start_date": "Techacks 5",
+    "location": ".0 JAN 15 - 16 Rajpura, Punjab, IN In-Person Hardware",
+    "source": "MLH"
+  },
+  {
     "title": "Raleigh , North Carolina Hack_NCState",
     "url": "https://hackncstate.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack_NCState",
     "start_date": "FEB 06 - 07",
@@ -876,17 +876,17 @@
     "source": "MLH"
   },
   {
+    "title": "San Francisco , CA SF Hacks",
+    "url": "https://sfhacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SF+Hacks+",
+    "start_date": "FEB 19 - 21",
+    "location": "San Francisco, CA, US In-Person",
+    "source": "MLH"
+  },
+  {
     "title": "Sheffield , South Yorkshire HackSheffield11",
     "url": "https://hacksheffield.uk/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackSheffield11",
     "start_date": "NOV 28 - 29",
     "location": "Sheffield, South Yorkshire, GB In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "St. John's , Newfoundland and Labrador / Avalon Peninsula Tech For",
-    "url": "https://tecnurtur.org/hackathon?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Tech+For+Community+2026",
-    "start_date": "Community 20",
-    "location": "26 NOV 21 - 22 St. John's, Newfoundland and Labrador / Avalon Peninsula, CA In-Person High school Hardware",
     "source": "MLH"
   },
   {
@@ -957,13 +957,6 @@
     "url": "https://www.hoyahacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hoya+Hacks",
     "start_date": "JAN 22 - 24",
     "location": "Washington, DC, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Wellesley , Massachesetts WHACK (Wellesley Hackathon)",
-    "url": "https://www.wellesleyhacks.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=WHACK+%28Wellesley+Hackathon%29",
-    "start_date": "NOV 21 - 22",
-    "location": "Wellesley, Massachesetts, US In-Person",
     "source": "MLH"
   },
   {
