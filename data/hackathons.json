@@ -16,7 +16,7 @@
   {
     "title": "AdaHacks 2027",
     "url": "https://adahacks-2027.devpost.com/",
-    "start_date": "Feb 26 - 28, 2027",
+    "start_date": "Mar 19 - 21, 2027",
     "location": "TBD",
     "source": "Devpost"
   },
@@ -88,13 +88,6 @@
     "url": "https://build-beyond.devpost.com/",
     "start_date": "Mar 01 - 15, 2027",
     "location": "Online",
-    "source": "Devpost"
-  },
-  {
-    "title": "Build Day 2",
-    "url": "https://build-day.devpost.com/",
-    "start_date": "Nov 28, 2026",
-    "location": "Durham University, Entrepreneurs Durham",
     "source": "Devpost"
   },
   {
@@ -315,10 +308,24 @@
     "source": "Devpost"
   },
   {
+    "title": "HackTheFashion Global'26",
+    "url": "https://hackthefashion-global-26.devpost.com/",
+    "start_date": "Dec 01, 2026 - Jan 15, 2027",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "HackTitan",
     "url": "https://hacktitan.devpost.com/",
     "start_date": "Feb 02 - 04, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "HackUNCP 2027",
+    "url": "https://hackuncp-2027.devpost.com/",
+    "start_date": "Mar 20 - 21, 2027",
+    "location": "UNC Pembroke",
     "source": "Devpost"
   },
   {
@@ -518,9 +525,9 @@
     "source": "Devpost"
   },
   {
-    "title": "STEM Innovation Challenge 2026",
-    "url": "https://stem-innovation-challenge-2026.devpost.com/",
-    "start_date": "Nov 24 - 25, 2026",
+    "title": "Steel City Codes Healthcare Hackathon",
+    "url": "https://scc-healthcare-hackathon.devpost.com/",
+    "start_date": "Jan 01 - 15, 2027",
     "location": "Online",
     "source": "Devpost"
   },
@@ -550,13 +557,6 @@
     "url": "https://techtotreasure.devpost.com/",
     "start_date": "Mar 03 - 10, 2027",
     "location": "Tully Community Branch Library",
-    "source": "Devpost"
-  },
-  {
-    "title": "test",
-    "url": "https://nutech-hackfest-2026.devpost.com/",
-    "start_date": "Nov 23 - 24, 2026",
-    "location": "NUTECH Main Campus",
     "source": "Devpost"
   },
   {
@@ -592,13 +592,6 @@
     "url": "https://visionhacks.devpost.com/",
     "start_date": "Dec 05, 2026",
     "location": "Oakville, Canada",
-    "source": "Devpost"
-  },
-  {
-    "title": "Westside High School Build Challenge",
-    "url": "https://whs-build.devpost.com/",
-    "start_date": "Nov 24 - Dec 01, 2026",
-    "location": "Westside High School",
     "source": "Devpost"
   },
   {
@@ -677,13 +670,6 @@
     "url": "https://12.ugahacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=UGAHacks+",
     "start_date": "FEB 05 - 07",
     "location": "Athens, Georgia, US In-Person",
-    "source": "MLH"
-  },
-  {
-    "title": "Atlanta , GA H",
-    "url": "https://hacklytics2027.web.app/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hacklytics+2027",
-    "start_date": "acklytics 20",
-    "location": "27 FEB 26 - 28 Atlanta, GA, US In-Person",
     "source": "MLH"
   },
   {
@@ -950,6 +936,13 @@
     "url": "https://nwhacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=nwHacks",
     "start_date": "JAN 16 - 17",
     "location": "Vancouver, British Columbia, CA In-Person",
+    "source": "MLH"
+  },
+  {
+    "title": "Vestal , NY HackBU",
+    "url": "https://hackbu.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=HackBU",
+    "start_date": "JAN 30 - 31",
+    "location": "Vestal, NY, US In-Person",
     "source": "MLH"
   },
   {
