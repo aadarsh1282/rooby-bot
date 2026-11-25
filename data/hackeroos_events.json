@@ -91,14 +91,6 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Brisbane | Fable 5.2 Build Day",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Nov 2026",
-    "location": "Brisbane, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
     "title": "BFPG Hack Day - November 2026",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "November 2026 28 Nov 2026",
@@ -116,6 +108,14 @@
   },
   {
     "title": "Campus Clash",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Dec 2026",
+    "location": "Perth, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
+    "title": "Micro - Hackathon | Perth AI Builders",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Dec 2026",
     "location": "Perth, Australia",
