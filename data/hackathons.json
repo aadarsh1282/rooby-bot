@@ -133,6 +133,13 @@
     "source": "Devpost"
   },
   {
+    "title": "CrackleHacks",
+    "url": "https://cracklehacks.devpost.com/",
+    "start_date": "Dec 20 - 30, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "CSAIC Hack-AI-Thon",
     "url": "https://csaic-hackaithon.devpost.com/",
     "start_date": "Jan 08 - 11, 2027",
@@ -310,7 +317,7 @@
   {
     "title": "HackTheFashion Global'26",
     "url": "https://hackthefashion-global-26.devpost.com/",
-    "start_date": "Dec 01, 2026 - Jan 15, 2027",
+    "start_date": "Dec 08 - 31, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -560,6 +567,13 @@
     "source": "Devpost"
   },
   {
+    "title": "TechArenaX Vibe Coding Challenge — Season 01",
+    "url": "https://techarenax-vcc-s01.devpost.com/",
+    "start_date": "Dec 06 - 09, 2026",
+    "location": "Online",
+    "source": "Devpost"
+  },
+  {
     "title": "thanksgiving thank you hackathon",
     "url": "https://thanksgiving-hackathon.devpost.com/",
     "start_date": "Nov 27 - Dec 01, 2026",
@@ -645,9 +659,9 @@
   },
   {
     "title": "List your eventor hackathon.",
-    "url": "https://events.csiro.au/Events/2026/July/22/Generation-STEM-WS-CanterburyBankstown-Showcase-2026",
+    "url": "https://events.humanitix.com/monash-futurefest-2026",
     "start_date": "Nov 27 In person Monash FutureFest 2026",
-    "location": "Sydney, Australia",
+    "location": "Melbourne, Australia",
     "source": "Hackeroos",
     "mode": "In-Person"
   },
@@ -698,13 +712,6 @@
     "url": "https://mlh.io/brand-guidelines",
     "start_date": "",
     "location": "",
-    "source": "MLH"
-  },
-  {
-    "title": "Clemson , SC CUhackit",
-    "url": "https://cuhack.it/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=CUhackit",
-    "start_date": "FEB 20 - 21",
-    "location": "Clemson, SC, US In-Person",
     "source": "MLH"
   },
   {
@@ -785,6 +792,13 @@
     "source": "MLH"
   },
   {
+    "title": "London , Ontario SheHacks+ 11",
+    "url": "https://www.shehacks.ca/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SheHacks%2B+11",
+    "start_date": "JAN 08 - 10",
+    "location": "London, Ontario, CA In-Person Diversity",
+    "source": "MLH"
+  },
+  {
     "title": "Los Angeles , CA QWER Hacks",
     "url": "https://www.qwerhacks.com/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=QWER+Hacks",
     "start_date": "JAN 16 - 17",
@@ -806,10 +820,10 @@
     "source": "MLH"
   },
   {
-    "title": "Missisauga , Ontario",
+    "title": "Oakville , Ontario",
     "url": "https://hackville.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hackville+2027",
     "start_date": "Hackville 20",
-    "location": "27 JAN 23 - 24 Missisauga, Ontario, CA In-Person Diversity Hardware",
+    "location": "27 JAN 23 - 24 Oakville, Ontario, CA In-Person Diversity Hardware",
     "source": "MLH"
   },
   {
@@ -831,6 +845,13 @@
     "url": "https://sponsor.mlh.com/",
     "start_date": "",
     "location": "",
+    "source": "MLH"
+  },
+  {
+    "title": "Pleasanton , CA Workday Internal Hackathon",
+    "url": "https://connect.events.workday.com/aiaf?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Workday+Internal+Hackathon",
+    "start_date": "NOV 30",
+    "location": "- DEC 02 Pleasanton, CA, US In-Person",
     "source": "MLH"
   },
   {
@@ -873,13 +894,6 @@
     "url": "https://hackncstate.org/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=Hack_NCState",
     "start_date": "FEB 06 - 07",
     "location": "Raleigh, North Carolina, US In-Person Hardware",
-    "source": "MLH"
-  },
-  {
-    "title": "San Francisco , CA SF Hacks",
-    "url": "https://sfhacks.io/?utm_source=mlh&utm_medium=referral&utm_campaign=events&utm_content=SF+Hacks+",
-    "start_date": "FEB 19 - 21",
-    "location": "San Francisco, CA, US In-Person",
     "source": "MLH"
   },
   {
