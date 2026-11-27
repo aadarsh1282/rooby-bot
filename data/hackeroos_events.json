@@ -1,19 +1,19 @@
 [
   {
     "title": "List your eventor hackathon.",
-    "url": "https://events.humanitix.com/monash-futurefest-2026",
-    "start_date": "Nov 27 In person Monash FutureFest 2026",
-    "location": "Melbourne, Australia",
+    "url": "/login?mode=signup&returnTo=%2Fonboarding",
+    "start_date": "",
+    "location": "Online",
     "source": "Hackeroos",
-    "mode": "In-Person"
+    "mode": "Online"
   },
   {
     "title": "Explore the directories",
-    "url": "https://events.humanitix.com/monash-futurefest-2026",
-    "start_date": "Nov 27 In person Monash FutureFest 2026",
-    "location": "Melbourne, Australia",
+    "url": "/login?mode=signup&returnTo=%2Fonboarding",
+    "start_date": "",
+    "location": "Online",
     "source": "Hackeroos",
-    "mode": "In-Person"
+    "mode": "Online"
   },
   {
     "title": "Makerspaces",
@@ -42,14 +42,6 @@
     "start_date": "",
     "location": "Online / TBA",
     "source": "Hackeroos"
-  },
-  {
-    "title": "Monash FutureFest 2026",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "",
-    "location": "Melbourne, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
   },
   {
     "title": "Hackeroos Discord Coworking",
@@ -83,6 +75,14 @@
     "mode": "In-Person"
   },
   {
+    "title": "Kiroween Build Night with Kiro | AWS Sydney User Group",
+    "url": "https://www.hackeroos.com.au/#whats-on",
+    "start_date": "Dec 2026",
+    "location": "Sydney, Australia",
+    "source": "Hackeroos",
+    "mode": "In-Person"
+  },
+  {
     "title": "Alloy × OpenAI Physical AI Hackathon",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Dec 2026",
@@ -92,14 +92,6 @@
   },
   {
     "title": "Campus Clash",
-    "url": "https://www.hackeroos.com.au/#whats-on",
-    "start_date": "Dec 2026",
-    "location": "Perth, Australia",
-    "source": "Hackeroos",
-    "mode": "In-Person"
-  },
-  {
-    "title": "Micro - Hackathon | Perth AI Builders",
     "url": "https://www.hackeroos.com.au/#whats-on",
     "start_date": "Dec 2026",
     "location": "Perth, Australia",

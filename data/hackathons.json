@@ -392,13 +392,6 @@
     "source": "Devpost"
   },
   {
-    "title": "KickStart 2026",
-    "url": "https://kickstart-2026.devpost.com/",
-    "start_date": "Nov 26 - 30, 2026",
-    "location": "UBC Sauder (Demo Day)",
-    "source": "Devpost"
-  },
-  {
     "title": "Knightlytics",
     "url": "https://knightlytics.devpost.com/",
     "start_date": "Apr 09 - 11, 2027",
@@ -438,6 +431,13 @@
     "url": "https://megahackathon-27.devpost.com/",
     "start_date": "Feb 14 - 21, 2027",
     "location": "Online",
+    "source": "Devpost"
+  },
+  {
+    "title": "Mosque & Madrassah Hackathon 2026",
+    "url": "https://mosque-expo-hackathon-2026.devpost.com/",
+    "start_date": "Nov 27 - 29, 2026",
+    "location": "Thistle London Heathrow Terminal 5",
     "source": "Devpost"
   },
   {
@@ -574,13 +574,6 @@
     "source": "Devpost"
   },
   {
-    "title": "thanksgiving thank you hackathon",
-    "url": "https://thanksgiving-hackathon.devpost.com/",
-    "start_date": "Nov 27 - Dec 01, 2026",
-    "location": "Online",
-    "source": "Devpost"
-  },
-  {
     "title": "The Dawn of Superintelligence | Kaya AI Grand Challenge",
     "url": "https://kaya-ai-grand-challenge.devpost.com/",
     "start_date": "Nov 29 - Dec 06, 2026",
@@ -632,7 +625,7 @@
   {
     "title": "Zero-G Hacks",
     "url": "https://zero-g-hacks.devpost.com/",
-    "start_date": "Nov 27 - 30, 2026",
+    "start_date": "Dec 04 - 07, 2026",
     "location": "Online",
     "source": "Devpost"
   },
@@ -651,19 +644,12 @@
     "source": "Hackeroos"
   },
   {
-    "title": "Find your next role.",
+    "title": "List your eventor hackathon.",
     "url": "/login?mode=signup&returnTo=%2Fonboarding",
     "start_date": "",
-    "location": "Online / TBA",
-    "source": "Hackeroos"
-  },
-  {
-    "title": "List your eventor hackathon.",
-    "url": "https://events.humanitix.com/monash-futurefest-2026",
-    "start_date": "Nov 27 In person Monash FutureFest 2026",
-    "location": "Melbourne, Australia",
+    "location": "Online",
     "source": "Hackeroos",
-    "mode": "In-Person"
+    "mode": "Online"
   },
   {
     "title": "Makerspaces",
